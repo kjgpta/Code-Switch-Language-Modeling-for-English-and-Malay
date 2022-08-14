@@ -1,0 +1,4978 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3600 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "channel1_S1" 
+        xmin = 0 
+        xmax = 3600 
+        intervals: size = 1241 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.83752 
+            text = "<Z>" 
+        intervals [2]:
+            xmin = 1.83752 
+            xmax = 2.37656 
+            text = "[a'ah]" 
+        intervals [3]:
+            xmin = 2.37656 
+            xmax = 11.61324 
+            text = "okay so (um) okay (ppo) #ida# <malay>akak ada benda yang macam akak nak</malay> share <malay>dengan</malay> #ida# [lah] so <malay>hari itu akak dengar macam</malay>" 
+        intervals [4]:
+            xmin = 11.61324 
+            xmax = 22.04 
+            text = "(err) <malay>dekat radio tak tahu</malay> [lah] <malay>tak ingat</malay> [lah] radio <malay>mana tapi ada seorang lelaki ini</malay> [lah] <malay>dia</malay> share #jeevan sajiv sahadevan# [ah] dia <malay>share</malay>" 
+        intervals [5]:
+            xmin = 22.04 
+            xmax = 27.37108 
+            text = "so <malay>dia</malay> share [lah] <malay>ada dua puluh soalan yang per~ yang apa ini dua puluh soalan yang kita</malay>" 
+        intervals [6]:
+            xmin = 27.37108 
+            xmax = 35.21151 
+            text = "<malay>yang</malay> incredible [lah] [ah] yi~ shun~ <malay>daripada kita tanya</malay> ranking <malay>diri kita tahun dua puluh yang lepas dengan dua puluh dua puluh dua puluh satu</malay> [ah]" 
+        intervals [7]:
+            xmin = 35.21151 
+            xmax = 35.90623 
+            text = "<Z>" 
+        intervals [8]:
+            xmin = 35.90623 
+            xmax = 40.98 
+            text = "okay so (ppo) <malay>ada benda</malay> [lah] <malay>akak ingat macam kita</malay> share <malay>sama-sama</malay> [lah] [kan]" 
+        intervals [9]:
+            xmin = 40.98 
+            xmax = 42.7 
+            text = "<Z>" 
+        intervals [10]:
+            xmin = 42.7 
+            xmax = 44.95841 
+            text = "okay <malay>soalan pertama</malay> !chey!" 
+        intervals [11]:
+            xmin = 44.95841 
+            xmax = 51.73194 
+            text = "[ah] twenty questions for an incredible review of your twenty twenty okay first one" 
+        intervals [12]:
+            xmin = 51.73194 
+            xmax = 55.19 
+            text = "what were your top ten goals for twenty twenty" 
+        intervals [13]:
+            xmin = 55.19 
+            xmax = 56.75 
+            text = "<Z>" 
+        intervals [14]:
+            xmin = 56.75 
+            xmax = 57.88519 
+            text = "<Z>" 
+        intervals [15]:
+            xmin = 57.88519 
+            xmax = 60.8 
+            text = "okay so <malay>berapa</malay> percentage <malay>yang awak sudah capai</malay>" 
+        intervals [16]:
+            xmin = 60.8 
+            xmax = 62.23 
+            text = "<Z>" 
+        intervals [17]:
+            xmin = 62.23 
+            xmax = 65.69 
+            text = "(ppb) top ten goals [eh] <malay>yang pertama</malay>" 
+        intervals [18]:
+            xmin = 65.69 
+            xmax = 67.08 
+            text = "<Z>" 
+        intervals [19]:
+            xmin = 67.08 
+            xmax = 69.28316 
+            text = "top ten goals <malay>yang pertama</malay>" 
+        intervals [20]:
+            xmin = 69.28316 
+            xmax = 70.30043 
+            text = "<Z>" 
+        intervals [21]:
+            xmin = 70.30043 
+            xmax = 72.28535 
+            text = "<malay>jujurnya tahun dua puluh dua puluh tak ada</malay> goals" 
+        intervals [22]:
+            xmin = 72.28535 
+            xmax = 73.67479 
+            text = "<Z>" 
+        intervals [23]:
+            xmin = 73.67479 
+            xmax = 82.29 
+            text = "[ah] okay <malay>jujurnya tahun dua puluh dua puluh tak ada</malay> goals goals <malay>dia adalah untuk</malay> (uh) be a better person then I think" 
+        intervals [24]:
+            xmin = 82.29 
+            xmax = 84.22 
+            text = "<Z>" 
+        intervals [25]:
+            xmin = 84.22 
+            xmax = 85.84847 
+            text = "sixty percent better" 
+        intervals [26]:
+            xmin = 85.84847 
+            xmax = 86.64244 
+            text = "<Z>" 
+        intervals [27]:
+            xmin = 86.64244 
+            xmax = 94.70617 
+            text = "(mm) but another can but another side of me <malay>yang</malay> in terms of <malay>ibadah semua itu memang</malay> problem [lah]" 
+        intervals [28]:
+            xmin = 94.70617 
+            xmax = 95.30164 
+            text = "<Z>" 
+        intervals [29]:
+            xmin = 95.30164 
+            xmax = 105.29887 
+            text = "(err) twenty twenty was the disaster one but family <malay>akak berjaya habiskan puasa enam</malay> [ah] that [one] [ah] <malay>itu saja yang pasal ibadat</malay>" 
+        intervals [30]:
+            xmin = 105.29887 
+            xmax = 105.89434 
+            text = "<Z>" 
+        intervals [31]:
+            xmin = 105.89434 
+            xmax = 111.35 
+            text = "<malay>puasa enam syawaal yang lain macam tahun-tahun sebelum itu jarang</malay> [lah] <malay>kita orang dapat</malay> spend" 
+        intervals [32]:
+            xmin = 111.35 
+            xmax = 117.88 
+            text = "<malay>masa untuk ini</malay> [lah] basically <malay>pasal syawal</malay> [lah] <malay>gitu</malay> yes okay so #ida#" 
+        intervals [33]:
+            xmin = 117.88 
+            xmax = 119.01 
+            text = "<Z>" 
+        intervals [34]:
+            xmin = 119.01 
+            xmax = 119.63552 
+            text = "#ida#" 
+        intervals [35]:
+            xmin = 119.63552 
+            xmax = 121.02496 
+            text = "<Z>" 
+        intervals [36]:
+            xmin = 121.02496 
+            xmax = 124.4807 
+            text = "goal goal goal <malay>tahun dua puluh ingat tak</malay>" 
+        intervals [37]:
+            xmin = 124.4807 
+            xmax = 125.22 
+            text = "<Z>" 
+        intervals [38]:
+            xmin = 125.22 
+            xmax = 129.83341 
+            text = "<Z>" 
+        intervals [39]:
+            xmin = 129.83341 
+            xmax = 131.59502 
+            text = "(mm) (mm) (mm) (mm)" 
+        intervals [40]:
+            xmin = 131.59502 
+            xmax = 134.59563 
+            text = "<Z>" 
+        intervals [41]:
+            xmin = 134.59563 
+            xmax = 136.33401 
+            text = "okay so <malay>berjaya ke tak</malay>" 
+        intervals [42]:
+            xmin = 136.33401 
+            xmax = 137.25203 
+            text = "<Z>" 
+        intervals [43]:
+            xmin = 137.25203 
+            xmax = 146.96938 
+            text = "(ppl) ya <malay>ke</malay> (ppl) okay <malay>makin bertambah ke</malay> maintain <malay>ata~</malay> [ah] maintain okay [lah] okay" 
+        intervals [44]:
+            xmin = 146.96938 
+            xmax = 147.84036 
+            text = "<Z>" 
+        intervals [45]:
+            xmin = 147.84036 
+            xmax = 150.3215 
+            text = "<malay>itu</malay> goal <malay>yang</malay> (ppl) yup" 
+        intervals [46]:
+            xmin = 150.3215 
+            xmax = 156.22663 
+            text = "<Z>" 
+        intervals [47]:
+            xmin = 156.22663 
+            xmax = 157.11984 
+            text = "I see" 
+        intervals [48]:
+            xmin = 157.11984 
+            xmax = 159.9835 
+            text = "<Z>" 
+        intervals [49]:
+            xmin = 159.9835 
+            xmax = 161.0251 
+            text = "okay <malay>lagi</malay>" 
+        intervals [50]:
+            xmin = 161.0251 
+            xmax = 166.48617 
+            text = "<Z>" 
+        intervals [51]:
+            xmin = 166.48617 
+            xmax = 167.18811 
+            text = "okay" 
+        intervals [52]:
+            xmin = 167.18811 
+            xmax = 173.07541 
+            text = "<Z>" 
+        intervals [53]:
+            xmin = 173.07541 
+            xmax = 177.69467 
+            text = "okay <malay>tercapai</malay> !wah! okay congratulations (ppo)" 
+        intervals [54]:
+            xmin = 177.69467 
+            xmax = 180.8874 
+            text = "<Z>" 
+        intervals [55]:
+            xmin = 180.8874 
+            xmax = 181.49877 
+            text = "[a'ah]" 
+        intervals [56]:
+            xmin = 181.49877 
+            xmax = 185.483 
+            text = "<Z>" 
+        intervals [57]:
+            xmin = 185.483 
+            xmax = 186.20759 
+            text = "(mm) (mm)" 
+        intervals [58]:
+            xmin = 186.20759 
+            xmax = 190.50985 
+            text = "<Z>" 
+        intervals [59]:
+            xmin = 190.50985 
+            xmax = 191.21179 
+            text = "okay" 
+        intervals [60]:
+            xmin = 191.21179 
+            xmax = 193.62808 
+            text = "<Z>" 
+        intervals [61]:
+            xmin = 193.62808 
+            xmax = 194.14888 
+            text = "(mm) (mm)" 
+        intervals [62]:
+            xmin = 194.14888 
+            xmax = 195.39427 
+            text = "<Z>" 
+        intervals [63]:
+            xmin = 195.39427 
+            xmax = 195.96 
+            text = "right" 
+        intervals [64]:
+            xmin = 195.96 
+            xmax = 197.88505 
+            text = "<Z>" 
+        intervals [65]:
+            xmin = 197.88505 
+            xmax = 199.1078 
+            text = "okay <malay>lagi</malay>" 
+        intervals [66]:
+            xmin = 199.1078 
+            xmax = 204.43352 
+            text = "<Z>" 
+        intervals [67]:
+            xmin = 204.43352 
+            xmax = 204.99961 
+            text = "(mm)" 
+        intervals [68]:
+            xmin = 204.99961 
+            xmax = 210.59254 
+            text = "<Z>" 
+        intervals [69]:
+            xmin = 210.59254 
+            xmax = 213.89848 
+            text = "affect result (ppl) [a'ah]" 
+        intervals [70]:
+            xmin = 213.89848 
+            xmax = 215.84582 
+            text = "<Z>" 
+        intervals [71]:
+            xmin = 215.84582 
+            xmax = 221.00197 
+            text = "okay (mm) (mm) <malay>makin lama makin jauh</malay> [kan]" 
+        intervals [72]:
+            xmin = 221.00197 
+            xmax = 233.82267 
+            text = "<Z>" 
+        intervals [73]:
+            xmin = 233.82267 
+            xmax = 235.95115 
+            text = "I see okay <malay>lagi</malay>" 
+        intervals [74]:
+            xmin = 235.95115 
+            xmax = 236.76632 
+            text = "<Z>" 
+        intervals [75]:
+            xmin = 236.76632 
+            xmax = 238.8948 
+            text = "<malay>ada letak</malay> target <malay>nak kahwin ke tahun lepas</malay>" 
+        intervals [76]:
+            xmin = 238.8948 
+            xmax = 240.41191 
+            text = "<Z>" 
+        intervals [77]:
+            xmin = 240.41191 
+            xmax = 241.86437 
+            text = "okay (ppl)" 
+        intervals [78]:
+            xmin = 241.86437 
+            xmax = 243.45 
+            text = "<Z>" 
+        intervals [79]:
+            xmin = 243.45 
+            xmax = 244.69 
+            text = "<S>" 
+        intervals [80]:
+            xmin = 244.69 
+            xmax = 247.37851 
+            text = "<Z>" 
+        intervals [81]:
+            xmin = 247.37851 
+            xmax = 247.9446 
+            text = "okay" 
+        intervals [82]:
+            xmin = 247.9446 
+            xmax = 249.68815 
+            text = "<Z>" 
+        intervals [83]:
+            xmin = 249.68815 
+            xmax = 254.03569 
+            text = "(ppl) okay (mm) (mm)" 
+        intervals [84]:
+            xmin = 254.03569 
+            xmax = 279.35004 
+            text = "<Z>" 
+        intervals [85]:
+            xmin = 279.35004 
+            xmax = 280.08518 
+            text = "(mmhmm)" 
+        intervals [86]:
+            xmin = 280.08518 
+            xmax = 286.70158 
+            text = "<Z>" 
+        intervals [87]:
+            xmin = 286.70158 
+            xmax = 287.77249 
+            text = "I see" 
+        intervals [88]:
+            xmin = 287.77249 
+            xmax = 288.5357 
+            text = "<Z>" 
+        intervals [89]:
+            xmin = 288.5357 
+            xmax = 294.80794 
+            text = "alright okay done with the first questions and the second question is (ppb)" 
+        intervals [90]:
+            xmin = 294.80794 
+            xmax = 295.62 
+            text = "<Z>" 
+        intervals [91]:
+            xmin = 295.62 
+            xmax = 301.63971 
+            text = "what were your top ten achievement of twenty twenty okay let me answer it first" 
+        intervals [92]:
+            xmin = 301.63971 
+            xmax = 302.22844 
+            text = "<Z>" 
+        intervals [93]:
+            xmin = 302.22844 
+            xmax = 305.86 
+            text = "[ah] <malay>yang pertama apa</malay> [ah] <malay>itu ada</malay> list <malay>tahun lepas itu sudah lupa sudah</malay>" 
+        intervals [94]:
+            xmin = 305.86 
+            xmax = 307.84 
+            text = "<S>" 
+        intervals [95]:
+            xmin = 307.84 
+            xmax = 310.96 
+            text = "(err) top ten achievement [eh] <malay>pertama</malay>" 
+        intervals [96]:
+            xmin = 310.96 
+            xmax = 312.38 
+            text = "<Z>" 
+        intervals [97]:
+            xmin = 312.38 
+            xmax = 313.62 
+            text = "<malay>walaupun</malay>" 
+        intervals [98]:
+            xmin = 313.62 
+            xmax = 315.61 
+            text = "<Z>" 
+        intervals [99]:
+            xmin = 315.61 
+            xmax = 318.39 
+            text = "(err) M_C_O <malay>tapi ada</malay>" 
+        intervals [100]:
+            xmin = 318.39 
+            xmax = 319.73 
+            text = "<Z>" 
+        intervals [101]:
+            xmin = 319.73 
+            xmax = 323.39802 
+            text = "(err) <malay>daripada dua belas bulan itu ada dua bulan saja yang</malay>" 
+        intervals [102]:
+            xmin = 323.39802 
+            xmax = 323.85089 
+            text = "<Z>" 
+        intervals [103]:
+            xmin = 323.85089 
+            xmax = 328.56073 
+            text = "(err) <malay>macam</malay> a bit the struggle [lah] <malay>macam tak tak ada gaji langsung macam itu</malay>" 
+        intervals [104]:
+            xmin = 328.56073 
+            xmax = 329.12681 
+            text = "<Z>" 
+        intervals [105]:
+            xmin = 329.12681 
+            xmax = 333.51964 
+            text = "[ah] <malay>tapi ada memang ada</malay> [lah] <malay>yang bulan-bulan lain semua ada</malay>" 
+        intervals [106]:
+            xmin = 333.51964 
+            xmax = 334.21503 
+            text = "<Z>" 
+        intervals [107]:
+            xmin = 334.21503 
+            xmax = 341.88 
+            text = "okay and then (um) (ppo) <malay>itu yang pertama yang kedua</malay> (um)" 
+        intervals [108]:
+            xmin = 341.88 
+            xmax = 343.59 
+            text = "<S>" 
+        intervals [109]:
+            xmin = 343.59 
+            xmax = 344.74 
+            text = "<malay>akak rasa macam</malay>" 
+        intervals [110]:
+            xmin = 344.74 
+            xmax = 347.55 
+            text = "<S>" 
+        intervals [111]:
+            xmin = 347.55 
+            xmax = 352.3509 
+            text = "<malay>akak</malay> ready <malay>untuk jumpa</malay> psychiatric (err) <malay>yang itu yang kedua</malay> that [one]" 
+        intervals [112]:
+            xmin = 352.3509 
+            xmax = 355.29455 
+            text = "<malay>aka rasa macam</malay> that [one] is a big achievement <malay>juga</malay> [lah]" 
+        intervals [113]:
+            xmin = 355.29455 
+            xmax = 359.21187 
+            text = "<Z>" 
+        intervals [114]:
+            xmin = 359.21187 
+            xmax = 362.63 
+            text = "[ah] ya [lah] <malay>tak ma~ maksudnya</malay> the the <malay>apa ini</malay> (err)" 
+        intervals [115]:
+            xmin = 362.63 
+            xmax = 363.03759 
+            text = "<Z>" 
+        intervals [116]:
+            xmin = 363.03759 
+            xmax = 367.11341 
+            text = "decision <malay>itu dibuat</malay> [eh] <malay>dalam dua puluh dua puluh</malay> (ppl) [lah] okay" 
+        intervals [117]:
+            xmin = 367.11341 
+            xmax = 368.15501 
+            text = "<Z>" 
+        intervals [118]:
+            xmin = 368.15501 
+            xmax = 372.47 
+            text = "okay and then top achievement <malay>juga sebab dapat puasa enam bersama-sama keluarga</malay>" 
+        intervals [119]:
+            xmin = 372.47 
+            xmax = 373.09128 
+            text = "<Z>" 
+        intervals [120]:
+            xmin = 373.09128 
+            xmax = 373.82 
+            text = "<malay>yang ketiga</malay>" 
+        intervals [121]:
+            xmin = 373.82 
+            xmax = 375.26 
+            text = "<Z>" 
+        intervals [122]:
+            xmin = 375.26 
+            xmax = 377.61141 
+            text = "<malay>yang keempat</malay> (ppb)" 
+        intervals [123]:
+            xmin = 377.61141 
+            xmax = 379.3 
+            text = "<Z>" 
+        intervals [124]:
+            xmin = 379.3 
+            xmax = 382.56075 
+            text = "<malay>yang keempat</malay> [ah] <malay>dapat menggajikan pekerja</malay>" 
+        intervals [125]:
+            xmin = 382.56075 
+            xmax = 383.37592 
+            text = "<Z>" 
+        intervals [126]:
+            xmin = 383.37592 
+            xmax = 388.08576 
+            text = "<malay>lagi</malay> (um) <malay>empat</malay> (ppl) #alhamdulillah# <malay>empat</malay>" 
+        intervals [127]:
+            xmin = 388.08576 
+            xmax = 390.47285 
+            text = "<malay>yang kelima banyak tahu sepuluh</malay> [kan]" 
+        intervals [128]:
+            xmin = 390.47285 
+            xmax = 390.971 
+            text = "<Z>" 
+        intervals [129]:
+            xmin = 390.971 
+            xmax = 392.83 
+            text = "<malay>yang kelima</malay> (um)" 
+        intervals [130]:
+            xmin = 392.83 
+            xmax = 394.59396 
+            text = "<Z>" 
+        intervals [131]:
+            xmin = 394.59396 
+            xmax = 400.61711 
+            text = "<malay>walaupun</malay> (uh) stranded <malay>dekat sini dengan awak saja</malay> okay" 
+        intervals [132]:
+            xmin = 400.61711 
+            xmax = 401.25113 
+            text = "<Z>" 
+        intervals [133]:
+            xmin = 401.25113 
+            xmax = 406.77613 
+            text = "(um) <malay>tapi</malay> okay [lah] <malay>maksudnya kita tak</malay> [lah] <malay>begitu</malay>" 
+        intervals [134]:
+            xmin = 406.77613 
+            xmax = 407.40809 
+            text = "<Z>" 
+        intervals [135]:
+            xmin = 407.40809 
+            xmax = 413.47654 
+            text = "<malay>tak</malay> [lah] <malay>akak rasa macam</malay> lonely <malay>sangat</malay> no just okay <malay>yang kelima</malay>" 
+        intervals [136]:
+            xmin = 413.47654 
+            xmax = 414.23 
+            text = "<Z>" 
+        intervals [137]:
+            xmin = 414.23 
+            xmax = 415.58238 
+            text = "<malay>yang keenam apa ini</malay>" 
+        intervals [138]:
+            xmin = 415.58238 
+            xmax = 417.4165 
+            text = "<Z>" 
+        intervals [139]:
+            xmin = 417.4165 
+            xmax = 420.98 
+            text = "[a'ah] <malay>tak cukup sepuluh ini yang keenam</malay> (mm)" 
+        intervals [140]:
+            xmin = 420.98 
+            xmax = 422.58 
+            text = "<Z>" 
+        intervals [141]:
+            xmin = 422.58 
+            xmax = 423.62 
+            text = "<malay>yang keenam</malay>" 
+        intervals [142]:
+            xmin = 423.62 
+            xmax = 426.92 
+            text = "<Z>" 
+        intervals [143]:
+            xmin = 426.92 
+            xmax = 431.5913 
+            text = "<malay>hari itu ada</malay> list [tau] okay <malay>yang keenam</malay> (ppo) okay (err) in terms of business <malay>juga</malay>" 
+        intervals [144]:
+            xmin = 431.5913 
+            xmax = 432.0829 
+            text = "<Z>" 
+        intervals [145]:
+            xmin = 432.0829 
+            xmax = 433.98495 
+            text = "(um) we release our" 
+        intervals [146]:
+            xmin = 433.98495 
+            xmax = 434.52839 
+            text = "<Z>" 
+        intervals [147]:
+            xmin = 434.52839 
+            xmax = 440.55155 
+            text = "(err) product [lah] not not release <malay>tapi</malay> (err) progress <malay>ke situ iaitu</malay> shine" 
+        intervals [148]:
+            xmin = 440.55155 
+            xmax = 441.72901 
+            text = "<Z>" 
+        intervals [149]:
+            xmin = 441.72901 
+            xmax = 444.12819 
+            text = "<malay>jauhari</malay> and hero <malay>cilik</malay>" 
+        intervals [150]:
+            xmin = 444.12819 
+            xmax = 444.69 
+            text = "<Z>" 
+        intervals [151]:
+            xmin = 444.69 
+            xmax = 450.10606 
+            text = "(err) enlisted [ah] <malay>sudah</malay> [lah] <malay>satu dua tiga</malay> (ppl) okay <malay>sudah cukup sepuluh</malay> (ppo) okay #ida#" 
+        intervals [152]:
+            xmin = 450.10606 
+            xmax = 453.27614 
+            text = "your top ten achievement of twenty twenty" 
+        intervals [153]:
+            xmin = 453.27614 
+            xmax = 456.78382 
+            text = "<Z>" 
+        intervals [154]:
+            xmin = 456.78382 
+            xmax = 457.46312 
+            text = "(mm)" 
+        intervals [155]:
+            xmin = 457.46312 
+            xmax = 460.04448 
+            text = "<Z>" 
+        intervals [156]:
+            xmin = 460.04448 
+            xmax = 461.19929 
+            text = "(mm) (mm) (mm) (mm)" 
+        intervals [157]:
+            xmin = 461.19929 
+            xmax = 464.02973 
+            text = "<Z>" 
+        intervals [158]:
+            xmin = 464.02973 
+            xmax = 465.07132 
+            text = "<malay>dengan</malay> business [eh]" 
+        intervals [159]:
+            xmin = 465.07132 
+            xmax = 466.02235 
+            text = "<Z>" 
+        intervals [160]:
+            xmin = 466.02235 
+            xmax = 467.7659 
+            text = "<malay>yang itu yang itu dengan</malay> business [eh]" 
+        intervals [161]:
+            xmin = 467.7659 
+            xmax = 469.62266 
+            text = "<Z>" 
+        intervals [162]:
+            xmin = 469.62266 
+            xmax = 470.23403 
+            text = "okay" 
+        intervals [163]:
+            xmin = 470.23403 
+            xmax = 472.67 
+            text = "<Z>" 
+        intervals [164]:
+            xmin = 472.67 
+            xmax = 485.23404 
+            text = "<Z>" 
+        intervals [165]:
+            xmin = 485.23404 
+            xmax = 486.43414 
+            text = "!wow! okay" 
+        intervals [166]:
+            xmin = 486.43414 
+            xmax = 488.67584 
+            text = "<Z>" 
+        intervals [167]:
+            xmin = 488.67584 
+            xmax = 489.21 
+            text = "okay" 
+        intervals [168]:
+            xmin = 489.21 
+            xmax = 492.5866 
+            text = "<Z>" 
+        intervals [169]:
+            xmin = 492.5866 
+            xmax = 493.13005 
+            text = "yes" 
+        intervals [170]:
+            xmin = 493.13005 
+            xmax = 496.02841 
+            text = "<Z>" 
+        intervals [171]:
+            xmin = 496.02841 
+            xmax = 496.79829 
+            text = "(mmhmm)" 
+        intervals [172]:
+            xmin = 496.79829 
+            xmax = 498.40597 
+            text = "<Z>" 
+        intervals [173]:
+            xmin = 498.40597 
+            xmax = 500.30802 
+            text = "<malay>seribu tiga</malay> [oh] okay" 
+        intervals [174]:
+            xmin = 500.30802 
+            xmax = 503.34224 
+            text = "<Z>" 
+        intervals [175]:
+            xmin = 503.34224 
+            xmax = 504.27063 
+            text = "(mm) (mm)" 
+        intervals [176]:
+            xmin = 504.27063 
+            xmax = 506.69 
+            text = "<Z>" 
+        intervals [177]:
+            xmin = 506.69 
+            xmax = 507.37678 
+            text = "(mm) <malay>baru dua</malay>" 
+        intervals [178]:
+            xmin = 507.37678 
+            xmax = 510.88651 
+            text = "<Z>" 
+        intervals [179]:
+            xmin = 510.88651 
+            xmax = 513.46787 
+            text = "!wow! okay so <malay>itu sudah kira berapa empat</malay> [ah]" 
+        intervals [180]:
+            xmin = 513.46787 
+            xmax = 516.79645 
+            text = "<malay>kosong dua satu</malay> paper <malay>satu</malay> (ppl) okay <malay>lagi</malay>" 
+        intervals [181]:
+            xmin = 516.79645 
+            xmax = 519.88 
+            text = "<Z>" 
+        intervals [182]:
+            xmin = 519.88 
+            xmax = 522.26 
+            text = "<Z>" 
+        intervals [183]:
+            xmin = 522.26 
+            xmax = 522.64 
+            text = "<Z>" 
+        intervals [184]:
+            xmin = 522.64 
+            xmax = 525.11 
+            text = "<Z>" 
+        intervals [185]:
+            xmin = 525.11 
+            xmax = 527.06 
+            text = "top ten achievement <malay>apa lagi</malay>" 
+        intervals [186]:
+            xmin = 527.06 
+            xmax = 528.71 
+            text = "<Z>" 
+        intervals [187]:
+            xmin = 528.71 
+            xmax = 529.44 
+            text = "<Z>" 
+        intervals [188]:
+            xmin = 529.44 
+            xmax = 531.55 
+            text = "<Z>" 
+        intervals [189]:
+            xmin = 531.55 
+            xmax = 535.02237 
+            text = "<Z>" 
+        intervals [190]:
+            xmin = 535.02237 
+            xmax = 540.36623 
+            text = "!huh! <malay>hari itu</malay> #ida# <malay>ada</malay> share <malay>dengan akak dalam masa dua bulan</malay> #ida# <malay>berjaya</malay> contact <malay>berapa orang</malay>" 
+        intervals [191]:
+            xmin = 540.36623 
+            xmax = 542.63057 
+            text = "<Z>" 
+        intervals [192]:
+            xmin = 542.63057 
+            xmax = 548.17822 
+            text = "that [one] is your [ah] <malay>kak</malay> consider top ten achievement <malay>juga</malay> [lah] [kan] <malay>buat apa</malay>" 
+        intervals [193]:
+            xmin = 548.17822 
+            xmax = 555.19563 
+            text = "<Z>" 
+        intervals [194]:
+            xmin = 555.19563 
+            xmax = 555.807 
+            text = "(mm) (mm)" 
+        intervals [195]:
+            xmin = 555.807 
+            xmax = 560.29041 
+            text = "<Z>" 
+        intervals [196]:
+            xmin = 560.29041 
+            xmax = 561.015 
+            text = "!wow!" 
+        intervals [197]:
+            xmin = 561.015 
+            xmax = 563.12 
+            text = "<Z>" 
+        intervals [198]:
+            xmin = 563.12 
+            xmax = 563.936 
+            text = "P_K_P [eh]" 
+        intervals [199]:
+            xmin = 563.936 
+            xmax = 568.50998 
+            text = "<Z>" 
+        intervals [200]:
+            xmin = 568.50998 
+            xmax = 569.461 
+            text = "okay" 
+        intervals [201]:
+            xmin = 569.461 
+            xmax = 570.97812 
+            text = "<Z>" 
+        intervals [202]:
+            xmin = 570.97812 
+            xmax = 572.81224 
+            text = "this is the greatest achievement" 
+        intervals [203]:
+            xmin = 572.81224 
+            xmax = 583.63375 
+            text = "<Z>" 
+        intervals [204]:
+            xmin = 583.63375 
+            xmax = 584.26776 
+            text = "okay" 
+        intervals [205]:
+            xmin = 584.26776 
+            xmax = 595.58949 
+            text = "<Z>" 
+        intervals [206]:
+            xmin = 595.58949 
+            xmax = 600.02658 
+            text = "ya [ah] <malay>akak baru tadi lupa ingat yang akak punya</malay> viva" 
+        intervals [207]:
+            xmin = 600.02658 
+            xmax = 600.95496 
+            text = "<Z>" 
+        intervals [208]:
+            xmin = 600.95496 
+            xmax = 605.03079 
+            text = "[ah] I got my my I pass through my my" 
+        intervals [209]:
+            xmin = 605.03079 
+            xmax = 605.41572 
+            text = "<Z>" 
+        intervals [210]:
+            xmin = 605.41572 
+            xmax = 609.51419 
+            text = "viva [kan] <malay>ya allah</malay> after five years [ah] <malay>gila</malay> [ah] okay alright" 
+        intervals [211]:
+            xmin = 609.51419 
+            xmax = 611.53397 
+            text = "<Z>" 
+        intervals [212]:
+            xmin = 611.53397 
+            xmax = 613.23222 
+            text = "(err) <malay>tak cukup lagi</malay> #ida# #ida# <malay>tak cukup</malay>" 
+        intervals [213]:
+            xmin = 613.23222 
+            xmax = 620.54606 
+            text = "<Z>" 
+        intervals [214]:
+            xmin = 620.54606 
+            xmax = 621.18008 
+            text = "(mm) (mm)" 
+        intervals [215]:
+            xmin = 621.18008 
+            xmax = 632.72721 
+            text = "<Z>" 
+        intervals [216]:
+            xmin = 632.72721 
+            xmax = 633.90467 
+            text = "!wow! okay" 
+        intervals [217]:
+            xmin = 633.90467 
+            xmax = 641.60847 
+            text = "<Z>" 
+        intervals [218]:
+            xmin = 641.60847 
+            xmax = 642.40814 
+            text = "yes" 
+        intervals [219]:
+            xmin = 642.40814 
+            xmax = 646.05663 
+            text = "<Z>" 
+        intervals [220]:
+            xmin = 646.05663 
+            xmax = 647.77 
+            text = "yes congratulations" 
+        intervals [221]:
+            xmin = 647.77 
+            xmax = 649.17 
+            text = "<Z>" 
+        intervals [222]:
+            xmin = 649.17 
+            xmax = 651.37784 
+            text = "okay <malay>akak ada satu lagi</malay> top achievement <malay>akak</malay>" 
+        intervals [223]:
+            xmin = 651.37784 
+            xmax = 652.17036 
+            text = "<Z>" 
+        intervals [224]:
+            xmin = 652.17036 
+            xmax = 655.58952 
+            text = "<malay>akak</malay> first time <malay>bayar zakat penda~ pendapatan</malay>" 
+        intervals [225]:
+            xmin = 655.58952 
+            xmax = 656.76698 
+            text = "<Z>" 
+        intervals [226]:
+            xmin = 656.76698 
+            xmax = 662.39311 
+            text = "last year thirty first december two thousand twenty yup" 
+        intervals [227]:
+            xmin = 662.39311 
+            xmax = 666.53686 
+            text = "that [one] is the first one <malay>akak bayar zakat pendapatan</malay> #alhamdulillah#" 
+        intervals [228]:
+            xmin = 666.53686 
+            xmax = 669.72753 
+            text = "okay okay okay #ida# <malay>ada lagi</malay>" 
+        intervals [229]:
+            xmin = 669.72753 
+            xmax = 670.29362 
+            text = "<Z>" 
+        intervals [230]:
+            xmin = 670.29362 
+            xmax = 673.25991 
+            text = "okay (um) question number three" 
+        intervals [231]:
+            xmin = 673.25991 
+            xmax = 673.88 
+            text = "<Z>" 
+        intervals [232]:
+            xmin = 673.88 
+            xmax = 677.76 
+            text = "what were the top five painful lesson that you learnt <malay>allah</malay>" 
+        intervals [233]:
+            xmin = 677.76 
+            xmax = 680.14352 
+            text = "<Z>" 
+        intervals [234]:
+            xmin = 680.14352 
+            xmax = 681.42 
+            text = "painful lesson [ah]" 
+        intervals [235]:
+            xmin = 681.42 
+            xmax = 687.37 
+            text = "<Z>" 
+        intervals [236]:
+            xmin = 687.37 
+            xmax = 688.24 
+            text = "okay <malay>akak dulu</malay>" 
+        intervals [237]:
+            xmin = 688.24 
+            xmax = 690.4 
+            text = "<Z>" 
+        intervals [238]:
+            xmin = 690.4 
+            xmax = 695.99187 
+            text = "staff <malay>yang kita orang baru ambil bekerja selama sebulan berhenti</malay>" 
+        intervals [239]:
+            xmin = 695.99187 
+            xmax = 697.32784 
+            text = "<Z>" 
+        intervals [240]:
+            xmin = 697.32784 
+            xmax = 705.66063 
+            text = "okay <malay>dia cakap</malay> ya [lah] <malay>sebab macam kita orang tak dapat pindah</malay> then <malay>kalau pindah macam mana</malay> business <malay>dekat sini</malay> and so on [kan] so <malay>macam dia</malay>" 
+        intervals [241]:
+            xmin = 705.66063 
+            xmax = 706.43051 
+            text = "<Z>" 
+        intervals [242]:
+            xmin = 706.43051 
+            xmax = 712.92918 
+            text = "ya [lah] <malay>mempertikaikan mengapa perempuan tak boleh ke buat</malay> business [kan] [ha] [ah] <malay>macam tu</malay> [a'ah] I don't know we don't know" 
+        intervals [243]:
+            xmin = 712.92918 
+            xmax = 713.8 
+            text = "<Z>" 
+        intervals [244]:
+            xmin = 713.8 
+            xmax = 717.16 
+            text = "the first one the second one <malay>ada juga</malay> staff <malay>yang berhenti</malay>" 
+        intervals [245]:
+            xmin = 717.16 
+            xmax = 718.74 
+            text = "<Z>" 
+        intervals [246]:
+            xmin = 718.74 
+            xmax = 719.95873 
+            text = "<Z>" 
+        intervals [247]:
+            xmin = 719.95873 
+            xmax = 723.94947 
+            text = "(um) but that [one] is more painful" 
+        intervals [248]:
+            xmin = 723.94947 
+            xmax = 724.65142 
+            text = "<Z>" 
+        intervals [249]:
+            xmin = 724.65142 
+            xmax = 728.09322 
+            text = "that is under our <malay>ini</malay> [lah] <malay>macam kita</malay> sponsor" 
+        intervals [250]:
+            xmin = 728.09322 
+            xmax = 728.68195 
+            text = "<Z>" 
+        intervals [251]:
+            xmin = 728.68195 
+            xmax = 731.44445 
+            text = "<malay>satu</malay> team (um) e-sports" 
+        intervals [252]:
+            xmin = 731.44445 
+            xmax = 732.2586 
+            text = "<Z>" 
+        intervals [253]:
+            xmin = 732.2586 
+            xmax = 734.71 
+            text = "<malay>dia tak</malay> [lah] directly <malay>tapi</malay> that" 
+        intervals [254]:
+            xmin = 734.71 
+            xmax = 736.11 
+            text = "<Z>" 
+        intervals [255]:
+            xmin = 736.11 
+            xmax = 741.79149 
+            text = "because the person <malay>yang</malay> (err) handle <malay>yang</malay> team e-sport <malay>itu adalah</malay> among our business partners" 
+        intervals [256]:
+            xmin = 741.79149 
+            xmax = 742.83309 
+            text = "<Z>" 
+        intervals [257]:
+            xmin = 742.83309 
+            xmax = 743.51239 
+            text = "so" 
+        intervals [258]:
+            xmin = 743.51239 
+            xmax = 744.28021 
+            text = "<Z>" 
+        intervals [259]:
+            xmin = 744.28021 
+            xmax = 749.46556 
+            text = "<malay>yang</malay> our staff <malay>yang bukan</malay> [lah] our staff <malay>macam</malay> his staff <malay>yang berhenti itu</malay> [kan]" 
+        intervals [260]:
+            xmin = 749.46556 
+            xmax = 750.21 
+            text = "<Z>" 
+        intervals [261]:
+            xmin = 750.21 
+            xmax = 752.93001 
+            text = "<malay>memang macam</malay> rude [lah] <malay>bahasa yang dia gunakan sangat</malay> rude" 
+        intervals [262]:
+            xmin = 752.93001 
+            xmax = 753.72253 
+            text = "<Z>" 
+        intervals [263]:
+            xmin = 753.72253 
+            xmax = 760.78729 
+            text = "<malay>dia itu macam ini tak</malay> (err) <malay>bukan</malay> com~ competence <malay>tak</malay> competence [lah] <malay>dia kata tak bagus</malay> [lah] <malay>apa semua memang</malay> rude" 
+        intervals [264]:
+            xmin = 760.78729 
+            xmax = 763.25491 
+            text = "<malay>memang</malay> rude <malay>kalau baca</malay> message <malay>dia memang</malay> rude" 
+        intervals [265]:
+            xmin = 763.25491 
+            xmax = 764.36444 
+            text = "<Z>" 
+        intervals [266]:
+            xmin = 764.36444 
+            xmax = 768.25912 
+            text = "[a'ah] <malay>itu</malay> [ah] <malay>macam</malay> (ppl) [kan] [kan] <malay>sudah tak pernah kerja tempat lain tapi</malay>" 
+        intervals [267]:
+            xmin = 768.25912 
+            xmax = 768.78 
+            text = "<Z>" 
+        intervals [268]:
+            xmin = 768.78 
+            xmax = 771.56506 
+            text = "<malay>tak apa</malay> [lah] okay so that [one] is second" 
+        intervals [269]:
+            xmin = 771.56506 
+            xmax = 772.12909 
+            text = "<Z>" 
+        intervals [270]:
+            xmin = 772.12909 
+            xmax = 774.21228 
+            text = "third one is (err)" 
+        intervals [271]:
+            xmin = 774.21228 
+            xmax = 775.11802 
+            text = "<Z>" 
+        intervals [272]:
+            xmin = 775.11802 
+            xmax = 779.23913 
+            text = "<malay>ingat tak waktu bulan tiga apa yang berlaku</malay> we need to refund" 
+        intervals [273]:
+            xmin = 779.23913 
+            xmax = 780.19016 
+            text = "<Z>" 
+        intervals [274]:
+            xmin = 780.19016 
+            xmax = 786.07745 
+            text = "fifteen K to (uh) our clients [lah] because <malay>waktu itu</malay> [ah]" 
+        intervals [275]:
+            xmin = 786.07745 
+            xmax = 787.57192 
+            text = "<Z>" 
+        intervals [276]:
+            xmin = 787.57192 
+            xmax = 790.33442 
+            text = "project <malay>tak dapat jalan</malay> and COVID comes and then" 
+        intervals [277]:
+            xmin = 790.33442 
+            xmax = 791.09 
+            text = "<Z>" 
+        intervals [278]:
+            xmin = 791.09 
+            xmax = 793.61772 
+            text = "actually <malay>dia orang nak minta kita bayar dua puluh ribu</malay> [ah]" 
+        intervals [279]:
+            xmin = 793.61772 
+            xmax = 794.29703 
+            text = "<Z>" 
+        intervals [280]:
+            xmin = 794.29703 
+            xmax = 799.81997 
+            text = "<malay>tapi</malay> (err) we said to them <malay>yang kita</malay> [kan] <malay>sudah buat kerja sikit</malay> so <malay>kenapa nak</malay> refund full" 
+        intervals [281]:
+            xmin = 799.81997 
+            xmax = 800.68042 
+            text = "<Z>" 
+        intervals [282]:
+            xmin = 800.68042 
+            xmax = 803.91843 
+            text = "so <malay>dia orang minta</malay> refund <malay>lima belas ribu</malay> then" 
+        intervals [283]:
+            xmin = 803.91843 
+            xmax = 804.52981 
+            text = "<Z>" 
+        intervals [284]:
+            xmin = 804.52981 
+            xmax = 806.49979 
+            text = "that is one it is the third one" 
+        intervals [285]:
+            xmin = 806.49979 
+            xmax = 807.29231 
+            text = "<Z>" 
+        intervals [286]:
+            xmin = 807.29231 
+            xmax = 811.89 
+            text = "fourth one is one of our business partner we need to terminate her" 
+        intervals [287]:
+            xmin = 811.89 
+            xmax = 814.67 
+            text = "<Z>" 
+        intervals [288]:
+            xmin = 814.67 
+            xmax = 821.18883 
+            text = "that [one] is very tough [lah] <malay>untuk kita semua</malay> for her for us as a team and" 
+        intervals [289]:
+            xmin = 821.18883 
+            xmax = 824.38156 
+            text = "for others [lah] <malay>juga untuk dia juga</malay> [lah]" 
+        intervals [290]:
+            xmin = 824.38156 
+            xmax = 824.97029 
+            text = "<Z>" 
+        intervals [291]:
+            xmin = 824.97029 
+            xmax = 828.5706 
+            text = "and that [one] is better for her <malay>juga</malay> [lah] <malay>sebenarnya</malay> okay" 
+        intervals [292]:
+            xmin = 828.5706 
+            xmax = 829.20461 
+            text = "<Z>" 
+        intervals [293]:
+            xmin = 829.20461 
+            xmax = 832.26148 
+            text = "(ppb) okay so <malay>empat saja boleh tak</malay>" 
+        intervals [294]:
+            xmin = 832.26148 
+            xmax = 832.99 
+            text = "<Z>" 
+        intervals [295]:
+            xmin = 832.99 
+            xmax = 839.21096 
+            text = "<malay>terlalu</malay> painful [lah] okay #ida# (ppl) <malay>tak nak cakap tak nak cerita lima</malay> okay" 
+        intervals [296]:
+            xmin = 839.21096 
+            xmax = 843.60379 
+            text = "[ah] what is your top five painful lesson that you learn" 
+        intervals [297]:
+            xmin = 843.60379 
+            xmax = 844.1 
+            text = "<Z>" 
+        intervals [298]:
+            xmin = 844.1 
+            xmax = 844.91711 
+            text = "twenty twenty" 
+        intervals [299]:
+            xmin = 844.91711 
+            xmax = 856.57747 
+            text = "<Z>" 
+        intervals [300]:
+            xmin = 856.57747 
+            xmax = 860.9703 
+            text = "(ppl) !wow! okay" 
+        intervals [301]:
+            xmin = 860.9703 
+            xmax = 862.07982 
+            text = "<Z>" 
+        intervals [302]:
+            xmin = 862.07982 
+            xmax = 863.0082 
+            text = "that's so tough" 
+        intervals [303]:
+            xmin = 863.0082 
+            xmax = 870.81813 
+            text = "<Z>" 
+        intervals [304]:
+            xmin = 870.81813 
+            xmax = 873.67121 
+            text = "okay (ppb)" 
+        intervals [305]:
+            xmin = 873.67121 
+            xmax = 878.44897 
+            text = "<Z>" 
+        intervals [306]:
+            xmin = 878.44897 
+            xmax = 879.24149 
+            text = "ya" 
+        intervals [307]:
+            xmin = 879.24149 
+            xmax = 883.63 
+            text = "<Z>" 
+        intervals [308]:
+            xmin = 883.63 
+            xmax = 890.95318 
+            text = "<Z>" 
+        intervals [309]:
+            xmin = 890.95318 
+            xmax = 891.38341 
+            text = "(mm)" 
+        intervals [310]:
+            xmin = 891.38341 
+            xmax = 899.24069 
+            text = "<Z>" 
+        intervals [311]:
+            xmin = 899.24069 
+            xmax = 899.82 
+            text = "okay" 
+        intervals [312]:
+            xmin = 899.82 
+            xmax = 905.22861 
+            text = "<Z>" 
+        intervals [313]:
+            xmin = 905.22861 
+            xmax = 905.72 
+            text = "okay" 
+        intervals [314]:
+            xmin = 905.72 
+            xmax = 909.28178 
+            text = "<Z>" 
+        intervals [315]:
+            xmin = 909.28178 
+            xmax = 909.7573 
+            text = "yes" 
+        intervals [316]:
+            xmin = 909.7573 
+            xmax = 914.82287 
+            text = "<Z>" 
+        intervals [317]:
+            xmin = 914.82287 
+            xmax = 915.47953 
+            text = "okay" 
+        intervals [318]:
+            xmin = 915.47953 
+            xmax = 921.61591 
+            text = "<Z>" 
+        intervals [319]:
+            xmin = 921.61591 
+            xmax = 922.58958 
+            text = "(ppl)" 
+        intervals [320]:
+            xmin = 922.58958 
+            xmax = 928.71386 
+            text = "<Z>" 
+        intervals [321]:
+            xmin = 928.71386 
+            xmax = 929.43845 
+            text = "okay" 
+        intervals [322]:
+            xmin = 929.43845 
+            xmax = 936.02564 
+            text = "<Z>" 
+        intervals [323]:
+            xmin = 936.02564 
+            xmax = 939.24101 
+            text = "<malay>tahun lepas tahun lepas</malay> (ppl)" 
+        intervals [324]:
+            xmin = 939.24101 
+            xmax = 942.77339 
+            text = "<Z>" 
+        intervals [325]:
+            xmin = 942.77339 
+            xmax = 943.4074 
+            text = "(mm) (mm)" 
+        intervals [326]:
+            xmin = 943.4074 
+            xmax = 946.98507 
+            text = "<Z>" 
+        intervals [327]:
+            xmin = 946.98507 
+            xmax = 947.59644 
+            text = "<malay>tinggi</malay>" 
+        intervals [328]:
+            xmin = 947.59644 
+            xmax = 967.15332 
+            text = "<Z>" 
+        intervals [329]:
+            xmin = 967.15332 
+            xmax = 970.48191 
+            text = "<malay>waktu dia susah bukannya waktu ki~ kita susah</malay> [lah] okay" 
+        intervals [330]:
+            xmin = 970.48191 
+            xmax = 975.64308 
+            text = "<Z>" 
+        intervals [331]:
+            xmin = 975.64308 
+            xmax = 976.68468 
+            text = "(mm) okay" 
+        intervals [332]:
+            xmin = 976.68468 
+            xmax = 981.23602 
+            text = "<Z>" 
+        intervals [333]:
+            xmin = 981.23602 
+            xmax = 981.82475 
+            text = "(mm) (mm)" 
+        intervals [334]:
+            xmin = 981.82475 
+            xmax = 984.31783 
+            text = "<Z>" 
+        intervals [335]:
+            xmin = 984.31783 
+            xmax = 985.32 
+            text = "okay" 
+        intervals [336]:
+            xmin = 985.32 
+            xmax = 985.95 
+            text = "<Z>" 
+        intervals [337]:
+            xmin = 985.95 
+            xmax = 993.15703 
+            text = "<Z>" 
+        intervals [338]:
+            xmin = 993.15703 
+            xmax = 993.99483 
+            text = "okay" 
+        intervals [339]:
+            xmin = 993.99483 
+            xmax = 1000.67465 
+            text = "<Z>" 
+        intervals [340]:
+            xmin = 1000.67465 
+            xmax = 1001.42189 
+            text = "okay" 
+        intervals [341]:
+            xmin = 1001.42189 
+            xmax = 1008.82424 
+            text = "<Z>" 
+        intervals [342]:
+            xmin = 1008.82424 
+            xmax = 1010.0017 
+            text = "<malay>balik</malay> [lah]" 
+        intervals [343]:
+            xmin = 1010.0017 
+            xmax = 1013.87373 
+            text = "<Z>" 
+        intervals [344]:
+            xmin = 1013.87373 
+            xmax = 1014.53039 
+            text = "okay" 
+        intervals [345]:
+            xmin = 1014.53039 
+            xmax = 1019.30815 
+            text = "<Z>" 
+        intervals [346]:
+            xmin = 1019.30815 
+            xmax = 1020.93848 
+            text = "(mm) (mm) <malay>cakap saja</malay> [lah] <malay>terus terang</malay>" 
+        intervals [347]:
+            xmin = 1020.93848 
+            xmax = 1026.63 
+            text = "<Z>" 
+        intervals [348]:
+            xmin = 1026.63 
+            xmax = 1031.62413 
+            text = "<Z>" 
+        intervals [349]:
+            xmin = 1031.62413 
+            xmax = 1036.51512 
+            text = "(ppl)" 
+        intervals [350]:
+            xmin = 1036.51512 
+            xmax = 1039.39084 
+            text = "<Z>" 
+        intervals [351]:
+            xmin = 1039.39084 
+            xmax = 1039.95692 
+            text = "(mm)" 
+        intervals [352]:
+            xmin = 1039.95692 
+            xmax = 1044.80262 
+            text = "<Z>" 
+        intervals [353]:
+            xmin = 1044.80262 
+            xmax = 1045.414 
+            text = "(mm)" 
+        intervals [354]:
+            xmin = 1045.414 
+            xmax = 1051.62 
+            text = "<Z>" 
+        intervals [355]:
+            xmin = 1051.62 
+            xmax = 1052.61255 
+            text = "okay" 
+        intervals [356]:
+            xmin = 1052.61255 
+            xmax = 1055.91399 
+            text = "<Z>" 
+        intervals [357]:
+            xmin = 1055.91399 
+            xmax = 1059.29237 
+            text = "(ppb) okay that [one] is more to emotional [kan]" 
+        intervals [358]:
+            xmin = 1059.29237 
+            xmax = 1060.17547 
+            text = "<Z>" 
+        intervals [359]:
+            xmin = 1060.17547 
+            xmax = 1064.13807 
+            text = "okay next next question what was [eh] no no no no" 
+        intervals [360]:
+            xmin = 1064.13807 
+            xmax = 1068.3 
+            text = "top number number fourth what were the top five things you got right" 
+        intervals [361]:
+            xmin = 1068.3 
+            xmax = 1070.83 
+            text = "<Z>" 
+        intervals [362]:
+            xmin = 1070.83 
+            xmax = 1076.59 
+            text = "okay <malay>yang awak rasa macam</malay> top <malay>lima yang memang awak rasa awak buat keputusan yang betul yang awak betul</malay> [lah]" 
+        intervals [363]:
+            xmin = 1076.59 
+            xmax = 1083.34 
+            text = "<Z>" 
+        intervals [364]:
+            xmin = 1083.34 
+            xmax = 1089.45141 
+            text = "<Z>" 
+        intervals [365]:
+            xmin = 1089.45141 
+            xmax = 1090.26657 
+            text = "okay" 
+        intervals [366]:
+            xmin = 1090.26657 
+            xmax = 1093.0933 
+            text = "<Z>" 
+        intervals [367]:
+            xmin = 1093.0933 
+            xmax = 1093.68203 
+            text = "<malay>sini</malay>" 
+        intervals [368]:
+            xmin = 1093.68203 
+            xmax = 1106.79053 
+            text = "<Z>" 
+        intervals [369]:
+            xmin = 1106.79053 
+            xmax = 1108.42086 
+            text = "ya <malay>sama</malay>" 
+        intervals [370]:
+            xmin = 1108.42086 
+            xmax = 1109.3266 
+            text = "<Z>" 
+        intervals [371]:
+            xmin = 1109.3266 
+            xmax = 1115.3724 
+            text = "<malay>walaupun kita duduk seorang tapi rasanya macam</malay> yup yup <malay>tapi tak</malay> [lah] <malay>memikirkan masalah di rumah</malay>" 
+        intervals [372]:
+            xmin = 1115.3724 
+            xmax = 1116.32342 
+            text = "<Z>" 
+        intervals [373]:
+            xmin = 1116.32342 
+            xmax = 1119.24443 
+            text = "okay that [one] is the first one <malay>sama dengan akak juga</malay> second one" 
+        intervals [374]:
+            xmin = 1119.24443 
+            xmax = 1122.0975 
+            text = "<Z>" 
+        intervals [375]:
+            xmin = 1122.0975 
+            xmax = 1124.09 
+            text = "what were the top five things you got right" 
+        intervals [376]:
+            xmin = 1124.09 
+            xmax = 1128.66 
+            text = "<Z>" 
+        intervals [377]:
+            xmin = 1128.66 
+            xmax = 1135.4543 
+            text = "<Z>" 
+        intervals [378]:
+            xmin = 1135.4543 
+            xmax = 1135.96483 
+            text = "(ppo)" 
+        intervals [379]:
+            xmin = 1135.96483 
+            xmax = 1137.73102 
+            text = "<Z>" 
+        intervals [380]:
+            xmin = 1137.73102 
+            xmax = 1138.3 
+            text = "okay" 
+        intervals [381]:
+            xmin = 1138.3 
+            xmax = 1139.03 
+            text = "<Z>" 
+        intervals [382]:
+            xmin = 1139.03 
+            xmax = 1142.31 
+            text = "[ah] [lah] okay okay okay (ppb) okay" 
+        intervals [383]:
+            xmin = 1142.31 
+            xmax = 1143.97959 
+            text = "<Z>" 
+        intervals [384]:
+            xmin = 1143.97959 
+            xmax = 1148.1007 
+            text = "(ppl) okay alright <malay>teruskan teruskan</malay>" 
+        intervals [385]:
+            xmin = 1148.1007 
+            xmax = 1150.2 
+            text = "<Z>" 
+        intervals [386]:
+            xmin = 1150.2 
+            xmax = 1155.16494 
+            text = "<malay>tempat asal</malay> [lah] <malay>tempat awak tinggal awak dapat tawaran dekat tempat aw~ asal awak lahir</malay> okay then" 
+        intervals [387]:
+            xmin = 1155.16494 
+            xmax = 1158.17652 
+            text = "<Z>" 
+        intervals [388]:
+            xmin = 1158.17652 
+            xmax = 1160.39558 
+            text = "stay <malay>tempat yang ada sekarang tempat yang awak belajar</malay> [lah]" 
+        intervals [389]:
+            xmin = 1160.39558 
+            xmax = 1161.9 
+            text = "<Z>" 
+        intervals [390]:
+            xmin = 1161.9 
+            xmax = 1162.56935 
+            text = "okay" 
+        intervals [391]:
+            xmin = 1162.56935 
+            xmax = 1168.047 
+            text = "<Z>" 
+        intervals [392]:
+            xmin = 1168.047 
+            xmax = 1168.91 
+            text = "okay" 
+        intervals [393]:
+            xmin = 1168.91 
+            xmax = 1169.74526 
+            text = "<Z>" 
+        intervals [394]:
+            xmin = 1169.74526 
+            xmax = 1173.05121 
+            text = "(err) <malay>saat rasa macam ada</malay> certain <malay>soalan macam</malay> a bit repeat [lah]" 
+        intervals [395]:
+            xmin = 1173.05121 
+            xmax = 1173.45879 
+            text = "<Z>" 
+        intervals [396]:
+            xmin = 1173.45879 
+            xmax = 1174.63625 
+            text = "okay let's say <malay>sudah tak ada</malay>" 
+        intervals [397]:
+            xmin = 1174.63625 
+            xmax = 1176.28922 
+            text = "<Z>" 
+        intervals [398]:
+            xmin = 1176.28922 
+            xmax = 1180.29711 
+            text = "<malay>apa</malay> [ah] top five things <malay>yang</malay> you got right is the first one is I made a deci~" 
+        intervals [399]:
+            xmin = 1180.29711 
+            xmax = 1180.68205 
+            text = "<Z>" 
+        intervals [400]:
+            xmin = 1180.68205 
+            xmax = 1186.3882 
+            text = "<malay>bukan</malay> [lah] <malay>ada bukan</malay> [lah] make decision <malay>pun</malay> I <malay>terpaksa pun untuk hantar</malay> thesis I <malay>supaya</malay> I <malay>dapat</malay> viva (ppl)" 
+        intervals [401]:
+            xmin = 1186.3882 
+            xmax = 1191.68 
+            text = "(ppb) second one I think I got right is (err) I made a decision to" 
+        intervals [402]:
+            xmin = 1191.68 
+            xmax = 1192.89 
+            text = "<Z>" 
+        intervals [403]:
+            xmin = 1192.89 
+            xmax = 1194.24497 
+            text = "(mm) meet a psychiatrist" 
+        intervals [404]:
+            xmin = 1194.24497 
+            xmax = 1195.09281 
+            text = "<Z>" 
+        intervals [405]:
+            xmin = 1195.09281 
+            xmax = 1197.83266 
+            text = "the third one is (err) I know that" 
+        intervals [406]:
+            xmin = 1197.83266 
+            xmax = 1200.75367 
+            text = "(um) hire a staff is" 
+        intervals [407]:
+            xmin = 1200.75367 
+            xmax = 1203.13123 
+            text = "will be a bit challenging" 
+        intervals [408]:
+            xmin = 1203.13123 
+            xmax = 1207.84107 
+            text = "<malay>nak kena mengasuh dia orang bagi faham</malay> [lah] <malay>apa benda</malay> [lah] <malay>lepas itu tak faham-faham juga</malay>" 
+        intervals [409]:
+            xmin = 1207.84107 
+            xmax = 1208.26923 
+            text = "<Z>" 
+        intervals [410]:
+            xmin = 1208.26923 
+            xmax = 1213.16022 
+            text = "but then <malay>ada</malay> staff <malay>yang</malay> we got it right <malay>yang bagus</malay>" 
+        intervals [411]:
+            xmin = 1213.16022 
+            xmax = 1213.74895 
+            text = "<Z>" 
+        intervals [412]:
+            xmin = 1213.74895 
+            xmax = 1222.33082 
+            text = "<malay>walaupun macam yang mungkin macam gaji yang kita bagi pun tak ini tapi</malay> we promise to her that we might be give you" 
+        intervals [413]:
+            xmin = 1222.33082 
+            xmax = 1222.94219 
+            text = "<Z>" 
+        intervals [414]:
+            xmin = 1222.94219 
+            xmax = 1227.26709 
+            text = "better later because <malay>kita pun tak kaya</malay> [kan]" 
+        intervals [415]:
+            xmin = 1227.26709 
+            xmax = 1232.18072 
+            text = "so <malay>kita tak nak</malay> [lah] share <malay>kekayaan itu di kalangan kita saja kita mesti nak</malay> share <malay>dengan orang lain juga</malay>" 
+        intervals [416]:
+            xmin = 1232.18072 
+            xmax = 1232.86002 
+            text = "<Z>" 
+        intervals [417]:
+            xmin = 1232.86002 
+            xmax = 1236.22 
+            text = "and top five things you got right is I think" 
+        intervals [418]:
+            xmin = 1236.22 
+            xmax = 1238.04 
+            text = "<Z>" 
+        intervals [419]:
+            xmin = 1238.04 
+            xmax = 1244.04332 
+            text = "I made a decision after two years a guy proposed to me no I didn't say yes" 
+        intervals [420]:
+            xmin = 1244.04332 
+            xmax = 1250.40613 
+            text = "to get married but I think I'm ready because before this I have problem with man" 
+        intervals [421]:
+            xmin = 1250.40613 
+            xmax = 1251.16198 
+            text = "<Z>" 
+        intervals [422]:
+            xmin = 1251.16198 
+            xmax = 1256.83687 
+            text = "okay so I'm not sure it is the got right <malay>ke tak</malay> (ppl) <malay>tapi</malay>" 
+        intervals [423]:
+            xmin = 1256.83687 
+            xmax = 1257.85582 
+            text = "<Z>" 
+        intervals [424]:
+            xmin = 1257.85582 
+            xmax = 1263.82 
+            text = "[ah] <malay>mempertimbangkan</malay> [lah] okay <malay>entah</malay> [lah] <malay>ada berapa sudah empat</malay> [kan] <malay>empat saja</malay> [lah] okay next question" 
+        intervals [425]:
+            xmin = 1263.82 
+            xmax = 1265.34 
+            text = "<Z>" 
+        intervals [426]:
+            xmin = 1265.34 
+            xmax = 1268.89 
+            text = "what was the biggest risk you took in twenty twenty" 
+        intervals [427]:
+            xmin = 1268.89 
+            xmax = 1271.57 
+            text = "<Z>" 
+        intervals [428]:
+            xmin = 1271.57 
+            xmax = 1273.08 
+            text = "<malay>risiko terbesar awak ambil</malay>" 
+        intervals [429]:
+            xmin = 1273.08 
+            xmax = 1275.22 
+            text = "<Z>" 
+        intervals [430]:
+            xmin = 1275.22 
+            xmax = 1275.92 
+            text = "<Z>" 
+        intervals [431]:
+            xmin = 1275.92 
+            xmax = 1289.21341 
+            text = "<Z>" 
+        intervals [432]:
+            xmin = 1289.21341 
+            xmax = 1293.65153 
+            text = "okay <malay>akak dulu</malay> [ah] okay <malay>risiko terbesar yang akak ambil adalah</malay>" 
+        intervals [433]:
+            xmin = 1293.65153 
+            xmax = 1296.93 
+            text = "we changed totally our business from event management" 
+        intervals [434]:
+            xmin = 1296.93 
+            xmax = 1299.41 
+            text = "<Z>" 
+        intervals [435]:
+            xmin = 1299.41 
+            xmax = 1305.53934 
+            text = "<malay>macam</malay> to from <malay>kelas mengaji</malay> on~ (err) class <malay>mengaji</malay> physical to online fully" 
+        intervals [436]:
+            xmin = 1305.53934 
+            xmax = 1306.24129 
+            text = "<Z>" 
+        intervals [437]:
+            xmin = 1306.24129 
+            xmax = 1313.37192 
+            text = "and <malay>memang</malay> struggle <malay>ya allah ya rabbi buat</malay> facebook live and so on <malay>macam ma~ gitu</malay> [kan]" 
+        intervals [438]:
+            xmin = 1313.37192 
+            xmax = 1313.89272 
+            text = "<Z>" 
+        intervals [439]:
+            xmin = 1313.89272 
+            xmax = 1316.85901 
+            text = "<malay>tapi</malay> we managed to do that [lah] <malay>walaupun</malay> struggle" 
+        intervals [440]:
+            xmin = 1316.85901 
+            xmax = 1317.67417 
+            text = "<Z>" 
+        intervals [441]:
+            xmin = 1317.67417 
+            xmax = 1322.97274 
+            text = "totally <malay>memang</malay> change and then after that we build (um) (err) <malay>jauhari</malay>" 
+        intervals [442]:
+            xmin = 1322.97274 
+            xmax = 1323.59 
+            text = "<Z>" 
+        intervals [443]:
+            xmin = 1323.59 
+            xmax = 1329.95748 
+            text = "<malay>masih dalam</malay> progress and hero <malay>cilik waktu itu</malay> and like then <malay>juga</malay> shine <malay>untuk</malay> board game [lah]" 
+        intervals [444]:
+            xmin = 1329.95748 
+            xmax = 1333.67 
+            text = "<Z>" 
+        intervals [445]:
+            xmin = 1333.67 
+            xmax = 1335.54 
+            text = "(mm) (mm) biggest risk you took" 
+        intervals [446]:
+            xmin = 1335.54 
+            xmax = 1338.77 
+            text = "<S>" 
+        intervals [447]:
+            xmin = 1338.77 
+            xmax = 1343.08862 
+            text = "<malay>tak ada</malay> okay we skip all that question then <malay>soalan keenam</malay>" 
+        intervals [448]:
+            xmin = 1343.08862 
+            xmax = 1346.64364 
+            text = "what was the smartest decision you made <malay>dekat sama</malay> [kan]" 
+        intervals [449]:
+            xmin = 1346.64364 
+            xmax = 1347.52674 
+            text = "<Z>" 
+        intervals [450]:
+            xmin = 1347.52674 
+            xmax = 1354.93115 
+            text = "okay <malay>tak payah</malay> [lah] okay next which three important relationship improved the most family <malay>tadi awak cakap lagi</malay>" 
+        intervals [451]:
+            xmin = 1354.93115 
+            xmax = 1358.43 
+            text = "<Z>" 
+        intervals [452]:
+            xmin = 1358.43 
+            xmax = 1360.21763 
+            text = "<Z>" 
+        intervals [453]:
+            xmin = 1360.21763 
+            xmax = 1362.84427 
+            text = "okay (ppl) (ppb) okay" 
+        intervals [454]:
+            xmin = 1362.84427 
+            xmax = 1363.81794 
+            text = "<Z>" 
+        intervals [455]:
+            xmin = 1363.81794 
+            xmax = 1366.17 
+            text = "okay house mate [ah] okay" 
+        intervals [456]:
+            xmin = 1366.17 
+            xmax = 1367.05595 
+            text = "<Z>" 
+        intervals [457]:
+            xmin = 1367.05595 
+            xmax = 1372.116 
+            text = "alright okay <malay>dua</malay> okay so <malay>macam akak pun akak</malay> the first one is" 
+        intervals [458]:
+            xmin = 1372.116 
+            xmax = 1378.90903 
+            text = "(err) ya [lah] our relationship [eh] <malay>kita tak ada siapa-siapa kita dua orang saja</malay> #ida# okay with my room mate <malay>dengan</malay> #ida#" 
+        intervals [459]:
+            xmin = 1378.90903 
+            xmax = 1379.8827 
+            text = "<Z>" 
+        intervals [460]:
+            xmin = 1379.8827 
+            xmax = 1381.12 
+            text = "<malay>yang kedua</malay>" 
+        intervals [461]:
+            xmin = 1381.12 
+            xmax = 1383.54 
+            text = "<Z>" 
+        intervals [462]:
+            xmin = 1383.54 
+            xmax = 1385.59889 
+            text = "<malay>akak rasa akak</malay> better <malay>sikit dengan ayah akak</malay> #kot#" 
+        intervals [463]:
+            xmin = 1385.59889 
+            xmax = 1386.36877 
+            text = "<Z>" 
+        intervals [464]:
+            xmin = 1386.36877 
+            xmax = 1388.45 
+            text = "<malay>selama ini akak ada</malay> perception <malay>yang macam</malay>" 
+        intervals [465]:
+            xmin = 1388.45 
+            xmax = 1389.0407 
+            text = "<Z>" 
+        intervals [466]:
+            xmin = 1389.0407 
+            xmax = 1394.36191 
+            text = "<malay>anggap tak baik apa semua</malay> [kan] <malay>tapi bila akak macam bantu dia untuk kerja sekejap</malay>" 
+        intervals [467]:
+            xmin = 1394.36191 
+            xmax = 1395.35616 
+            text = "<Z>" 
+        intervals [468]:
+            xmin = 1395.35616 
+            xmax = 1398.52624 
+            text = "<malay>kak kak nampak</malay> [lah] <malay>dia usaha dan dia</malay> struggle" 
+        intervals [469]:
+            xmin = 1398.52624 
+            xmax = 1399.31876 
+            text = "<Z>" 
+        intervals [470]:
+            xmin = 1399.31876 
+            xmax = 1399.92 
+            text = "second" 
+        intervals [471]:
+            xmin = 1399.92 
+            xmax = 1401.36 
+            text = "<Z>" 
+        intervals [472]:
+            xmin = 1401.36 
+            xmax = 1402.22 
+            text = "and third one" 
+        intervals [473]:
+            xmin = 1402.22 
+            xmax = 1403.75 
+            text = "<Z>" 
+        intervals [474]:
+            xmin = 1403.75 
+            xmax = 1407.62891 
+            text = "<malay>kak</malay> relatio~ relationship <malay>dengan itu</malay> [lah] [ah] okay (ppl) okay" 
+        intervals [475]:
+            xmin = 1407.62891 
+            xmax = 1408.60258 
+            text = "<Z>" 
+        intervals [476]:
+            xmin = 1408.60258 
+            xmax = 1410.82164 
+            text = "[ah] that guy okay <malay>cuma</malay>" 
+        intervals [477]:
+            xmin = 1410.82164 
+            xmax = 1411.56887 
+            text = "<Z>" 
+        intervals [478]:
+            xmin = 1411.56887 
+            xmax = 1420.10545 
+            text = "ya [lah] <malay>macam dulu</malay> [kan] <malay>akak ini macam lelaki ini apa teruk</malay> [ah] <malay>apa semua</malay> [kan] but right now okay just be understanding [lah] okay <malay>nombor sembilan</malay>" 
+        intervals [479]:
+            xmin = 1420.10545 
+            xmax = 1421.0781 
+            text = "<Z>" 
+        intervals [480]:
+            xmin = 1421.0781 
+            xmax = 1424.74 
+            text = "name three people give the greatest impact to you" 
+        intervals [481]:
+            xmin = 1424.74 
+            xmax = 1433.41 
+            text = "<Z>" 
+        intervals [482]:
+            xmin = 1433.41 
+            xmax = 1436.3 
+            text = "<Z>" 
+        intervals [483]:
+            xmin = 1436.3 
+            xmax = 1444.76109 
+            text = "<Z>" 
+        intervals [484]:
+            xmin = 1444.76109 
+            xmax = 1445.44039 
+            text = "okay" 
+        intervals [485]:
+            xmin = 1445.44039 
+            xmax = 1448.56519 
+            text = "<Z>" 
+        intervals [486]:
+            xmin = 1448.56519 
+            xmax = 1450.78425 
+            text = "<malay>dia beri</malay> greatest impact <malay>dekat</malay> #ida# [lah]" 
+        intervals [487]:
+            xmin = 1450.78425 
+            xmax = 1463.70659 
+            text = "<Z>" 
+        intervals [488]:
+            xmin = 1463.70659 
+            xmax = 1464.65762 
+            text = "I see" 
+        intervals [489]:
+            xmin = 1464.65762 
+            xmax = 1470.97514 
+            text = "<Z>" 
+        intervals [490]:
+            xmin = 1470.97514 
+            xmax = 1473.39799 
+            text = "!wow! okay" 
+        intervals [491]:
+            xmin = 1473.39799 
+            xmax = 1474.99 
+            text = "<Z>" 
+        intervals [492]:
+            xmin = 1474.99 
+            xmax = 1476.39 
+            text = "<Z>" 
+        intervals [493]:
+            xmin = 1476.39 
+            xmax = 1486.19605 
+            text = "<Z>" 
+        intervals [494]:
+            xmin = 1486.19605 
+            xmax = 1487.03283 
+            text = "[oh] okay" 
+        intervals [495]:
+            xmin = 1487.03283 
+            xmax = 1495.52413 
+            text = "<Z>" 
+        intervals [496]:
+            xmin = 1495.52413 
+            xmax = 1496.22608 
+            text = "(mm) (mm)" 
+        intervals [497]:
+            xmin = 1496.22608 
+            xmax = 1499.04391 
+            text = "<Z>" 
+        intervals [498]:
+            xmin = 1499.04391 
+            xmax = 1499.60999 
+            text = "improve" 
+        intervals [499]:
+            xmin = 1499.60999 
+            xmax = 1506.42567 
+            text = "<Z>" 
+        intervals [500]:
+            xmin = 1506.42567 
+            xmax = 1507.22 
+            text = "okay" 
+        intervals [501]:
+            xmin = 1507.22 
+            xmax = 1508.46 
+            text = "<Z>" 
+        intervals [502]:
+            xmin = 1508.46 
+            xmax = 1512.5147 
+            text = "<Z>" 
+        intervals [503]:
+            xmin = 1512.5147 
+            xmax = 1513.82802 
+            text = "(mm) (mm) (mm)" 
+        intervals [504]:
+            xmin = 1513.82802 
+            xmax = 1518.18476 
+            text = "<Z>" 
+        intervals [505]:
+            xmin = 1518.18476 
+            xmax = 1519.30774 
+            text = "okay alright" 
+        intervals [506]:
+            xmin = 1519.30774 
+            xmax = 1522.98 
+            text = "<Z>" 
+        intervals [507]:
+            xmin = 1522.98 
+            xmax = 1532.88 
+            text = "<Z>" 
+        intervals [508]:
+            xmin = 1532.88 
+            xmax = 1533.48705 
+            text = "I see" 
+        intervals [509]:
+            xmin = 1533.48705 
+            xmax = 1535.79668 
+            text = "<Z>" 
+        intervals [510]:
+            xmin = 1535.79668 
+            xmax = 1536.54391 
+            text = "(mm) (mm)" 
+        intervals [511]:
+            xmin = 1536.54391 
+            xmax = 1538.89883 
+            text = "<Z>" 
+        intervals [512]:
+            xmin = 1538.89883 
+            xmax = 1539.48756 
+            text = "(mm) (mm)" 
+        intervals [513]:
+            xmin = 1539.48756 
+            xmax = 1544.22004 
+            text = "<Z>" 
+        intervals [514]:
+            xmin = 1544.22004 
+            xmax = 1549.15631 
+            text = "okay <malay>insp~</malay> (ppl) (ppb) !aduh! <malay>sebab</malay>" 
+        intervals [515]:
+            xmin = 1549.15631 
+            xmax = 1553.37302 
+            text = "ya [lah] <malay>sebab tahun ini</malay> [kan] <malay>kita jarang masa bersama dia kau orang</malay> okay <malay>untuk akak</malay>" 
+        intervals [516]:
+            xmin = 1553.37302 
+            xmax = 1557.99228 
+            text = "gre~ three people give the most impact to you the first one is my close friend" 
+        intervals [517]:
+            xmin = 1557.99228 
+            xmax = 1559.25 
+            text = "<Z>" 
+        intervals [518]:
+            xmin = 1559.25 
+            xmax = 1564.30774 
+            text = "(err) <malay>ada dua</malay> [lah] <malay>dua</malay> close friend okay (err)" 
+        intervals [519]:
+            xmin = 1564.30774 
+            xmax = 1568.20242 
+            text = "<malay>yang biasa yang pertama adalah walaupun dia</malay>" 
+        intervals [520]:
+            xmin = 1568.20242 
+            xmax = 1572.5726 
+            text = "<malay>bukan</malay> [lah] someone <malay>yang yang bersama-sama dengan kami sudah dalam</malay> business partner" 
+        intervals [521]:
+            xmin = 1572.5726 
+            xmax = 1573.35 
+            text = "<Z>" 
+        intervals [522]:
+            xmin = 1573.35 
+            xmax = 1579.36564 
+            text = "<malay>tapi dia tetap seorang sahabat yang ada kadang-kadang</malay> sometime <malay>bila kita macam</malay>" 
+        intervals [523]:
+            xmin = 1579.36564 
+            xmax = 1586.21452 
+            text = "contact <malay>dia minta nasihat ke apa ke walaupun saya memang marah</malay> [lah] <malay>dekat dia tetap</malay> [lah] <malay>orang yang beri</malay> impact <malay>kepada saya</malay> [lah] okay" 
+        intervals [524]:
+            xmin = 1586.21452 
+            xmax = 1592.89936 
+            text = "first one <malay>jadi seorang yang lebih baik atau seorang yang pemarah</malay> (ppl) <malay>ada dua</malay> [kan] (ppb) the second one (um)" 
+        intervals [525]:
+            xmin = 1592.89936 
+            xmax = 1594.05417 
+            text = "<Z>" 
+        intervals [526]:
+            xmin = 1594.05417 
+            xmax = 1596.42 
+            text = "(err) second one" 
+        intervals [527]:
+            xmin = 1596.42 
+            xmax = 1598.96 
+            text = "<Z>" 
+        intervals [528]:
+            xmin = 1598.96 
+            xmax = 1604.03839 
+            text = "okay second one <malay>yang memang sentiasa kalau misal kata</malay> okay <malay>dia kalau dia ada masalah dia akan</malay> call" 
+        intervals [529]:
+            xmin = 1604.03839 
+            xmax = 1604.58183 
+            text = "<Z>" 
+        intervals [530]:
+            xmin = 1604.58183 
+            xmax = 1610.42385 
+            text = "<malay>dia akan</malay> call <malay>akak tapi dia pun sedia untuk mendengar apa masalah kita</malay>" 
+        intervals [531]:
+            xmin = 1610.42385 
+            xmax = 1611.68 
+            text = "<Z>" 
+        intervals [532]:
+            xmin = 1611.68 
+            xmax = 1619.26984 
+            text = "okay then last year is the first one <malay>yang akak cerita dengan dia</malay> after few years [lah] <malay>sudah berkawan</malay> [kan]" 
+        intervals [533]:
+            xmin = 1619.26984 
+            xmax = 1619.97179 
+            text = "<Z>" 
+        intervals [534]:
+            xmin = 1619.97179 
+            xmax = 1624.36462 
+            text = "<malay>baru</malay> [lah] <malay>akak</malay> reveal <malay>dekat dia siapa yang bagi teratai akak rasa tahun lepas</malay> ya that [one]" 
+        intervals [535]:
+            xmin = 1624.36462 
+            xmax = 1624.89 
+            text = "<Z>" 
+        intervals [536]:
+            xmin = 1624.89 
+            xmax = 1629.32353 
+            text = "<malay>akak</malay> reveal [ah] <malay>sedangkan orang bagi sudah teratai sejak tahun dua ribu sebelas</malay>" 
+        intervals [537]:
+            xmin = 1629.32353 
+            xmax = 1633.92015 
+            text = "[ah] <malay>sudah sembilan tahun sudah</malay> (ppl) <malay>waktu itu kawan</malay> (err) <malay>apa</malay>" 
+        intervals [538]:
+            xmin = 1633.92015 
+            xmax = 1639.01493 
+            text = "<malay>yang kawan akak yang sudah ini</malay> [kan] <malay>yang sudah yang sudah pindah balik itu</malay>" 
+        intervals [539]:
+            xmin = 1639.01493 
+            xmax = 1640.07 
+            text = "<Z>" 
+        intervals [540]:
+            xmin = 1640.07 
+            xmax = 1648.59711 
+            text = "(err) <malay>akak tanya</malay> okay okay <malay>memandangkan awak sudah tak ada</malay> [kan] okay <malay>ada satu benda yang ini nak bagi tahu</malay> okay so <malay>bagi tahu</malay> [lah] <malay>yang akak yang bagi teratai itu</malay> (ppo) okay" 
+        intervals [541]:
+            xmin = 1648.59711 
+            xmax = 1649.3217 
+            text = "<Z>" 
+        intervals [542]:
+            xmin = 1649.3217 
+            xmax = 1652.06156 
+            text = "so these two person [lah]" 
+        intervals [543]:
+            xmin = 1652.06156 
+            xmax = 1652.67293 
+            text = "<Z>" 
+        intervals [544]:
+            xmin = 1652.67293 
+            xmax = 1656.88 
+            text = "another one is (err) greatest impact to you [ah]" 
+        intervals [545]:
+            xmin = 1656.88 
+            xmax = 1661.19 
+            text = "<Z>" 
+        intervals [546]:
+            xmin = 1661.19 
+            xmax = 1665.21638 
+            text = "(um) my parents (err) no I mean not (err) (err) <malay>macam</malay>" 
+        intervals [547]:
+            xmin = 1665.21638 
+            xmax = 1665.94097 
+            text = "<Z>" 
+        intervals [548]:
+            xmin = 1665.94097 
+            xmax = 1671.26218 
+            text = "(err) <malay>macam</malay> sometime not in a good side but somehow" 
+        intervals [549]:
+            xmin = 1671.26218 
+            xmax = 1675.33697 
+            text = "it turns to be a bad side <malay>juga</malay> okay (uh) so" 
+        intervals [550]:
+            xmin = 1675.33697 
+            xmax = 1680.90726 
+            text = "greatest impact <malay>sebab</malay> greatest impact <malay>tak tahu apa benda</malay> [ah] okay <malay>soalan nombor sepuluh</malay> #ida#" 
+        intervals [551]:
+            xmin = 1680.90726 
+            xmax = 1686.48811 
+            text = "who are the five people you spend time the most you [lah] (ppl)" 
+        intervals [552]:
+            xmin = 1686.48811 
+            xmax = 1691.97284 
+            text = "<Z>" 
+        intervals [553]:
+            xmin = 1691.97284 
+            xmax = 1692.56 
+            text = "okay" 
+        intervals [554]:
+            xmin = 1692.56 
+            xmax = 1696.25246 
+            text = "<Z>" 
+        intervals [555]:
+            xmin = 1696.25246 
+            xmax = 1696.86383 
+            text = "(mm) (mm)" 
+        intervals [556]:
+            xmin = 1696.86383 
+            xmax = 1699.06475 
+            text = "<Z>" 
+        intervals [557]:
+            xmin = 1699.06475 
+            xmax = 1700.42 
+            text = "(ppl) okay" 
+        intervals [558]:
+            xmin = 1700.42 
+            xmax = 1706.08422 
+            text = "<Z>" 
+        intervals [559]:
+            xmin = 1706.08422 
+            xmax = 1706.60502 
+            text = "(mm) (mm)" 
+        intervals [560]:
+            xmin = 1706.60502 
+            xmax = 1711.78 
+            text = "<Z>" 
+        intervals [561]:
+            xmin = 1711.78 
+            xmax = 1718.36 
+            text = "<Z>" 
+        intervals [562]:
+            xmin = 1718.36 
+            xmax = 1719.98 
+            text = "<Z>" 
+        intervals [563]:
+            xmin = 1719.98 
+            xmax = 1725.07346 
+            text = "<Z>" 
+        intervals [564]:
+            xmin = 1725.07346 
+            xmax = 1725.68483 
+            text = "(mm) (mm)" 
+        intervals [565]:
+            xmin = 1725.68483 
+            xmax = 1728.08504 
+            text = "<Z>" 
+        intervals [566]:
+            xmin = 1728.08504 
+            xmax = 1728.67377 
+            text = "(mm) (mm)" 
+        intervals [567]:
+            xmin = 1728.67377 
+            xmax = 1730.01 
+            text = "<Z>" 
+        intervals [568]:
+            xmin = 1730.01 
+            xmax = 1731.79857 
+            text = "okay <malay>ramai itu</malay> okay" 
+        intervals [569]:
+            xmin = 1731.79857 
+            xmax = 1738.09345 
+            text = "(err) so five people you spend the time most this year (err)" 
+        intervals [570]:
+            xmin = 1738.09345 
+            xmax = 1743.45994 
+            text = "ya [lah] family [lah] [kan] family <malay>mak ayah adik itu saja</malay> [lah]" 
+        intervals [571]:
+            xmin = 1743.45994 
+            xmax = 1744.1166 
+            text = "<Z>" 
+        intervals [572]:
+            xmin = 1744.1166 
+            xmax = 1745.85308 
+            text = "<malay>dengan budak-budak madrasah</malay>" 
+        intervals [573]:
+            xmin = 1745.85308 
+            xmax = 1747.07583 
+            text = "<Z>" 
+        intervals [574]:
+            xmin = 1747.07583 
+            xmax = 1749.4081 
+            text = "okay first second #ida#" 
+        intervals [575]:
+            xmin = 1749.4081 
+            xmax = 1750.49499 
+            text = "<Z>" 
+        intervals [576]:
+            xmin = 1750.49499 
+            xmax = 1754.18587 
+            text = "third spend time the most <malay>ini boleh jadi orang yang kita</malay> call" 
+        intervals [577]:
+            xmin = 1754.18587 
+            xmax = 1755.68034 
+            text = "<Z>" 
+        intervals [578]:
+            xmin = 1755.68034 
+            xmax = 1758.39 
+            text = "<malay>yang paling nak akak cakap dengan</malay> top first" 
+        intervals [579]:
+            xmin = 1758.39 
+            xmax = 1760.78 
+            text = "<Z>" 
+        intervals [580]:
+            xmin = 1760.78 
+            xmax = 1765.73802 
+            text = "#asnah# [lah] (ppl) (ppb) <malay>itu tak dapat dinafikan itu memang</malay> top first [lah]" 
+        intervals [581]:
+            xmin = 1765.73802 
+            xmax = 1768.70431 
+            text = "[ah] better than anyone (ppl) (ppb) okay" 
+        intervals [582]:
+            xmin = 1768.70431 
+            xmax = 1774.15 
+            text = "<malay>sudah</malay> okay next how did those five people influence you !wow! <malay>ambil engkau</malay>" 
+        intervals [583]:
+            xmin = 1774.15 
+            xmax = 1779.45995 
+            text = "<Z>" 
+        intervals [584]:
+            xmin = 1779.45995 
+            xmax = 1780.12 
+            text = "(ppl)" 
+        intervals [585]:
+            xmin = 1780.12 
+            xmax = 1783.19 
+            text = "<Z>" 
+        intervals [586]:
+            xmin = 1783.19 
+            xmax = 1786.23 
+            text = "<Z>" 
+        intervals [587]:
+            xmin = 1786.23 
+            xmax = 1789.25 
+            text = "<Z>" 
+        intervals [588]:
+            xmin = 1789.25 
+            xmax = 1793.54212 
+            text = "<Z>" 
+        intervals [589]:
+            xmin = 1793.54212 
+            xmax = 1794.26671 
+            text = "(mmhmm)" 
+        intervals [590]:
+            xmin = 1794.26671 
+            xmax = 1804.6827 
+            text = "<Z>" 
+        intervals [591]:
+            xmin = 1804.6827 
+            xmax = 1805.2035 
+            text = "(mm)" 
+        intervals [592]:
+            xmin = 1805.2035 
+            xmax = 1811.83597 
+            text = "<Z>" 
+        intervals [593]:
+            xmin = 1811.83597 
+            xmax = 1812.49263 
+            text = "okay" 
+        intervals [594]:
+            xmin = 1812.49263 
+            xmax = 1821.88966 
+            text = "<Z>" 
+        intervals [595]:
+            xmin = 1821.88966 
+            xmax = 1824.49366 
+            text = "yes so <malay>dia banyak bagi nasihat</malay> and so on [lah]" 
+        intervals [596]:
+            xmin = 1824.49366 
+            xmax = 1828.86385 
+            text = "<Z>" 
+        intervals [597]:
+            xmin = 1828.86385 
+            xmax = 1832.50289 
+            text = "okay <malay>bagus bagus</malay> so <malay>itu</malay> [lah] <malay>yang paling</malay> most impact [lah]" 
+        intervals [598]:
+            xmin = 1832.50289 
+            xmax = 1833.31805 
+            text = "<Z>" 
+        intervals [599]:
+            xmin = 1833.31805 
+            xmax = 1836.13 
+            text = "okay so <malay>akak</malay> (err)" 
+        intervals [600]:
+            xmin = 1836.13 
+            xmax = 1838.46 
+            text = "<Z>" 
+        intervals [601]:
+            xmin = 1838.46 
+            xmax = 1841.03845 
+            text = "<malay>apa tadi macam mana dia orang bagi</malay>" 
+        intervals [602]:
+            xmin = 1841.03845 
+            xmax = 1844.02739 
+            text = "influence <malay>yang</malay> the first one is #asnah#" 
+        intervals [603]:
+            xmin = 1844.02739 
+            xmax = 1848.03 
+            text = "<malay>dia yang</malay> suggest <malay>sudah lama sudah dia memang</malay> suggest <malay>untuk akak pergi jumpa</malay> psychiatric" 
+        intervals [604]:
+            xmin = 1848.03 
+            xmax = 1849.45 
+            text = "<Z>" 
+        intervals [605]:
+            xmin = 1849.45 
+            xmax = 1854.44789 
+            text = "instead of counsellor [ah] <malay>sebab dia tak dia rasa</malay> it's not <malay>ini</malay> [lah] [kan]" 
+        intervals [606]:
+            xmin = 1854.44789 
+            xmax = 1855.03662 
+            text = "<Z>" 
+        intervals [607]:
+            xmin = 1855.03662 
+            xmax = 1858.00291 
+            text = "and then after <malay>yang</malay> (um)" 
+        intervals [608]:
+            xmin = 1858.00291 
+            xmax = 1858.52371 
+            text = "<Z>" 
+        intervals [609]:
+            xmin = 1858.52371 
+            xmax = 1863.55056 
+            text = "<malay>akak punya akak</malay> go talk <malay>dengan</malay> doctor prof~ doctor <malay>itu</malay> [kan] <malay>yang akak cakap dengan awak itu</malay>" 
+        intervals [610]:
+            xmin = 1863.55056 
+            xmax = 1864.38836 
+            text = "<Z>" 
+        intervals [611]:
+            xmin = 1864.38836 
+            xmax = 1869.25464 
+            text = "and then after that <malay>akak</malay> decide <malay>memang akak tak nak</malay> go for university <malay>punya</malay>" 
+        intervals [612]:
+            xmin = 1869.25464 
+            xmax = 1869.77544 
+            text = "<Z>" 
+        intervals [613]:
+            xmin = 1869.77544 
+            xmax = 1873.46633 
+            text = "<malay>akak</malay> go for <malay>memang</malay> professional <malay>punya</malay> field [lah]" 
+        intervals [614]:
+            xmin = 1873.46633 
+            xmax = 1874.2 
+            text = "<Z>" 
+        intervals [615]:
+            xmin = 1874.2 
+            xmax = 1881.27832 
+            text = "and then (um) <malay>apa macam mana dia apa ini</malay> how impactful these pe~ five people <malay>ini</malay>" 
+        intervals [616]:
+            xmin = 1881.27832 
+            xmax = 1881.88969 
+            text = "<Z>" 
+        intervals [617]:
+            xmin = 1881.88969 
+            xmax = 1889.41 
+            text = "(um) <malay>tadi</malay> parents <malay>akak dan juga akak cakap pasal madrasah</malay> [kan] okay so <malay>madrasah yang akak pergi ini</malay> (um)" 
+        intervals [618]:
+            xmin = 1889.41 
+            xmax = 1891.09 
+            text = "<Z>" 
+        intervals [619]:
+            xmin = 1891.09 
+            xmax = 1894.77176 
+            text = "<malay>dia orang</malay> (err) most of them are refugees" 
+        intervals [620]:
+            xmin = 1894.77176 
+            xmax = 1895.81336 
+            text = "<Z>" 
+        intervals [621]:
+            xmin = 1895.81336 
+            xmax = 1902.18 
+            text = "okay and there is (uh) <malay>ada satu macam</malay> episode [lah] <malay>yang mana seorang budak ini dia</malay>" 
+        intervals [622]:
+            xmin = 1902.18 
+            xmax = 1903.91971 
+            text = "<Z>" 
+        intervals [623]:
+            xmin = 1903.91971 
+            xmax = 1906.5 
+            text = "<malay>ganggu</malay> [tau] <malay>lembu dekat kawasan itu</malay>" 
+        intervals [624]:
+            xmin = 1906.5 
+            xmax = 1908.17 
+            text = "<Z>" 
+        intervals [625]:
+            xmin = 1908.17 
+            xmax = 1913.29 
+            text = "<malay>orang kampung</malay> [lah] <malay>kata dia nampak</malay> okay but then (um) and then" 
+        intervals [626]:
+            xmin = 1913.29 
+            xmax = 1915.11 
+            text = "<Z>" 
+        intervals [627]:
+            xmin = 1915.11 
+            xmax = 1919.29256 
+            text = "<malay>macam pihak penguasaan madrasah ini macam marah</malay> [lah] and <malay>tampar budak itu depan mata akak</malay>" 
+        intervals [628]:
+            xmin = 1919.29256 
+            xmax = 1925.42893 
+            text = "so <malay>itu akak rasa macam sudah</malay> [lah] you <malay>sudah</malay> [lah] <malay>dia</malay> refugees <malay>tahu dia memang</malay>" 
+        intervals [629]:
+            xmin = 1925.42893 
+            xmax = 1926.44 
+            text = "<Z>" 
+        intervals [630]:
+            xmin = 1926.44 
+            xmax = 1931.04451 
+            text = "(ppb) <malay>macam itu</malay> [lah] [kan] <malay>macam memang</malay> ya [lah] <malay>kita tak tahu negara dia dulu macam mana</malay> [kan]" 
+        intervals [631]:
+            xmin = 1931.04451 
+            xmax = 1935.79963 
+            text = "<malay>memang</malay> ya [lah] <malay>mungkin dia orang bermasalah tapi dia dia orang adalah kanak-kanak yang ada perasaan</malay>" 
+        intervals [632]:
+            xmin = 1935.79963 
+            xmax = 1936.59215 
+            text = "<Z>" 
+        intervals [633]:
+            xmin = 1936.59215 
+            xmax = 1938.83386 
+            text = "<malay>dan budak-budak ini biasanya main</malay>" 
+        intervals [634]:
+            xmin = 1938.83386 
+            xmax = 1939.59666 
+            text = "<Z>" 
+        intervals [635]:
+            xmin = 1939.59666 
+            xmax = 1943.37812 
+            text = "okay so issue <malay>nya adalah budak itu duduk tonggeng-tonggeng</malay>" 
+        intervals [636]:
+            xmin = 1943.37812 
+            xmax = 1948.67669 
+            text = "<malay>pung~ punggung dekat orang kampung</malay> [lah] <malay>apa semua lepas itu main lepas itu macam</malay>" 
+        intervals [637]:
+            xmin = 1948.67669 
+            xmax = 1949.18 
+            text = "<Z>" 
+        intervals [638]:
+            xmin = 1949.18 
+            xmax = 1953.83837 
+            text = "<malay>lepas itu</malay> (err) I talk to my dad [lah] <malay>waktu itu</malay> [kan] <malay>macam</malay> (mm)" 
+        intervals [639]:
+            xmin = 1953.83837 
+            xmax = 1957.95947 
+            text = "<malay>anak</malay> [ah] <malay>cucu dia buat benda yang sama tak sama saja</malay> so <malay>apa</malay>" 
+        intervals [640]:
+            xmin = 1957.95947 
+            xmax = 1961.85415 
+            text = "<malay>apa beza cucu dengan orang yang dia jaga ini ini</malay> [kan]" 
+        intervals [641]:
+            xmin = 1961.85415 
+            xmax = 1968.28489 
+            text = "<malay>sama saja dia orang pun budak juga</malay> even (err) ya [lah] <malay>memang cucu</malay> [lah] <malay>umur bawah kecil sikit</malay> [kan] <malay>tapi sama saja</malay>" 
+        intervals [642]:
+            xmin = 1968.28489 
+            xmax = 1972.41051 
+            text = "<malay>dua-dua dua-dua manusia kenapa yang sebab ini kulit hitam ke</malay>" 
+        intervals [643]:
+            xmin = 1972.41051 
+            xmax = 1973.17 
+            text = "<Z>" 
+        intervals [644]:
+            xmin = 1973.17 
+            xmax = 1975.9 
+            text = "(uh) these refugees <malay>kulit hitam ke kenapa kita tak</malay> respect <malay>dia</malay>" 
+        intervals [645]:
+            xmin = 1975.9 
+            xmax = 1977.38 
+            text = "<Z>" 
+        intervals [646]:
+            xmin = 1977.38 
+            xmax = 1984.30232 
+            text = "okay so that [one] like <malay>yang</malay> I <malay>rasa</malay> (err) <malay>macam lagi kasihan dekat budak-budak semua ini</malay> so" 
+        intervals [647]:
+            xmin = 1984.30232 
+            xmax = 1985.25334 
+            text = "<Z>" 
+        intervals [648]:
+            xmin = 1985.25334 
+            xmax = 1991.25386 
+            text = "these people <malay>ini yang</malay> give greatest impact to me [lah] okay <malay>soalan nombor sepuluh</malay>" 
+        intervals [649]:
+            xmin = 1991.25386 
+            xmax = 1992.22753 
+            text = "<Z>" 
+        intervals [650]:
+            xmin = 1992.22753 
+            xmax = 1999.4055 
+            text = "who are the five people you spend the (ppo) <malay>bukan</malay> [ah] <malay>sudah sudah salah salah nombor dua belas nombor dua belas</malay> what were the best five books you read" 
+        intervals [651]:
+            xmin = 1999.4055 
+            xmax = 2000.89895 
+            text = "<Z>" 
+        intervals [652]:
+            xmin = 2000.89895 
+            xmax = 2005 
+            text = "<malay>tapi dia tak ada cakap dua puluh dua puluh tahu dia bagi tahu</malay> what were the best five books you read <malay>itu saja</malay>" 
+        intervals [653]:
+            xmin = 2005 
+            xmax = 2012.46975 
+            text = "<Z>" 
+        intervals [654]:
+            xmin = 2012.46975 
+            xmax = 2017.33603 
+            text = "<malay>akak ada satu buku akak baca yang akak ingat sampai sekarang dengan tajuk tajuk dia adalah</malay>" 
+        intervals [655]:
+            xmin = 2017.33603 
+            xmax = 2017.99269 
+            text = "<Z>" 
+        intervals [656]:
+            xmin = 2017.99269 
+            xmax = 2021.09485 
+            text = "(err) <malay>daun tidak membenci angin macam itu</malay> [ah]" 
+        intervals [657]:
+            xmin = 2021.09485 
+            xmax = 2022.29495 
+            text = "<Z>" 
+        intervals [658]:
+            xmin = 2022.29495 
+            xmax = 2023.07 
+            text = "[ah]" 
+        intervals [659]:
+            xmin = 2023.07 
+            xmax = 2024.03 
+            text = "<Z>" 
+        intervals [660]:
+            xmin = 2024.03 
+            xmax = 2028.45397 
+            text = "<malay>dia pasal cerita saja macam itu</malay> [ah] and" 
+        intervals [661]:
+            xmin = 2028.45397 
+            xmax = 2032.19014 
+            text = "<malay>buku itu daripada bukan daripada ini</malay> [lah] <malay>dia memang negara luar punya</malay>" 
+        intervals [662]:
+            xmin = 2032.19014 
+            xmax = 2033.16381 
+            text = "<Z>" 
+        intervals [663]:
+            xmin = 2033.16381 
+            xmax = 2038.11566 
+            text = "<malay>apa</malay> (uh) <malay>daun tidak membenci angin macam itu tajuk dia kalau tak silap</malay> [ah] [ah] okay" 
+        intervals [664]:
+            xmin = 2038.11566 
+            xmax = 2042.34999 
+            text = "<malay>dia kata pasal seorang ini kisah ini kisah budak ini dia</malay>" 
+        intervals [665]:
+            xmin = 2042.34999 
+            xmax = 2043.8671 
+            text = "<Z>" 
+        intervals [666]:
+            xmin = 2043.8671 
+            xmax = 2047.76177 
+            text = "<malay>dia orang ialah anak yatim yang dibela oleh lelaki yang memang suka</malay>" 
+        intervals [667]:
+            xmin = 2047.76177 
+            xmax = 2053.05379 
+            text = "<malay>buat cerita apa ini dengan</malay> activity <malay>dengan budak-budak macam itu</malay> [lah] <malay>tapi</malay>" 
+        intervals [668]:
+            xmin = 2053.05379 
+            xmax = 2058.29 
+            text = "and <malay>ada satu masa itu</malay> [ah] <malay>dia punya</malay> quote <malay>dia macam ini</malay> [ah]" 
+        intervals [669]:
+            xmin = 2058.29 
+            xmax = 2059.8 
+            text = "<Z>" 
+        intervals [670]:
+            xmin = 2059.8 
+            xmax = 2063.52008 
+            text = "<malay>kita ini banyak menyalahkan takdir</malay>" 
+        intervals [671]:
+            xmin = 2063.52008 
+            xmax = 2064.28996 
+            text = "<Z>" 
+        intervals [672]:
+            xmin = 2064.28996 
+            xmax = 2069.97347 
+            text = "okay <malay>kita banyak menyalahkan takdir tapi semua yang jadi ini semua tuhan sudah tahu</malay>" 
+        intervals [673]:
+            xmin = 2069.97347 
+            xmax = 2074.34817 
+            text = "even <malay>macam daun yang jatuh pun allah atas</malay> [kan] <malay>sudah allah</malay> [kan] [ah]" 
+        intervals [674]:
+            xmin = 2074.34817 
+            xmax = 2075.07276 
+            text = "<Z>" 
+        intervals [675]:
+            xmin = 2075.07276 
+            xmax = 2079.71467 
+            text = "<malay>tapi daun tak pernah menyalahkan angin kerana dia jatuh</malay>" 
+        intervals [676]:
+            xmin = 2079.71467 
+            xmax = 2080.39397 
+            text = "<Z>" 
+        intervals [677]:
+            xmin = 2080.39397 
+            xmax = 2086.12 
+            text = "so <malay>benda itu</malay> just go with the flow [jer] okay so the first book" 
+        intervals [678]:
+            xmin = 2086.12 
+            xmax = 2088.17 
+            text = "<Z>" 
+        intervals [679]:
+            xmin = 2088.17 
+            xmax = 2090.99562 
+            text = "okay #ida# <malay>ada lagi tak buku sambil-sambil tu kita tukar-tukar</malay> [lah]" 
+        intervals [680]:
+            xmin = 2090.99562 
+            xmax = 2092.30894 
+            text = "<Z>" 
+        intervals [681]:
+            xmin = 2092.30894 
+            xmax = 2093.05617 
+            text = "[a'ah]" 
+        intervals [682]:
+            xmin = 2093.05617 
+            xmax = 2099.86581 
+            text = "<Z>" 
+        intervals [683]:
+            xmin = 2099.86581 
+            xmax = 2102.13015 
+            text = "!huh! walking okay" 
+        intervals [684]:
+            xmin = 2102.13015 
+            xmax = 2103.52 
+            text = "<Z>" 
+        intervals [685]:
+            xmin = 2103.52 
+            xmax = 2116.95403 
+            text = "<Z>" 
+        intervals [686]:
+            xmin = 2116.95403 
+            xmax = 2117.63334 
+            text = "<malay>buku</malay> english" 
+        intervals [687]:
+            xmin = 2117.63334 
+            xmax = 2118.38057 
+            text = "<Z>" 
+        intervals [688]:
+            xmin = 2118.38057 
+            xmax = 2118.99194 
+            text = "I see" 
+        intervals [689]:
+            xmin = 2118.99194 
+            xmax = 2121.77709 
+            text = "<Z>" 
+        intervals [690]:
+            xmin = 2121.77709 
+            xmax = 2123.815 
+            text = "okay <malay>nanti aku nak baca</malay> (ppl)" 
+        intervals [691]:
+            xmin = 2123.815 
+            xmax = 2130.38058 
+            text = "<Z>" 
+        intervals [692]:
+            xmin = 2130.38058 
+            xmax = 2131.3316 
+            text = "okay then" 
+        intervals [693]:
+            xmin = 2131.3316 
+            xmax = 2134.72812 
+            text = "<Z>" 
+        intervals [694]:
+            xmin = 2134.72812 
+            xmax = 2136.78867 
+            text = "!wah! okay" 
+        intervals [695]:
+            xmin = 2136.78867 
+            xmax = 2137.79 
+            text = "<Z>" 
+        intervals [696]:
+            xmin = 2137.79 
+            xmax = 2142.39 
+            text = "<Z>" 
+        intervals [697]:
+            xmin = 2142.39 
+            xmax = 2144.18 
+            text = "<Z>" 
+        intervals [698]:
+            xmin = 2144.18 
+            xmax = 2149.05936 
+            text = "<Z>" 
+        intervals [699]:
+            xmin = 2149.05936 
+            xmax = 2149.71602 
+            text = "(mm) (mm)" 
+        intervals [700]:
+            xmin = 2149.71602 
+            xmax = 2156.55435 
+            text = "<Z>" 
+        intervals [701]:
+            xmin = 2156.55435 
+            xmax = 2157.34687 
+            text = "okay" 
+        intervals [702]:
+            xmin = 2157.34687 
+            xmax = 2160.41981 
+            text = "<Z>" 
+        intervals [703]:
+            xmin = 2160.41981 
+            xmax = 2160.94061 
+            text = "okay" 
+        intervals [704]:
+            xmin = 2160.94061 
+            xmax = 2164.2692 
+            text = "<Z>" 
+        intervals [705]:
+            xmin = 2164.2692 
+            xmax = 2165.06172 
+            text = "okay" 
+        intervals [706]:
+            xmin = 2165.06172 
+            xmax = 2168.14123 
+            text = "<Z>" 
+        intervals [707]:
+            xmin = 2168.14123 
+            xmax = 2168.6 
+            text = "(mm) (mm)" 
+        intervals [708]:
+            xmin = 2168.6 
+            xmax = 2171.72392 
+            text = "<Z>" 
+        intervals [709]:
+            xmin = 2171.72392 
+            xmax = 2172.17679 
+            text = "okay" 
+        intervals [710]:
+            xmin = 2172.17679 
+            xmax = 2176.66 
+            text = "<Z>" 
+        intervals [711]:
+            xmin = 2176.66 
+            xmax = 2187.31316 
+            text = "<Z>" 
+        intervals [712]:
+            xmin = 2187.31316 
+            xmax = 2189.40641 
+            text = "[oh] okay <malay>dia orang tak kahwin</malay>" 
+        intervals [713]:
+            xmin = 2189.40641 
+            xmax = 2190.35743 
+            text = "<Z>" 
+        intervals [714]:
+            xmin = 2190.35743 
+            xmax = 2192.14626 
+            text = "[oh] okay okay okay okay [a'ah]" 
+        intervals [715]:
+            xmin = 2192.14626 
+            xmax = 2194.09 
+            text = "<Z>" 
+        intervals [716]:
+            xmin = 2194.09 
+            xmax = 2198.82608 
+            text = "<Z>" 
+        intervals [717]:
+            xmin = 2198.82608 
+            xmax = 2199.59596 
+            text = "okay" 
+        intervals [718]:
+            xmin = 2199.59596 
+            xmax = 2203.69236 
+            text = "<Z>" 
+        intervals [719]:
+            xmin = 2203.69236 
+            xmax = 2204.30374 
+            text = "okay" 
+        intervals [720]:
+            xmin = 2204.30374 
+            xmax = 2207.74554 
+            text = "<Z>" 
+        intervals [721]:
+            xmin = 2207.74554 
+            xmax = 2208.35691 
+            text = "[oh]" 
+        intervals [722]:
+            xmin = 2208.35691 
+            xmax = 2220.01829 
+            text = "<Z>" 
+        intervals [723]:
+            xmin = 2220.01829 
+            xmax = 2221.82977 
+            text = "(mm) (mm) okay" 
+        intervals [724]:
+            xmin = 2221.82977 
+            xmax = 2225.15836 
+            text = "<Z>" 
+        intervals [725]:
+            xmin = 2225.15836 
+            xmax = 2225.67916 
+            text = "(mm) (mm)" 
+        intervals [726]:
+            xmin = 2225.67916 
+            xmax = 2228.83664 
+            text = "<Z>" 
+        intervals [727]:
+            xmin = 2228.83664 
+            xmax = 2229.44801 
+            text = "(mm) (mm)" 
+        intervals [728]:
+            xmin = 2229.44801 
+            xmax = 2233.90877 
+            text = "<Z>" 
+        intervals [729]:
+            xmin = 2233.90877 
+            xmax = 2235.24473 
+            text = "[oh] okay" 
+        intervals [730]:
+            xmin = 2235.24473 
+            xmax = 2238.91246 
+            text = "<Z>" 
+        intervals [731]:
+            xmin = 2238.91246 
+            xmax = 2240.61072 
+            text = "(mm) (mm) (mm) (mm) (mm) (mm)" 
+        intervals [732]:
+            xmin = 2240.61072 
+            xmax = 2245.85693 
+            text = "<Z>" 
+        intervals [733]:
+            xmin = 2245.85693 
+            xmax = 2246.46831 
+            text = "(mm) (mm)" 
+        intervals [734]:
+            xmin = 2246.46831 
+            xmax = 2248.21185 
+            text = "<Z>" 
+        intervals [735]:
+            xmin = 2248.21185 
+            xmax = 2248.80058 
+            text = "yes" 
+        intervals [736]:
+            xmin = 2248.80058 
+            xmax = 2251.22343 
+            text = "<Z>" 
+        intervals [737]:
+            xmin = 2251.22343 
+            xmax = 2254.05386 
+            text = "!wow! okay" 
+        intervals [738]:
+            xmin = 2254.05386 
+            xmax = 2260.22948 
+            text = "<Z>" 
+        intervals [739]:
+            xmin = 2260.22948 
+            xmax = 2260.56913 
+            text = "(mm) (mm)" 
+        intervals [740]:
+            xmin = 2260.56913 
+            xmax = 2264.68922 
+            text = "<Z>" 
+        intervals [741]:
+            xmin = 2264.68922 
+            xmax = 2267.22529 
+            text = "okay <malay>walaupun dia sudah tak ada</malay>" 
+        intervals [742]:
+            xmin = 2267.22529 
+            xmax = 2271.68605 
+            text = "<Z>" 
+        intervals [743]:
+            xmin = 2271.68605 
+            xmax = 2272.88615 
+            text = "!wow!" 
+        intervals [744]:
+            xmin = 2272.88615 
+            xmax = 2288.07284 
+            text = "<Z>" 
+        intervals [745]:
+            xmin = 2288.07284 
+            xmax = 2288.88801 
+            text = "okay" 
+        intervals [746]:
+            xmin = 2288.88801 
+            xmax = 2292.51096 
+            text = "<Z>" 
+        intervals [747]:
+            xmin = 2292.51096 
+            xmax = 2297.13473 
+            text = "okay okay <malay>akak ada satu lagi</malay> (err) <malay>buku yang akak rasa macam ini</malay>" 
+        intervals [748]:
+            xmin = 2297.13473 
+            xmax = 2302.29744 
+            text = "[ah] <malay>sepanjang</malay> COVID (err) <malay>kak</malay> #asnah# suggest <malay>untuk akak baca</malay> [lah] who moved my cheese" 
+        intervals [749]:
+            xmin = 2302.29744 
+            xmax = 2303.36168 
+            text = "<Z>" 
+        intervals [750]:
+            xmin = 2303.36168 
+            xmax = 2305.8751 
+            text = "[ah] that [one] [ah] <malay>dia macam</malay> okay" 
+        intervals [751]:
+            xmin = 2305.8751 
+            xmax = 2306.82 
+            text = "<Z>" 
+        intervals [752]:
+            xmin = 2306.82 
+            xmax = 2311.51835 
+            text = "(err) <malay>dia orang dia ada beberapa ini</malay> [lah] <malay>beberapa</malay> character (mm)" 
+        intervals [753]:
+            xmin = 2311.51835 
+            xmax = 2312.08443 
+            text = "<Z>" 
+        intervals [754]:
+            xmin = 2312.08443 
+            xmax = 2315.00544 
+            text = "<malay>tikus</malay> [lah] <malay>yang mana yang</malay> stay" 
+        intervals [755]:
+            xmin = 2315.00544 
+            xmax = 2315.50359 
+            text = "<Z>" 
+        intervals [756]:
+            xmin = 2315.50359 
+            xmax = 2317.7453 
+            text = "<malay>sampai</malay> [lah] cheese <malay>itu habis</malay>" 
+        intervals [757]:
+            xmin = 2317.7453 
+            xmax = 2318.49253 
+            text = "<Z>" 
+        intervals [758]:
+            xmin = 2318.49253 
+            xmax = 2324.92121 
+            text = "<malay>maksudnya tapi sebelum</malay> cheese <malay>itu habis lagipun</malay> (um) <malay>waktu</malay> cheese <malay>itu ada dia orang sampai sudah buat rumah apa semua dekat situ</malay>" 
+        intervals [759]:
+            xmin = 2324.92121 
+            xmax = 2325.50994 
+            text = "<Z>" 
+        intervals [760]:
+            xmin = 2325.50994 
+            xmax = 2327.81957 
+            text = "which is these people <malay>adalah orang yang cepat</malay> settle down" 
+        intervals [761]:
+            xmin = 2327.81957 
+            xmax = 2328.79324 
+            text = "<Z>" 
+        intervals [762]:
+            xmin = 2328.79324 
+            xmax = 2329.63 
+            text = "okay" 
+        intervals [763]:
+            xmin = 2329.63 
+            xmax = 2334.79376 
+            text = "<malay>tapi bila</malay> cheese <malay>sudah habis macam mana</malay> [kan] <malay>tempat sudah dekat situ apa semua</malay> so <malay>macam itu</malay> [lah]" 
+        intervals [764]:
+            xmin = 2334.79376 
+            xmax = 2335.26927 
+            text = "<Z>" 
+        intervals [765]:
+            xmin = 2335.26927 
+            xmax = 2338.91486 
+            text = "and another one <malay>adalah orang yang nampak orang yang tahu</malay> cheese <malay>ini akan habis</malay>" 
+        intervals [766]:
+            xmin = 2338.91486 
+            xmax = 2339.70739 
+            text = "<Z>" 
+        intervals [767]:
+            xmin = 2339.70739 
+            xmax = 2343.51046 
+            text = "so <malay>dia</malay> get ready with another op~ another option okay" 
+        intervals [768]:
+            xmin = 2343.51046 
+            xmax = 2344.29 
+            text = "<Z>" 
+        intervals [769]:
+            xmin = 2344.29 
+            xmax = 2349.4204 
+            text = "and <malay>daripada dua ekor ini juga dia orang ada yang berpecah satu lagi memang nak</malay> stay" 
+        intervals [770]:
+            xmin = 2349.4204 
+            xmax = 2350.25821 
+            text = "<Z>" 
+        intervals [771]:
+            xmin = 2350.25821 
+            xmax = 2354.2661 
+            text = "<malay>berharap yang orang akan hantar lagi</malay> cheese <malay>dekat situ</malay>" 
+        intervals [772]:
+            xmin = 2354.2661 
+            xmax = 2355.01334 
+            text = "<Z>" 
+        intervals [773]:
+            xmin = 2355.01334 
+            xmax = 2356.57368 
+            text = "<malay>dan seekor lagi keluar</malay>" 
+        intervals [774]:
+            xmin = 2356.57368 
+            xmax = 2357.25298 
+            text = "<Z>" 
+        intervals [775]:
+            xmin = 2357.25298 
+            xmax = 2362.3704 
+            text = "<malay>cari</malay> cheese <malay>tapi tak jumpa</malay> struggle <malay>jatuh terduduk macam nak mati nak macam semua</malay> [lah]" 
+        intervals [776]:
+            xmin = 2362.3704 
+            xmax = 2362.94 
+            text = "<Z>" 
+        intervals [777]:
+            xmin = 2362.94 
+            xmax = 2364.6121 
+            text = "<malay>tapi akhirnya dia jumpa</malay> cheese" 
+        intervals [778]:
+            xmin = 2364.6121 
+            xmax = 2365.44991 
+            text = "<Z>" 
+        intervals [779]:
+            xmin = 2365.44991 
+            xmax = 2369.52573 
+            text = "(uh) <malay>tapi tapi</malay> after that the <malay>fasa yang sangat sangat teruk</malay> [lah] okay" 
+        intervals [780]:
+            xmin = 2369.52573 
+            xmax = 2374.19028 
+            text = "[ah] <malay>itu</malay> [lah] who moved my cheese [lah] okay <malay>lagi ada buku lagi tak baru dua</malay>" 
+        intervals [781]:
+            xmin = 2374.19028 
+            xmax = 2379.39 
+            text = "<Z>" 
+        intervals [782]:
+            xmin = 2379.39 
+            xmax = 2382.06867 
+            text = "<Z>" 
+        intervals [783]:
+            xmin = 2382.06867 
+            xmax = 2383.22348 
+            text = "(ppo) [kan]" 
+        intervals [784]:
+            xmin = 2383.22348 
+            xmax = 2384.78588 
+            text = "<Z>" 
+        intervals [785]:
+            xmin = 2384.78588 
+            xmax = 2385.51047 
+            text = "[a'ah]" 
+        intervals [786]:
+            xmin = 2385.51047 
+            xmax = 2386.9823 
+            text = "<Z>" 
+        intervals [787]:
+            xmin = 2386.9823 
+            xmax = 2391.23927 
+            text = "[ah] then another one is (err) <malay>buku karangan</malay> #liyana musfira# <malay>ini</malay> (err)" 
+        intervals [788]:
+            xmin = 2391.23927 
+            xmax = 2397.08128 
+            text = "the spiritual strength in our scars emerging from personal struggle with resilience" 
+        intervals [789]:
+            xmin = 2397.08128 
+            xmax = 2402.88753 
+            text = "<malay>dia macam untuk buku untuk wanita-wanita</malay> [lah] <malay>yang mana yang orang rasa orang cakap</malay> [ah] <malay>sudah tua tak kahwin lagi</malay>" 
+        intervals [790]:
+            xmin = 2402.88753 
+            xmax = 2403.3404 
+            text = "<Z>" 
+        intervals [791]:
+            xmin = 2403.3404 
+            xmax = 2407.39358 
+            text = "[ah] <malay>sudah kahwin tak ada anak</malay> (err) <malay>sudah kahwin satu anak nak dua</malay>" 
+        intervals [792]:
+            xmin = 2407.39358 
+            xmax = 2408.14081 
+            text = "<Z>" 
+        intervals [793]:
+            xmin = 2408.14081 
+            xmax = 2411.87698 
+            text = "<malay>lepas itu orang yang memang pilih untuk</malay> business <malay>dan sebagainya dan semuanya silap</malay>" 
+        intervals [794]:
+            xmin = 2411.87698 
+            xmax = 2416.67739 
+            text = "[a'ah] [kan] <malay>tak ada benda yang betul pun tapi asyik dipertikaikan</malay> so <malay>macam mana kita nak</malay>" 
+        intervals [795]:
+            xmin = 2416.67739 
+            xmax = 2417.3 
+            text = "<Z>" 
+        intervals [796]:
+            xmin = 2417.3 
+            xmax = 2421.51049 
+            text = "(err) <malay>apa bangun daripada</malay> scars <malay>pun dia bagi tahu</malay> okay" 
+        intervals [797]:
+            xmin = 2421.51049 
+            xmax = 2422.3483 
+            text = "<Z>" 
+        intervals [798]:
+            xmin = 2422.3483 
+            xmax = 2423.75219 
+            text = "(ppb) <malay>soalan seterusnya</malay>" 
+        intervals [799]:
+            xmin = 2423.75219 
+            xmax = 2425.76746 
+            text = "<Z>" 
+        intervals [800]:
+            xmin = 2425.76746 
+            xmax = 2427.05 
+            text = "<malay>soalan seterusnya</malay>" 
+        intervals [801]:
+            xmin = 2427.05 
+            xmax = 2429.03 
+            text = "<Z>" 
+        intervals [802]:
+            xmin = 2429.03 
+            xmax = 2431.93758 
+            text = "what are five things you are most grateful for" 
+        intervals [803]:
+            xmin = 2431.93758 
+            xmax = 2433.17 
+            text = "<Z>" 
+        intervals [804]:
+            xmin = 2433.17 
+            xmax = 2436.5 
+            text = "what are five things you are most grateful for" 
+        intervals [805]:
+            xmin = 2436.5 
+            xmax = 2440.6603 
+            text = "<Z>" 
+        intervals [806]:
+            xmin = 2440.6603 
+            xmax = 2442.69821 
+            text = "I'm still alive (ppl)" 
+        intervals [807]:
+            xmin = 2442.69821 
+            xmax = 2445.57843 
+            text = "<Z>" 
+        intervals [808]:
+            xmin = 2445.57843 
+            xmax = 2446.37 
+            text = "(hmm) [kan]" 
+        intervals [809]:
+            xmin = 2446.37 
+            xmax = 2447.4352 
+            text = "<Z>" 
+        intervals [810]:
+            xmin = 2447.4352 
+            xmax = 2451.46573 
+            text = "<malay>ada ada fasa yang macam bila akak seorang</malay> then [ah] then a lot of things [kan]" 
+        intervals [811]:
+            xmin = 2451.46573 
+            xmax = 2452.48 
+            text = "<Z>" 
+        intervals [812]:
+            xmin = 2452.48 
+            xmax = 2454.02 
+            text = "I find my way to" 
+        intervals [813]:
+            xmin = 2454.02 
+            xmax = 2456.86 
+            text = "<Z>" 
+        intervals [814]:
+            xmin = 2456.86 
+            xmax = 2460.75959 
+            text = "this world doesn't deserve me [ah] <malay>macam itu</malay> [ah] so" 
+        intervals [815]:
+            xmin = 2460.75959 
+            xmax = 2465.96758 
+            text = "this is the first [lah] <malay>yang</malay> I I'm grateful for is I am still alive" 
+        intervals [816]:
+            xmin = 2465.96758 
+            xmax = 2468.07342 
+            text = "<Z>" 
+        intervals [817]:
+            xmin = 2468.07342 
+            xmax = 2472.05765 
+            text = "(ppl) (ppb) [ah] [kan] okay #ida# #ida#" 
+        intervals [818]:
+            xmin = 2472.05765 
+            xmax = 2474.59372 
+            text = "that [one] [lah] <malay>akak punya satu</malay> [ah] <malay>akak tak terfikir lagi</malay>" 
+        intervals [819]:
+            xmin = 2474.59372 
+            xmax = 2482.57476 
+            text = "<Z>" 
+        intervals [820]:
+            xmin = 2482.57476 
+            xmax = 2483.29936 
+            text = "okay" 
+        intervals [821]:
+            xmin = 2483.29936 
+            xmax = 2489.14137 
+            text = "<Z>" 
+        intervals [822]:
+            xmin = 2489.14137 
+            xmax = 2489.64 
+            text = "(mm) (mm)" 
+        intervals [823]:
+            xmin = 2489.64 
+            xmax = 2491.17 
+            text = "<Z>" 
+        intervals [824]:
+            xmin = 2491.17 
+            xmax = 2498.3 
+            text = "<Z>" 
+        intervals [825]:
+            xmin = 2498.3 
+            xmax = 2503.99998 
+            text = "<Z>" 
+        intervals [826]:
+            xmin = 2503.99998 
+            xmax = 2506.61956 
+            text = "congratulations (ppl)" 
+        intervals [827]:
+            xmin = 2506.61956 
+            xmax = 2507.18564 
+            text = "<Z>" 
+        intervals [828]:
+            xmin = 2507.18564 
+            xmax = 2511.9319 
+            text = "<malay>walaupun masih ingat-ingat</malay> [lah] [kan] sis K of course [ah] <malay>tak boleh lupa</malay>" 
+        intervals [829]:
+            xmin = 2511.9319 
+            xmax = 2522.98422 
+            text = "<Z>" 
+        intervals [830]:
+            xmin = 2522.98422 
+            xmax = 2523.48237 
+            text = "(mm) (mm)" 
+        intervals [831]:
+            xmin = 2523.48237 
+            xmax = 2536.99845 
+            text = "<Z>" 
+        intervals [832]:
+            xmin = 2536.99845 
+            xmax = 2537.58718 
+            text = "[ah]" 
+        intervals [833]:
+            xmin = 2537.58718 
+            xmax = 2544.94631 
+            text = "<Z>" 
+        intervals [834]:
+            xmin = 2544.94631 
+            xmax = 2545.69354 
+            text = "(mm) (mm)" 
+        intervals [835]:
+            xmin = 2545.69354 
+            xmax = 2553.09795 
+            text = "<Z>" 
+        intervals [836]:
+            xmin = 2553.09795 
+            xmax = 2553.56 
+            text = "okay" 
+        intervals [837]:
+            xmin = 2553.56 
+            xmax = 2554.18483 
+            text = "<Z>" 
+        intervals [838]:
+            xmin = 2554.18483 
+            xmax = 2558.3 
+            text = "right (err) <malay>benda yang patut disyukurkan lagi adalah</malay>" 
+        intervals [839]:
+            xmin = 2558.3 
+            xmax = 2560.97 
+            text = "<Z>" 
+        intervals [840]:
+            xmin = 2560.97 
+            xmax = 2563.48474 
+            text = "actually <malay>banyak</malay> [ah] business <malay>apa semua akak</malay>" 
+        intervals [841]:
+            xmin = 2563.48474 
+            xmax = 2564.05083 
+            text = "<Z>" 
+        intervals [842]:
+            xmin = 2564.05083 
+            xmax = 2566.73331 
+            text = "<malay>macam itu</malay> [ah] (ppo) okay <malay>ada lagi</malay>" 
+        intervals [843]:
+            xmin = 2566.73331 
+            xmax = 2567.48054 
+            text = "<Z>" 
+        intervals [844]:
+            xmin = 2567.48054 
+            xmax = 2568.81651 
+            text = "(ppl)" 
+        intervals [845]:
+            xmin = 2568.81651 
+            xmax = 2570.12983 
+            text = "<Z>" 
+        intervals [846]:
+            xmin = 2570.12983 
+            xmax = 2574.18301 
+            text = "(ppb) [kan] [kan] <malay>ada banyak benda yang boleh disyukuri</malay>" 
+        intervals [847]:
+            xmin = 2574.18301 
+            xmax = 2578.8 
+            text = "okay next five things you wish to be praised for <malay>apa maksud</malay> [ah]" 
+        intervals [848]:
+            xmin = 2578.8 
+            xmax = 2581.39 
+            text = "<Z>" 
+        intervals [849]:
+            xmin = 2581.39 
+            xmax = 2583.6 
+            text = "<malay>lima benda yang kita harap</malay>" 
+        intervals [850]:
+            xmin = 2583.6 
+            xmax = 2586.95 
+            text = "<Z>" 
+        intervals [851]:
+            xmin = 2586.95 
+            xmax = 2588.01 
+            text = "<malay>soalan nombor empat belas</malay>" 
+        intervals [852]:
+            xmin = 2588.01 
+            xmax = 2591.56 
+            text = "<Z>" 
+        intervals [853]:
+            xmin = 2591.56 
+            xmax = 2595.47 
+            text = "<Z>" 
+        intervals [854]:
+            xmin = 2595.47 
+            xmax = 2597.04 
+            text = "<Z>" 
+        intervals [855]:
+            xmin = 2597.04 
+            xmax = 2597.65012 
+            text = "<malay>harap</malay> [eh]" 
+        intervals [856]:
+            xmin = 2597.65012 
+            xmax = 2599.91446 
+            text = "<Z>" 
+        intervals [857]:
+            xmin = 2599.91446 
+            xmax = 2601.47686 
+            text = "(mm) (mm) <malay>akak rasa macam</malay>" 
+        intervals [858]:
+            xmin = 2601.47686 
+            xmax = 2602.43 
+            text = "<Z>" 
+        intervals [859]:
+            xmin = 2602.43 
+            xmax = 2604.35258 
+            text = "<malay>tak nak akak nak minta</malay> happy [jer]" 
+        intervals [860]:
+            xmin = 2604.35258 
+            xmax = 2605.43947 
+            text = "<Z>" 
+        intervals [861]:
+            xmin = 2605.43947 
+            xmax = 2610.56 
+            text = "<malay>dan akak macam boleh</malay> go through [lah] <malay>apa ujian yang allah bagi</malay>" 
+        intervals [862]:
+            xmin = 2610.56 
+            xmax = 2611.76201 
+            text = "<Z>" 
+        intervals [863]:
+            xmin = 2611.76201 
+            xmax = 2612.76 
+            text = "(ppb)" 
+        intervals [864]:
+            xmin = 2612.76 
+            xmax = 2620.0319 
+            text = "okay number fifteen what one word sums up your entire twenty twenty" 
+        intervals [865]:
+            xmin = 2620.0319 
+            xmax = 2620.96028 
+            text = "<Z>" 
+        intervals [866]:
+            xmin = 2620.96028 
+            xmax = 2621.63958 
+            text = "struggle" 
+        intervals [867]:
+            xmin = 2621.63958 
+            xmax = 2622.36 
+            text = "<Z>" 
+        intervals [868]:
+            xmin = 2622.36 
+            xmax = 2625.04112 
+            text = "<malay>akak rasa macam</malay> I'm being grateful [lah]" 
+        intervals [869]:
+            xmin = 2625.04112 
+            xmax = 2625.62985 
+            text = "<Z>" 
+        intervals [870]:
+            xmin = 2625.62985 
+            xmax = 2631.42 
+            text = "(ppl) <malay>tadi macam nak cakap</malay> sucks [kan] but then (ppb) after go through <malay>semua soalan</malay> [ah] grateful" 
+        intervals [871]:
+            xmin = 2631.42 
+            xmax = 2632.26336 
+            text = "<Z>" 
+        intervals [872]:
+            xmin = 2632.26336 
+            xmax = 2635.50138 
+            text = "<malay>banyak benda sebenarnya macam yang dicapai dua puluh dua puluh walaupun</malay>" 
+        intervals [873]:
+            xmin = 2635.50138 
+            xmax = 2636.88263 
+            text = "<Z>" 
+        intervals [874]:
+            xmin = 2636.88263 
+            xmax = 2639.08 
+            text = "[oh] ya okay" 
+        intervals [875]:
+            xmin = 2639.08 
+            xmax = 2640.62 
+            text = "<Z>" 
+        intervals [876]:
+            xmin = 2640.62 
+            xmax = 2642.44 
+            text = "<Z>" 
+        intervals [877]:
+            xmin = 2642.44 
+            xmax = 2651.57 
+            text = "[kan] okay number sixteen what are the five biggest necessary ending that must happen in twenty twenty one <malay>mesti kena jadi</malay>" 
+        intervals [878]:
+            xmin = 2651.57 
+            xmax = 2655.32445 
+            text = "<Z>" 
+        intervals [879]:
+            xmin = 2655.32445 
+            xmax = 2655.91318 
+            text = "(mm) (mm)" 
+        intervals [880]:
+            xmin = 2655.91318 
+            xmax = 2656.79627 
+            text = "<Z>" 
+        intervals [881]:
+            xmin = 2656.79627 
+            xmax = 2660.17014 
+            text = "(ppl) (ppb) [ah] me too okay second" 
+        intervals [882]:
+            xmin = 2660.17014 
+            xmax = 2664.09 
+            text = "<Z>" 
+        intervals [883]:
+            xmin = 2664.09 
+            xmax = 2668.69413 
+            text = "<Z>" 
+        intervals [884]:
+            xmin = 2668.69413 
+            xmax = 2669.23757 
+            text = "(mm) (mm)" 
+        intervals [885]:
+            xmin = 2669.23757 
+            xmax = 2677.32 
+            text = "<Z>" 
+        intervals [886]:
+            xmin = 2677.32 
+            xmax = 2683.8466 
+            text = "<Z>" 
+        intervals [887]:
+            xmin = 2683.8466 
+            xmax = 2684.59383 
+            text = "(mm) (mm)" 
+        intervals [888]:
+            xmin = 2684.59383 
+            xmax = 2685.36371 
+            text = "<Z>" 
+        intervals [889]:
+            xmin = 2685.36371 
+            xmax = 2692.6 
+            text = "!wow! okay <malay>sama</malay> [lah] okay <malay>akak pun dua puluh</malay> K <malay>akak pun fikir dua puluh</malay> K right so <malay>sama</malay> [lah] <malay>kita kahwin dengan dua puluh</malay> K <malay>lagi</malay>" 
+        intervals [890]:
+            xmin = 2692.6 
+            xmax = 2696.64517 
+            text = "<Z>" 
+        intervals [891]:
+            xmin = 2696.64517 
+            xmax = 2699.70204 
+            text = "okay <malay>kata hari tu tak nak</malay> (ppl)" 
+        intervals [892]:
+            xmin = 2699.70204 
+            xmax = 2702.53041 
+            text = "<Z>" 
+        intervals [893]:
+            xmin = 2702.53041 
+            xmax = 2705.11176 
+            text = "<malay>nak</malay> permanent job <malay>ke nak buat</malay> Shaklee (ppl)" 
+        intervals [894]:
+            xmin = 2705.11176 
+            xmax = 2706.49301 
+            text = "<Z>" 
+        intervals [895]:
+            xmin = 2706.49301 
+            xmax = 2707.87427 
+            text = "(ppl)" 
+        intervals [896]:
+            xmin = 2707.87427 
+            xmax = 2714.12386 
+            text = "<Z>" 
+        intervals [897]:
+            xmin = 2714.12386 
+            xmax = 2714.78052 
+            text = "[a'ah]" 
+        intervals [898]:
+            xmin = 2714.78052 
+            xmax = 2717.15808 
+            text = "<Z>" 
+        intervals [899]:
+            xmin = 2717.15808 
+            xmax = 2718.9922 
+            text = "<malay>berhenti</malay> okay" 
+        intervals [900]:
+            xmin = 2718.9922 
+            xmax = 2722.17888 
+            text = "<Z>" 
+        intervals [901]:
+            xmin = 2722.17888 
+            xmax = 2724.78288 
+            text = "(ppl)" 
+        intervals [902]:
+            xmin = 2724.78288 
+            xmax = 2725.75655 
+            text = "<Z>" 
+        intervals [903]:
+            xmin = 2725.75655 
+            xmax = 2727.54538 
+            text = "[a'ah] okay" 
+        intervals [904]:
+            xmin = 2727.54538 
+            xmax = 2731.12756 
+            text = "<Z>" 
+        intervals [905]:
+            xmin = 2731.12756 
+            xmax = 2733.16547 
+            text = "<malay>berhenti</malay> okay" 
+        intervals [906]:
+            xmin = 2733.16547 
+            xmax = 2738.40062 
+            text = "<Z>" 
+        intervals [907]:
+            xmin = 2738.40062 
+            xmax = 2739.14786 
+            text = "okay" 
+        intervals [908]:
+            xmin = 2739.14786 
+            xmax = 2752.01 
+            text = "<S>" 
+        intervals [909]:
+            xmin = 2752.01 
+            xmax = 2760.67 
+            text = "<Z>" 
+        intervals [910]:
+            xmin = 2760.67 
+            xmax = 2761.80896 
+            text = "!wow! okay" 
+        intervals [911]:
+            xmin = 2761.80896 
+            xmax = 2764.26396 
+            text = "<Z>" 
+        intervals [912]:
+            xmin = 2764.26396 
+            xmax = 2768.00013 
+            text = "<Z>" 
+        intervals [913]:
+            xmin = 2768.00013 
+            xmax = 2768.49 
+            text = "(mm) (mm)" 
+        intervals [914]:
+            xmin = 2768.49 
+            xmax = 2772.52 
+            text = "<S>" 
+        intervals [915]:
+            xmin = 2772.52 
+            xmax = 2774.6 
+            text = "<Z>" 
+        intervals [916]:
+            xmin = 2774.6 
+            xmax = 2783.50935 
+            text = "<Z>" 
+        intervals [917]:
+            xmin = 2783.50935 
+            xmax = 2784.41509 
+            text = "okay" 
+        intervals [918]:
+            xmin = 2784.41509 
+            xmax = 2794.1 
+            text = "<Z>" 
+        intervals [919]:
+            xmin = 2794.1 
+            xmax = 2799.5565 
+            text = "okay so <malay>akak</malay> [kan] <malay>dua sudah</malay> [kan] first <malay>kahwin kedua simpanan dua puluh</malay> K" 
+        intervals [920]:
+            xmin = 2799.5565 
+            xmax = 2800.19051 
+            text = "<Z>" 
+        intervals [921]:
+            xmin = 2800.19051 
+            xmax = 2803.24 
+            text = "[ah] <malay>yang ketiga adalah</malay> (mm)" 
+        intervals [922]:
+            xmin = 2803.24 
+            xmax = 2806.07 
+            text = "<Z>" 
+        intervals [923]:
+            xmin = 2806.07 
+            xmax = 2806.83 
+            text = "<malay>apa yang tadi</malay> [eh]" 
+        intervals [924]:
+            xmin = 2806.83 
+            xmax = 2809.1 
+            text = "<Z>" 
+        intervals [925]:
+            xmin = 2809.1 
+            xmax = 2811.53282 
+            text = "(err) <malay>mesti kena jadi</malay> [kan]" 
+        intervals [926]:
+            xmin = 2811.53282 
+            xmax = 2815.85772 
+            text = "okay (err) <malay>tak</malay> [lah] <malay>akak nak</malay> push <malay>macam akak sihat</malay> mentally" 
+        intervals [927]:
+            xmin = 2815.85772 
+            xmax = 2816.44645 
+            text = "<Z>" 
+        intervals [928]:
+            xmin = 2816.44645 
+            xmax = 2820.88457 
+            text = "<malay>tapi akak rasa macam</malay> better [lah] better <malay>daripada apa yang ada sekarang</malay>" 
+        intervals [929]:
+            xmin = 2820.88457 
+            xmax = 2822.10732 
+            text = "<Z>" 
+        intervals [930]:
+            xmin = 2822.10732 
+            xmax = 2826.32 
+            text = "<malay>yang ketiga yang keempat mesti</malay> grad~ master" 
+        intervals [931]:
+            xmin = 2826.32 
+            xmax = 2827.91 
+            text = "<Z>" 
+        intervals [932]:
+            xmin = 2827.91 
+            xmax = 2831.9104 
+            text = "[ah] <malay>nak ambil</malay> P_H_D <malay>ke tak itu tengok</malay> after that [ah] <malay>tapi tak pun</malay>" 
+        intervals [933]:
+            xmin = 2831.9104 
+            xmax = 2832.4312 
+            text = "<Z>" 
+        intervals [934]:
+            xmin = 2832.4312 
+            xmax = 2835.21634 
+            text = "<malay>yang kelima gaji mesti lapan</malay> K" 
+        intervals [935]:
+            xmin = 2835.21634 
+            xmax = 2836.12208 
+            text = "<Z>" 
+        intervals [936]:
+            xmin = 2836.12208 
+            xmax = 2839.58653 
+            text = "which is [ah] ya <malay>sebab</malay> at least" 
+        intervals [937]:
+            xmin = 2839.58653 
+            xmax = 2846.44749 
+            text = "<malay>kalau lapan</malay> K <malay>itu maksudnya semua benda semua yang akak kata jauhari</malay> shine hero <malay>cilik apa semua itu kena</malay> run" 
+        intervals [938]:
+            xmin = 2846.44749 
+            xmax = 2847.13736 
+            text = "<Z>" 
+        intervals [939]:
+            xmin = 2847.13736 
+            xmax = 2855.17 
+            text = "<malay>kena sudah</malay> #dipublish# <malay>sudah</malay> so <malay>dia bukannya datang dengan gaji lapan</malay> K <malay>sahaja dia datang dengan usaha makan macam nak mati macam itu</malay> [a'ah]" 
+        intervals [940]:
+            xmin = 2855.17 
+            xmax = 2858.88 
+            text = "K that [one] [ah] okay next question" 
+        intervals [941]:
+            xmin = 2858.88 
+            xmax = 2861.07 
+            text = "<Z>" 
+        intervals [942]:
+            xmin = 2861.07 
+            xmax = 2864.68 
+            text = "what are five powerful habits of two thousand twenty one" 
+        intervals [943]:
+            xmin = 2864.68 
+            xmax = 2866.66 
+            text = "<Z>" 
+        intervals [944]:
+            xmin = 2866.66 
+            xmax = 2867.27139 
+            text = "<Z>" 
+        intervals [945]:
+            xmin = 2867.27139 
+            xmax = 2868.4 
+            text = "habit <malay>yang awak nak</malay>" 
+        intervals [946]:
+            xmin = 2868.4 
+            xmax = 2870.19 
+            text = "<Z>" 
+        intervals [947]:
+            xmin = 2870.19 
+            xmax = 2871.24 
+            text = "very powerful habit" 
+        intervals [948]:
+            xmin = 2871.24 
+            xmax = 2874.44936 
+            text = "<Z>" 
+        intervals [949]:
+            xmin = 2874.44936 
+            xmax = 2875.84 
+            text = "okay <malay>akak ada satu benda</malay> [ah]" 
+        intervals [950]:
+            xmin = 2875.84 
+            xmax = 2877.79 
+            text = "<Z>" 
+        intervals [951]:
+            xmin = 2877.79 
+            xmax = 2883.25664 
+            text = "[ah] <malay>akak nak</malay> always jot down <malay>akak punya</malay> journal" 
+        intervals [952]:
+            xmin = 2883.25664 
+            xmax = 2884.34353 
+            text = "<Z>" 
+        intervals [953]:
+            xmin = 2884.34353 
+            xmax = 2889.48862 
+            text = "(err) <malay>maksudnya</malay> okay <malay>akak sudah letakkan</malay> action <malay>apa yang akak nak capai ibadat macam mana dan sebagainya</malay>" 
+        intervals [954]:
+            xmin = 2889.48862 
+            xmax = 2890.23 
+            text = "<Z>" 
+        intervals [955]:
+            xmin = 2890.23 
+            xmax = 2895.02417 
+            text = "[ah] <malay>tapi</malay> so far <malay>belum berjaya</malay> [lah] <malay>untuk dua hari ini</malay> [kan] <malay>tapi</malay> [ah] <malay>dalam masa ini</malay>" 
+        intervals [956]:
+            xmin = 2895.02417 
+            xmax = 2900.54866 
+            text = "okay <malay>berapa nak bagi</malay> parents [ah] <malay>berapa nak ini berapa nak capai</malay> okay <malay>keuntungan macam mana</malay>" 
+        intervals [957]:
+            xmin = 2900.54866 
+            xmax = 2901.02418 
+            text = "<Z>" 
+        intervals [958]:
+            xmin = 2901.02418 
+            xmax = 2904.10369 
+            text = "so <malay>benda itu semua dalam satu</malay> journal" 
+        intervals [959]:
+            xmin = 2904.10369 
+            xmax = 2904.94149 
+            text = "<Z>" 
+        intervals [960]:
+            xmin = 2904.94149 
+            xmax = 2909.5834 
+            text = "(mm) so <malay>nak</malay> habit always <malay>catat</malay> journal <malay>itu</malay> and" 
+        intervals [961]:
+            xmin = 2909.5834 
+            xmax = 2913.72509 
+            text = "count everything <malay>yang keluar</malay> every pennies <malay>yang ada</malay> (err) <malay>yang ada kat dalam</malay>" 
+        intervals [962]:
+            xmin = 2913.72509 
+            xmax = 2914.48 
+            text = "<Z>" 
+        intervals [963]:
+            xmin = 2914.48 
+            xmax = 2918.4705 
+            text = "<malay>dompet ke dalam</malay> handbag (err) <malay>apa ini</malay> bank <malay>ke apa semua akan dicatat</malay> [lah]" 
+        intervals [964]:
+            xmin = 2918.4705 
+            xmax = 2923.54 
+            text = "<malay>macam</malay> very disciplined yes [ah] second one" 
+        intervals [965]:
+            xmin = 2923.54 
+            xmax = 2924.29958 
+            text = "<Z>" 
+        intervals [966]:
+            xmin = 2924.29958 
+            xmax = 2928.05738 
+            text = "<malay>pergi kerja</malay> on time (ppl) business [lah] [kan]" 
+        intervals [967]:
+            xmin = 2928.05738 
+            xmax = 2929.05369 
+            text = "<Z>" 
+        intervals [968]:
+            xmin = 2929.05369 
+            xmax = 2933.37859 
+            text = "(err) can (ppl) <malay>tak kesah</malay> [lah] [kan] <malay>sebab kadang-kadang tengah malam pun kita tengah kerja lagi</malay>" 
+        intervals [969]:
+            xmin = 2933.37859 
+            xmax = 2934.46547 
+            text = "<Z>" 
+        intervals [970]:
+            xmin = 2934.46547 
+            xmax = 2937.06947 
+            text = "and tear to fun" 
+        intervals [971]:
+            xmin = 2937.06947 
+            xmax = 2939.35646 
+            text = "<Z>" 
+        intervals [972]:
+            xmin = 2939.35646 
+            xmax = 2941.36 
+            text = "(mm) <malay>itu</malay> [ah] <malay>masalahnya kita selalu tak dapat tidur</malay>" 
+        intervals [973]:
+            xmin = 2941.36 
+            xmax = 2942.84 
+            text = "<Z>" 
+        intervals [974]:
+            xmin = 2942.84 
+            xmax = 2947.9 
+            text = "that [one] (err) habit [kan] (err) <malay>tadi itu</malay>" 
+        intervals [975]:
+            xmin = 2947.9 
+            xmax = 2950.12 
+            text = "<Z>" 
+        intervals [976]:
+            xmin = 2950.12 
+            xmax = 2951.11343 
+            text = "<malay>tak nak hutang</malay>" 
+        intervals [977]:
+            xmin = 2951.11343 
+            xmax = 2953.28 
+            text = "<Z>" 
+        intervals [978]:
+            xmin = 2953.28 
+            xmax = 2956.97603 
+            text = "(err) <malay>selang~ selangsai hutang-hutang yang lain</malay> [lah] <malay>macam hutang</malay> loan <malay>dan sebagainya hutang kereta memang</malay>" 
+        intervals [979]:
+            xmin = 2956.97603 
+            xmax = 2958.9913 
+            text = "<malay>orang lain yang bayar sebab akak sudah jual sudah</malay> [kan]" 
+        intervals [980]:
+            xmin = 2958.9913 
+            xmax = 2959.8291 
+            text = "<Z>" 
+        intervals [981]:
+            xmin = 2959.8291 
+            xmax = 2963.76906 
+            text = "<malay>hutang kereta</malay> [ah] <malay>lepas itu</malay> insurance <malay>dan sebagainya itu</malay> [ah]" 
+        intervals [982]:
+            xmin = 2963.76906 
+            xmax = 2964.60687 
+            text = "<Z>" 
+        intervals [983]:
+            xmin = 2964.60687 
+            xmax = 2966.76 
+            text = "<malay>memang</malay> financially disciplined [lah]" 
+        intervals [984]:
+            xmin = 2966.76 
+            xmax = 2968.43 
+            text = "<Z>" 
+        intervals [985]:
+            xmin = 2968.43 
+            xmax = 2970.91 
+            text = "<malay>yang kelima</malay> habit" 
+        intervals [986]:
+            xmin = 2970.91 
+            xmax = 2972.57 
+            text = "<Z>" 
+        intervals [987]:
+            xmin = 2972.57 
+            xmax = 2973.30196 
+            text = "<malay>baca quran</malay> #kot#" 
+        intervals [988]:
+            xmin = 2973.30196 
+            xmax = 2974.92573 
+            text = "<Z>" 
+        intervals [989]:
+            xmin = 2974.92573 
+            xmax = 2977.37122 
+            text = "<malay>sebab</malay> twenty twenty <malay>ya allah</malay>" 
+        intervals [990]:
+            xmin = 2977.37122 
+            xmax = 2979.06948 
+            text = "<Z>" 
+        intervals [991]:
+            xmin = 2979.06948 
+            xmax = 2983.16795 
+            text = "[ah] <malay>ada ada sebab benda itu sudah ada kalau sudah baca quran mesti</malay> [lah] <malay>kena khatam</malay> [kan]" 
+        intervals [992]:
+            xmin = 2983.16795 
+            xmax = 2983.7617 
+            text = "<Z>" 
+        intervals [993]:
+            xmin = 2983.7617 
+            xmax = 2984.84858 
+            text = "<malay>akak ada</malay>" 
+        intervals [994]:
+            xmin = 2984.84858 
+            xmax = 2985.8449 
+            text = "<Z>" 
+        intervals [995]:
+            xmin = 2985.8449 
+            xmax = 2991.32461 
+            text = "[ah] <malay>akak akak sudah bayarkan</malay> [kan] <malay>tahun dua puluh dua puluh dua puluh satu ini mesti kena khatam</malay> at least <malay>empat kali</malay>" 
+        intervals [996]:
+            xmin = 2991.32461 
+            xmax = 2992.20771 
+            text = "<Z>" 
+        intervals [997]:
+            xmin = 2992.20771 
+            xmax = 2992.56794 
+            text = "[a'ah]" 
+        intervals [998]:
+            xmin = 2992.56794 
+            xmax = 2994.37942 
+            text = "<Z>" 
+        intervals [999]:
+            xmin = 2994.37942 
+            xmax = 2998.77225 
+            text = "(ppl) <malay>sebab biasanya bulan puasa sudah sekali</malay> [a'ah]" 
+        intervals [1000]:
+            xmin = 2998.77225 
+            xmax = 3003.32 
+            text = "okay so <malay>akak buat empat kali</malay> [lah] <malay>macam itu</malay> okay [ah] <malay>harapnya</malay> [lah] [kan]" 
+        intervals [1001]:
+            xmin = 3003.32 
+            xmax = 3003.77645 
+            text = "<Z>" 
+        intervals [1002]:
+            xmin = 3003.77645 
+            xmax = 3005.38414 
+            text = "okay #ida#" 
+        intervals [1003]:
+            xmin = 3005.38414 
+            xmax = 3019.62481 
+            text = "<Z>" 
+        intervals [1004]:
+            xmin = 3019.62481 
+            xmax = 3020.28147 
+            text = "okay" 
+        intervals [1005]:
+            xmin = 3020.28147 
+            xmax = 3022.02501 
+            text = "<Z>" 
+        intervals [1006]:
+            xmin = 3022.02501 
+            xmax = 3022.88547 
+            text = "okay" 
+        intervals [1007]:
+            xmin = 3022.88547 
+            xmax = 3030.1993 
+            text = "<Z>" 
+        intervals [1008]:
+            xmin = 3030.1993 
+            xmax = 3030.53895 
+            text = "(mm) (mm)" 
+        intervals [1009]:
+            xmin = 3030.53895 
+            xmax = 3037.10555 
+            text = "<Z>" 
+        intervals [1010]:
+            xmin = 3037.10555 
+            xmax = 3037.966 
+            text = "(err) habit" 
+        intervals [1011]:
+            xmin = 3037.966 
+            xmax = 3044.3 
+            text = "<Z>" 
+        intervals [1012]:
+            xmin = 3044.3 
+            xmax = 3044.97 
+            text = "<Z>" 
+        intervals [1013]:
+            xmin = 3044.97 
+            xmax = 3046.73 
+            text = "<Z>" 
+        intervals [1014]:
+            xmin = 3046.73 
+            xmax = 3048.08557 
+            text = "<Z>" 
+        intervals [1015]:
+            xmin = 3048.08557 
+            xmax = 3049.60268 
+            text = "(ppl)" 
+        intervals [1016]:
+            xmin = 3049.60268 
+            xmax = 3053.72 
+            text = "<Z>" 
+        intervals [1017]:
+            xmin = 3053.72 
+            xmax = 3055.09 
+            text = "<Z>" 
+        intervals [1018]:
+            xmin = 3055.09 
+            xmax = 3060.15453 
+            text = "<Z>" 
+        intervals [1019]:
+            xmin = 3060.15453 
+            xmax = 3060.56211 
+            text = "[a'ah]" 
+        intervals [1020]:
+            xmin = 3060.56211 
+            xmax = 3062.26037 
+            text = "<Z>" 
+        intervals [1021]:
+            xmin = 3062.26037 
+            xmax = 3063.46047 
+            text = "(ppl)" 
+        intervals [1022]:
+            xmin = 3063.46047 
+            xmax = 3063.93598 
+            text = "<Z>" 
+        intervals [1023]:
+            xmin = 3063.93598 
+            xmax = 3064.52471 
+            text = "okay" 
+        intervals [1024]:
+            xmin = 3064.52471 
+            xmax = 3066.83937 
+            text = "<Z>" 
+        intervals [1025]:
+            xmin = 3066.83937 
+            xmax = 3068.01683 
+            text = "(ppl)" 
+        intervals [1026]:
+            xmin = 3068.01683 
+            xmax = 3069.57923 
+            text = "<Z>" 
+        intervals [1027]:
+            xmin = 3069.57923 
+            xmax = 3071.41 
+            text = "(ppl) okay" 
+        intervals [1028]:
+            xmin = 3071.41 
+            xmax = 3075.12083 
+            text = "<Z>" 
+        intervals [1029]:
+            xmin = 3075.12083 
+            xmax = 3075.80013 
+            text = "(mm) (mm)" 
+        intervals [1030]:
+            xmin = 3075.80013 
+            xmax = 3080.18692 
+            text = "<Z>" 
+        intervals [1031]:
+            xmin = 3080.18692 
+            xmax = 3080.83 
+            text = "okay" 
+        intervals [1032]:
+            xmin = 3080.83 
+            xmax = 3083.32 
+            text = "<Z>" 
+        intervals [1033]:
+            xmin = 3083.32 
+            xmax = 3086.30567 
+            text = "<malay>itu nombor dua</malay> [oh] [oh] [oh] okay" 
+        intervals [1034]:
+            xmin = 3086.30567 
+            xmax = 3091.64 
+            text = "<Z>" 
+        intervals [1035]:
+            xmin = 3091.64 
+            xmax = 3093.26 
+            text = "<Z>" 
+        intervals [1036]:
+            xmin = 3093.26 
+            xmax = 3097.96 
+            text = "<Z>" 
+        intervals [1037]:
+            xmin = 3097.96 
+            xmax = 3100.70485 
+            text = "<Z>" 
+        intervals [1038]:
+            xmin = 3100.70485 
+            xmax = 3101.67 
+            text = "okay <malay>tak ada</malay> [eh]" 
+        intervals [1039]:
+            xmin = 3101.67 
+            xmax = 3103 
+            text = "<Z>" 
+        intervals [1040]:
+            xmin = 3103 
+            xmax = 3105.07 
+            text = "alright next question" 
+        intervals [1041]:
+            xmin = 3105.07 
+            xmax = 3107.31 
+            text = "<Z>" 
+        intervals [1042]:
+            xmin = 3107.31 
+            xmax = 3110.17 
+            text = "(err)" 
+        intervals [1043]:
+            xmin = 3110.17 
+            xmax = 3110.93969 
+            text = "<Z>" 
+        intervals [1044]:
+            xmin = 3110.93969 
+            xmax = 3115.69932 
+            text = "what five books and courses you will attend in two thousand twenty one" 
+        intervals [1045]:
+            xmin = 3115.69932 
+            xmax = 3120.13744 
+            text = "five books and <malay>ataupun</malay> courses <malay>yang awak akan</malay> attend in two thousand twenty one" 
+        intervals [1046]:
+            xmin = 3120.13744 
+            xmax = 3124.50762 
+            text = "<Z>" 
+        intervals [1047]:
+            xmin = 3124.50762 
+            xmax = 3125.75301 
+            text = "<malay>menarik</malay> [lah] (mm) (mm)" 
+        intervals [1048]:
+            xmin = 3125.75301 
+            xmax = 3129.71 
+            text = "<Z>" 
+        intervals [1049]:
+            xmin = 3129.71 
+            xmax = 3131.48 
+            text = "<Z>" 
+        intervals [1050]:
+            xmin = 3131.48 
+            xmax = 3134.78569 
+            text = "<Z>" 
+        intervals [1051]:
+            xmin = 3134.78569 
+            xmax = 3135.48764 
+            text = "okay" 
+        intervals [1052]:
+            xmin = 3135.48764 
+            xmax = 3140.4 
+            text = "<Z>" 
+        intervals [1053]:
+            xmin = 3140.4 
+            xmax = 3142.89205 
+            text = "<Z>" 
+        intervals [1054]:
+            xmin = 3142.89205 
+            xmax = 3144.09215 
+            text = "okay mandarin <malay>lagi</malay>" 
+        intervals [1055]:
+            xmin = 3144.09215 
+            xmax = 3150.22 
+            text = "<Z>" 
+        intervals [1056]:
+            xmin = 3150.22 
+            xmax = 3151.63191 
+            text = "<Z>" 
+        intervals [1057]:
+            xmin = 3151.63191 
+            xmax = 3154.89 
+            text = "<Z>" 
+        intervals [1058]:
+            xmin = 3154.89 
+            xmax = 3156.69 
+            text = "<Z>" 
+        intervals [1059]:
+            xmin = 3156.69 
+            xmax = 3163.38889 
+            text = "<Z>" 
+        intervals [1060]:
+            xmin = 3163.38889 
+            xmax = 3170.02 
+            text = "<Z>" 
+        intervals [1061]:
+            xmin = 3170.02 
+            xmax = 3174.31359 
+            text = "!wow! <malay>awak nak</malay> hypnotise <malay>orang ke apa</malay> okay" 
+        intervals [1062]:
+            xmin = 3174.31359 
+            xmax = 3175.9263 
+            text = "<Z>" 
+        intervals [1063]:
+            xmin = 3175.9263 
+            xmax = 3176.69617 
+            text = "(mm)" 
+        intervals [1064]:
+            xmin = 3176.69617 
+            xmax = 3180.13798 
+            text = "<Z>" 
+        intervals [1065]:
+            xmin = 3180.13798 
+            xmax = 3181.6098 
+            text = "okay alright" 
+        intervals [1066]:
+            xmin = 3181.6098 
+            xmax = 3184.4 
+            text = "<Z>" 
+        intervals [1067]:
+            xmin = 3184.4 
+            xmax = 3186.46 
+            text = "<Z>" 
+        intervals [1068]:
+            xmin = 3186.46 
+            xmax = 3191.95582 
+            text = "<Z>" 
+        intervals [1069]:
+            xmin = 3191.95582 
+            xmax = 3194.17487 
+            text = "[a'ah] course <malay>ataupun buku</malay> [a'ah]" 
+        intervals [1070]:
+            xmin = 3194.17487 
+            xmax = 3195.69199 
+            text = "<Z>" 
+        intervals [1071]:
+            xmin = 3195.69199 
+            xmax = 3196.1675 
+            text = "okay" 
+        intervals [1072]:
+            xmin = 3196.1675 
+            xmax = 3197.8884 
+            text = "<Z>" 
+        intervals [1073]:
+            xmin = 3197.8884 
+            xmax = 3198.98 
+            text = "<malay>rumah</malay>" 
+        intervals [1074]:
+            xmin = 3198.98 
+            xmax = 3203.00582 
+            text = "<Z>" 
+        intervals [1075]:
+            xmin = 3203.00582 
+            xmax = 3206.0174 
+            text = "[oh] okay same like me okay" 
+        intervals [1076]:
+            xmin = 3206.0174 
+            xmax = 3207.07 
+            text = "<Z>" 
+        intervals [1077]:
+            xmin = 3207.07 
+            xmax = 3212.49137 
+            text = "(err) men from mars and women from venus yes that is the book <malay>yang akak nak baca</malay> (ppl)" 
+        intervals [1078]:
+            xmin = 3212.49137 
+            xmax = 3213.57825 
+            text = "<Z>" 
+        intervals [1079]:
+            xmin = 3213.57825 
+            xmax = 3218.35291 
+            text = "ya <malay>akak nak sebutkan benda itu tadi tapi awak yang sebutkan</malay> okay alright so <malay>itu</malay> [eh]" 
+        intervals [1080]:
+            xmin = 3218.35291 
+            xmax = 3222.99793 
+            text = "okay <malay>akak yang</malay> first book <malay>akak memang yang</malay> men from mars and women from venus <malay>itu</malay> [kan]" 
+        intervals [1081]:
+            xmin = 3222.99793 
+            xmax = 3227.30019 
+            text = "okay <malay>sebab</malay> ya [lah] <malay>sekarang sudah ini</malay> [lah] <malay>nak</malay> focus [kan] <malay>kita nak kahwin</malay> of course [kan] <malay>kita kena faham</malay>" 
+        intervals [1082]:
+            xmin = 3227.30019 
+            xmax = 3228.16064 
+            text = "<Z>" 
+        intervals [1083]:
+            xmin = 3228.16064 
+            xmax = 3233.07221 
+            text = "the second book says the spear to strength in our stars <malay>itu tak habis baca lagi</malay> I <malay>nak baca</malay>" 
+        intervals [1084]:
+            xmin = 3233.07221 
+            xmax = 3233.92 
+            text = "<Z>" 
+        intervals [1085]:
+            xmin = 3233.92 
+            xmax = 3237.28389 
+            text = "and then (err) courses <malay>yang akak nak</malay> go <malay>adalah</malay> first" 
+        intervals [1086]:
+            xmin = 3237.28389 
+            xmax = 3240.34076 
+            text = "<malay>habiskan</malay> digital marketing <malay>hari itu baru</malay> attend one hours" 
+        intervals [1087]:
+            xmin = 3240.34076 
+            xmax = 3248.31125 
+            text = "so <malay>akak ada lagi</malay> seventeen courses <malay>lagi yang nak kena</malay> attend <malay>dalam</malay> topic digital marketing <malay>itu</malay> okay" 
+        intervals [1088]:
+            xmin = 3248.31125 
+            xmax = 3250.96053 
+            text = "<malay>itu baru</malay> introduction <malay>dia satu jam</malay> [lah]" 
+        intervals [1089]:
+            xmin = 3250.96053 
+            xmax = 3251.91156 
+            text = "<Z>" 
+        intervals [1090]:
+            xmin = 3251.91156 
+            xmax = 3253.77888 
+            text = "(uh) N_C_O S_C_O <malay>ini se~</malay>" 
+        intervals [1091]:
+            xmin = 3253.77888 
+            xmax = 3256.36023 
+            text = "<Z>" 
+        intervals [1092]:
+            xmin = 3256.36023 
+            xmax = 3258.28 
+            text = "[ah] [a'ah] <malay>siapa</malay> neil patel" 
+        intervals [1093]:
+            xmin = 3258.28 
+            xmax = 3261.81731 
+            text = "<Z>" 
+        intervals [1094]:
+            xmin = 3261.81731 
+            xmax = 3266.02243 
+            text = "[oh] okay neil patel <malay>ini dekat negara mana</malay> [ah] <malay>tak ingat</malay> [ah]" 
+        intervals [1095]:
+            xmin = 3266.02243 
+            xmax = 3270.70963 
+            text = "<Z>" 
+        intervals [1096]:
+            xmin = 3270.70963 
+            xmax = 3271.18514 
+            text = "power [ah]" 
+        intervals [1097]:
+            xmin = 3271.18514 
+            xmax = 3272.74098 
+            text = "<Z>" 
+        intervals [1098]:
+            xmin = 3272.74098 
+            xmax = 3275.57141 
+            text = "<Z>" 
+        intervals [1099]:
+            xmin = 3275.57141 
+            xmax = 3276.11486 
+            text = "(mm) (mm)" 
+        intervals [1100]:
+            xmin = 3276.11486 
+            xmax = 3278.42449 
+            text = "<Z>" 
+        intervals [1101]:
+            xmin = 3278.42449 
+            xmax = 3280.59826 
+            text = "I see okay" 
+        intervals [1102]:
+            xmin = 3280.59826 
+            xmax = 3283.0664 
+            text = "(err) <malay>sebab yang ini dia dia bukan setakat</malay> F_B <malay>sahaja</malay>" 
+        intervals [1103]:
+            xmin = 3283.0664 
+            xmax = 3283.66015 
+            text = "<Z>" 
+        intervals [1104]:
+            xmin = 3283.66015 
+            xmax = 3289.66066 
+            text = "<malay>semua</malay> F_B YouTube instagram <malay>lepas itu</malay> LinkedIn [lah] <malay>apa semua</malay> [ah] <malay>semua dia memang ajar</malay> [lah]" 
+        intervals [1105]:
+            xmin = 3289.66066 
+            xmax = 3290.50349 
+            text = "<Z>" 
+        intervals [1106]:
+            xmin = 3290.50349 
+            xmax = 3292.24703 
+            text = "so that [one] is digital marketing" 
+        intervals [1107]:
+            xmin = 3292.24703 
+            xmax = 3293.17542 
+            text = "<Z>" 
+        intervals [1108]:
+            xmin = 3293.17542 
+            xmax = 3296.14171 
+            text = "and then (uh) next one is <malay>menjahit</malay>" 
+        intervals [1109]:
+            xmin = 3296.14171 
+            xmax = 3297.3871 
+            text = "<Z>" 
+        intervals [1110]:
+            xmin = 3297.3871 
+            xmax = 3299.05667 
+            text = "<Z>" 
+        intervals [1111]:
+            xmin = 3299.05667 
+            xmax = 3302.27204 
+            text = "(ppl) <malay>menjahit yang ketiga</malay>" 
+        intervals [1112]:
+            xmin = 3302.27204 
+            xmax = 3306.61354 
+            text = "<malay>menanam pokok nak mencantikkan itu</malay> [lah] <malay>antara satu benda yang</malay>" 
+        intervals [1113]:
+            xmin = 3306.61354 
+            xmax = 3310.68885 
+            text = "end of two thousand twenty one <malay>akak nak kena selesaikan pokok dekat sini</malay> [lah]" 
+        intervals [1114]:
+            xmin = 3310.68885 
+            xmax = 3313.72307 
+            text = "<malay>harapnya tuan rumah tak halau kita</malay> (ppl)" 
+        intervals [1115]:
+            xmin = 3313.72307 
+            xmax = 3315.02983 
+            text = "<Z>" 
+        intervals [1116]:
+            xmin = 3315.02983 
+            xmax = 3318.72071 
+            text = "okay course <malay>menanam pokok dan</malay> (um)" 
+        intervals [1117]:
+            xmin = 3318.72071 
+            xmax = 3319.74 
+            text = "<Z>" 
+        intervals [1118]:
+            xmin = 3319.74 
+            xmax = 3323.88342 
+            text = "<malay>sudah lama sudah sudah lama sudah lama sudah nak buat benda ini adalah kelas</malay> violin" 
+        intervals [1119]:
+            xmin = 3323.88342 
+            xmax = 3324.6 
+            text = "<Z>" 
+        intervals [1120]:
+            xmin = 3324.6 
+            xmax = 3326.37318 
+            text = "<Z>" 
+        intervals [1121]:
+            xmin = 3326.37318 
+            xmax = 3329.78 
+            text = "(uh huh) <malay>kelas</malay> violin that [one]" 
+        intervals [1122]:
+            xmin = 3329.78 
+            xmax = 3331.48 
+            text = "<Z>" 
+        intervals [1123]:
+            xmin = 3331.48 
+            xmax = 3331.91 
+            text = "<malay>perli</malay> [ah]" 
+        intervals [1124]:
+            xmin = 3331.91 
+            xmax = 3333.7323 
+            text = "<Z>" 
+        intervals [1125]:
+            xmin = 3333.7323 
+            xmax = 3338.08 
+            text = "(err) <malay>dan akak nak</malay> certified facebook" 
+        intervals [1126]:
+            xmin = 3338.08 
+            xmax = 3339.61 
+            text = "<Z>" 
+        intervals [1127]:
+            xmin = 3339.61 
+            xmax = 3344.46 
+            text = "<malay>punya</malay> first certified facebook <malay>apa</malay> (err)" 
+        intervals [1128]:
+            xmin = 3344.46 
+            xmax = 3346.13 
+            text = "<Z>" 
+        intervals [1129]:
+            xmin = 3346.13 
+            xmax = 3351.11438 
+            text = "certified by face facebook [lah] <malay>sebagai macam orang yang macam</malay> professional <malay>yang boleh mengajar</malay>" 
+        intervals [1130]:
+            xmin = 3351.11438 
+            xmax = 3355.14492 
+            text = "to~ [ah] sub~ subject <malay>tentang</malay> facebook [ah] <malay>macam itu</malay>" 
+        intervals [1131]:
+            xmin = 3355.14492 
+            xmax = 3355.96008 
+            text = "<Z>" 
+        intervals [1132]:
+            xmin = 3355.96008 
+            xmax = 3357.52248 
+            text = "<malay>itu</malay> courses <malay>yang akak nak</malay>" 
+        intervals [1133]:
+            xmin = 3357.52248 
+            xmax = 3358.13385 
+            text = "<Z>" 
+        intervals [1134]:
+            xmin = 3358.13385 
+            xmax = 3359.80947 
+            text = "<malay>capai</malay> [ah] two thousand twenty one" 
+        intervals [1135]:
+            xmin = 3359.80947 
+            xmax = 3362.26 
+            text = "<Z>" 
+        intervals [1136]:
+            xmin = 3362.26 
+            xmax = 3368.83161 
+            text = "okay <malay>nombor sembilan belas sudah nak habis ini</malay> what are your top three to ten goals of two thousand twenty one" 
+        intervals [1137]:
+            xmin = 3368.83161 
+            xmax = 3372.54513 
+            text = "<Z>" 
+        intervals [1138]:
+            xmin = 3372.54513 
+            xmax = 3374.24339 
+            text = "<malay>tak itu</malay> goals <malay>yang lepas</malay>" 
+        intervals [1139]:
+            xmin = 3374.24339 
+            xmax = 3378.17 
+            text = "<Z>" 
+        intervals [1140]:
+            xmin = 3378.17 
+            xmax = 3380.97 
+            text = "<malay>apa yang kita nak capai</malay> [lah] <malay>apa semua tapi ini</malay> goal goal" 
+        intervals [1141]:
+            xmin = 3380.97 
+            xmax = 3382.61542 
+            text = "<Z>" 
+        intervals [1142]:
+            xmin = 3382.61542 
+            xmax = 3386.84 
+            text = "<malay>entah</malay> [lah] <malay>tak tahu</malay> [lah] goal <malay>akak yang pertama akak nak lapan</malay> K <malay>gaji</malay>" 
+        intervals [1143]:
+            xmin = 3386.84 
+            xmax = 3388.9435 
+            text = "<Z>" 
+        intervals [1144]:
+            xmin = 3388.9435 
+            xmax = 3390.57383 
+            text = "<malay>akak nak lapan</malay> K <malay>gaji</malay>" 
+        intervals [1145]:
+            xmin = 3390.57383 
+            xmax = 3392.2268 
+            text = "<Z>" 
+        intervals [1146]:
+            xmin = 3392.2268 
+            xmax = 3393.4 
+            text = "goal <malay>yang kedua</malay>" 
+        intervals [1147]:
+            xmin = 3393.4 
+            xmax = 3394.91 
+            text = "<Z>" 
+        intervals [1148]:
+            xmin = 3394.91 
+            xmax = 3396.7766 
+            text = "<malay>semua</malay> product <malay>akak semua jadi</malay> launch" 
+        intervals [1149]:
+            xmin = 3396.7766 
+            xmax = 3397.79556 
+            text = "<Z>" 
+        intervals [1150]:
+            xmin = 3397.79556 
+            xmax = 3401.64495 
+            text = "<malay>dalam</malay> business <malay>itu</malay> okay [lah] <malay>bukan</malay> product <malay>akak</malay> product company [lah]" 
+        intervals [1151]:
+            xmin = 3401.64495 
+            xmax = 3402.98091 
+            text = "<Z>" 
+        intervals [1152]:
+            xmin = 3402.98091 
+            xmax = 3405.51698 
+            text = "[ah] <malay>hingga mendapatkan akak lapan</malay> K" 
+        intervals [1153]:
+            xmin = 3405.51698 
+            xmax = 3408.22 
+            text = "<Z>" 
+        intervals [1154]:
+            xmin = 3408.22 
+            xmax = 3409.24 
+            text = "third one goal [eh]" 
+        intervals [1155]:
+            xmin = 3409.24 
+            xmax = 3411.16 
+            text = "<Z>" 
+        intervals [1156]:
+            xmin = 3411.16 
+            xmax = 3412.69997 
+            text = "goal <malay>ini benda yang kita boleh capai</malay> [lah] [kan]" 
+        intervals [1157]:
+            xmin = 3412.69997 
+            xmax = 3415.56 
+            text = "<Z>" 
+        intervals [1158]:
+            xmin = 3415.56 
+            xmax = 3418.04 
+            text = "(mm)" 
+        intervals [1159]:
+            xmin = 3418.04 
+            xmax = 3422.15 
+            text = "<Z>" 
+        intervals [1160]:
+            xmin = 3422.15 
+            xmax = 3423.93 
+            text = "<malay>baca</malay> at least at least" 
+        intervals [1161]:
+            xmin = 3423.93 
+            xmax = 3425.99 
+            text = "<Z>" 
+        intervals [1162]:
+            xmin = 3425.99 
+            xmax = 3431.0341 
+            text = "(um) <malay>baca dan hadam dan</malay> apply at least <malay>lima buku setahun</malay>" 
+        intervals [1163]:
+            xmin = 3431.0341 
+            xmax = 3434.69 
+            text = "<Z>" 
+        intervals [1164]:
+            xmin = 3434.69 
+            xmax = 3436.14 
+            text = "last goals" 
+        intervals [1165]:
+            xmin = 3436.14 
+            xmax = 3437.7 
+            text = "<Z>" 
+        intervals [1166]:
+            xmin = 3437.7 
+            xmax = 3439.19 
+            text = "<malay>simpanan</malay> [ah] <malay>dua puluh</malay> K" 
+        intervals [1167]:
+            xmin = 3439.19 
+            xmax = 3439.95356 
+            text = "<Z>" 
+        intervals [1168]:
+            xmin = 3439.95356 
+            xmax = 3440.36115 
+            text = "[ah]" 
+        intervals [1169]:
+            xmin = 3440.36115 
+            xmax = 3442.09 
+            text = "<Z>" 
+        intervals [1170]:
+            xmin = 3442.09 
+            xmax = 3444.42 
+            text = "<Z>" 
+        intervals [1171]:
+            xmin = 3444.42 
+            xmax = 3446.6 
+            text = "<Z>" 
+        intervals [1172]:
+            xmin = 3446.6 
+            xmax = 3448.42221 
+            text = "<Z>" 
+        intervals [1173]:
+            xmin = 3448.42221 
+            xmax = 3449.62232 
+            text = "(ppl)" 
+        intervals [1174]:
+            xmin = 3449.62232 
+            xmax = 3450.50541 
+            text = "<Z>" 
+        intervals [1175]:
+            xmin = 3450.50541 
+            xmax = 3451.47908 
+            text = "(uh huh)" 
+        intervals [1176]:
+            xmin = 3451.47908 
+            xmax = 3452.99619 
+            text = "<Z>" 
+        intervals [1177]:
+            xmin = 3452.99619 
+            xmax = 3454.64916 
+            text = "madam (ppl)" 
+        intervals [1178]:
+            xmin = 3454.64916 
+            xmax = 3455.53226 
+            text = "<Z>" 
+        intervals [1179]:
+            xmin = 3455.53226 
+            xmax = 3456.39 
+            text = "okay" 
+        intervals [1180]:
+            xmin = 3456.39 
+            xmax = 3457.56 
+            text = "<Z>" 
+        intervals [1181]:
+            xmin = 3457.56 
+            xmax = 3459.75 
+            text = "<Z>" 
+        intervals [1182]:
+            xmin = 3459.75 
+            xmax = 3462.62607 
+            text = "<Z>" 
+        intervals [1183]:
+            xmin = 3462.62607 
+            xmax = 3464.87694 
+            text = "!wah! <malay>berapa</malay> goal <malay>nya</malay>" 
+        intervals [1184]:
+            xmin = 3464.87694 
+            xmax = 3465.64682 
+            text = "<Z>" 
+        intervals [1185]:
+            xmin = 3465.64682 
+            xmax = 3467.50358 
+            text = "<malay>nak turun berapa</malay> K_G <malay>nak turun</malay>" 
+        intervals [1186]:
+            xmin = 3467.50358 
+            xmax = 3470.58309 
+            text = "<Z>" 
+        intervals [1187]:
+            xmin = 3470.58309 
+            xmax = 3471.0586 
+            text = "okay" 
+        intervals [1188]:
+            xmin = 3471.0586 
+            xmax = 3475.27028 
+            text = "<Z>" 
+        intervals [1189]:
+            xmin = 3475.27028 
+            xmax = 3476.35666 
+            text = "<malay>sebab</malay> #ida# <malay>tinggi</malay> [lah]" 
+        intervals [1190]:
+            xmin = 3476.35666 
+            xmax = 3481.0665 
+            text = "<Z>" 
+        intervals [1191]:
+            xmin = 3481.0665 
+            xmax = 3482.1081 
+            text = "ideal [lah] [eh]" 
+        intervals [1192]:
+            xmin = 3482.1081 
+            xmax = 3487.26 
+            text = "<Z>" 
+        intervals [1193]:
+            xmin = 3487.26 
+            xmax = 3488.82112 
+            text = "<S>" 
+        intervals [1194]:
+            xmin = 3488.82112 
+            xmax = 3490.88167 
+            text = "ma~ power [ah] power [ah] <malay>macam itu</malay>" 
+        intervals [1195]:
+            xmin = 3490.88167 
+            xmax = 3494.4075 
+            text = "<Z>" 
+        intervals [1196]:
+            xmin = 3494.4075 
+            xmax = 3498.48332 
+            text = "[ah] [lah] (ppl) (ppb) okay <malay>tujuh puluh</malay> [eh]" 
+        intervals [1197]:
+            xmin = 3498.48332 
+            xmax = 3499.07205 
+            text = "<Z>" 
+        intervals [1198]:
+            xmin = 3499.07205 
+            xmax = 3500.11365 
+            text = "okay set" 
+        intervals [1199]:
+            xmin = 3500.11365 
+            xmax = 3501.67604 
+            text = "<Z>" 
+        intervals [1200]:
+            xmin = 3501.67604 
+            xmax = 3502.32615 
+            text = "(mm) (mm)" 
+        intervals [1201]:
+            xmin = 3502.32615 
+            xmax = 3508.11 
+            text = "<Z>" 
+        intervals [1202]:
+            xmin = 3508.11 
+            xmax = 3509.77 
+            text = "<Z>" 
+        intervals [1203]:
+            xmin = 3509.77 
+            xmax = 3511.27 
+            text = "<Z>" 
+        intervals [1204]:
+            xmin = 3511.27 
+            xmax = 3512.78 
+            text = "<Z>" 
+        intervals [1205]:
+            xmin = 3512.78 
+            xmax = 3514.53 
+            text = "<Z>" 
+        intervals [1206]:
+            xmin = 3514.53 
+            xmax = 3518.68634 
+            text = "<Z>" 
+        intervals [1207]:
+            xmin = 3518.68634 
+            xmax = 3519.85 
+            text = "okay" 
+        intervals [1208]:
+            xmin = 3519.85 
+            xmax = 3521.04 
+            text = "<Z>" 
+        intervals [1209]:
+            xmin = 3521.04 
+            xmax = 3522.14368 
+            text = "<Z>" 
+        intervals [1210]:
+            xmin = 3522.14368 
+            xmax = 3523.23057 
+            text = "(mm) (mm) (mm) [kan]" 
+        intervals [1211]:
+            xmin = 3523.23057 
+            xmax = 3527.07893 
+            text = "<Z>" 
+        intervals [1212]:
+            xmin = 3527.07893 
+            xmax = 3527.75823 
+            text = "(mm) (mm)" 
+        intervals [1213]:
+            xmin = 3527.75823 
+            xmax = 3530.31694 
+            text = "<Z>" 
+        intervals [1214]:
+            xmin = 3530.31694 
+            xmax = 3531.08682 
+            text = "(mm) (mm)" 
+        intervals [1215]:
+            xmin = 3531.08682 
+            xmax = 3538.4233 
+            text = "<Z>" 
+        intervals [1216]:
+            xmin = 3538.4233 
+            xmax = 3541.40568 
+            text = "okay next last last last" 
+        intervals [1217]:
+            xmin = 3541.40568 
+            xmax = 3542.22084 
+            text = "<Z>" 
+        intervals [1218]:
+            xmin = 3542.22084 
+            xmax = 3547.94964 
+            text = "what one word or sentence will be your theme of two thousand twenty one" 
+        intervals [1219]:
+            xmin = 3547.94964 
+            xmax = 3549.41 
+            text = "<Z>" 
+        intervals [1220]:
+            xmin = 3549.41 
+            xmax = 3553.04288 
+            text = "<Z>" 
+        intervals [1221]:
+            xmin = 3553.04288 
+            xmax = 3554.31091 
+            text = "(ppl)" 
+        intervals [1222]:
+            xmin = 3554.31091 
+            xmax = 3555.82803 
+            text = "<Z>" 
+        intervals [1223]:
+            xmin = 3555.82803 
+            xmax = 3559.83 
+            text = "(err) okay <malay>macam mana nak kahwin tapi</malay> freedom (ppl)" 
+        intervals [1224]:
+            xmin = 3559.83 
+            xmax = 3560.94545 
+            text = "<Z>" 
+        intervals [1225]:
+            xmin = 3560.94545 
+            xmax = 3566.74217 
+            text = "(ppl)" 
+        intervals [1226]:
+            xmin = 3566.74217 
+            xmax = 3569.47997 
+            text = "<Z>" 
+        intervals [1227]:
+            xmin = 3569.47997 
+            xmax = 3571.47 
+            text = "okay (mm) (mm)" 
+        intervals [1228]:
+            xmin = 3571.47 
+            xmax = 3572.03868 
+            text = "<Z>" 
+        intervals [1229]:
+            xmin = 3572.03868 
+            xmax = 3573.8 
+            text = "[ah] <malay>apa</malay> [eh] one word" 
+        intervals [1230]:
+            xmin = 3573.8 
+            xmax = 3577.91 
+            text = "<Z>" 
+        intervals [1231]:
+            xmin = 3577.91 
+            xmax = 3579.01286 
+            text = "achievable" 
+        intervals [1232]:
+            xmin = 3579.01286 
+            xmax = 3581.14135 
+            text = "<Z>" 
+        intervals [1233]:
+            xmin = 3581.14135 
+            xmax = 3583.13397 
+            text = "<malay>semua benda yang kita</malay> set <malay>itu</malay>" 
+        intervals [1234]:
+            xmin = 3583.13397 
+            xmax = 3583.90385 
+            text = "<Z>" 
+        intervals [1235]:
+            xmin = 3583.90385 
+            xmax = 3589.06655 
+            text = "(mm) <malay>boleh dicapai dan mampu dan kena dicapai</malay> [ah] <malay>macam itu</malay>" 
+        intervals [1236]:
+            xmin = 3589.06655 
+            xmax = 3589.70057 
+            text = "<Z>" 
+        intervals [1237]:
+            xmin = 3589.70057 
+            xmax = 3591.3309 
+            text = "okay <malay>sudah</malay> right" 
+        intervals [1238]:
+            xmin = 3591.3309 
+            xmax = 3594.4 
+            text = "so that this (um) <malay>apa ini</malay>" 
+        intervals [1239]:
+            xmin = 3594.4 
+            xmax = 3595.63 
+            text = "<Z>" 
+        intervals [1240]:
+            xmin = 3595.63 
+            xmax = 3599.54945 
+            text = "<malay>kita punya</malay> resolution <malay>untuk ha~</malay> [eh] resolution (ppl)" 
+        intervals [1241]:
+            xmin = 3599.54945 
+            xmax = 3600 
+            text = "<Z>" 
