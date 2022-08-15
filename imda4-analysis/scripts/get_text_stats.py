@@ -4,7 +4,7 @@ Counts number of names, exclamations, discourse particles, fillers
 Compute average of each per utterance
 
 Assumes input files are already normalized for LM counting (from preprocessing script)
-(python3 preporcess_text_fpr_analysis)
+(python3 preprocess_text_fpr_analysis)
 Prints to standard output
 
 
@@ -26,6 +26,8 @@ current_path = os.path.dirname(os.path.realpath(__file__))
 path = os.path.join(current_path, "..", "data", "analysis-and-lm-normalized")
 files = ["combined_train_lm.txt", "combined_val_lm.txt", "combined_test_lm.txt"]
 vocab = os.path.join("..", "vocab", "vocab.txt")
+output_file = os.path.join("..", "stats.txt")
+os.remove(output_file)
 
 def get_stats(path, file):
     print("Text file Analysis on", file)
@@ -58,29 +60,31 @@ def get_stats(path, file):
             avg = [(new - old) / len(line_split) for new, old in zip([names, exclamations, discourse_particles, fillers], prev)]
             per_utterance_stats = [prev + update for prev, update in zip(per_utterance_stats, avg)]
 
-        print("Absolute values:")
-        print("names:", names)
-        print("exclamations:", exclamations)
-        print("discourse_particles:", discourse_particles)
-        print("fillers:", fillers)
-        print("num_words:", num_words)
-        print("num_utterances:", num_utterances)
-        print()
-        print("Averages per utterance:")
-        print("names per utterance:", names / num_utterances) 
-        print("exclamations per utterance:", exclamations / num_utterances)
-        print("discourse_particles per utterance:", discourse_particles / num_utterances)
-        print("fillers per utterance:", fillers / num_utterances)
-        print("words per utterance:", num_words / num_utterances)
-        print()
-        print("Average ratio per utterance")
-        print("names ratio per utterance:", per_utterance_stats[0] / num_utterances) 
-        print("exclamations ratio per utterance:", per_utterance_stats[1] / num_utterances)
-        print("discourse_particles ratio per utterance:", per_utterance_stats[2] / num_utterances)
-        print("fillers ratio per utterance:", per_utterance_stats[3] / num_utterances)
+    with open(output_file, "a") as f:
+        f.write("Text file Analysis: " +  file + "\n")
+
+        f.write("Absolute values:\n")
+        f.write("names: " + str(names) + "\n")
+        f.write("exclamations: " + str(exclamations) + "\n")
+        f.write("discourse_particles: " + str(discourse_particles) + "\n")
+        f.write("fillers: " + str(fillers) + "\n")
+        f.write("num_words: " + str(num_words) + "\n")
+        f.write("num_utterances:" + str(num_utterances) + "\n\n")
+        f.write("Averages per utterance:\n")
+        f.write("names per utterance: " + str(names / num_utterances) + "\n") 
+        f.write("exclamations per utterance: " + str(exclamations / num_utterances) + "\n")
+        f.write("discourse_particles per utterance: " + str(discourse_particles / num_utterances) + "\n")
+        f.write("fillers per utterance: " + str(fillers / num_utterances) + "\n")
+        f.write("words per utterance: " + str(num_words / num_utterances) + "\n\n")
+        f.write("Average ratio per utterance\n")
+        f.write("names ratio per utterance: " + str(per_utterance_stats[0] / num_utterances) + "\n")
+        f.write("exclamations ratio per utterance: " + str(per_utterance_stats[1] / num_utterances) + "\n")
+        f.write("discourse_particles ratio per utterance: " + str(per_utterance_stats[2] / num_utterances) + "\n")
+        f.write("fillers ratio per utterance: " + str(per_utterance_stats[3] / num_utterances) + "\n\n")
+        f.write("---------------------------------------------------------------------- \n\n")
 
 def get_vocab_stats(vocab):
-    print("Vocab Analysis:")
+    print("Vocab Analysis")
     names = exclamations = discourse_particles = fillers = 0
     num_vocab = 0
     with open(vocab, "r") as f:
@@ -95,17 +99,18 @@ def get_vocab_stats(vocab):
             elif re.search('\((.+?)\)', word):
                 fillers += 1
             num_vocab += 1
-        
-        print("names:", names)
-        print("exclamations:", exclamations)
-        print("discourse_particles:", discourse_particles)
-        print("fillers:", fillers)
-        print("num_vocab:", num_vocab)
-        print()
-        print("names ratio:", names / num_vocab)
-        print("exclamations ratio:", exclamations / num_vocab)
-        print("discourse_particles ratio:", discourse_particles / num_vocab)
-        print("fillers ratio:", fillers / num_vocab)
+    
+    with open(output_file, "a") as f:
+        f.write("Vocab Analysis\n")
+        f.write("names:" + str(names) + "\n")
+        f.write("exclamations: " + str(exclamations) + "\n")
+        f.write("discourse_particles: " + str(discourse_particles) + "\n")
+        f.write("fillers: " + str(fillers) + "\n")
+        f.write("num_vocab: " + str(num_vocab) + "\n\n")
+        f.write("names ratio: " + str(names / num_vocab) + "\n")
+        f.write("exclamations ratio: " + str(exclamations / num_vocab) + "\n")
+        f.write("discourse_particles ratio: " + str(discourse_particles / num_vocab) + "\n")
+        f.write("fillers ratio: " + str(fillers / num_vocab) + "\n")
 
 
 def run(path, files, vocab):
