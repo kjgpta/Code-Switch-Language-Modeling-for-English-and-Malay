@@ -1,0 +1,2146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3600 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "channel1_S1" 
+        xmin = 0 
+        xmax = 3600 
+        intervals: size = 533 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.24 
+            text = "<Z>" 
+        intervals [2]:
+            xmin = 3.24 
+            xmax = 4.33412 
+            text = "hey #nurul#" 
+        intervals [3]:
+            xmin = 4.33412 
+            xmax = 5.58268 
+            text = "<Z>" 
+        intervals [4]:
+            xmin = 5.58268 
+            xmax = 6.51246 
+            text = "<malay>apa khabar</malay>" 
+        intervals [5]:
+            xmin = 6.51246 
+            xmax = 7.86728 
+            text = "<Z>" 
+        intervals [6]:
+            xmin = 7.86728 
+            xmax = 9.51431 
+            text = "thanks for coming here" 
+        intervals [7]:
+            xmin = 9.51431 
+            xmax = 10.12531 
+            text = "<Z>" 
+        intervals [8]:
+            xmin = 10.12531 
+            xmax = 12.27708 
+            text = "ya I want to know right (mm)" 
+        intervals [9]:
+            xmin = 12.27708 
+            xmax = 14.6 
+            text = "what is your ideal vacation like" 
+        intervals [10]:
+            xmin = 14.6 
+            xmax = 17.97 
+            text = "<Z>" 
+        intervals [11]:
+            xmin = 17.97 
+            xmax = 20.8 
+            text = "<Z>" 
+        intervals [12]:
+            xmin = 20.8 
+            xmax = 28.75 
+            text = "<Z>" 
+        intervals [13]:
+            xmin = 28.75 
+            xmax = 45.14 
+            text = "<Z>" 
+        intervals [14]:
+            xmin = 45.14 
+            xmax = 52.49 
+            text = "<Z>" 
+        intervals [15]:
+            xmin = 52.49 
+            xmax = 58.24 
+            text = "[oh] for me [kan] I think I I really love planning I have to like" 
+        intervals [16]:
+            xmin = 58.24 
+            xmax = 62.89 
+            text = "I have to know where I'm going I have to know what time I'm going I have to know what time this place close I I love" 
+        intervals [17]:
+            xmin = 62.89 
+            xmax = 65.67 
+            text = "planning and then I" 
+        intervals [18]:
+            xmin = 65.67 
+            xmax = 82.14 
+            text = "I may be too much by asking the people who go on holiday with me and like guys remember the schedule we supposed to go here by here <malay>jadi kalau</malay> you like told off what if <malay>sampai sini tempat dia dah tutup</malay> then like <malay>kita dah jauh perjalanan</malay> [kan] <malay>telah tutup</malay> so like" 
+        intervals [19]:
+            xmin = 82.14 
+            xmax = 87.52 
+            text = "ya [lah] for me I'm quite a planner so but like for an ideal vacation other than planning" 
+        intervals [20]:
+            xmin = 87.52 
+            xmax = 100.52 
+            text = "I would like to explore I wanna have a lot of nature in it so I <malay>ada orang suka bunuh</malay> very curious about <malay>bunuh</malay> [ah] and then I also like to <malay>tengok pokok</malay>" 
+        intervals [21]:
+            xmin = 100.52 
+            xmax = 108.08 
+            text = "and then I also would like to go on autumn ya what about you like do you have like a favourite season" 
+        intervals [22]:
+            xmin = 108.08 
+            xmax = 109.29 
+            text = "<Z>" 
+        intervals [23]:
+            xmin = 109.29 
+            xmax = 112.79 
+            text = "<Z>" 
+        intervals [24]:
+            xmin = 112.79 
+            xmax = 123.15 
+            text = "<Z>" 
+        intervals [25]:
+            xmin = 123.15 
+            xmax = 125.01 
+            text = "<Z>" 
+        intervals [26]:
+            xmin = 125.01 
+            xmax = 128.24 
+            text = "<Z>" 
+        intervals [27]:
+            xmin = 128.24 
+            xmax = 140.54 
+            text = "<Z>" 
+        intervals [28]:
+            xmin = 140.54 
+            xmax = 148.61 
+            text = "<Z>" 
+        intervals [29]:
+            xmin = 148.61 
+            xmax = 148.67 
+            text = "<Z>" 
+        intervals [30]:
+            xmin = 148.67 
+            xmax = 166.98281 
+            text = "<Z>" 
+        intervals [31]:
+            xmin = 166.98281 
+            xmax = 170.06 
+            text = "ya ya ya" 
+        intervals [32]:
+            xmin = 170.06 
+            xmax = 184.51249 
+            text = "sometimes I wish singapore has like four seasons so I can like you know you you there's something new to look forward to whether you just go out you look out your window [eh] <malay>hari ini ada pokok</malay> this colour [eh] <malay>hari ini ada salji</malay> [eh] <malay>hari ini ada</malay> and then like <malay>tapi kadang-kadang</malay> I <malay>fikir macam</malay> like" 
+        intervals [33]:
+            xmin = 184.51249 
+            xmax = 199.89384 
+            text = "[eh] then that means our wardrobe would be like so interesting [ah] like (err) summer <malay>panas</malay> so like the material <malay>lain</malay> and then winter <malay>sejuk</malay> and then we get to wear more layers so it's it's it's interesting to like dress up but then I also think about [orh] the money" 
+        intervals [34]:
+            xmin = 199.89384 
+            xmax = 202.57 
+            text = "(ppl) and then also like the <malay>rumah</malay> like" 
+        intervals [35]:
+            xmin = 202.57 
+            xmax = 210.89327 
+            text = "(um) (ppo) we have to have heated floors <malay>ke</malay> heated <malay>jamban atau katil ke</malay>" 
+        intervals [36]:
+            xmin = 210.89327 
+            xmax = 226.55 
+            text = "<malay>lepas tu kita tak nak menggigil</malay> [kan] <malay>bila kita tidur</malay> like ya it's it's so it's so when I think about like why singapore don't have four seasons I also think about [oh] so if we have four seasons it's gonna be very pretty but it's also you also have to go through all these like" 
+        intervals [37]:
+            xmin = 226.55 
+            xmax = 239.54068 
+            text = "this small staff [lah] these small changes that you have to go through that maybe other people in other country they go through they don't like like maybe they don't like to clean their driveway from the snow because always slippery you know but then I don't know" 
+        intervals [38]:
+            xmin = 239.54068 
+            xmax = 249.09 
+            text = "cause I never gone through that ya [oh] (mm) so I wanna know right if you were tour guide where would you bring them if in singapore" 
+        intervals [39]:
+            xmin = 249.09 
+            xmax = 256.44 
+            text = "<Z>" 
+        intervals [40]:
+            xmin = 256.44 
+            xmax = 258.5 
+            text = "<Z>" 
+        intervals [41]:
+            xmin = 258.5 
+            xmax = 259.34 
+            text = "<Z>" 
+        intervals [42]:
+            xmin = 259.34 
+            xmax = 263.32 
+            text = "<Z>" 
+        intervals [43]:
+            xmin = 263.32 
+            xmax = 265.97 
+            text = "<Z>" 
+        intervals [44]:
+            xmin = 265.97 
+            xmax = 269.98 
+            text = "<Z>" 
+        intervals [45]:
+            xmin = 269.98 
+            xmax = 272.61 
+            text = "<Z>" 
+        intervals [46]:
+            xmin = 272.61 
+            xmax = 276.59 
+            text = "<Z>" 
+        intervals [47]:
+            xmin = 276.59 
+            xmax = 276.71 
+            text = "<Z>" 
+        intervals [48]:
+            xmin = 276.71 
+            xmax = 281.33 
+            text = "how about I say first then maybe I give one then right" 
+        intervals [49]:
+            xmin = 281.33 
+            xmax = 286.96 
+            text = "so <malay>untuk saya untuk saya</malay> ya <malay>untuk</malay> for me right I want to bring them to" 
+        intervals [50]:
+            xmin = 286.96 
+            xmax = 287.03 
+            text = "<Z>" 
+        intervals [51]:
+            xmin = 287.03 
+            xmax = 293.98 
+            text = "gardens by the bay I'm gonna bring them to the cloud forest and flower dome because (uh)" 
+        intervals [52]:
+            xmin = 293.98 
+            xmax = 294.06 
+            text = "<Z>" 
+        intervals [53]:
+            xmin = 294.06 
+            xmax = 299.01 
+            text = "it's to me it's one of a kind [ah] and then like (uh) so many different" 
+        intervals [54]:
+            xmin = 299.01 
+            xmax = 316.72 
+            text = "flower species and then can can exist all in one place <malay>habis tu tapi kalau you fikir pasal taman-taman kat luar negeri macam tadi cakap pasal ada</malay> four seasons every country not [ah] countries have four seasons so if you go out to see a normal tree not in a park it's a different colour" 
+        intervals [55]:
+            xmin = 316.72 
+            xmax = 334.55 
+            text = "so for them that's their speciality but for us since <malay>kita takde</malay> four seasons <malay>kita boleh</malay> [lah] <malay>kita pergi</malay> gardens by the bay [kan] to look at the different flowers and also different (uh) month would have different themes so I think that's quite cool so that's one place I would bring them gardens by the bay to see the the very pretty flowers" 
+        intervals [56]:
+            xmin = 334.55 
+            xmax = 341.84 
+            text = "see experience all the different species in one area [lah] in a place like singapore where not everyday" 
+        intervals [57]:
+            xmin = 341.84 
+            xmax = 344.91 
+            text = "where you won't get like four seasons" 
+        intervals [58]:
+            xmin = 344.91 
+            xmax = 349.83 
+            text = "ya what about you like if you have like a favourite tourist place like" 
+        intervals [59]:
+            xmin = 349.83 
+            xmax = 356.06 
+            text = "<Z>" 
+        intervals [60]:
+            xmin = 356.06 
+            xmax = 358.35 
+            text = "that is the #kampung glam# area" 
+        intervals [61]:
+            xmin = 358.35 
+            xmax = 360.46 
+            text = "<Z>" 
+        intervals [62]:
+            xmin = 360.46 
+            xmax = 362.5 
+            text = "<Z>" 
+        intervals [63]:
+            xmin = 362.5 
+            xmax = 368.61 
+            text = "<Z>" 
+        intervals [64]:
+            xmin = 368.61 
+            xmax = 368.65 
+            text = "<Z>" 
+        intervals [65]:
+            xmin = 368.65 
+            xmax = 383.17 
+            text = "<Z>" 
+        intervals [66]:
+            xmin = 383.17 
+            xmax = 386.52 
+            text = "<Z>" 
+        intervals [67]:
+            xmin = 386.52 
+            xmax = 391.49 
+            text = "<Z>" 
+        intervals [68]:
+            xmin = 391.49 
+            xmax = 391.62 
+            text = "<Z>" 
+        intervals [69]:
+            xmin = 391.62 
+            xmax = 409.33 
+            text = "<Z>" 
+        intervals [70]:
+            xmin = 409.33 
+            xmax = 409.36 
+            text = "<Z>" 
+        intervals [71]:
+            xmin = 409.36 
+            xmax = 412.32 
+            text = "<Z>" 
+        intervals [72]:
+            xmin = 412.32 
+            xmax = 419.64 
+            text = "<Z>" 
+        intervals [73]:
+            xmin = 419.64 
+            xmax = 433.04 
+            text = "<Z>" 
+        intervals [74]:
+            xmin = 433.04 
+            xmax = 444.56 
+            text = "<Z>" 
+        intervals [75]:
+            xmin = 444.56 
+            xmax = 445.32 
+            text = "<Z>" 
+        intervals [76]:
+            xmin = 445.32 
+            xmax = 448.86 
+            text = "<Z>" 
+        intervals [77]:
+            xmin = 448.86 
+            xmax = 466.12 
+            text = "<Z>" 
+        intervals [78]:
+            xmin = 466.12 
+            xmax = 473.22 
+            text = "ya about the old school stuff like (uh) sometimes when we play card games you still have those like old maid or like" 
+        intervals [79]:
+            xmin = 473.22 
+            xmax = 487.83 
+            text = "family is it poor family happy family [ah] sorry so like when I I I when I look at it you will still have this like !wow! so cool and you have like the complete set and then like like (err) last time it was easy to get right <malay>tapi sekarang macam</malay> like" 
+        intervals [80]:
+            xmin = 487.83 
+            xmax = 503.28 
+            text = "<malay>mana</malay> [eh] <malay>nak beli mungkin kena pergi kedai ni tapi kalau kedai ni tapi sekarang kedai semua jual benda-benda</malay> modern so <malay>macam</malay> I <malay>pun fikir</malay> [lah] like !wah! how how you get to source all of this old cards and then it's it's such a simple game also <malay>macam</malay> not so complicated and then also about games" 
+        intervals [81]:
+            xmin = 503.28 
+            xmax = 521.37758 
+            text = "(um) <malay>nanti kalau</malay> like if you bring tourists over to play games <malay>kalau kita tak berbual</malay> the same <malay>bahasa pun takpe</malay> because you know you just <malay>gitu gitu gini gini</malay> then maybe hopefully they will get it and then they will play along with us right this is like the joy of games like you don't really have to speak the same language" 
+        intervals [82]:
+            xmin = 521.37758 
+            xmax = 533.74 
+            text = "you just like have fun and like catch on from each other ya [oh] ya and I want to know (mm) which genre of drama or T_V show do you enjoy the most" 
+        intervals [83]:
+            xmin = 533.74 
+            xmax = 547.68 
+            text = "<Z>" 
+        intervals [84]:
+            xmin = 547.68 
+            xmax = 565.9 
+            text = "<Z>" 
+        intervals [85]:
+            xmin = 565.9 
+            xmax = 565.97 
+            text = "<Z>" 
+        intervals [86]:
+            xmin = 565.97 
+            xmax = 580.28 
+            text = "<Z>" 
+        intervals [87]:
+            xmin = 580.28 
+            xmax = 595.75 
+            text = "<Z>" 
+        intervals [88]:
+            xmin = 595.75 
+            xmax = 597.86 
+            text = "<Z>" 
+        intervals [89]:
+            xmin = 597.86 
+            xmax = 615.14 
+            text = "<Z>" 
+        intervals [90]:
+            xmin = 615.14 
+            xmax = 627.24 
+            text = "<Z>" 
+        intervals [91]:
+            xmin = 627.24 
+            xmax = 630.4 
+            text = "<Z>" 
+        intervals [92]:
+            xmin = 630.4 
+            xmax = 637.7116 
+            text = "<Z>" 
+        intervals [93]:
+            xmin = 637.7116 
+            xmax = 641.6698 
+            text = "for me I really like (err)" 
+        intervals [94]:
+            xmin = 641.6698 
+            xmax = 656.71 
+            text = "drama like between people I mean I prefer (uh) movies [lah] because I I usually cannot sit in one to watch T_V series so if I do watch movies I like to watch drama so drama between people they fighting" 
+        intervals [95]:
+            xmin = 656.71 
+            xmax = 673.69246 
+            text = "verbally ya not like doesn't have to be action-packed [lah] I also like reality (uh) so if it's based on true story then I can watch and then I will be like quite amazed like !wow! so this can happen in real life [ah] then like because like <malay>macam</malay> I'm quite curious [lah] on like" 
+        intervals [96]:
+            xmin = 673.69246 
+            xmax = 685.03 
+            text = "people story <malay>tapi takkan macam</malay> I <malay>nak keluar habis tanya orang</malay> [eh] <malay>jadi macam mana</malay> you <malay>punya</malay> life story ya I want to know more about it so I guess for me movies are one way to find out about people <malay>punya</malay>" 
+        intervals [97]:
+            xmin = 685.03 
+            xmax = 685.04 
+            text = "<Z>" 
+        intervals [98]:
+            xmin = 685.04 
+            xmax = 689.67 
+            text = "<malay>jalan hidup</malay> without being so (ppo) #kaypoh# about it" 
+        intervals [99]:
+            xmin = 689.67 
+            xmax = 691.83 
+            text = "and then like after that (uh)" 
+        intervals [100]:
+            xmin = 691.83 
+            xmax = 691.93 
+            text = "<Z>" 
+        intervals [101]:
+            xmin = 691.93 
+            xmax = 698.49 
+            text = "(um) [oh] there are some reality T_V shows that I like which is kitchen nightmares have you heard" 
+        intervals [102]:
+            xmin = 698.49 
+            xmax = 701.33 
+            text = "<Z>" 
+        intervals [103]:
+            xmin = 701.33 
+            xmax = 703.44224 
+            text = "<Z>" 
+        intervals [104]:
+            xmin = 703.44224 
+            xmax = 707.0551 
+            text = "kitchen nightmares and I also love catfish (ppl)" 
+        intervals [105]:
+            xmin = 707.0551 
+            xmax = 713.4 
+            text = "<Z>" 
+        intervals [106]:
+            xmin = 713.4 
+            xmax = 729.71 
+            text = "<Z>" 
+        intervals [107]:
+            xmin = 729.71 
+            xmax = 733.8 
+            text = "<Z>" 
+        intervals [108]:
+            xmin = 733.8 
+            xmax = 744.71 
+            text = "ya it's so like like whenever I watch this reality T_V show especially kitchen nightmares and catfish right I always feel angry then like <malay>tengok dia orang macam</malay> like kitchen nightmare <malay>dia punya</malay>" 
+        intervals [109]:
+            xmin = 744.71 
+            xmax = 744.75 
+            text = "<Z>" 
+        intervals [110]:
+            xmin = 744.75 
+            xmax = 759.6 
+            text = "[ah] chef of the restaurant then <malay>dia macam dia degil dia nak orang bantu dia dia nak</malay> gordon ramsay <malay>pun bantu dia punya</malay> restaurant <malay>kasi betul</malay> this stupid this chef of the restaurant he's like no I'm better than you no my food is" 
+        intervals [111]:
+            xmin = 759.6 
+            xmax = 769.19 
+            text = "great so it makes me angry but then I still watch it and then it's the same thing with catfish it makes me angry because like how can people be so <malay>macam</malay> (err)" 
+        intervals [112]:
+            xmin = 769.19 
+            xmax = 769.24 
+            text = "<Z>" 
+        intervals [113]:
+            xmin = 769.24 
+            xmax = 773.50299 
+            text = "naive and like [oh] or <malay>tapi</malay> (uh)" 
+        intervals [114]:
+            xmin = 773.50299 
+            xmax = 773.66239 
+            text = "<Z>" 
+        intervals [115]:
+            xmin = 773.66239 
+            xmax = 777.93 
+            text = "<malay>muka dia macam gini mesti orang dia macam gini juga</malay>" 
+        intervals [116]:
+            xmin = 777.93 
+            xmax = 781.20687 
+            text = "you know people on the internet can be anybody they say to be right" 
+        intervals [117]:
+            xmin = 781.20687 
+            xmax = 798.65 
+            text = "you can lie on the internet how come these people are so <malay>macam senang nak percaya</malay> and then <malay>tapi</malay> like when I watch this also I can feel sad [lah] because when say if I watch catfish it's usually the same thing the people who have been catfish they just want" 
+        intervals [118]:
+            xmin = 798.65 
+            xmax = 814.47 
+            text = "a friendship they want somebody to connect with and <malay>macam</malay> they cannot <malay>dapat</malay> that connection <malay>dalam</malay> real life so they have to go online ya and like what do you think about like catfishing <malay>macam</malay> (ppo) have you experienced something like that or like" 
+        intervals [119]:
+            xmin = 814.47 
+            xmax = 816.32 
+            text = "<Z>" 
+        intervals [120]:
+            xmin = 816.32 
+            xmax = 816.85 
+            text = "<Z>" 
+        intervals [121]:
+            xmin = 816.85 
+            xmax = 830.38 
+            text = "<Z>" 
+        intervals [122]:
+            xmin = 830.38 
+            xmax = 838.2 
+            text = "<Z>" 
+        intervals [123]:
+            xmin = 838.2 
+            xmax = 848.41 
+            text = "<Z>" 
+        intervals [124]:
+            xmin = 848.41 
+            xmax = 851.05 
+            text = "<Z>" 
+        intervals [125]:
+            xmin = 851.05 
+            xmax = 851.92 
+            text = "<Z>" 
+        intervals [126]:
+            xmin = 851.92 
+            xmax = 871.03 
+            text = "<Z>" 
+        intervals [127]:
+            xmin = 871.03 
+            xmax = 884.63 
+            text = "<Z>" 
+        intervals [128]:
+            xmin = 884.63 
+            xmax = 892.72 
+            text = "<Z>" 
+        intervals [129]:
+            xmin = 892.72 
+            xmax = 896.72 
+            text = "<Z>" 
+        intervals [130]:
+            xmin = 896.72 
+            xmax = 897.23 
+            text = "<Z>" 
+        intervals [131]:
+            xmin = 897.23 
+            xmax = 913.4 
+            text = "then then then that's the thing I like about gordon directs you don't care about what other people face but because he's just there to help you is is genuine enough to have user and ya I if you can't everywhere also got one side of the starting also" 
+        intervals [132]:
+            xmin = 913.4 
+            xmax = 914.12923 
+            text = "<Z>" 
+        intervals [133]:
+            xmin = 914.12923 
+            xmax = 918.26 
+            text = "ya that's what three fun [oh] then like so what are your favourite movies" 
+        intervals [134]:
+            xmin = 918.26 
+            xmax = 922.32 
+            text = "<Z>" 
+        intervals [135]:
+            xmin = 922.32 
+            xmax = 923 
+            text = "<Z>" 
+        intervals [136]:
+            xmin = 923 
+            xmax = 926.66795 
+            text = "<Z>" 
+        intervals [137]:
+            xmin = 926.66795 
+            xmax = 928.11634 
+            text = "harry potter" 
+        intervals [138]:
+            xmin = 928.11634 
+            xmax = 930.87 
+            text = "<Z>" 
+        intervals [139]:
+            xmin = 930.87 
+            xmax = 946.87 
+            text = "<Z>" 
+        intervals [140]:
+            xmin = 946.87 
+            xmax = 963.61 
+            text = "<Z>" 
+        intervals [141]:
+            xmin = 963.61 
+            xmax = 975.18 
+            text = "<Z>" 
+        intervals [142]:
+            xmin = 975.18 
+            xmax = 981.89 
+            text = "<Z>" 
+        intervals [143]:
+            xmin = 981.89 
+            xmax = 988.17 
+            text = "<Z>" 
+        intervals [144]:
+            xmin = 988.17 
+            xmax = 999.29 
+            text = "<Z>" 
+        intervals [145]:
+            xmin = 999.29 
+            xmax = 1007.55 
+            text = "for me my favourite movie <malay>banyak juga</malay> [lah] <malay>tapi macam</malay> (ppo) <malay>ada satu jadi ada satu</malay> movie <malay>ni yang</malay> I <malay>suka</malay>" 
+        intervals [146]:
+            xmin = 1007.55 
+            xmax = 1012.41 
+            text = "(uh) it's called #kahani# ya you've watched it with me before we've watched it" 
+        intervals [147]:
+            xmin = 1012.41 
+            xmax = 1014.54 
+            text = "<Z>" 
+        intervals [148]:
+            xmin = 1014.54 
+            xmax = 1017.43463 
+            text = "so one interesting fact is that (um)" 
+        intervals [149]:
+            xmin = 1017.43463 
+            xmax = 1017.54089 
+            text = "<Z>" 
+        intervals [150]:
+            xmin = 1017.54089 
+            xmax = 1030.57 
+            text = "I watch this movie I think four times already that is a lot for someone who cannot sit down and watch T_V series let alone I watch like four times of the same movie so do you know that the" 
+        intervals [151]:
+            xmin = 1030.57 
+            xmax = 1033.31 
+            text = "first time I watch the movie was during work" 
+        intervals [152]:
+            xmin = 1033.31 
+            xmax = 1035.28 
+            text = "<Z>" 
+        intervals [153]:
+            xmin = 1035.28 
+            xmax = 1036.74 
+            text = "<Z>" 
+        intervals [154]:
+            xmin = 1036.74 
+            xmax = 1040.53142 
+            text = "so (err) ya it wasn't even during lunch I was just like" 
+        intervals [155]:
+            xmin = 1040.53142 
+            xmax = 1056.84 
+            text = "<malay>macam</malay> my <malay>kat</malay> my handphone <malay>kat tepi jadi</malay> I <malay>tengah buka</malay> my computer <malay>jadi tangan tu</malay> I took out a keyboard my <malay>kepala</malay> facing my computer screen but then my eyes are darting towards like the the phone screen at the side so my body language is like trying to tell everyone okay guy" 
+        intervals [156]:
+            xmin = 1056.84 
+            xmax = 1063.27 
+            text = "<malay>tengok</malay> I <malay>tu tengah macam</malay> [ah] <malay>bekerja ni</malay> [eh] <malay>tak ada apa-apa tapi sebenarnya mata</malay> I <malay>tu tengah tengok</malay> bollywood <malay>kat tepi tu</malay>" 
+        intervals [157]:
+            xmin = 1063.27 
+            xmax = 1067.79 
+            text = "(ppl) and like <malay>cerita</malay> bollywood how long is it usually three hours right" 
+        intervals [158]:
+            xmin = 1067.79 
+            xmax = 1068.43649 
+            text = "<Z>" 
+        intervals [159]:
+            xmin = 1068.43649 
+            xmax = 1069.60535 
+            text = "yes" 
+        intervals [160]:
+            xmin = 1069.60535 
+            xmax = 1071.24 
+            text = "<Z>" 
+        intervals [161]:
+            xmin = 1071.24 
+            xmax = 1089.77 
+            text = "<Z>" 
+        intervals [162]:
+            xmin = 1089.77 
+            xmax = 1096.89 
+            text = "<Z>" 
+        intervals [163]:
+            xmin = 1096.89 
+            xmax = 1104.33 
+            text = "<Z>" 
+        intervals [164]:
+            xmin = 1104.33 
+            xmax = 1120.29 
+            text = "I think (uh) also the thing about watching this (uh) a lot of times with different people right it makes me (uh) find out more about (err) the person how they think about that movie and then sometimes like <malay>dia orang dia orang akan tengokkan</malay> [ah] then <malay>dia orang akan</malay> pick up different things that you didn't see" 
+        intervals [165]:
+            xmin = 1120.29 
+            xmax = 1125.67 
+            text = "ya so like [eh] I watched this the second time but I didn't see it the first time but this person that I'm watching it with" 
+        intervals [166]:
+            xmin = 1125.67 
+            xmax = 1136.45172 
+            text = "picked up in this movie so I think <malay>macam gitu</malay> it's quite cool to like <malay>tengok</malay> (err) with <malay>lain orang</malay> [ah] to see <malay>macam dia orang punya</malay> perspective <malay>tu semua</malay> ya and then like (um)" 
+        intervals [167]:
+            xmin = 1136.45172 
+            xmax = 1136.66 
+            text = "<Z>" 
+        intervals [168]:
+            xmin = 1136.66 
+            xmax = 1140.96 
+            text = "[oh] what about like cartoons when you were younger what kind of cartoons did you watch" 
+        intervals [169]:
+            xmin = 1140.96 
+            xmax = 1149.39774 
+            text = "<Z>" 
+        intervals [170]:
+            xmin = 1149.39774 
+            xmax = 1150.95 
+            text = "(mm)" 
+        intervals [171]:
+            xmin = 1150.95 
+            xmax = 1151.26 
+            text = "<Z>" 
+        intervals [172]:
+            xmin = 1151.26 
+            xmax = 1160.37 
+            text = "<Z>" 
+        intervals [173]:
+            xmin = 1160.37 
+            xmax = 1162.45 
+            text = "<Z>" 
+        intervals [174]:
+            xmin = 1162.45 
+            xmax = 1162.8 
+            text = "<Z>" 
+        intervals [175]:
+            xmin = 1162.8 
+            xmax = 1172.79 
+            text = "<Z>" 
+        intervals [176]:
+            xmin = 1172.79 
+            xmax = 1176.82 
+            text = "<Z>" 
+        intervals [177]:
+            xmin = 1176.82 
+            xmax = 1187.49 
+            text = "<Z>" 
+        intervals [178]:
+            xmin = 1187.49 
+            xmax = 1199.77 
+            text = "<Z>" 
+        intervals [179]:
+            xmin = 1199.77 
+            xmax = 1205.38 
+            text = "<Z>" 
+        intervals [180]:
+            xmin = 1205.38 
+            xmax = 1207.76 
+            text = "<Z>" 
+        intervals [181]:
+            xmin = 1207.76 
+            xmax = 1222.26 
+            text = "<Z>" 
+        intervals [182]:
+            xmin = 1222.26 
+            xmax = 1232.2 
+            text = "<Z>" 
+        intervals [183]:
+            xmin = 1232.2 
+            xmax = 1242.26306 
+            text = "<Z>" 
+        intervals [184]:
+            xmin = 1242.26306 
+            xmax = 1243.35223 
+            text = "I think" 
+        intervals [185]:
+            xmin = 1243.35223 
+            xmax = 1253.74 
+            text = "cartoons I don't watch (ppl) some cartoons that I watch (um)" 
+        intervals [186]:
+            xmin = 1253.74 
+            xmax = 1258.31 
+            text = "I really enjoyed sesame street ya sesame street" 
+        intervals [187]:
+            xmin = 1258.31 
+            xmax = 1272.9 
+            text = "it was so interesting because like there's humour is there there's also like (uh) this muppets is it so ya and they all look so different and everybody's living so happy together like !wah! damn cool [leh] <malay>macam macam</malay> and then like" 
+        intervals [188]:
+            xmin = 1272.9 
+            xmax = 1273.07 
+            text = "<Z>" 
+        intervals [189]:
+            xmin = 1273.07 
+            xmax = 1292.17 
+            text = "(mm) I <malay>pun suka tengok tengok dia orang cuma dia orang kita tak dapat tengok kat sini</malay> so it's actually <malay>dari sana</malay> [lah] <malay>tibanya impian saya rumah idaman saya</malay> ya so like it's thanks to sesame street that I that's how my dream house is which is actually unfortunately very expensive [lah] it's like" 
+        intervals [190]:
+            xmin = 1292.17 
+            xmax = 1309.15 
+            text = "millions of dollars and I only have like maybe (ppl) not enough but it's a it's a childhood dream it's it's I I think it's still very important [lah] so it's ya sesame street was very fun all the different characters I think my favourite character do I have a favourite character I like big bird" 
+        intervals [191]:
+            xmin = 1309.15 
+            xmax = 1315.05 
+            text = "he's a good guy ya and then elmo also <malay>macam</malay> quite interesting" 
+        intervals [192]:
+            xmin = 1315.05 
+            xmax = 1324.62 
+            text = "ya so very cool cartoons [lah] and like just now you were saying about K dramas right so the K dramas the" 
+        intervals [193]:
+            xmin = 1324.62 
+            xmax = 1329 
+            text = "you you say about boys over flowers that was also my first (uh)" 
+        intervals [194]:
+            xmin = 1329 
+            xmax = 1338.34 
+            text = "first korean drama that I watch and that's also how I got into K pop ya because of their soundtrack ya so like" 
+        intervals [195]:
+            xmin = 1338.34 
+            xmax = 1342.46035 
+            text = "the soundtrack that I listen to and the actually <malay>bila</malay> I <malay>dengar</malay> soundtrack" 
+        intervals [196]:
+            xmin = 1342.46035 
+            xmax = 1343.23074 
+            text = "(um)" 
+        intervals [197]:
+            xmin = 1343.23074 
+            xmax = 1356.43 
+            text = "(ppo) sometimes when I watch movies also <malay>lepas saya tengok</malay> movie <malay>tu</malay> I like to go and listen to the soundtrack cause I curious right I want to know (uh) how the song sound like all that ya what what" 
+        intervals [198]:
+            xmin = 1356.43 
+            xmax = 1363.69 
+            text = "do you think about songs for movies like are there any particular songs or movies that are memorable to you" 
+        intervals [199]:
+            xmin = 1363.69 
+            xmax = 1366.93852 
+            text = "<Z>" 
+        intervals [200]:
+            xmin = 1366.93852 
+            xmax = 1369.75688 
+            text = "if you it will be what would it be" 
+        intervals [201]:
+            xmin = 1369.75688 
+            xmax = 1371.79 
+            text = "<Z>" 
+        intervals [202]:
+            xmin = 1371.79 
+            xmax = 1373.36727 
+            text = "<Z>" 
+        intervals [203]:
+            xmin = 1373.36727 
+            xmax = 1374.76039 
+            text = "or what kind of like" 
+        intervals [204]:
+            xmin = 1374.76039 
+            xmax = 1393.72 
+            text = "<Z>" 
+        intervals [205]:
+            xmin = 1393.72 
+            xmax = 1396.32 
+            text = "<Z>" 
+        intervals [206]:
+            xmin = 1396.32 
+            xmax = 1404.65783 
+            text = "[orh] ya [lah] soundtracks are very important to a movie right because like and then like when you remember a song maybe sorry when you hear a song and then you'll be like [oh] he most pair" 
+        intervals [207]:
+            xmin = 1404.65783 
+            xmax = 1411.28 
+            text = "almost paradise and you see you know immediately it's boys over flower so or like you know this song" 
+        intervals [208]:
+            xmin = 1411.28 
+            xmax = 1415.12448 
+            text = "the [ah] every night in my dreams what movie is that" 
+        intervals [209]:
+            xmin = 1415.12448 
+            xmax = 1416.61212 
+            text = "<Z>" 
+        intervals [210]:
+            xmin = 1416.61212 
+            xmax = 1418.89672 
+            text = "titanic you see so iconic right you see" 
+        intervals [211]:
+            xmin = 1418.89672 
+            xmax = 1421.94 
+            text = "<Z>" 
+        intervals [212]:
+            xmin = 1421.94 
+            xmax = 1427.64 
+            text = "<Z>" 
+        intervals [213]:
+            xmin = 1427.64 
+            xmax = 1429.42822 
+            text = "<Z>" 
+        intervals [214]:
+            xmin = 1429.42822 
+            xmax = 1430.51739 
+            text = "<malay>bercinta</malay>" 
+        intervals [215]:
+            xmin = 1430.51739 
+            xmax = 1444.67 
+            text = "<Z>" 
+        intervals [216]:
+            xmin = 1444.67 
+            xmax = 1447.63703 
+            text = "[oh] I like this question because I like wishes" 
+        intervals [217]:
+            xmin = 1447.63703 
+            xmax = 1448.43399 
+            text = "(uh)" 
+        intervals [218]:
+            xmin = 1448.43399 
+            xmax = 1455.45 
+            text = "honestly right I want a thousand more wishes <malay>kerana saya seorang yang tamak</malay>" 
+        intervals [219]:
+            xmin = 1455.45 
+            xmax = 1456.69573 
+            text = "<Z>" 
+        intervals [220]:
+            xmin = 1456.69573 
+            xmax = 1464 
+            text = "ya okay so the other two wishes would be say for world peace <malay>jadi pasal</malay> (err)" 
+        intervals [221]:
+            xmin = 1464 
+            xmax = 1464.04 
+            text = "<Z>" 
+        intervals [222]:
+            xmin = 1464.04 
+            xmax = 1480.29 
+            text = "<malay>lebih ramai</malay> [lah] <malay>jadi semua orang lebih baik hati menjaga hati</malay> #blah# #blah# #blah# and then also I want the environment to recover because we have done a lot of damage to earth right I don't want us to be sad I don't want earth to be sad ya what about you like what kind of three three wishes do you want" 
+        intervals [223]:
+            xmin = 1480.29 
+            xmax = 1483.76 
+            text = "<Z>" 
+        intervals [224]:
+            xmin = 1483.76 
+            xmax = 1487.1 
+            text = "[oh] not a lot of people will say food why why why food" 
+        intervals [225]:
+            xmin = 1487.1 
+            xmax = 1492.08 
+            text = "<Z>" 
+        intervals [226]:
+            xmin = 1492.08 
+            xmax = 1500.28 
+            text = "<Z>" 
+        intervals [227]:
+            xmin = 1500.28 
+            xmax = 1500.3 
+            text = "<Z>" 
+        intervals [228]:
+            xmin = 1500.3 
+            xmax = 1511.64 
+            text = "<Z>" 
+        intervals [229]:
+            xmin = 1511.64 
+            xmax = 1530.92 
+            text = "<Z>" 
+        intervals [230]:
+            xmin = 1530.92 
+            xmax = 1535.91 
+            text = "<Z>" 
+        intervals [231]:
+            xmin = 1535.91 
+            xmax = 1548.08 
+            text = "<Z>" 
+        intervals [232]:
+            xmin = 1548.08 
+            xmax = 1549.58761 
+            text = "<Z>" 
+        intervals [233]:
+            xmin = 1549.58761 
+            xmax = 1550.358 
+            text = "(mm)" 
+        intervals [234]:
+            xmin = 1550.358 
+            xmax = 1554.09 
+            text = "<Z>" 
+        intervals [235]:
+            xmin = 1554.09 
+            xmax = 1556.94 
+            text = "<Z>" 
+        intervals [236]:
+            xmin = 1556.94 
+            xmax = 1573.58 
+            text = "unusual superpowers !wah! I've always wanted to try to be invisible because I think when I be invisible right I can like go anywhere I don't have to pay for my bus fare I don't have to pay for my ticket fare then I can do whatever I want so I can like eat" 
+        intervals [237]:
+            xmin = 1573.58 
+            xmax = 1588.96 
+            text = "stuff I can just go behind the counter I can go to the cake eat or maybe if I want to try some clothes right then I can like <malay>masuk dalam</malay> and I <malay>pakai baju</malay> and I <malay>tengok cantik ke tak</malay> [eh] and then also maybe say if I want to go to like amusement park !wow! I don't have to queue [eh]" 
+        intervals [238]:
+            xmin = 1588.96 
+            xmax = 1593.8685 
+            text = "I just go inside I sit down and then I enjoy the ride and then people pay seventy dollar" 
+        intervals [239]:
+            xmin = 1593.8685 
+            xmax = 1597.41 
+            text = "then I pay nothing so I think ya [lah] that's that's what I want to" 
+        intervals [240]:
+            xmin = 1597.41 
+            xmax = 1601.09421 
+            text = "do wanna be invisible because <malay>macam</malay> quite" 
+        intervals [241]:
+            xmin = 1601.09421 
+            xmax = 1601.1739 
+            text = "<Z>" 
+        intervals [242]:
+            xmin = 1601.1739 
+            xmax = 1607.29 
+            text = "(uh) <malay>apa ni</malay> freeing [lah] ya freeing then (err) nobody knows" 
+        intervals [243]:
+            xmin = 1607.29 
+            xmax = 1616.42 
+            text = "who I am I can do whatever I want so [kan] I can <malay>beli buat benda bodoh orang pun tak tahu siapa</malay> I [kan] <malay>pasal tak nampak pun</malay> ya what about you what kind of superpower you like" 
+        intervals [244]:
+            xmin = 1616.42 
+            xmax = 1624.45 
+            text = "<Z>" 
+        intervals [245]:
+            xmin = 1624.45 
+            xmax = 1629.55 
+            text = "<Z>" 
+        intervals [246]:
+            xmin = 1629.55 
+            xmax = 1647.33 
+            text = "<Z>" 
+        intervals [247]:
+            xmin = 1647.33 
+            xmax = 1650.06 
+            text = "<Z>" 
+        intervals [248]:
+            xmin = 1650.06 
+            xmax = 1658.07 
+            text = "<Z>" 
+        intervals [249]:
+            xmin = 1658.07 
+            xmax = 1660.13045 
+            text = "<Z>" 
+        intervals [250]:
+            xmin = 1660.13045 
+            xmax = 1663.9 
+            text = "that's a very cool superpower" 
+        intervals [251]:
+            xmin = 1663.9 
+            xmax = 1668.09997 
+            text = "<Z>" 
+        intervals [252]:
+            xmin = 1668.09997 
+            xmax = 1670.69 
+            text = "what do you think I am thinking of right now" 
+        intervals [253]:
+            xmin = 1670.69 
+            xmax = 1672.29 
+            text = "<Z>" 
+        intervals [254]:
+            xmin = 1672.29 
+            xmax = 1672.42 
+            text = "<Z>" 
+        intervals [255]:
+            xmin = 1672.42 
+            xmax = 1678.2744 
+            text = "<Z>" 
+        intervals [256]:
+            xmin = 1678.2744 
+            xmax = 1688.93873 
+            text = "it's always about food I think (uh) the reading about minds one sometimes (uh) I think it's cool but I'm also scared about it because like what if I find out something that's" 
+        intervals [257]:
+            xmin = 1688.93873 
+            xmax = 1690.32011 
+            text = "I'm not supposed to find out" 
+        intervals [258]:
+            xmin = 1690.32011 
+            xmax = 1698.75 
+            text = "<Z>" 
+        intervals [259]:
+            xmin = 1698.75 
+            xmax = 1717.91 
+            text = "<Z>" 
+        intervals [260]:
+            xmin = 1717.91 
+            xmax = 1725.72 
+            text = "<Z>" 
+        intervals [261]:
+            xmin = 1725.72 
+            xmax = 1728.08082 
+            text = "<Z>" 
+        intervals [262]:
+            xmin = 1728.08082 
+            xmax = 1729.48877 
+            text = "ya ask me" 
+        intervals [263]:
+            xmin = 1729.48877 
+            xmax = 1736.85903 
+            text = "<Z>" 
+        intervals [264]:
+            xmin = 1736.85903 
+            xmax = 1738.58576 
+            text = "of course no problem" 
+        intervals [265]:
+            xmin = 1738.58576 
+            xmax = 1741.56105 
+            text = "<Z>" 
+        intervals [266]:
+            xmin = 1741.56105 
+            xmax = 1746.95376 
+            text = "the one thing that I wish was free is (um)" 
+        intervals [267]:
+            xmin = 1746.95376 
+            xmax = 1747.13972 
+            text = "<Z>" 
+        intervals [268]:
+            xmin = 1747.13972 
+            xmax = 1756.14528 
+            text = "actually why one thing [ah] why cannot be many things I say education ya" 
+        intervals [269]:
+            xmin = 1756.14528 
+            xmax = 1757.28758 
+            text = "<Z>" 
+        intervals [270]:
+            xmin = 1757.28758 
+            xmax = 1770.51 
+            text = "because like to put in perspective right this year I try to apply for uni so unfortunately the uni <malay>mahal</malay> [lah] <malay>satu tahun lima puluh ribu</malay> so you imagine <malay>kalau lepas tiga tahun berapa ribu tu</malay> (uh)" 
+        intervals [271]:
+            xmin = 1770.51 
+            xmax = 1770.73 
+            text = "<Z>" 
+        intervals [272]:
+            xmin = 1770.73 
+            xmax = 1774.83227 
+            text = "(err) <malay>ribu puluh ribu kali tiga</malay> it's like hundred fifty thousand where am I gonna get that money you know" 
+        intervals [273]:
+            xmin = 1774.83227 
+            xmax = 1788.2328 
+            text = "<malay>yang tu caranya</malay> a lot of money so then and then (uh) I think so that's in my perspective personal perspective where I don't have like a lot of money and then like what if I think about other people like (uh) I remember (uh)" 
+        intervals [274]:
+            xmin = 1788.2328 
+            xmax = 1788.47188 
+            text = "<Z>" 
+        intervals [275]:
+            xmin = 1788.47188 
+            xmax = 1804.30467 
+            text = "<malay>saudara</malay> where they had to lay <malay>antara dapat duit</malay> bursary <malay>atau budak tu</malay> move on to a better education so <malay>kalau budak tu dapat duit</malay> bursary <malay>maknanya dia kena</malay> stay in" 
+        intervals [276]:
+            xmin = 1804.30467 
+            xmax = 1804.4375 
+            text = "<Z>" 
+        intervals [277]:
+            xmin = 1804.4375 
+            xmax = 1814.88 
+            text = "(uh) not so not the best education <malay>untuk dia</malay> and then if that that <malay>budak</malay> goes on to (uh) a better education he might not get" 
+        intervals [278]:
+            xmin = 1814.88 
+            xmax = 1830.26 
+            text = "(uh) the money so that is like so sad right why do you have to choose between money and education you know then also like because I think education <malay>macam</malay> it helps to break poverty cycles [lah]" 
+        intervals [279]:
+            xmin = 1830.26 
+            xmax = 1830.63 
+            text = "<Z>" 
+        intervals [280]:
+            xmin = 1830.63 
+            xmax = 1848.74495 
+            text = "ya so like the example I just gave you right people are stuck in this loop because they [ah] have to choose between these two and both are important right [ah] <malay>yang mana awak nak pilih yang duit ke untuk pelajaran</malay> ya [oh] ya another thing actually very important (uh)" 
+        intervals [281]:
+            xmin = 1848.74495 
+            xmax = 1848.90434 
+            text = "<Z>" 
+        intervals [282]:
+            xmin = 1848.90434 
+            xmax = 1854.97 
+            text = "sanitation (ppl) which is clean clean toilets" 
+        intervals [283]:
+            xmin = 1854.97 
+            xmax = 1866.75 
+            text = "ya because it's like you know sometimes when you go travelling right you go countries and then you'll be like okay <malay>kita pergi dia punya</malay> (uh) <malay>apa ni</malay> petrol station <malay>nak pergi</malay> toilet <malay>nak pergi</malay> toilet <malay>tak kat</malay> [ah]" 
+        intervals [284]:
+            xmin = 1866.75 
+            xmax = 1866.9 
+            text = "<Z>" 
+        intervals [285]:
+            xmin = 1866.9 
+            xmax = 1871.45 
+            text = "[ah] petrol station <malay>dia nampak tak dia punya jamban</malay> so many different" 
+        intervals [286]:
+            xmin = 1871.45 
+            xmax = 1874.72 
+            text = "colours and so many different smells so like" 
+        intervals [287]:
+            xmin = 1874.72 
+            xmax = 1877.23 
+            text = "it's so" 
+        intervals [288]:
+            xmin = 1877.23 
+            xmax = 1883.84 
+            text = "basic clean toilets and then like so I cannot imagine how different countries" 
+        intervals [289]:
+            xmin = 1883.84 
+            xmax = 1883.85 
+            text = "<Z>" 
+        intervals [290]:
+            xmin = 1883.85 
+            xmax = 1898.09 
+            text = "if we were to stop ourselves from going toilet because it's so disgusting and then in the end we become (ppo) gross you know ya what about you what do you think what what do you one thing you wish was free" 
+        intervals [291]:
+            xmin = 1898.09 
+            xmax = 1908.73 
+            text = "<Z>" 
+        intervals [292]:
+            xmin = 1908.73 
+            xmax = 1919.39 
+            text = "<Z>" 
+        intervals [293]:
+            xmin = 1919.39 
+            xmax = 1922.71 
+            text = "<Z>" 
+        intervals [294]:
+            xmin = 1922.71 
+            xmax = 1929.72 
+            text = "<Z>" 
+        intervals [295]:
+            xmin = 1929.72 
+            xmax = 1935.82 
+            text = "<Z>" 
+        intervals [296]:
+            xmin = 1935.82 
+            xmax = 1941.78 
+            text = "<Z>" 
+        intervals [297]:
+            xmin = 1941.78 
+            xmax = 1946.6 
+            text = "<Z>" 
+        intervals [298]:
+            xmin = 1946.6 
+            xmax = 1946.78 
+            text = "<Z>" 
+        intervals [299]:
+            xmin = 1946.78 
+            xmax = 1951.02605 
+            text = "<Z>" 
+        intervals [300]:
+            xmin = 1951.02605 
+            xmax = 1951.53078 
+            text = "yes" 
+        intervals [301]:
+            xmin = 1951.53078 
+            xmax = 1956.60471 
+            text = "<Z>" 
+        intervals [302]:
+            xmin = 1956.60471 
+            xmax = 1962.13 
+            text = "[oh] if humans no longer needed to work to survive what would we do" 
+        intervals [303]:
+            xmin = 1962.13 
+            xmax = 1963.29911 
+            text = "<Z>" 
+        intervals [304]:
+            xmin = 1963.29911 
+            xmax = 1981.39 
+            text = "okay so my friends and I <malay>kita selalu berbual</malay> how like we're stuck in jobs how we have to work from like nine to five <malay>habis tu bila dah habis kerja kita penat</malay> and then we don't feel like doing our own hobbies <malay>tapi kita tetap</malay> couldn't <malay>kerja</malay> because <malay>kita perlukan duit</malay> right" 
+        intervals [305]:
+            xmin = 1981.39 
+            xmax = 1994.15 
+            text = "we need to keep working to get money because we also need to have bills to pay we want to buy stuff and then what if you want to enjoy so that you want to travel also you still need money so this is another loop" 
+        intervals [306]:
+            xmin = 1994.15 
+            xmax = 1998.91 
+            text = "so I guess the one thing that everybody would want is just to take a break" 
+        intervals [307]:
+            xmin = 1998.91 
+            xmax = 2009.82 
+            text = "you know just to be ourselves just to enjoy life so that's one thing I think that (uh) people would definitely be doing if we didn't have to work ya" 
+        intervals [308]:
+            xmin = 2009.82 
+            xmax = 2016.66 
+            text = "what do you think like like what do you think about vacations and all that what would be your ideal vacation" 
+        intervals [309]:
+            xmin = 2016.66 
+            xmax = 2032.36 
+            text = "[oh] ya so like ideal vacation would be so interesting right <malay>macam</malay> people <malay>ada dia punya macam jawapan dia orang dah tahu apa dia orang nak mana nak pergi tapi tak boleh buat pasal dia orang asyik kerja</malay> like how much more longer you gonna work man like ya" 
+        intervals [310]:
+            xmin = 2032.36 
+            xmax = 2040.66 
+            text = "<Z>" 
+        intervals [311]:
+            xmin = 2040.66 
+            xmax = 2044.13 
+            text = "<Z>" 
+        intervals [312]:
+            xmin = 2044.13 
+            xmax = 2061.21 
+            text = "<Z>" 
+        intervals [313]:
+            xmin = 2061.21 
+            xmax = 2079.96 
+            text = "<Z>" 
+        intervals [314]:
+            xmin = 2079.96 
+            xmax = 2086.45 
+            text = "<Z>" 
+        intervals [315]:
+            xmin = 2086.45 
+            xmax = 2105.24 
+            text = "<Z>" 
+        intervals [316]:
+            xmin = 2105.24 
+            xmax = 2107.2 
+            text = "<Z>" 
+        intervals [317]:
+            xmin = 2107.2 
+            xmax = 2123.04 
+            text = "<Z>" 
+        intervals [318]:
+            xmin = 2123.04 
+            xmax = 2123.17 
+            text = "<Z>" 
+        intervals [319]:
+            xmin = 2123.17 
+            xmax = 2124.98 
+            text = "<Z>" 
+        intervals [320]:
+            xmin = 2124.98 
+            xmax = 2134.51349 
+            text = "<Z>" 
+        intervals [321]:
+            xmin = 2134.51349 
+            xmax = 2151.92 
+            text = "that's cool my mother likes gardening also ya and gardening (err) she has made a lot of friends [eh] from gardening like sometimes when she's in the the gardening the small garden community garden right downstairs so <malay>kalau dekat sana seorang kadang-kadang ada orang lalu nanti dia tanya</malay>" 
+        intervals [322]:
+            xmin = 2151.92 
+            xmax = 2156.28 
+            text = "[eh] <malay>awak sini berkebun</malay> [eh] then they ask her [eh] can I join or not like" 
+        intervals [323]:
+            xmin = 2156.28 
+            xmax = 2171.97 
+            text = "[eh] then they make friend blah blah blah so that's actually how she expand she expand and expand the network so it's quite interesting to see like [oh] it's through these hobbies we you know when you just doing your own thing you just enjoying and then people see you having fun and then they also want to have fun right" 
+        intervals [324]:
+            xmin = 2171.97 
+            xmax = 2177.58 
+            text = "!wah! so nice and like she she she's I I like to see her having fun [lah]" 
+        intervals [325]:
+            xmin = 2177.58 
+            xmax = 2187.28 
+            text = "ya what what about you like hobbies what kind of hobbies you want to try what kind of hobbies you wanna like !wah! how come hobbies that didn't work out what kind of hobbies do you enjoy now" 
+        intervals [326]:
+            xmin = 2187.28 
+            xmax = 2199.91 
+            text = "<Z>" 
+        intervals [327]:
+            xmin = 2199.91 
+            xmax = 2205.45 
+            text = "<Z>" 
+        intervals [328]:
+            xmin = 2205.45 
+            xmax = 2223.49 
+            text = "<Z>" 
+        intervals [329]:
+            xmin = 2223.49 
+            xmax = 2231.01 
+            text = "<Z>" 
+        intervals [330]:
+            xmin = 2231.01 
+            xmax = 2241.77 
+            text = "<Z>" 
+        intervals [331]:
+            xmin = 2241.77 
+            xmax = 2252.26 
+            text = "<Z>" 
+        intervals [332]:
+            xmin = 2252.26 
+            xmax = 2262.25 
+            text = "<Z>" 
+        intervals [333]:
+            xmin = 2262.25 
+            xmax = 2265.31065 
+            text = "<Z>" 
+        intervals [334]:
+            xmin = 2265.31065 
+            xmax = 2273 
+            text = "for me my hobbies has always been arts [lah] I really like arts whether it's like <malay>macam</malay> music <malay>atau</malay>" 
+        intervals [335]:
+            xmin = 2273 
+            xmax = 2273.57 
+            text = "<Z>" 
+        intervals [336]:
+            xmin = 2273.57 
+            xmax = 2282.14 
+            text = "makeup eye makeup <malay>lukis ke apa</malay> [kan] it's very fun and like (uh) I think about hobbies" 
+        intervals [337]:
+            xmin = 2282.14 
+            xmax = 2295.87 
+            text = "say if I were to play like music or like (uh) art right I have to practise so I really enjoy practising music because it's like really fun ya what what do you think about practising do you think it's fun or do you think it's like annoying" 
+        intervals [338]:
+            xmin = 2295.87 
+            xmax = 2297.52 
+            text = "<Z>" 
+        intervals [339]:
+            xmin = 2297.52 
+            xmax = 2300.46 
+            text = "<Z>" 
+        intervals [340]:
+            xmin = 2300.46 
+            xmax = 2300.66 
+            text = "<Z>" 
+        intervals [341]:
+            xmin = 2300.66 
+            xmax = 2303.12 
+            text = "<Z>" 
+        intervals [342]:
+            xmin = 2303.12 
+            xmax = 2321.6 
+            text = "<Z>" 
+        intervals [343]:
+            xmin = 2321.6 
+            xmax = 2321.63 
+            text = "<Z>" 
+        intervals [344]:
+            xmin = 2321.63 
+            xmax = 2325.68 
+            text = "<Z>" 
+        intervals [345]:
+            xmin = 2325.68 
+            xmax = 2329.67474 
+            text = "ya it's true [oh] then I wanna ask (um)" 
+        intervals [346]:
+            xmin = 2329.67474 
+            xmax = 2330.63108 
+            text = "<Z>" 
+        intervals [347]:
+            xmin = 2330.63108 
+            xmax = 2341.93 
+            text = "see like (uh) what sort about like music right cause I'm interested in music I really like music right <malay>jadi apa</malay> you <malay>punya</malay> favourite <malay>lagu</malay> [eh]" 
+        intervals [348]:
+            xmin = 2341.93 
+            xmax = 2347.896 
+            text = "<Z>" 
+        intervals [349]:
+            xmin = 2347.896 
+            xmax = 2349.95563 
+            text = "<malay>apa-apa</malay> genre [lah]" 
+        intervals [350]:
+            xmin = 2349.95563 
+            xmax = 2351.39 
+            text = "<Z>" 
+        intervals [351]:
+            xmin = 2351.39 
+            xmax = 2351.83 
+            text = "<Z>" 
+        intervals [352]:
+            xmin = 2351.83 
+            xmax = 2353.46 
+            text = "<Z>" 
+        intervals [353]:
+            xmin = 2353.46 
+            xmax = 2359.07 
+            text = "<Z>" 
+        intervals [354]:
+            xmin = 2359.07 
+            xmax = 2366.9 
+            text = "<Z>" 
+        intervals [355]:
+            xmin = 2366.9 
+            xmax = 2368.53 
+            text = "<Z>" 
+        intervals [356]:
+            xmin = 2368.53 
+            xmax = 2368.54 
+            text = "<Z>" 
+        intervals [357]:
+            xmin = 2368.54 
+            xmax = 2370.82 
+            text = "<Z>" 
+        intervals [358]:
+            xmin = 2370.82 
+            xmax = 2377.75 
+            text = "<Z>" 
+        intervals [359]:
+            xmin = 2377.75 
+            xmax = 2385.25752 
+            text = "<Z>" 
+        intervals [360]:
+            xmin = 2385.25752 
+            xmax = 2386.42638 
+            text = "(mm)" 
+        intervals [361]:
+            xmin = 2386.42638 
+            xmax = 2394.25 
+            text = "<Z>" 
+        intervals [362]:
+            xmin = 2394.25 
+            xmax = 2405.11 
+            text = "<Z>" 
+        intervals [363]:
+            xmin = 2405.11 
+            xmax = 2416.29 
+            text = "<Z>" 
+        intervals [364]:
+            xmin = 2416.29 
+            xmax = 2418.95377 
+            text = "think for me (mm)" 
+        intervals [365]:
+            xmin = 2418.95377 
+            xmax = 2422.9651 
+            text = "<malay>kalau lagu melayu</malay> [kan] <malay>lagu melayu</malay> I <malay>ingat macam</malay> more" 
+        intervals [366]:
+            xmin = 2422.9651 
+            xmax = 2437.62 
+            text = "to <malay>bahasa</malay> indonesia I don't know why but I really like their music you won't need to recommend me more like malay stuff [lah] I think my <malay>bahasa</malay> indonesia is quite good so recently there's this song it's called" 
+        intervals [367]:
+            xmin = 2437.62 
+            xmax = 2453.78 
+            text = "<malay>mengunci ikatan jadi maksud dia</malay> [kan] <malay>macam mengunci ikatan jadi macam</malay> memory [lah] <malay>dia nak simpan</malay> memory <malay>tu dia tak nak lupakan</malay> (uh) actually I got this song right from a drama a a drama on YouTube it's so good it's only" 
+        intervals [368]:
+            xmin = 2453.78 
+            xmax = 2465.9 
+            text = "four episodes ya and then (err) the way they shot it also like the beach I mean everybody loves the beach it looks so beautiful and then they play this song also so it's also memorable" 
+        intervals [369]:
+            xmin = 2465.9 
+            xmax = 2480.24 
+            text = "so ya that that's that's one of my newer favourite songs [lah] and it's also by an artist that I really like (uh) actually last year the <malay>dia ada datang</malay> singer last year maybe last year <malay>atau dua tahun lepas dia datang</malay> singapore <malay>tapi</malay> I <malay>tak tak pergi</malay> !alamak!" 
+        intervals [370]:
+            xmin = 2480.24 
+            xmax = 2481.57 
+            text = "<Z>" 
+        intervals [371]:
+            xmin = 2481.57 
+            xmax = 2490.07 
+            text = "what about like live music (err) <malay>pernah ada pergi tak dengan</malay> experience <malay>ke tak</malay> live music" 
+        intervals [372]:
+            xmin = 2490.07 
+            xmax = 2498.25917 
+            text = "<Z>" 
+        intervals [373]:
+            xmin = 2498.25917 
+            xmax = 2499.50773 
+            text = "to this place" 
+        intervals [374]:
+            xmin = 2499.50773 
+            xmax = 2502.02 
+            text = "<Z>" 
+        intervals [375]:
+            xmin = 2502.02 
+            xmax = 2508.85 
+            text = "<Z>" 
+        intervals [376]:
+            xmin = 2508.85 
+            xmax = 2527.99 
+            text = "<Z>" 
+        intervals [377]:
+            xmin = 2527.99 
+            xmax = 2537.42 
+            text = "<Z>" 
+        intervals [378]:
+            xmin = 2537.42 
+            xmax = 2539.43 
+            text = "<Z>" 
+        intervals [379]:
+            xmin = 2539.43 
+            xmax = 2550.12 
+            text = "<Z>" 
+        intervals [380]:
+            xmin = 2550.12 
+            xmax = 2551.41 
+            text = "<Z>" 
+        intervals [381]:
+            xmin = 2551.41 
+            xmax = 2559.95 
+            text = "<Z>" 
+        intervals [382]:
+            xmin = 2559.95 
+            xmax = 2577.55 
+            text = "<Z>" 
+        intervals [383]:
+            xmin = 2577.55 
+            xmax = 2582.94 
+            text = "<Z>" 
+        intervals [384]:
+            xmin = 2582.94 
+            xmax = 2591.04 
+            text = "for me I really love concerts [leh] like (ppl) it's too bad [lah] this year cannot go concerts but I think that's okay because I get to save money right" 
+        intervals [385]:
+            xmin = 2591.04 
+            xmax = 2593.54192 
+            text = "(uh) then like (mm)" 
+        intervals [386]:
+            xmin = 2593.54192 
+            xmax = 2593.70131 
+            text = "<Z>" 
+        intervals [387]:
+            xmin = 2593.70131 
+            xmax = 2596.74 
+            text = "for me [kan] my (uh)" 
+        intervals [388]:
+            xmin = 2596.74 
+            xmax = 2609.64 
+            text = "concert <malay>yang macam paling</malay> memorable <malay>tu dengan</malay> my sister <malay>juga</malay> [ah] <malay>ni bila dua ribu tujuh belas tengok</malay> coldplay [oh] actually an interesting thing about this was (uh)" 
+        intervals [389]:
+            xmin = 2609.64 
+            xmax = 2623.18 
+            text = "when I went to buy the tickets for this show so I remember the people in front of me they were not fans of the show they were people who wanted to buy as many tickets as they can right <malay>jadi dia orang nak jual</malay> at" 
+        intervals [390]:
+            xmin = 2623.18 
+            xmax = 2625.72 
+            text = "a higher price" 
+        intervals [391]:
+            xmin = 2625.72 
+            xmax = 2628.79068 
+            text = "ya [lah] so like for me (uh)" 
+        intervals [392]:
+            xmin = 2628.79068 
+            xmax = 2634.61 
+            text = "as a frequent concert goer [kan] you always hear stories of people who" 
+        intervals [393]:
+            xmin = 2634.61 
+            xmax = 2635.6976 
+            text = "<Z>" 
+        intervals [394]:
+            xmin = 2635.6976 
+            xmax = 2648.29 
+            text = "sell tickets at a higher price so it was quite surprising that [oh] my goodness I am standing in a line and then in front of me is the person who does this you know because all this time you read online and then suddenly you see the person in front of you it's like" 
+        intervals [395]:
+            xmin = 2648.29 
+            xmax = 2651.34 
+            text = "<Z>" 
+        intervals [396]:
+            xmin = 2651.34 
+            xmax = 2663.41 
+            text = "ya so that was not only the concert itself was memorable [lah] <malay>tapi dia punya bila</malay> part <malay>beli tiket itu pun</malay> memorable but in a <malay>sedih punya</malay> memory ya" 
+        intervals [397]:
+            xmin = 2663.41 
+            xmax = 2674.09 
+            text = "[oh] ya I (mm) what about <malay>macam</malay> (mm) <malay>ni punya</malay> fashion style like how would you describe your fashion style" 
+        intervals [398]:
+            xmin = 2674.09 
+            xmax = 2681.84 
+            text = "<Z>" 
+        intervals [399]:
+            xmin = 2681.84 
+            xmax = 2697.48 
+            text = "<Z>" 
+        intervals [400]:
+            xmin = 2697.48 
+            xmax = 2702.83 
+            text = "<Z>" 
+        intervals [401]:
+            xmin = 2702.83 
+            xmax = 2707.78 
+            text = "<Z>" 
+        intervals [402]:
+            xmin = 2707.78 
+            xmax = 2726.96 
+            text = "<Z>" 
+        intervals [403]:
+            xmin = 2726.96 
+            xmax = 2733.14 
+            text = "<Z>" 
+        intervals [404]:
+            xmin = 2733.14 
+            xmax = 2750.35 
+            text = "<Z>" 
+        intervals [405]:
+            xmin = 2750.35 
+            xmax = 2766.08 
+            text = "think for me my fashion style I always like to (uh) dress up I like to experiment since I was a kid so I always like try to go for like maybe but my normal life would be say smart casual then maybe I would like to try streetwear" 
+        intervals [406]:
+            xmin = 2766.08 
+            xmax = 2775.83 
+            text = "and then (uh) if you look at my closet I like to have outerwears because it's so easy you just layer on and then you go it's finish" 
+        intervals [407]:
+            xmin = 2775.83 
+            xmax = 2781.52 
+            text = "ya and (err) I I like to wear navy blue what about you what what kind of colours you like to wear" 
+        intervals [408]:
+            xmin = 2781.52 
+            xmax = 2784.55 
+            text = "<Z>" 
+        intervals [409]:
+            xmin = 2784.55 
+            xmax = 2785.05 
+            text = "<Z>" 
+        intervals [410]:
+            xmin = 2785.05 
+            xmax = 2787.71 
+            text = "<Z>" 
+        intervals [411]:
+            xmin = 2787.71 
+            xmax = 2787.84 
+            text = "<Z>" 
+        intervals [412]:
+            xmin = 2787.84 
+            xmax = 2791.12 
+            text = "<Z>" 
+        intervals [413]:
+            xmin = 2791.12 
+            xmax = 2799.36 
+            text = "<Z>" 
+        intervals [414]:
+            xmin = 2799.36 
+            xmax = 2812.13 
+            text = "<Z>" 
+        intervals [415]:
+            xmin = 2812.13 
+            xmax = 2819.41 
+            text = "<Z>" 
+        intervals [416]:
+            xmin = 2819.41 
+            xmax = 2825.14 
+            text = "<Z>" 
+        intervals [417]:
+            xmin = 2825.14 
+            xmax = 2829.39 
+            text = "ya so like colours are really fun right to play and then <malay>pasal</malay>" 
+        intervals [418]:
+            xmin = 2829.39 
+            xmax = 2840.65 
+            text = "<malay>setiap orang</malay> [kan] <malay>ada warna dia tetap untuk diri dia</malay> I mean like ya if you wanna like have fun go ahead you wanna be comfortable go ahead ya I got random question for you (uh) ya do you believe in love at first sight" 
+        intervals [419]:
+            xmin = 2840.65 
+            xmax = 2844.85 
+            text = "<Z>" 
+        intervals [420]:
+            xmin = 2844.85 
+            xmax = 2849.53 
+            text = "<Z>" 
+        intervals [421]:
+            xmin = 2849.53 
+            xmax = 2853.92 
+            text = "<Z>" 
+        intervals [422]:
+            xmin = 2853.92 
+            xmax = 2861.8 
+            text = "<Z>" 
+        intervals [423]:
+            xmin = 2861.8 
+            xmax = 2863.34 
+            text = "<Z>" 
+        intervals [424]:
+            xmin = 2863.34 
+            xmax = 2863.71 
+            text = "<Z>" 
+        intervals [425]:
+            xmin = 2863.71 
+            xmax = 2866.3 
+            text = "<Z>" 
+        intervals [426]:
+            xmin = 2866.3 
+            xmax = 2874.43 
+            text = "<Z>" 
+        intervals [427]:
+            xmin = 2874.43 
+            xmax = 2888.19 
+            text = "<Z>" 
+        intervals [428]:
+            xmin = 2888.19 
+            xmax = 2895.13 
+            text = "<Z>" 
+        intervals [429]:
+            xmin = 2895.13 
+            xmax = 2897.29 
+            text = "<Z>" 
+        intervals [430]:
+            xmin = 2897.29 
+            xmax = 2900.01 
+            text = "<Z>" 
+        intervals [431]:
+            xmin = 2900.01 
+            xmax = 2904.95749 
+            text = "<Z>" 
+        intervals [432]:
+            xmin = 2904.95749 
+            xmax = 2913.97478 
+            text = "I don't believe in love at first sight ya that's why I ask you I wanted to know your opinion ya because for me [kan] (uh)" 
+        intervals [433]:
+            xmin = 2913.97478 
+            xmax = 2914.1 
+            text = "<Z>" 
+        intervals [434]:
+            xmin = 2914.1 
+            xmax = 2923.44 
+            text = "(ppo) <malay>apa jatuh cinta pada pemandangan yang pertama macam pelik</malay> [eh]" 
+        intervals [435]:
+            xmin = 2923.44 
+            xmax = 2929.93 
+            text = "cause for me right my crushes are usually on like after I know the person after I know their character after" 
+        intervals [436]:
+            xmin = 2929.93 
+            xmax = 2937.06 
+            text = "I see them do stuff after I hear them say stuff then it's like yes I like this <malay>ciri-ciri jadi</malay> I <malay>suka orang ni</malay> [lah]" 
+        intervals [437]:
+            xmin = 2937.06 
+            xmax = 2945.77 
+            text = "so like (err) personally I've never fallen in love at first sight and I think it's" 
+        intervals [438]:
+            xmin = 2945.77 
+            xmax = 2948.60082 
+            text = "<malay>pelik</malay> ya" 
+        intervals [439]:
+            xmin = 2948.60082 
+            xmax = 2952.22 
+            text = "<Z>" 
+        intervals [440]:
+            xmin = 2952.22 
+            xmax = 2966.82 
+            text = "<Z>" 
+        intervals [441]:
+            xmin = 2966.82 
+            xmax = 2975.11 
+            text = "<Z>" 
+        intervals [442]:
+            xmin = 2975.11 
+            xmax = 2978.52 
+            text = "<Z>" 
+        intervals [443]:
+            xmin = 2978.52 
+            xmax = 2981.91033 
+            text = "<Z>" 
+        intervals [444]:
+            xmin = 2981.91033 
+            xmax = 2983.12 
+            text = "ya what is it" 
+        intervals [445]:
+            xmin = 2983.12 
+            xmax = 2986.42 
+            text = "<Z>" 
+        intervals [446]:
+            xmin = 2986.42 
+            xmax = 2993.49 
+            text = "<Z>" 
+        intervals [447]:
+            xmin = 2993.49 
+            xmax = 2997.63 
+            text = "<Z>" 
+        intervals [448]:
+            xmin = 2997.63 
+            xmax = 3006.33 
+            text = "I think this [one] [eh] your hardest question [eh] how can you ask me to eat one dish for the rest of my life how can like that" 
+        intervals [449]:
+            xmin = 3006.33 
+            xmax = 3025.96 
+            text = "when the world has so many very nice dishes you ask me to choose one dish (mm) how can I don't know about dish [lah] but I think right for I [kan] you know my <malay>mesti</malay> I <malay>pilih</malay> okay <malay>antara</malay> syrup <malay>limau atau teh</malay> O <malay>ais limau</malay>" 
+        intervals [450]:
+            xmin = 3025.96 
+            xmax = 3035.64 
+            text = "<Z>" 
+        intervals [451]:
+            xmin = 3035.64 
+            xmax = 3044.33 
+            text = "<Z>" 
+        intervals [452]:
+            xmin = 3044.33 
+            xmax = 3058.13418 
+            text = "<Z>" 
+        intervals [453]:
+            xmin = 3058.13418 
+            xmax = 3065.96 
+            text = "ya I think (uh) like <malay>teh</malay> O ice also I mean you can <malay>minum panas</malay> it stays great and then you can <malay>minum sejuk</malay> it taste great" 
+        intervals [454]:
+            xmin = 3065.96 
+            xmax = 3066.01 
+            text = "<Z>" 
+        intervals [455]:
+            xmin = 3066.01 
+            xmax = 3077.51 
+            text = "and then like but if you drink syrup <malay>limau panas-panas ada ke orang minum macam gitu tak tahu</malay> [lah] <malay>mungkin ada tapi</malay> I <malay>tak tahu</malay> ya and [oh] so (um)" 
+        intervals [456]:
+            xmin = 3077.51 
+            xmax = 3087.83 
+            text = "about this the the one dish for the rest of your life then what about like (um) say if you want to move to a country to stay for the rest of your life where would it be" 
+        intervals [457]:
+            xmin = 3087.83 
+            xmax = 3098.78 
+            text = "<Z>" 
+        intervals [458]:
+            xmin = 3098.78 
+            xmax = 3100.62 
+            text = "<Z>" 
+        intervals [459]:
+            xmin = 3100.62 
+            xmax = 3100.87 
+            text = "<Z>" 
+        intervals [460]:
+            xmin = 3100.87 
+            xmax = 3110.9 
+            text = "<Z>" 
+        intervals [461]:
+            xmin = 3110.9 
+            xmax = 3117.9 
+            text = "<Z>" 
+        intervals [462]:
+            xmin = 3117.9 
+            xmax = 3124.07 
+            text = "<Z>" 
+        intervals [463]:
+            xmin = 3124.07 
+            xmax = 3141.29 
+            text = "<Z>" 
+        intervals [464]:
+            xmin = 3141.29 
+            xmax = 3146.11 
+            text = "<Z>" 
+        intervals [465]:
+            xmin = 3146.11 
+            xmax = 3165.27 
+            text = "<Z>" 
+        intervals [466]:
+            xmin = 3165.27 
+            xmax = 3175.27998 
+            text = "for me (uh) just now you mentioned korea right you say you really like the the place all that down to the culture" 
+        intervals [467]:
+            xmin = 3175.27998 
+            xmax = 3186.95 
+            text = "<Z>" 
+        intervals [468]:
+            xmin = 3186.95 
+            xmax = 3194.26 
+            text = "<Z>" 
+        intervals [469]:
+            xmin = 3194.26 
+            xmax = 3197 
+            text = "<Z>" 
+        intervals [470]:
+            xmin = 3197 
+            xmax = 3205.37512 
+            text = "<Z>" 
+        intervals [471]:
+            xmin = 3205.37512 
+            xmax = 3207.65 
+            text = "[oh] I was thinking" 
+        intervals [472]:
+            xmin = 3207.65 
+            xmax = 3217.13 
+            text = "(mm) korea I think okay but like" 
+        intervals [473]:
+            xmin = 3217.13 
+            xmax = 3223.2 
+            text = "I want to say the language is a barrier ya but sometimes it's the food also" 
+        intervals [474]:
+            xmin = 3223.2 
+            xmax = 3225.03 
+            text = "ya" 
+        intervals [475]:
+            xmin = 3225.03 
+            xmax = 3227.06396 
+            text = "<Z>" 
+        intervals [476]:
+            xmin = 3227.06396 
+            xmax = 3228.44534 
+            text = "I had a" 
+        intervals [477]:
+            xmin = 3228.44534 
+            xmax = 3233.64 
+            text = "not a very nice experience when I was at the airport because" 
+        intervals [478]:
+            xmin = 3233.64 
+            xmax = 3233.69 
+            text = "<Z>" 
+        intervals [479]:
+            xmin = 3233.69 
+            xmax = 3242.56 
+            text = "(err) <malay>apa ni kat</malay> airport <malay>tu dah nak terbang tapi lapar gila belum makan</malay> my <malay>makan tengah hari pun</malay>" 
+        intervals [480]:
+            xmin = 3242.56 
+            xmax = 3255.68 
+            text = "<malay>sikit</malay> [jer] I think maybe just (err) what do they eat #japchae# [ah] #japchae# I guess I'm the person who has to eat rice right to be full but I ate #japchae# #japchae# is noodle ya ya" 
+        intervals [481]:
+            xmin = 3255.68 
+            xmax = 3265.18 
+            text = "so then I didn't eat for like dinner and then I was at the airport and there was no halal food I mean there's halal food but you see their airport is" 
+        intervals [482]:
+            xmin = 3265.18 
+            xmax = 3280.82 
+            text = "very big [ah] so I if I were to reach there I calculate [lah] like cannot reach there before my gate open what if I reach there then the the <malay>kedai tutup</malay> then <malay>mesti lapar</malay> [kan] so I remember I I I only bought <malay>kacang</malay>" 
+        intervals [483]:
+            xmin = 3280.82 
+            xmax = 3280.89 
+            text = "<Z>" 
+        intervals [484]:
+            xmin = 3280.89 
+            xmax = 3283.33 
+            text = "<malay>kacang makan</malay>" 
+        intervals [485]:
+            xmin = 3283.33 
+            xmax = 3286.43 
+            text = "<malay>habis tu</malay> I only ate in taiwan" 
+        intervals [486]:
+            xmin = 3286.43 
+            xmax = 3286.5 
+            text = "<Z>" 
+        intervals [487]:
+            xmin = 3286.5 
+            xmax = 3289.36 
+            text = "!chey! cause taiwan" 
+        intervals [488]:
+            xmin = 3289.36 
+            xmax = 3300.2 
+            text = "was the transit ya and then that's where the food on the plane [lah] so I the so these are the things that I think about when I want to think about living in the country" 
+        intervals [489]:
+            xmin = 3300.2 
+            xmax = 3302.74 
+            text = "<Z>" 
+        intervals [490]:
+            xmin = 3302.74 
+            xmax = 3320.25 
+            text = "it's simple as food as simple as (uh) language culture culture I feel like you can adapt to it ya I don't know I don't think there's a country for me that I wanna stay forever I think I like to jump around" 
+        intervals [491]:
+            xmin = 3320.25 
+            xmax = 3336.45 
+            text = "<Z>" 
+        intervals [492]:
+            xmin = 3336.45 
+            xmax = 3352.08 
+            text = "<Z>" 
+        intervals [493]:
+            xmin = 3352.08 
+            xmax = 3361.24971 
+            text = "in singapore for tourist place right I like to go nature ya cause I like to relax <malay>jadi bila</malay> I <malay>nampak pokok</malay> I <malay>nampak</malay>" 
+        intervals [494]:
+            xmin = 3361.24971 
+            xmax = 3368.00897 
+            text = "(uh) <malay>air air tenteram</malay> I <malay>tak fikir banyak</malay> I <malay>boleh dengar</malay>" 
+        intervals [495]:
+            xmin = 3368.00897 
+            xmax = 3373.11 
+            text = "I <malay>boleh tengok dia punya warna walaupun warna dia hijau</malay> [jer] but like there's so many different colours of green" 
+        intervals [496]:
+            xmin = 3373.11 
+            xmax = 3377.56 
+            text = "like [eh] quite cool [leh] like [oh] and then like (uh) ya I like" 
+        intervals [497]:
+            xmin = 3377.56 
+            xmax = 3383.41 
+            text = "to actually I like to listen to the leaves and the meet in the wind" 
+        intervals [498]:
+            xmin = 3383.41 
+            xmax = 3386.39 
+            text = "what about you is there are there any favourite sounds you have" 
+        intervals [499]:
+            xmin = 3386.39 
+            xmax = 3387.9 
+            text = "<Z>" 
+        intervals [500]:
+            xmin = 3387.9 
+            xmax = 3387.93 
+            text = "<Z>" 
+        intervals [501]:
+            xmin = 3387.93 
+            xmax = 3393.63 
+            text = "<Z>" 
+        intervals [502]:
+            xmin = 3393.63 
+            xmax = 3396.99 
+            text = "<Z>" 
+        intervals [503]:
+            xmin = 3396.99 
+            xmax = 3407.44 
+            text = "<Z>" 
+        intervals [504]:
+            xmin = 3407.44 
+            xmax = 3417.94 
+            text = "<Z>" 
+        intervals [505]:
+            xmin = 3417.94 
+            xmax = 3428.81 
+            text = "<Z>" 
+        intervals [506]:
+            xmin = 3428.81 
+            xmax = 3432.23 
+            text = "<Z>" 
+        intervals [507]:
+            xmin = 3432.23 
+            xmax = 3447.73 
+            text = "<Z>" 
+        intervals [508]:
+            xmin = 3447.73 
+            xmax = 3454.77 
+            text = "<Z>" 
+        intervals [509]:
+            xmin = 3454.77 
+            xmax = 3460.61 
+            text = "<Z>" 
+        intervals [510]:
+            xmin = 3460.61 
+            xmax = 3460.72 
+            text = "<Z>" 
+        intervals [511]:
+            xmin = 3460.72 
+            xmax = 3462.54 
+            text = "<Z>" 
+        intervals [512]:
+            xmin = 3462.54 
+            xmax = 3479.37 
+            text = "[oh] that's cool ya flowers really makes me happy also I I don't think I have a favourite flower [lah] but I I love looking at like baby breath tiny flowers it's like something small it's not about the size but" 
+        intervals [513]:
+            xmin = 3479.37 
+            xmax = 3486.59 
+            text = "especially when they're small and then like daisies also ya you remember the daisies that we saw at coney island right !wah! they were so cool" 
+        intervals [514]:
+            xmin = 3486.59 
+            xmax = 3490.45 
+            text = "ya like <malay>macam bunga-bunga pun</malay>" 
+        intervals [515]:
+            xmin = 3490.45 
+            xmax = 3494.1 
+            text = "<malay>cantik</malay> very delicate" 
+        intervals [516]:
+            xmin = 3494.1 
+            xmax = 3496.03163 
+            text = "ya" 
+        intervals [517]:
+            xmin = 3496.03163 
+            xmax = 3499.51 
+            text = "very cool and like (um)" 
+        intervals [518]:
+            xmin = 3499.51 
+            xmax = 3504.09 
+            text = "so like what kind of flower like do you wish you can plant" 
+        intervals [519]:
+            xmin = 3504.09 
+            xmax = 3509.35 
+            text = "<Z>" 
+        intervals [520]:
+            xmin = 3509.35 
+            xmax = 3509.39 
+            text = "<Z>" 
+        intervals [521]:
+            xmin = 3509.39 
+            xmax = 3511.37 
+            text = "<Z>" 
+        intervals [522]:
+            xmin = 3511.37 
+            xmax = 3515.07 
+            text = "<Z>" 
+        intervals [523]:
+            xmin = 3515.07 
+            xmax = 3518.91 
+            text = "<Z>" 
+        intervals [524]:
+            xmin = 3518.91 
+            xmax = 3520.86 
+            text = "<Z>" 
+        intervals [525]:
+            xmin = 3520.86 
+            xmax = 3521.6 
+            text = "<Z>" 
+        intervals [526]:
+            xmin = 3521.6 
+            xmax = 3526.86 
+            text = "<Z>" 
+        intervals [527]:
+            xmin = 3526.86 
+            xmax = 3542.49086 
+            text = "<Z>" 
+        intervals [528]:
+            xmin = 3542.49086 
+            xmax = 3543.58 
+            text = "ya" 
+        intervals [529]:
+            xmin = 3543.58 
+            xmax = 3549.5306 
+            text = "so it's very cool to see (um) (err) what is this the flower moving" 
+        intervals [530]:
+            xmin = 3549.5306 
+            xmax = 3553.63 
+            text = "in the wind and then (err)" 
+        intervals [531]:
+            xmin = 3553.63 
+            xmax = 3559.06 
+            text = "so ya [lah] I really like flowers I also like plant I like nature we all like to relax right it's so cool" 
+        intervals [532]:
+            xmin = 3559.06 
+            xmax = 3571.69 
+            text = "and then everybody <malay>macam</malay> just <malay>bersenam dalam dia punya taman</malay>" 
+        intervals [533]:
+            xmin = 3571.69 
+            xmax = 3600 
+            text = "<Z>" 
