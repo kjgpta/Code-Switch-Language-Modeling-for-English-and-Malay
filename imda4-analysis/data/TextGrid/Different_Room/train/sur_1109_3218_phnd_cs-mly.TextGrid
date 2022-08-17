@@ -1,0 +1,3302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3600 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "channel1_S1" 
+        xmin = 0 
+        xmax = 3600 
+        intervals: size = 822 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23 
+            text = "<Z>" 
+        intervals [2]:
+            xmin = 0.23 
+            xmax = 1.12 
+            text = "my side recording" 
+        intervals [3]:
+            xmin = 1.12 
+            xmax = 2.88 
+            text = "<Z>" 
+        intervals [4]:
+            xmin = 2.88 
+            xmax = 6.61 
+            text = "five four three two one" 
+        intervals [5]:
+            xmin = 6.61 
+            xmax = 8.48 
+            text = "<Z>" 
+        intervals [6]:
+            xmin = 8.48 
+            xmax = 13.62 
+            text = "okay <malay>baik</malay> okay let's start the things <malay>macam</malay> how's things on your weekend" 
+        intervals [7]:
+            xmin = 13.62 
+            xmax = 28.38 
+            text = "<Z>" 
+        intervals [8]:
+            xmin = 28.38 
+            xmax = 41.47344 
+            text = "ya I mean <malay>tadi</malay> ya I had to wait for my wife come back cause she just now in the afternoon you know my my kid <malay>dia tidur</malay> all the way so my wife <malay>ingatkan dia</malay> can go to the hairdresser and then just relax <malay>kejap</malay> [lah]" 
+        intervals [9]:
+            xmin = 41.47344 
+            xmax = 57.07606 
+            text = "you know just have a relaxing hair trim (err) hair wash and then go for a relaxing massage and all that (err) because today is the last day of her annual leave of two weeks so she wanted before <malay>balik kerja</malay> [eh] <malay>jadi dia nak</malay>" 
+        intervals [10]:
+            xmin = 57.07606 
+            xmax = 74.16 
+            text = "<malay>dia nak</malay> one whole day just pamper <malay>sendiri saja</malay> [lah] so let her be and then by the time she came back then like this [ah] just nice also you (err) you also <malay>jadi</malay> to do all these things ya so K [lor] so everything's all right so far I think it's a peaceful day" 
+        intervals [11]:
+            xmin = 74.16 
+            xmax = 74.84 
+            text = "<Z>" 
+        intervals [12]:
+            xmin = 74.84 
+            xmax = 80.75 
+            text = "(err) while I was also thinking whether we want to discuss regarding our tournament <malay>punya benda</malay>" 
+        intervals [13]:
+            xmin = 80.75 
+            xmax = 81.76 
+            text = "<Z>" 
+        intervals [14]:
+            xmin = 81.76 
+            xmax = 95.74 
+            text = "you know I think that's one topic you can do because I don't think even if we talk all these [leh] I don't think this (err) all the researchers (ppl) I think it's okay [lah] to all these to talk about all these things [ah] I don't maybe they won't even understand what's that it all about" 
+        intervals [15]:
+            xmin = 95.74 
+            xmax = 102.56 
+            text = "<Z>" 
+        intervals [16]:
+            xmin = 102.56 
+            xmax = 102.87 
+            text = "[a'ah]" 
+        intervals [17]:
+            xmin = 102.87 
+            xmax = 109.05 
+            text = "<Z>" 
+        intervals [18]:
+            xmin = 109.05 
+            xmax = 113.13 
+            text = "exactly ya ya that's my idea <malay>pun</malay> I was also thinking about that actually" 
+        intervals [19]:
+            xmin = 113.13 
+            xmax = 118.74 
+            text = "<Z>" 
+        intervals [20]:
+            xmin = 118.74 
+            xmax = 119.31 
+            text = "(mm)" 
+        intervals [21]:
+            xmin = 119.31 
+            xmax = 142.07 
+            text = "<Z>" 
+        intervals [22]:
+            xmin = 142.07 
+            xmax = 142.52 
+            text = "(mm)" 
+        intervals [23]:
+            xmin = 142.52 
+            xmax = 161.81 
+            text = "<Z>" 
+        intervals [24]:
+            xmin = 161.81 
+            xmax = 162.50519 
+            text = "(mm)" 
+        intervals [25]:
+            xmin = 162.50519 
+            xmax = 175.92 
+            text = "<Z>" 
+        intervals [26]:
+            xmin = 175.92 
+            xmax = 187.26438 
+            text = "ya so ya I also (err) not been discussing my guys (err) all those you know my my my guys who I've been consulting with [lah] (err) those that were in the S_F_L_S <malay>semua tu</malay>" 
+        intervals [27]:
+            xmin = 187.26438 
+            xmax = 200.98775 
+            text = "so <malay>dia orang kata</malay> you know like is it they worry about that what exactly what you said how what is you know how will we get the sponsors to come when <malay>kita takde benda</malay> you know like you you there's no real cove [lah]" 
+        intervals [28]:
+            xmin = 200.98775 
+            xmax = 211.95 
+            text = "like everybody knows <malay>kita punya</malay> reputation <malay>tapi takde takde</malay> portfolio in this this sort of thing so they will also thinking why not maybe you hold a weekly event <malay>dulu</malay>" 
+        intervals [29]:
+            xmin = 211.95 
+            xmax = 212.89 
+            text = "<Z>" 
+        intervals [30]:
+            xmin = 212.89 
+            xmax = 230.54 
+            text = "the weekly event and then just nice (err) earlier this week <malay>ada</malay> there's a league that is there's a new league a one V one that kicked off so <malay>dia punya</malay> format [eh] sixty four teams or sixty four players thirty percent of registration fee <malay>jadi</malay> first prize" 
+        intervals [31]:
+            xmin = 230.54 
+            xmax = 231.46 
+            text = "<Z>" 
+        intervals [32]:
+            xmin = 231.46 
+            xmax = 241.32 
+            text = "fifteen percent the registration fee second prize five percent registration fee third prize so <malay>kalau kalau</malay> all sixty four players <malay>masuk dalam</malay>" 
+        intervals [33]:
+            xmin = 241.32 
+            xmax = 242.01 
+            text = "<Z>" 
+        intervals [34]:
+            xmin = 242.01 
+            xmax = 253 
+            text = "#prizenya# <malay>tak banyak</malay> it is seriously <malay>tak banyak</malay> actually so the regist~ total registration fee will be it's ten dollars per person <malay>jadi</malay> the whole prize pool [eh] <malay>baru apa enam ratus</malay> six hundred and forty" 
+        intervals [35]:
+            xmin = 253 
+            xmax = 253.84 
+            text = "<Z>" 
+        intervals [36]:
+            xmin = 253.84 
+            xmax = 269.664 
+            text = "six hundred forty dollars so thirty percent of that the champion is only gonna get <malay>tak sampai dua ratus dua ratus</malay> dollar <malay>pun tak sampai</malay> it's like one ninety one ninety two something like that and only the top three players get and this is supposed to be a league <malay>jadi kena main</malay> each other for like" 
+        intervals [37]:
+            xmin = 269.664 
+            xmax = 275.75 
+            text = "(uh) (uh) god knows how many weeks at least thirty two weeks (err) assuming one game a week [lah]" 
+        intervals [38]:
+            xmin = 275.75 
+            xmax = 276.54 
+            text = "<Z>" 
+        intervals [39]:
+            xmin = 276.54 
+            xmax = 290.5 
+            text = "so that's at least thirty two or sixty four matches <malay>jadi</malay> a a lot of the the response of the company <malay>semua tak nak main</malay> it's like [eh] it doesn't make sense ya it's only ten dollars <malay>tapi</malay> you know like it's <malay>nak</malay> you you enter that" 
+        intervals [40]:
+            xmin = 290.5 
+            xmax = 291.24 
+            text = "<Z>" 
+        intervals [41]:
+            xmin = 291.24 
+            xmax = 305.73737 
+            text = "only top three <malay>dapat menang apa-apa</malay> and then even the prize will not that great it's that it's not like one K or few hundred dollar it's just like not even <malay>dua ratus</malay> so <malay>banyak orang</malay> you know the <malay>dia orang tak suka</malay> [lah] all this thing [ah] so I was wondering but" 
+        intervals [42]:
+            xmin = 305.73737 
+            xmax = 309.4 
+            text = "you know maybe we can have a community thing alright where" 
+        intervals [43]:
+            xmin = 309.4 
+            xmax = 310.32 
+            text = "<Z>" 
+        intervals [44]:
+            xmin = 310.32 
+            xmax = 329.52125 
+            text = "maybe let's say like of the registration fees [kan] ninety percent these guys only did like not even half [ah] what is thirty plus fifteen plus five that's our forty five percent <malay>tak sampai setengah</malay> of the total registration fee so why not have we do something like that but for a one weekend thing only" 
+        intervals [45]:
+            xmin = 329.52125 
+            xmax = 349.36 
+            text = "or even one day just have one day <malay>saja</malay> and then (err) we have like a a what a tournament which we will cast fully we will make everything on our own because we can cast ourselves (err) ya and we can have it as as relax as possible no need to be so (err) what's that called" 
+        intervals [46]:
+            xmin = 349.36 
+            xmax = 349.95 
+            text = "<Z>" 
+        intervals [47]:
+            xmin = 349.95 
+            xmax = 353.48 
+            text = "(um) so serious because we are our own clients <malay>apa</malay>" 
+        intervals [48]:
+            xmin = 353.48 
+            xmax = 354.58 
+            text = "<Z>" 
+        intervals [49]:
+            xmin = 354.58 
+            xmax = 372.02256 
+            text = "so you know there's <malay>kita</malay> we can just like <malay>borak</malay> have fun you know and then let the committee come in and then tell them [ah] look this is you guys gonna pay ten dollars okay but the more the more people there are the bigger the the the the prizes" 
+        intervals [50]:
+            xmin = 372.02256 
+            xmax = 387.43 
+            text = "and the winner is not just gonna go back with less than two hundred dollars [ah] because the prize pool we're going to have it like ninety percent we'll just take ten percent of the carts just for our time <malay>saja</malay> [lah] so even was at six hundred dollars let's say okay let's say we enter it at ten dollar" 
+        intervals [51]:
+            xmin = 387.43 
+            xmax = 388.38 
+            text = "<Z>" 
+        intervals [52]:
+            xmin = 388.38 
+            xmax = 406.41744 
+            text = "per person and have this a sixty four or maybe even one two eight maybe even one two eight per [ah] for the whole tournament [kan] then we take just ten percent that's (uh) between us and what sixty dollars to or even a hundred twenty eight dollars divide by two thirty to sixty dollars each" 
+        intervals [53]:
+            xmin = 406.41744 
+            xmax = 416.29 
+            text = "I mean ya it's not it's not that bad you you earn that in like one hour [lah] outside [lah] now but at least this is a start this is you know we we don't really need to put in money" 
+        intervals [54]:
+            xmin = 416.29 
+            xmax = 416.87 
+            text = "<Z>" 
+        intervals [55]:
+            xmin = 416.87 
+            xmax = 425.4 
+            text = "if we could have done this for free but at least we're getting some money and and the community we get ninety percent in total we can even have top eight get something" 
+        intervals [56]:
+            xmin = 425.4 
+            xmax = 426.01 
+            text = "<Z>" 
+        intervals [57]:
+            xmin = 426.01 
+            xmax = 430.05 
+            text = "maybe the if you reach top eight you get your money back" 
+        intervals [58]:
+            xmin = 430.05 
+            xmax = 431.14 
+            text = "<Z>" 
+        intervals [59]:
+            xmin = 431.14 
+            xmax = 447.09 
+            text = "something like that ya you get or or even more than that top sixteen we'll we'll figure we'll figure things out [lah] but whatever it is at least [eh] the whole tournament (um) one winner on one day two hundred dollars not like that league you gotta pay so many different matches to not even to get less than that ya" 
+        intervals [60]:
+            xmin = 447.09 
+            xmax = 456.73 
+            text = "<Z>" 
+        intervals [61]:
+            xmin = 456.73 
+            xmax = 469.20056 
+            text = "I I I <malay>entah</malay> [eh] I also don't know how many people have resgistered <malay>tapi</malay> the the response I get <malay>banyak orang semua semua kutuk</malay> [ah] (ppl) critics <malay>semua kutuk</malay> top top white center" 
+        intervals [62]:
+            xmin = 469.20056 
+            xmax = 486.74 
+            text = "now <malay>semua kata</malay> you know <malay>ni apa apa benda</malay> what kind of nonsense is this you know <malay>buat apa kita main buat apa</malay> I mean we play so much <malay>habis duit sikit saja</malay> then <malay>kena main lama lama</malay> how many weeks ya [lah] <malay>ada</malay> better things to do [ah] than to just stay around and play FIFA like that for for nothing at all ya" 
+        intervals [63]:
+            xmin = 486.74 
+            xmax = 506.24 
+            text = "<Z>" 
+        intervals [64]:
+            xmin = 506.24 
+            xmax = 514.22 
+            text = "no <malay>tak tak tak nampak lain</malay> [ah] <malay>ada apa</malay> [eh] let me see <malay>kalau ada</malay> league there's a link here ya it's a facebook page" 
+        intervals [65]:
+            xmin = 514.22 
+            xmax = 514.78 
+            text = "<Z>" 
+        intervals [66]:
+            xmin = 514.78 
+            xmax = 517.42 
+            text = "(uh) I drop it in discord" 
+        intervals [67]:
+            xmin = 517.42 
+            xmax = 519.69 
+            text = "<Z>" 
+        intervals [68]:
+            xmin = 519.69 
+            xmax = 520.95 
+            text = "ya so" 
+        intervals [69]:
+            xmin = 520.95 
+            xmax = 521.62 
+            text = "<Z>" 
+        intervals [70]:
+            xmin = 521.62 
+            xmax = 530.49 
+            text = "<malay>namanya</malay> D to D_E sports league <malay>entah siapa</malay> I <malay>langsung tak pernah dengar aku tak pernah dengar dia orang punya ni tapi ada</malay> nine hundred plus members <malay>kat dalam</malay>" 
+        intervals [71]:
+            xmin = 530.49 
+            xmax = 532.35 
+            text = "<Z>" 
+        intervals [72]:
+            xmin = 532.35 
+            xmax = 534.46 
+            text = "so they have this new league" 
+        intervals [73]:
+            xmin = 534.46 
+            xmax = 535.98 
+            text = "<Z>" 
+        intervals [74]:
+            xmin = 535.98 
+            xmax = 538.48 
+            text = "I don't know how many people have signed up so far" 
+        intervals [75]:
+            xmin = 538.48 
+            xmax = 539.26 
+            text = "<Z>" 
+        intervals [76]:
+            xmin = 539.26 
+            xmax = 543.65 
+            text = "let's see <malay>ada tak berapa berapa orang dah</malay> sign up <malay>tak ni tak nampak pula</malay> [eh]" 
+        intervals [77]:
+            xmin = 543.65 
+            xmax = 545.38 
+            text = "<Z>" 
+        intervals [78]:
+            xmin = 545.38 
+            xmax = 548.23 
+            text = "<malay>tapi nampak macam masih buka</malay> [jer] <malay>masih boleh</malay> sign up [jer]" 
+        intervals [79]:
+            xmin = 548.23 
+            xmax = 552.64 
+            text = "<Z>" 
+        intervals [80]:
+            xmin = 552.64 
+            xmax = 555.08 
+            text = "(um) I just didn't know" 
+        intervals [81]:
+            xmin = 555.08 
+            xmax = 557.01 
+            text = "<Z>" 
+        intervals [82]:
+            xmin = 557.01 
+            xmax = 559.09 
+            text = "[a'ah] <malay>berapa orang</malay>" 
+        intervals [83]:
+            xmin = 559.09 
+            xmax = 560.14 
+            text = "<Z>" 
+        intervals [84]:
+            xmin = 560.14 
+            xmax = 562.23 
+            text = "[ah] <malay>belum tahu</malay> [ah] <malay>berapa orang</malay> [ah] <malay>kat dalam</malay>" 
+        intervals [85]:
+            xmin = 562.23 
+            xmax = 563.3 
+            text = "<Z>" 
+        intervals [86]:
+            xmin = 563.3 
+            xmax = 575.82 
+            text = "<malay>tapi</malay> ya so this is one thing I saw where I noticed somebody's shared this on this (err) whatsapp community group page for FIFA in singapore so <malay>semua orang kata</malay> like" 
+        intervals [87]:
+            xmin = 575.82 
+            xmax = 577.29 
+            text = "<Z>" 
+        intervals [88]:
+            xmin = 577.29 
+            xmax = 580.29 
+            text = "you know the this league not worth it seriously" 
+        intervals [89]:
+            xmin = 580.29 
+            xmax = 581.71 
+            text = "<Z>" 
+        intervals [90]:
+            xmin = 581.71 
+            xmax = 593.98 
+            text = "so there wasn't even any one they say !alah! just go for the fun of <malay>biar</malay> [jer] <malay>langsung takde orang</malay> say that <malay>semua semua kutuk</malay> okay I'll I when I say <malay>semua</malay> [eh] it's literally there only like three people that response [ah] that responded" 
+        intervals [91]:
+            xmin = 593.98 
+            xmax = 594.69 
+            text = "<Z>" 
+        intervals [92]:
+            xmin = 594.69 
+            xmax = 597.34 
+            text = "<malay>yang lain semua</malay> you know <malay>buat buat tak kisah saja</malay>" 
+        intervals [93]:
+            xmin = 597.34 
+            xmax = 601.97557 
+            text = "<Z>" 
+        intervals [94]:
+            xmin = 601.97557 
+            xmax = 602.81 
+            text = "[ah]" 
+        intervals [95]:
+            xmin = 602.81 
+            xmax = 606.04 
+            text = "<Z>" 
+        intervals [96]:
+            xmin = 606.04 
+            xmax = 606.48 
+            text = "[ah]" 
+        intervals [97]:
+            xmin = 606.48 
+            xmax = 626.19 
+            text = "<Z>" 
+        intervals [98]:
+            xmin = 626.19 
+            xmax = 626.72 
+            text = "<Z>" 
+        intervals [99]:
+            xmin = 626.72 
+            xmax = 650.93 
+            text = "<Z>" 
+        intervals [100]:
+            xmin = 650.93 
+            xmax = 651.3 
+            text = "en" 
+        intervals [101]:
+            xmin = 651.3 
+            xmax = 681.69 
+            text = "<Z>" 
+        intervals [102]:
+            xmin = 681.69 
+            xmax = 682.03 
+            text = "(mm)" 
+        intervals [103]:
+            xmin = 682.03 
+            xmax = 687.3 
+            text = "<Z>" 
+        intervals [104]:
+            xmin = 687.3 
+            xmax = 687.68 
+            text = "ya" 
+        intervals [105]:
+            xmin = 687.68 
+            xmax = 696.12 
+            text = "<Z>" 
+        intervals [106]:
+            xmin = 696.12 
+            xmax = 696.45 
+            text = "[ah]" 
+        intervals [107]:
+            xmin = 696.45 
+            xmax = 711.06 
+            text = "<Z>" 
+        intervals [108]:
+            xmin = 711.06 
+            xmax = 711.55 
+            text = "(mm)" 
+        intervals [109]:
+            xmin = 711.55 
+            xmax = 712.13 
+            text = "<Z>" 
+        intervals [110]:
+            xmin = 712.13 
+            xmax = 713.63 
+            text = "(mm)" 
+        intervals [111]:
+            xmin = 713.63 
+            xmax = 750.24 
+            text = "<Z>" 
+        intervals [112]:
+            xmin = 750.24 
+            xmax = 764.03837 
+            text = "ya this this this D to D thing it's just like a cash grab [ah] <malay>dia orang</malay> just <malay>buat ni benda</malay> just (err) make a few posters <malay>bilang semua</malay> okay [eh] <malay>aku ada</malay> league [ah] you know you get thirty percent <malay>kalau kamu menang</malay> you get thirty percent" 
+        intervals [113]:
+            xmin = 764.03837 
+            xmax = 777.39 
+            text = "<malay>tapi</malay> fifty percent of all the registration fee goes to the creator and they barely have to do anything (ppo) <malay>benda senang</malay> I think there's just one guy doing everything it's a good business idea but it's a little bit" 
+        intervals [114]:
+            xmin = 777.39 
+            xmax = 778 
+            text = "<Z>" 
+        intervals [115]:
+            xmin = 778 
+            xmax = 783.47 
+            text = "<malay>macam</malay> gray ar~ <malay>macam makan makan makan sendiri</malay> [ah] <malay>makan</malay> all the community" 
+        intervals [116]:
+            xmin = 783.47 
+            xmax = 785.85 
+            text = "<Z>" 
+        intervals [117]:
+            xmin = 785.85 
+            xmax = 786.34 
+            text = "[a'ah]" 
+        intervals [118]:
+            xmin = 786.34 
+            xmax = 797.63 
+            text = "<Z>" 
+        intervals [119]:
+            xmin = 797.63 
+            xmax = 797.99 
+            text = "[a'ah]" 
+        intervals [120]:
+            xmin = 797.99 
+            xmax = 804.89 
+            text = "<Z>" 
+        intervals [121]:
+            xmin = 804.89 
+            xmax = 805.34 
+            text = "[ah] [ah]" 
+        intervals [122]:
+            xmin = 805.34 
+            xmax = 815.66 
+            text = "<Z>" 
+        intervals [123]:
+            xmin = 815.66 
+            xmax = 815.97 
+            text = "(mm)" 
+        intervals [124]:
+            xmin = 815.97 
+            xmax = 823.87 
+            text = "<Z>" 
+        intervals [125]:
+            xmin = 823.87 
+            xmax = 824.22 
+            text = "(mmhmm)" 
+        intervals [126]:
+            xmin = 824.22 
+            xmax = 850.8 
+            text = "<Z>" 
+        intervals [127]:
+            xmin = 850.8 
+            xmax = 853.81 
+            text = "[ah] exactly exactly ya" 
+        intervals [128]:
+            xmin = 853.81 
+            xmax = 871.26 
+            text = "<Z>" 
+        intervals [129]:
+            xmin = 871.26 
+            xmax = 871.64 
+            text = "(mm)" 
+        intervals [130]:
+            xmin = 871.64 
+            xmax = 875.79 
+            text = "<Z>" 
+        intervals [131]:
+            xmin = 875.79 
+            xmax = 876.12 
+            text = "[ah]" 
+        intervals [132]:
+            xmin = 876.12 
+            xmax = 877.66 
+            text = "<Z>" 
+        intervals [133]:
+            xmin = 877.66 
+            xmax = 877.97 
+            text = "[ah]" 
+        intervals [134]:
+            xmin = 877.97 
+            xmax = 887.97 
+            text = "<Z>" 
+        intervals [135]:
+            xmin = 887.97 
+            xmax = 888.3 
+            text = "(mm)" 
+        intervals [136]:
+            xmin = 888.3 
+            xmax = 899.58 
+            text = "<Z>" 
+        intervals [137]:
+            xmin = 899.58 
+            xmax = 899.93 
+            text = "(mm)" 
+        intervals [138]:
+            xmin = 899.93 
+            xmax = 905.69 
+            text = "<Z>" 
+        intervals [139]:
+            xmin = 905.69 
+            xmax = 907.28 
+            text = "(ppl)" 
+        intervals [140]:
+            xmin = 907.28 
+            xmax = 909.09 
+            text = "<Z>" 
+        intervals [141]:
+            xmin = 909.09 
+            xmax = 910.85 
+            text = "I'm thinking because" 
+        intervals [142]:
+            xmin = 910.85 
+            xmax = 911.53 
+            text = "<Z>" 
+        intervals [143]:
+            xmin = 911.53 
+            xmax = 917.22 
+            text = "the our original idea the main selling point [lah] is that so~ social media aspect [lah] so" 
+        intervals [144]:
+            xmin = 917.22 
+            xmax = 917.8 
+            text = "<Z>" 
+        intervals [145]:
+            xmin = 917.8 
+            xmax = 936.07694 
+            text = "in terms of like I say getting the players I have no doubt we can get more than fifty players at one go that's that's definitely for sure even if it's just a one off event <malay>semua</malay> [kan] minimum or I think we can do a (uh) forty a thirty forty players so <malay>takde</malay> issue <malay>langsung</malay> [ah]" 
+        intervals [146]:
+            xmin = 936.07694 
+            xmax = 936.98192 
+            text = "<Z>" 
+        intervals [147]:
+            xmin = 936.98192 
+            xmax = 941.87 
+            text = "but (um) the social media aspect of a one off thing [eh]" 
+        intervals [148]:
+            xmin = 941.87 
+            xmax = 942.62 
+            text = "<Z>" 
+        intervals [149]:
+            xmin = 942.62 
+            xmax = 951.71 
+            text = "<malay>itu pun susah juga</malay> [kan] so I'm so I'm thinking at least <malay>kalau kita</malay> have a league a weekly league system thing then it will just (err) <malay>macam mana kata</malay> [eh]" 
+        intervals [150]:
+            xmin = 951.71 
+            xmax = 952.34 
+            text = "<Z>" 
+        intervals [151]:
+            xmin = 952.34 
+            xmax = 953.21 
+            text = "(err)" 
+        intervals [152]:
+            xmin = 953.21 
+            xmax = 953.82 
+            text = "<Z>" 
+        intervals [153]:
+            xmin = 953.82 
+            xmax = 962.35 
+            text = "every week <malay>ada</malay> content <malay>baru</malay> that we can we can put in and there's a there's a linking story between each of these different weeks" 
+        intervals [154]:
+            xmin = 962.35 
+            xmax = 963.84 
+            text = "<Z>" 
+        intervals [155]:
+            xmin = 963.84 
+            xmax = 964.74 
+            text = "[ah] ya" 
+        intervals [156]:
+            xmin = 964.74 
+            xmax = 965.85 
+            text = "<Z>" 
+        intervals [157]:
+            xmin = 965.85 
+            xmax = 966.32 
+            text = "ya" 
+        intervals [158]:
+            xmin = 966.32 
+            xmax = 967.29 
+            text = "<Z>" 
+        intervals [159]:
+            xmin = 967.29 
+            xmax = 967.7 
+            text = "[ah]" 
+        intervals [160]:
+            xmin = 967.7 
+            xmax = 982.59 
+            text = "<Z>" 
+        intervals [161]:
+            xmin = 982.59 
+            xmax = 984.12 
+            text = "ya that's best best" 
+        intervals [162]:
+            xmin = 984.12 
+            xmax = 984.79 
+            text = "<Z>" 
+        intervals [163]:
+            xmin = 984.79 
+            xmax = 995.81 
+            text = "that's the truth as well there's a truth it's a bit of a bumper about what to do what what you said earlier was right and [ah] we we don't have anything on our port~ on our portfolio [eh] how are they going to trust us with their money as well" 
+        intervals [164]:
+            xmin = 995.81 
+            xmax = 997.15 
+            text = "<Z>" 
+        intervals [165]:
+            xmin = 997.15 
+            xmax = 998.96 
+            text = "we also got to make it" 
+        intervals [166]:
+            xmin = 998.96 
+            xmax = 1001.59 
+            text = "<Z>" 
+        intervals [167]:
+            xmin = 1001.59 
+            xmax = 1002.45 
+            text = "not [ah]" 
+        intervals [168]:
+            xmin = 1002.45 
+            xmax = 1017.2 
+            text = "<Z>" 
+        intervals [169]:
+            xmin = 1017.2 
+            xmax = 1017.97 
+            text = "(mm) (mm)" 
+        intervals [170]:
+            xmin = 1017.97 
+            xmax = 1024.05 
+            text = "<Z>" 
+        intervals [171]:
+            xmin = 1024.05 
+            xmax = 1026.9 
+            text = "(hmm) (hmm) (hmm) maybe maybe who knows maybe" 
+        intervals [172]:
+            xmin = 1026.9 
+            xmax = 1043.83 
+            text = "<Z>" 
+        intervals [173]:
+            xmin = 1043.83 
+            xmax = 1044.17 
+            text = "(mm)" 
+        intervals [174]:
+            xmin = 1044.17 
+            xmax = 1057.77 
+            text = "<Z>" 
+        intervals [175]:
+            xmin = 1057.77 
+            xmax = 1058.23 
+            text = "(mm) (mm)" 
+        intervals [176]:
+            xmin = 1058.23 
+            xmax = 1063.04 
+            text = "<Z>" 
+        intervals [177]:
+            xmin = 1063.04 
+            xmax = 1063.43 
+            text = "(mm)" 
+        intervals [178]:
+            xmin = 1063.43 
+            xmax = 1064.97 
+            text = "<Z>" 
+        intervals [179]:
+            xmin = 1064.97 
+            xmax = 1065.4 
+            text = "I" 
+        intervals [180]:
+            xmin = 1065.4 
+            xmax = 1068.9344 
+            text = "<Z>" 
+        intervals [181]:
+            xmin = 1068.9344 
+            xmax = 1071.17 
+            text = "actually <malay>nak kata</malay> possible [eh]" 
+        intervals [182]:
+            xmin = 1071.17 
+            xmax = 1071.81 
+            text = "<Z>" 
+        intervals [183]:
+            xmin = 1071.81 
+            xmax = 1082.47 
+            text = "it actually is possible actually because you need okay let's let's take everybody at regis~ once [ah] actually <malay>nak kata</malay> registration fee <malay>selalunya berapa</malay>" 
+        intervals [184]:
+            xmin = 1082.47 
+            xmax = 1084.02 
+            text = "<Z>" 
+        intervals [185]:
+            xmin = 1084.02 
+            xmax = 1085.31 
+            text = "<malay>sepuluh lima</malay>" 
+        intervals [186]:
+            xmin = 1085.31 
+            xmax = 1085.88 
+            text = "<Z>" 
+        intervals [187]:
+            xmin = 1085.88 
+            xmax = 1086.46 
+            text = "<malay>selalunya</malay>" 
+        intervals [188]:
+            xmin = 1086.46 
+            xmax = 1088.32 
+            text = "<Z>" 
+        intervals [189]:
+            xmin = 1088.32 
+            xmax = 1089.34 
+            text = "(ppl)" 
+        intervals [190]:
+            xmin = 1089.34 
+            xmax = 1097.64 
+            text = "<Z>" 
+        intervals [191]:
+            xmin = 1097.64 
+            xmax = 1101.7 
+            text = "[ah] okay all the C_C tournaments then" 
+        intervals [192]:
+            xmin = 1101.7 
+            xmax = 1102.26 
+            text = "<Z>" 
+        intervals [193]:
+            xmin = 1102.26 
+            xmax = 1109.71 
+            text = "because they're by community centre budget no problem <malay>untuk dia punya wang</malay> actually it's free registration <malay>dia orang tak payah bayar apa-apa</malay>" 
+        intervals [194]:
+            xmin = 1109.71 
+            xmax = 1110.77 
+            text = "<Z>" 
+        intervals [195]:
+            xmin = 1110.77 
+            xmax = 1127.13662 
+            text = "so it's just my <malay>masuk</malay> [lah] [kan] but that's for the C_C <malay>punya</malay> [lah] (um) ya but even then I still believe you know people should pay a nominal amount and also that they will be they will come down and play <malay>juga</malay> then noticed we won't have so many buys and stuff like that [lah]" 
+        intervals [196]:
+            xmin = 1127.13662 
+            xmax = 1146.2685 
+            text = "<malay>tapi</malay> for all the C_C events (um) what [ah] who [ah] they don't really need to recoup anything whatsoever they just <malay>dia orang</malay> just <malay>bayar bayar bayar</malay> [jer] so <malay>takde</malay> registration fee <malay>takpe juga untuk dia orang</malay> ya but for us we add in [lah] as much as we want to we are we are okay with" 
+        intervals [197]:
+            xmin = 1146.2685 
+            xmax = 1161.27 
+            text = "(uh) how do I say [ah] ya we need a way to pay or displays but but I at the same time I don't want to have a registration fee that's too high and then people will think !alamak! one day registration fee <malay>sepuluh ketul</malay> and then who knows you know like I play one game and then I'm out" 
+        intervals [198]:
+            xmin = 1161.27 
+            xmax = 1162.66 
+            text = "<Z>" 
+        intervals [199]:
+            xmin = 1162.66 
+            xmax = 1163.29 
+            text = "you know so" 
+        intervals [200]:
+            xmin = 1163.29 
+            xmax = 1164.9 
+            text = "<Z>" 
+        intervals [201]:
+            xmin = 1164.9 
+            xmax = 1165.65 
+            text = "ya so" 
+        intervals [202]:
+            xmin = 1165.65 
+            xmax = 1171.57 
+            text = "<Z>" 
+        intervals [203]:
+            xmin = 1171.57 
+            xmax = 1171.94 
+            text = "(mm)" 
+        intervals [204]:
+            xmin = 1171.94 
+            xmax = 1173.6 
+            text = "<Z>" 
+        intervals [205]:
+            xmin = 1173.6 
+            xmax = 1174.08 
+            text = "(mmhmm)" 
+        intervals [206]:
+            xmin = 1174.08 
+            xmax = 1185.35 
+            text = "<Z>" 
+        intervals [207]:
+            xmin = 1185.35 
+            xmax = 1185.71 
+            text = "(mm)" 
+        intervals [208]:
+            xmin = 1185.71 
+            xmax = 1186.37 
+            text = "<Z>" 
+        intervals [209]:
+            xmin = 1186.37 
+            xmax = 1197.88 
+            text = "I'm thinking what we can definitely though okay put it this way (err) let's say registration fee let's say <malay>lima ketul</malay> [lah] I I can definitely okay" 
+        intervals [210]:
+            xmin = 1197.88 
+            xmax = 1198.48 
+            text = "<Z>" 
+        intervals [211]:
+            xmin = 1198.48 
+            xmax = 1200.75 
+            text = "(err) five dollars" 
+        intervals [212]:
+            xmin = 1200.75 
+            xmax = 1201.34 
+            text = "<Z>" 
+        intervals [213]:
+            xmin = 1201.34 
+            xmax = 1203.23 
+            text = "five dollars okay I'm thinking" 
+        intervals [214]:
+            xmin = 1203.23 
+            xmax = 1205.21 
+            text = "<Z>" 
+        intervals [215]:
+            xmin = 1205.21 
+            xmax = 1215.86275 
+            text = "what if okay one okay let's let's set a price pool one thousand dollar price pool strictly for the community one thousand dollar price pool we have then we tell them look guys we got no sponsors no nothing" 
+        intervals [216]:
+            xmin = 1215.86275 
+            xmax = 1230.34 
+            text = "you know (err) so (err) or maybe we don't even we don't even need to say that [ah] we just say look there there's a competition we're gonna make here one thousand dollar price pool [eh] wait but if we are this is not gonna be a one off [tau] this is gonna be like a weekly thing so how are we going to" 
+        intervals [217]:
+            xmin = 1230.34 
+            xmax = 1240.31 
+            text = "<Z>" 
+        intervals [218]:
+            xmin = 1240.31 
+            xmax = 1240.62 
+            text = "(mm)" 
+        intervals [219]:
+            xmin = 1240.62 
+            xmax = 1246.92 
+            text = "<Z>" 
+        intervals [220]:
+            xmin = 1246.92 
+            xmax = 1247.49 
+            text = "(mm)" 
+        intervals [221]:
+            xmin = 1247.49 
+            xmax = 1258.17 
+            text = "<Z>" 
+        intervals [222]:
+            xmin = 1258.17 
+            xmax = 1259.13 
+            text = "ya correct" 
+        intervals [223]:
+            xmin = 1259.13 
+            xmax = 1262.17186 
+            text = "<Z>" 
+        intervals [224]:
+            xmin = 1262.17186 
+            xmax = 1262.94 
+            text = "(uh huh)" 
+        intervals [225]:
+            xmin = 1262.94 
+            xmax = 1263.67 
+            text = "<Z>" 
+        intervals [226]:
+            xmin = 1263.67 
+            xmax = 1266.46 
+            text = "<Z>" 
+        intervals [227]:
+            xmin = 1266.46 
+            xmax = 1267.64 
+            text = "<malay>betul</malay>" 
+        intervals [228]:
+            xmin = 1267.64 
+            xmax = 1268.75 
+            text = "<Z>" 
+        intervals [229]:
+            xmin = 1268.75 
+            xmax = 1269.59 
+            text = "ya okay" 
+        intervals [230]:
+            xmin = 1269.59 
+            xmax = 1270.3 
+            text = "<Z>" 
+        intervals [231]:
+            xmin = 1270.3 
+            xmax = 1270.86 
+            text = "(uh huh)" 
+        intervals [232]:
+            xmin = 1270.86 
+            xmax = 1277.78 
+            text = "<Z>" 
+        intervals [233]:
+            xmin = 1277.78 
+            xmax = 1278.16 
+            text = "ya" 
+        intervals [234]:
+            xmin = 1278.16 
+            xmax = 1280.21 
+            text = "<Z>" 
+        intervals [235]:
+            xmin = 1280.21 
+            xmax = 1280.93 
+            text = "<UNK>" 
+        intervals [236]:
+            xmin = 1280.93 
+            xmax = 1286.06 
+            text = "<Z>" 
+        intervals [237]:
+            xmin = 1286.06 
+            xmax = 1286.48 
+            text = "(mm)" 
+        intervals [238]:
+            xmin = 1286.48 
+            xmax = 1287.27 
+            text = "<Z>" 
+        intervals [239]:
+            xmin = 1287.27 
+            xmax = 1295.77 
+            text = "okay I have a idea they just came to mind okay so let's say [eh] we do everything for every" 
+        intervals [240]:
+            xmin = 1295.77 
+            xmax = 1296.36 
+            text = "<Z>" 
+        intervals [241]:
+            xmin = 1296.36 
+            xmax = 1299.14 
+            text = "let's say every saturday [lah] [eh] every saturday we have something" 
+        intervals [242]:
+            xmin = 1299.14 
+            xmax = 1299.74 
+            text = "<Z>" 
+        intervals [243]:
+            xmin = 1299.74 
+            xmax = 1308.34 
+            text = "okay we have we have this event K to get to to to enter each week you got to pay five dollars just five dollars first each week" 
+        intervals [244]:
+            xmin = 1308.34 
+            xmax = 1309.26 
+            text = "<Z>" 
+        intervals [245]:
+            xmin = 1309.26 
+            xmax = 1313.15 
+            text = "okay so let's say I can get (err) thirty two players" 
+        intervals [246]:
+            xmin = 1313.15 
+            xmax = 1314.17 
+            text = "<Z>" 
+        intervals [247]:
+            xmin = 1314.17 
+            xmax = 1317.94 
+            text = "on average K that's one hundred sixty dollars" 
+        intervals [248]:
+            xmin = 1317.94 
+            xmax = 1318.69 
+            text = "<Z>" 
+        intervals [249]:
+            xmin = 1318.69 
+            xmax = 1321.72 
+            text = "once exhort ya it's not much right but every week" 
+        intervals [250]:
+            xmin = 1321.72 
+            xmax = 1322.33 
+            text = "<Z>" 
+        intervals [251]:
+            xmin = 1322.33 
+            xmax = 1328.33 
+            text = "K we tell them alright we have (um) four four prize winners" 
+        intervals [252]:
+            xmin = 1328.33 
+            xmax = 1329.62 
+            text = "<Z>" 
+        intervals [253]:
+            xmin = 1329.62 
+            xmax = 1339.03 
+            text = "each of the prize winners (err) okay and then at least (err) total weekly prize pool maybe two hundred dollars something like that" 
+        intervals [254]:
+            xmin = 1339.03 
+            xmax = 1339.62 
+            text = "<Z>" 
+        intervals [255]:
+            xmin = 1339.62 
+            xmax = 1341.94 
+            text = "alright (um)" 
+        intervals [256]:
+            xmin = 1341.94 
+            xmax = 1342.77 
+            text = "<Z>" 
+        intervals [257]:
+            xmin = 1342.77 
+            xmax = 1354.34 
+            text = "or we could just put it every every week (err) the cash price right winner guaranteed a hundred dollars plus twenty percent of the of the registration fees" 
+        intervals [258]:
+            xmin = 1354.34 
+            xmax = 1357.53 
+            text = "<Z>" 
+        intervals [259]:
+            xmin = 1357.53 
+            xmax = 1368.5 
+            text = "something like that I I don't know the actual number [lah] K the the hope is that I'm telling them look you guys you want to increase the port get as many people to sign up as as much as possible" 
+        intervals [260]:
+            xmin = 1368.5 
+            xmax = 1370.05 
+            text = "<Z>" 
+        intervals [261]:
+            xmin = 1370.05 
+            xmax = 1375.35 
+            text = "our limit for the whole day alright will be a hundred twenty eight players per day" 
+        intervals [262]:
+            xmin = 1375.35 
+            xmax = 1376.41 
+            text = "<Z>" 
+        intervals [263]:
+            xmin = 1376.41 
+            xmax = 1379.62 
+            text = "the more people that join your prize <malay>pun naik gila babi</malay>" 
+        intervals [264]:
+            xmin = 1379.62 
+            xmax = 1381.5 
+            text = "<Z>" 
+        intervals [265]:
+            xmin = 1381.5 
+            xmax = 1391.68 
+            text = "okay [a'ah] and then like this [ah] we go all the way down to maybe like top sixteen top sixteen you get five percent of the registration feedback" 
+        intervals [266]:
+            xmin = 1391.68 
+            xmax = 1392.88 
+            text = "<Z>" 
+        intervals [267]:
+            xmin = 1392.88 
+            xmax = 1405.62 
+            text = "of the all the registration pool [lah] basically [lah] alright so let's say top sixteen so that's thirty two okay let's say [eh] thirty two players alright top sixteen you get five percent so that's one hundred sixty dollars" 
+        intervals [268]:
+            xmin = 1405.62 
+            xmax = 1406.52 
+            text = "<Z>" 
+        intervals [269]:
+            xmin = 1406.52 
+            xmax = 1413.62 
+            text = "(uh) one hundred sixty dollars time zero point zero five that's eight dollars back you win one match <malay>kau dah menang tiga</malay> dollar" 
+        intervals [270]:
+            xmin = 1413.62 
+            xmax = 1415.95 
+            text = "<Z>" 
+        intervals [271]:
+            xmin = 1415.95 
+            xmax = 1416.48 
+            text = "ya" 
+        intervals [272]:
+            xmin = 1416.48 
+            xmax = 1418.32 
+            text = "<Z>" 
+        intervals [273]:
+            xmin = 1418.32 
+            xmax = 1426.3 
+            text = "[ah] <malay>duit datang balik</malay> [tau] all you need to do is win that first match you going back eight dollar you pay me five dollar win one match I pay you eight dollars back" 
+        intervals [274]:
+            xmin = 1426.3 
+            xmax = 1426.92 
+            text = "<Z>" 
+        intervals [275]:
+            xmin = 1426.92 
+            xmax = 1441.82 
+            text = "something like that okay so okay ya we can do something like that [lah] so let me get up my word pad my notepad [ah] so let's say top sixteen five percent so I six five per cent sixteen times times stuff about sixteen times five" 
+        intervals [276]:
+            xmin = 1441.82 
+            xmax = 1442.43 
+            text = "<Z>" 
+        intervals [277]:
+            xmin = 1442.43 
+            xmax = 1443.09 
+            text = "[oh] six eight" 
+        intervals [278]:
+            xmin = 1443.09 
+            xmax = 1443.91 
+            text = "<Z>" 
+        intervals [279]:
+            xmin = 1443.91 
+            xmax = 1448.51781 
+            text = "[dah] eighty percent [eh] [a'ah] [sia] (ppl) <malay>tu dah banyak juga tu</malay>" 
+        intervals [280]:
+            xmin = 1448.51781 
+            xmax = 1459.26 
+            text = "that's eighty percent for the top sixteen that's five percent each and then ten percent ya that's actually [ah] we can't do that maybe top eight [ah] top eight get five percent [lah]" 
+        intervals [281]:
+            xmin = 1459.26 
+            xmax = 1460.79 
+            text = "<Z>" 
+        intervals [282]:
+            xmin = 1460.79 
+            xmax = 1461.34 
+            text = "yes" 
+        intervals [283]:
+            xmin = 1461.34 
+            xmax = 1462.64 
+            text = "<Z>" 
+        intervals [284]:
+            xmin = 1462.64 
+            xmax = 1463.12 
+            text = "[ah]" 
+        intervals [285]:
+            xmin = 1463.12 
+            xmax = 1463.86 
+            text = "<Z>" 
+        intervals [286]:
+            xmin = 1463.86 
+            xmax = 1467.11 
+            text = "ya get a wise five per~ (uh) [eh]" 
+        intervals [287]:
+            xmin = 1467.11 
+            xmax = 1467.89 
+            text = "<Z>" 
+        intervals [288]:
+            xmin = 1467.89 
+            xmax = 1468.95 
+            text = "so top eight" 
+        intervals [289]:
+            xmin = 1468.95 
+            xmax = 1471.6 
+            text = "<Z>" 
+        intervals [290]:
+            xmin = 1471.6 
+            xmax = 1474.63 
+            text = "that's forty percent ya correct correct" 
+        intervals [291]:
+            xmin = 1474.63 
+            xmax = 1474.99213 
+            text = "<Z>" 
+        intervals [292]:
+            xmin = 1474.99213 
+            xmax = 1476.46 
+            text = "top eight" 
+        intervals [293]:
+            xmin = 1476.46 
+            xmax = 1477.16 
+            text = "<Z>" 
+        intervals [294]:
+            xmin = 1477.16 
+            xmax = 1478.91 
+            text = "forty percent okay" 
+        intervals [295]:
+            xmin = 1478.91 
+            xmax = 1479.5 
+            text = "<Z>" 
+        intervals [296]:
+            xmin = 1479.5 
+            xmax = 1485.84 
+            text = "soon <malay>lepas tu kalau dapat masuk</malay> to the semi final top four [ah]" 
+        intervals [297]:
+            xmin = 1485.84 
+            xmax = 1486.63 
+            text = "<Z>" 
+        intervals [298]:
+            xmin = 1486.63 
+            xmax = 1487.05 
+            text = "(uh huh)" 
+        intervals [299]:
+            xmin = 1487.05 
+            xmax = 1490.16 
+            text = "<Z>" 
+        intervals [300]:
+            xmin = 1490.16 
+            xmax = 1490.78 
+            text = "[a'ah]" 
+        intervals [301]:
+            xmin = 1490.78 
+            xmax = 1492.32 
+            text = "<Z>" 
+        intervals [302]:
+            xmin = 1492.32 
+            xmax = 1499.41 
+            text = "(err) so five percent each <malay>lima peratus satu orang lima peratus</malay> okay <malay>naik</malay> top four" 
+        intervals [303]:
+            xmin = 1499.41 
+            xmax = 1500.08 
+            text = "<Z>" 
+        intervals [304]:
+            xmin = 1500.08 
+            xmax = 1502.55 
+            text = "[ah] <malay>kau dapat sepuluh</malay> percent [lah] <malay>sepuluh peratus</malay> [ah]" 
+        intervals [305]:
+            xmin = 1502.55 
+            xmax = 1507.67 
+            text = "<Z>" 
+        intervals [306]:
+            xmin = 1507.67 
+            xmax = 1510.15 
+            text = "no no no not top four ten percent" 
+        intervals [307]:
+            xmin = 1510.15 
+            xmax = 1511.7 
+            text = "<Z>" 
+        intervals [308]:
+            xmin = 1511.7 
+            xmax = 1512.65 
+            text = "ten percent [ah]" 
+        intervals [309]:
+            xmin = 1512.65 
+            xmax = 1513.39 
+            text = "<Z>" 
+        intervals [310]:
+            xmin = 1513.39 
+            xmax = 1522.03 
+            text = "correct so you <malay>masuk kalau</malay> you <malay>masuk</malay> quarter final <malay>sudah dapat</malay> five percent you <malay>masuk</malay> semi final you get ten percent" 
+        intervals [311]:
+            xmin = 1522.03 
+            xmax = 1523.4 
+            text = "<Z>" 
+        intervals [312]:
+            xmin = 1523.4 
+            xmax = 1527.23 
+            text = "you <malay>masuk</malay> final up to fifteen percent" 
+        intervals [313]:
+            xmin = 1527.23 
+            xmax = 1527.81 
+            text = "<Z>" 
+        intervals [314]:
+            xmin = 1527.81 
+            xmax = 1528.46 
+            text = "top two" 
+        intervals [315]:
+            xmin = 1528.46 
+            xmax = 1529.76 
+            text = "<Z>" 
+        intervals [316]:
+            xmin = 1529.76 
+            xmax = 1530.7 
+            text = "fifteen percent" 
+        intervals [317]:
+            xmin = 1530.7 
+            xmax = 1531.88 
+            text = "<Z>" 
+        intervals [318]:
+            xmin = 1531.88 
+            xmax = 1533.51 
+            text = "and then champion" 
+        intervals [319]:
+            xmin = 1533.51 
+            xmax = 1534.92 
+            text = "<Z>" 
+        intervals [320]:
+            xmin = 1534.92 
+            xmax = 1535.67 
+            text = "twenty percent" 
+        intervals [321]:
+            xmin = 1535.67 
+            xmax = 1537.82 
+            text = "<Z>" 
+        intervals [322]:
+            xmin = 1537.82 
+            xmax = 1539.53 
+            text = "(err) <malay>mana</malay> percent <malay>yang</malay>" 
+        intervals [323]:
+            xmin = 1539.53 
+            xmax = 1541.4 
+            text = "<Z>" 
+        intervals [324]:
+            xmin = 1541.4 
+            xmax = 1544.73 
+            text = "asked the floor just my percentage turn out is great [lah] okay" 
+        intervals [325]:
+            xmin = 1544.73 
+            xmax = 1546.26 
+            text = "<Z>" 
+        intervals [326]:
+            xmin = 1546.26 
+            xmax = 1552.74 
+            text = "okay so let's say okay so we got four winners who will only get five percent" 
+        intervals [327]:
+            xmin = 1552.74 
+            xmax = 1554.1 
+            text = "<Z>" 
+        intervals [328]:
+            xmin = 1554.1 
+            xmax = 1555.76 
+            text = "four winners only" 
+        intervals [329]:
+            xmin = 1555.76 
+            xmax = 1556.84 
+            text = "<Z>" 
+        intervals [330]:
+            xmin = 1556.84 
+            xmax = 1575.09 
+            text = "<malay>kejap</malay> [eh] so that's twenty percent plus okay and then the next four [eh] the next two okay four winners get twenty percent total alright <malay>naik</malay> four two will drop out now they get ten percent each so that's another twenty percent of the prize pool [dah] removed" 
+        intervals [331]:
+            xmin = 1575.09 
+            xmax = 1576.00786 
+            text = "<Z>" 
+        intervals [332]:
+            xmin = 1576.00786 
+            xmax = 1576.42712 
+            text = "K" 
+        intervals [333]:
+            xmin = 1576.42712 
+            xmax = 1577.2595 
+            text = "<Z>" 
+        intervals [334]:
+            xmin = 1577.2595 
+            xmax = 1589.05 
+            text = "two were good carry on the second place get fifteen percent the last place get twenty percent all by itself so that two four six seventy five we are still within we are still within (err) <malay>apa tu</malay>" 
+        intervals [335]:
+            xmin = 1589.05 
+            xmax = 1591.31 
+            text = "<Z>" 
+        intervals [336]:
+            xmin = 1591.31 
+            xmax = 1593.09 
+            text = "(um)" 
+        intervals [337]:
+            xmin = 1593.09 
+            xmax = 1594.23 
+            text = "<Z>" 
+        intervals [338]:
+            xmin = 1594.23 
+            xmax = 1594.73 
+            text = "ya" 
+        intervals [339]:
+            xmin = 1594.73 
+            xmax = 1595.29 
+            text = "<Z>" 
+        intervals [340]:
+            xmin = 1595.29 
+            xmax = 1600.88 
+            text = "correct correct we can even up the champion to thirty percent <malay>pun boleh</malay> thirty percent of the total prize pool" 
+        intervals [341]:
+            xmin = 1600.88 
+            xmax = 1602.09 
+            text = "<Z>" 
+        intervals [342]:
+            xmin = 1602.09 
+            xmax = 1604.38 
+            text = "[eh] of the total registration fee" 
+        intervals [343]:
+            xmin = 1604.38 
+            xmax = 1607.15 
+            text = "<Z>" 
+        intervals [344]:
+            xmin = 1607.15 
+            xmax = 1617.59 
+            text = "correct correct and that is before any additional cash prize we can put champion gets thirty percent of registration fee plus guaranteed" 
+        intervals [345]:
+            xmin = 1617.59 
+            xmax = 1618.28 
+            text = "<Z>" 
+        intervals [346]:
+            xmin = 1618.28 
+            xmax = 1621.11 
+            text = "two hundred three hundred whatever it is [lah] whatever amount" 
+        intervals [347]:
+            xmin = 1621.11 
+            xmax = 1621.74 
+            text = "<Z>" 
+        intervals [348]:
+            xmin = 1621.74 
+            xmax = 1630.64 
+            text = "there will really get people to like [eh] !siala! if I can get top eight so so top eight is five percent of total registration fee plus another fifty dollars" 
+        intervals [349]:
+            xmin = 1630.64 
+            xmax = 1632.16 
+            text = "<Z>" 
+        intervals [350]:
+            xmin = 1632.16 
+            xmax = 1641.03 
+            text = "so people are thinking at [eh] I only pay five dollar registration fee [tau] I get guaranteed fifty fifty percent plus god knows how many much more" 
+        intervals [351]:
+            xmin = 1641.03 
+            xmax = 1641.68 
+            text = "<Z>" 
+        intervals [352]:
+            xmin = 1641.68 
+            xmax = 1642.65 
+            text = "people register" 
+        intervals [353]:
+            xmin = 1642.65 
+            xmax = 1643.53 
+            text = "<Z>" 
+        intervals [354]:
+            xmin = 1643.53 
+            xmax = 1645.61 
+            text = "the more people register the bigger my price pool" 
+        intervals [355]:
+            xmin = 1645.61 
+            xmax = 1650.21 
+            text = "<Z>" 
+        intervals [356]:
+            xmin = 1650.21 
+            xmax = 1651.1 
+            text = "[a'ah] correct" 
+        intervals [357]:
+            xmin = 1651.1 
+            xmax = 1656.02 
+            text = "<Z>" 
+        intervals [358]:
+            xmin = 1656.02 
+            xmax = 1663.86 
+            text = "matchmaking <malay>pun susah</malay> [ah] [ah] ya so so that's the thing [ah] then the list (uh) ya uneven" 
+        intervals [359]:
+            xmin = 1663.86 
+            xmax = 1664.85 
+            text = "<Z>" 
+        intervals [360]:
+            xmin = 1664.85 
+            xmax = 1667.34 
+            text = "so that's it we need to have at least" 
+        intervals [361]:
+            xmin = 1667.34 
+            xmax = 1669.23 
+            text = "<Z>" 
+        intervals [362]:
+            xmin = 1669.23 
+            xmax = 1670.01 
+            text = "(um)" 
+        intervals [363]:
+            xmin = 1670.01 
+            xmax = 1670.64 
+            text = "<Z>" 
+        intervals [364]:
+            xmin = 1670.64 
+            xmax = 1674.95 
+            text = "ya [eh] <malay>kalau tak</malay> some people get a buy then they get their money back [eh] that's not fair <malay>juga</malay> [eh]" 
+        intervals [365]:
+            xmin = 1674.95 
+            xmax = 1678.88 
+            text = "<Z>" 
+        intervals [366]:
+            xmin = 1678.88 
+            xmax = 1679.86 
+            text = "(um)" 
+        intervals [367]:
+            xmin = 1679.86 
+            xmax = 1680.81 
+            text = "<Z>" 
+        intervals [368]:
+            xmin = 1680.81 
+            xmax = 1686.94 
+            text = "okay but that's why okay you (um) then it's only top eight get prizes" 
+        intervals [369]:
+            xmin = 1686.94 
+            xmax = 1687.51 
+            text = "<Z>" 
+        intervals [370]:
+            xmin = 1687.51 
+            xmax = 1693.05 
+            text = "if we have thirty two players even if they get a buy they're still into the top sixteen" 
+        intervals [371]:
+            xmin = 1693.05 
+            xmax = 1698.84 
+            text = "<Z>" 
+        intervals [372]:
+            xmin = 1698.84 
+            xmax = 1700.58 
+            text = "(mm) (mm)" 
+        intervals [373]:
+            xmin = 1700.58 
+            xmax = 1703.16 
+            text = "<Z>" 
+        intervals [374]:
+            xmin = 1703.16 
+            xmax = 1707.72 
+            text = "(mm) true also true also difficult [ah]" 
+        intervals [375]:
+            xmin = 1707.72 
+            xmax = 1710.74 
+            text = "<Z>" 
+        intervals [376]:
+            xmin = 1710.74 
+            xmax = 1711.23 
+            text = "(mm)" 
+        intervals [377]:
+            xmin = 1711.23 
+            xmax = 1715.56 
+            text = "<Z>" 
+        intervals [378]:
+            xmin = 1715.56 
+            xmax = 1719.54 
+            text = "thirty two fairly I think [eh] no problem <malay>senang</malay>" 
+        intervals [379]:
+            xmin = 1719.54 
+            xmax = 1720.52 
+            text = "<Z>" 
+        intervals [380]:
+            xmin = 1720.52 
+            xmax = 1721.98 
+            text = "<malay>senang</malay> [ah] <malay>senang</malay>" 
+        intervals [381]:
+            xmin = 1721.98 
+            xmax = 1723.33 
+            text = "<Z>" 
+        intervals [382]:
+            xmin = 1723.33 
+            xmax = 1725.78 
+            text = "sixty four possible" 
+        intervals [383]:
+            xmin = 1725.78 
+            xmax = 1726.8 
+            text = "<Z>" 
+        intervals [384]:
+            xmin = 1726.8 
+            xmax = 1728.49 
+            text = "<malay>tapi aku tak boleh ganti</malay>" 
+        intervals [385]:
+            xmin = 1728.49 
+            xmax = 1732.87 
+            text = "<Z>" 
+        intervals [386]:
+            xmin = 1732.87 
+            xmax = 1733.32 
+            text = "(mm)" 
+        intervals [387]:
+            xmin = 1733.32 
+            xmax = 1742.15 
+            text = "<Z>" 
+        intervals [388]:
+            xmin = 1742.15 
+            xmax = 1742.62 
+            text = "[ah]" 
+        intervals [389]:
+            xmin = 1742.62 
+            xmax = 1743.69 
+            text = "<Z>" 
+        intervals [390]:
+            xmin = 1743.69 
+            xmax = 1744.33 
+            text = "[ah] <malay>tu</malay> [ah]" 
+        intervals [391]:
+            xmin = 1744.33 
+            xmax = 1746.91 
+            text = "<Z>" 
+        intervals [392]:
+            xmin = 1746.91 
+            xmax = 1747.87 
+            text = "(mm)" 
+        intervals [393]:
+            xmin = 1747.87 
+            xmax = 1755.55 
+            text = "<Z>" 
+        intervals [394]:
+            xmin = 1755.55 
+            xmax = 1755.91 
+            text = "(mm)" 
+        intervals [395]:
+            xmin = 1755.91 
+            xmax = 1764.42 
+            text = "<Z>" 
+        intervals [396]:
+            xmin = 1764.42 
+            xmax = 1764.75 
+            text = "<Z>" 
+        intervals [397]:
+            xmin = 1764.75 
+            xmax = 1778.73 
+            text = "<Z>" 
+        intervals [398]:
+            xmin = 1778.73 
+            xmax = 1779.1 
+            text = "(mm)" 
+        intervals [399]:
+            xmin = 1779.1 
+            xmax = 1783.07 
+            text = "<Z>" 
+        intervals [400]:
+            xmin = 1783.07 
+            xmax = 1783.38 
+            text = "(mm)" 
+        intervals [401]:
+            xmin = 1783.38 
+            xmax = 1800.17 
+            text = "<Z>" 
+        intervals [402]:
+            xmin = 1800.17 
+            xmax = 1800.56 
+            text = "(mm)" 
+        intervals [403]:
+            xmin = 1800.56 
+            xmax = 1806.75 
+            text = "<Z>" 
+        intervals [404]:
+            xmin = 1806.75 
+            xmax = 1807.11 
+            text = "en" 
+        intervals [405]:
+            xmin = 1807.11 
+            xmax = 1809.76 
+            text = "<Z>" 
+        intervals [406]:
+            xmin = 1809.76 
+            xmax = 1810.08 
+            text = "(mm)" 
+        intervals [407]:
+            xmin = 1810.08 
+            xmax = 1817.43 
+            text = "<Z>" 
+        intervals [408]:
+            xmin = 1817.43 
+            xmax = 1837.01631 
+            text = "I have okay like even without all this this new tournament thing [kan] I have a~ another place to pitch our original league idea too but I've been holding it off (um) so that hopefully we can get our own (uh) third party sponsors [ah] <malay>takde orang akan kacau kita</malay> [lah]" 
+        intervals [409]:
+            xmin = 1837.01631 
+            xmax = 1841.16 
+            text = "so this idea [eh] is basically if I were to go to N" 
+        intervals [410]:
+            xmin = 1841.16 
+            xmax = 1842.53 
+            text = "<Z>" 
+        intervals [411]:
+            xmin = 1842.53 
+            xmax = 1850.92 
+            text = "falls the one that is working with SCOGA [ah] cause <malay>dia pun dah dia sendiri nak buat</malay> community events <malay>sendiri juga</malay>" 
+        intervals [412]:
+            xmin = 1850.92 
+            xmax = 1853.47 
+            text = "<Z>" 
+        intervals [413]:
+            xmin = 1853.47 
+            xmax = 1853.87 
+            text = "en" 
+        intervals [414]:
+            xmin = 1853.87 
+            xmax = 1863.8 
+            text = "<Z>" 
+        intervals [415]:
+            xmin = 1863.8 
+            xmax = 1871.49 
+            text = "my understanding is that he has his own production <malay>punya</malay> house or something like that" 
+        intervals [416]:
+            xmin = 1871.49 
+            xmax = 1872.31 
+            text = "<Z>" 
+        intervals [417]:
+            xmin = 1872.31 
+            xmax = 1880.95 
+            text = "(err) but I can't guarantee whether he is that he is not working under SCOGA" 
+        intervals [418]:
+            xmin = 1880.95 
+            xmax = 1882.16 
+            text = "<Z>" 
+        intervals [419]:
+            xmin = 1882.16 
+            xmax = 1897.80506 
+            text = "and I think at this his if we go to him for sponsor or whatever like that [kan] we telling him that [eh] looked operations side <malay>kita semua dah</malay> settled everything <malay>kita dah dah fikir masak-masak</malay> and <malay>kita boleh</malay> you know <malay>bawa orang-orang</malay> confirm register <malay>punya</malay>" 
+        intervals [420]:
+            xmin = 1897.80506 
+            xmax = 1898.39275 
+            text = "<Z>" 
+        intervals [421]:
+            xmin = 1898.39275 
+            xmax = 1916.39812 
+            text = "you know <malay>tapi</malay> the one problem [kan] that I can see is that if we'll go to him to look for sponsors that is definitely basically is a SCOGA event or is a SCOGA sponsored event SCOGA <malay>duit</malay> no problem this is definitely their alley they were one more i~ (err) jet ideas" 
+        intervals [422]:
+            xmin = 1916.39812 
+            xmax = 1922.65 
+            text = "you know and they want and if this is going to secure a FIFA market for them [kan] they're all out for it" 
+        intervals [423]:
+            xmin = 1922.65 
+            xmax = 1923.41 
+            text = "<Z>" 
+        intervals [424]:
+            xmin = 1923.41 
+            xmax = 1932.82 
+            text = "that is what N #nadesan# has been saying [ah] <malay>kalau duit</malay> anything with money <malay>ke apa</malay> [kan] with gaming related SCOGA budget no problem that sounds SCOGA can afford <malay>kita</malay>" 
+        intervals [425]:
+            xmin = 1932.82 
+            xmax = 1933.71 
+            text = "<Z>" 
+        intervals [426]:
+            xmin = 1933.71 
+            xmax = 1934.37 
+            text = "his words [lah]" 
+        intervals [427]:
+            xmin = 1934.37 
+            xmax = 1935.22 
+            text = "<Z>" 
+        intervals [428]:
+            xmin = 1935.22 
+            xmax = 1948.11 
+            text = "<malay>tapi</malay> so that's that's the thing [ah] we will be working you know like (uh) together with SCOGA it won't be our event [eh] technically it will be our event but will have their name on it as well" 
+        intervals [429]:
+            xmin = 1948.11 
+            xmax = 1949.91 
+            text = "<Z>" 
+        intervals [430]:
+            xmin = 1949.91 
+            xmax = 1950.28 
+            text = "ya" 
+        intervals [431]:
+            xmin = 1950.28 
+            xmax = 1958.89 
+            text = "<Z>" 
+        intervals [432]:
+            xmin = 1958.89 
+            xmax = 1960.31 
+            text = "(mmhmm)" 
+        intervals [433]:
+            xmin = 1960.31 
+            xmax = 1967.69 
+            text = "<Z>" 
+        intervals [434]:
+            xmin = 1967.69 
+            xmax = 1968.1 
+            text = "(mmhmm)" 
+        intervals [435]:
+            xmin = 1968.1 
+            xmax = 1973.27 
+            text = "<Z>" 
+        intervals [436]:
+            xmin = 1973.27 
+            xmax = 1973.7 
+            text = "(mmhmm)" 
+        intervals [437]:
+            xmin = 1973.7 
+            xmax = 1978.33 
+            text = "<Z>" 
+        intervals [438]:
+            xmin = 1978.33 
+            xmax = 1978.85 
+            text = "let me" 
+        intervals [439]:
+            xmin = 1978.85 
+            xmax = 1980.71 
+            text = "<Z>" 
+        intervals [440]:
+            xmin = 1980.71 
+            xmax = 1981.07 
+            text = "[ah]" 
+        intervals [441]:
+            xmin = 1981.07 
+            xmax = 1984.37 
+            text = "<Z>" 
+        intervals [442]:
+            xmin = 1984.37 
+            xmax = 1986.54 
+            text = "let me try and see if I can find (err)" 
+        intervals [443]:
+            xmin = 1986.54 
+            xmax = 1987.42 
+            text = "<Z>" 
+        intervals [444]:
+            xmin = 1987.42 
+            xmax = 1988.58 
+            text = "(err) what's that called [lah]" 
+        intervals [445]:
+            xmin = 1988.58 
+            xmax = 1989.91 
+            text = "<Z>" 
+        intervals [446]:
+            xmin = 1989.91 
+            xmax = 1994.3 
+            text = "SCOGA event and see how were they mark~ how they marketed it" 
+        intervals [447]:
+            xmin = 1994.3 
+            xmax = 1995.05 
+            text = "<Z>" 
+        intervals [448]:
+            xmin = 1995.05 
+            xmax = 2011.85931 
+            text = "<malay>semua</malay> ya cause ya they have SCOGA but I remember they also it's it's almost like zenway [lah] actually ya supported by SCOGA supported by zenway but organised by you know like [ah] people association <malay>entah apa</malay> community club [lah] sports club" 
+        intervals [449]:
+            xmin = 2011.85931 
+            xmax = 2019.24 
+            text = "south west C_D_C <malay>ni semua</malay> so it's it's it feels very zenway like" 
+        intervals [450]:
+            xmin = 2019.24 
+            xmax = 2021.85 
+            text = "<Z>" 
+        intervals [451]:
+            xmin = 2021.85 
+            xmax = 2024.58 
+            text = "ya even this (err) <malay>apa dia</malay> E delta league" 
+        intervals [452]:
+            xmin = 2024.58 
+            xmax = 2025.17 
+            text = "<Z>" 
+        intervals [453]:
+            xmin = 2025.17 
+            xmax = 2031.21 
+            text = "(err) basically they're having this league I don't know how long the league is which is just it's a two V two thing" 
+        intervals [454]:
+            xmin = 2031.21 
+            xmax = 2031.96 
+            text = "<Z>" 
+        intervals [455]:
+            xmin = 2031.96 
+            xmax = 2036.85 
+            text = "strictly for boys and girls aged thirteen to seventeen years old" 
+        intervals [456]:
+            xmin = 2036.85 
+            xmax = 2038.38 
+            text = "<Z>" 
+        intervals [457]:
+            xmin = 2038.38 
+            xmax = 2046.20144 
+            text = "I don't know <malay>macam mana dia orang nak buat aku pun tak tahu</malay> [lah] [eh] <malay>tapi</malay> organised by singapore police force national crime prevention council" 
+        intervals [458]:
+            xmin = 2046.20144 
+            xmax = 2061.24 
+            text = "supported by tote board pizza hut blah blah blah venue partner sports up [oh] okay so it's gonna be an offline event [ah] <malay>kirakan</malay> [ah] <malay>kalau</malay> venue partner [dah] sports up <malay>tapi</malay> it's (um) [ah] you know like (um) it's again [ah]" 
+        intervals [459]:
+            xmin = 2061.24 
+            xmax = 2061.83 
+            text = "<Z>" 
+        intervals [460]:
+            xmin = 2061.83 
+            xmax = 2065.85 
+            text = "SCOGA is the one that does the the the operations [ah]" 
+        intervals [461]:
+            xmin = 2065.85 
+            xmax = 2067.28 
+            text = "<Z>" 
+        intervals [462]:
+            xmin = 2067.28 
+            xmax = 2074.24 
+            text = "so basically SCOGA [eh] in my opinion how they've been running all their events [kan] <malay>sa~ sama macam</malay> zenway <malay>sama</malay>" 
+        intervals [463]:
+            xmin = 2074.24 
+            xmax = 2075.25 
+            text = "<Z>" 
+        intervals [464]:
+            xmin = 2075.25 
+            xmax = 2076.77 
+            text = "it's a it's a carbon copy" 
+        intervals [465]:
+            xmin = 2076.77 
+            xmax = 2078.05 
+            text = "<Z>" 
+        intervals [466]:
+            xmin = 2078.05 
+            xmax = 2089.01 
+            text = "<malay>dia orang</malay> just <malay>buat</malay> the operations but they already have like sponsors will do all that so let's say we can put our branding there you know besides SCOGA" 
+        intervals [467]:
+            xmin = 2089.01 
+            xmax = 2089.76 
+            text = "<Z>" 
+        intervals [468]:
+            xmin = 2089.76 
+            xmax = 2096.06 
+            text = "so is SCOGA will have the logo there and then (err) this (err) will have (err) the our" 
+        intervals [469]:
+            xmin = 2096.06 
+            xmax = 2096.66 
+            text = "<Z>" 
+        intervals [470]:
+            xmin = 2096.66 
+            xmax = 2107.64 
+            text = "our venture <malay>punya</malay> logo whatever it is [lah] [eh] we're we're going to call it however going to design it there ya we'll definitely have that (uh) ya but SCOGA will definitely take a cut is one thing" 
+        intervals [471]:
+            xmin = 2107.64 
+            xmax = 2108.37 
+            text = "<Z>" 
+        intervals [472]:
+            xmin = 2108.37 
+            xmax = 2115.7 
+            text = "what I'm afraid of [eh] is that got they're gonna keep the idea for themselves if that's if that's a that's a legitimate thing or not" 
+        intervals [473]:
+            xmin = 2115.7 
+            xmax = 2116.53 
+            text = "<Z>" 
+        intervals [474]:
+            xmin = 2116.53 
+            xmax = 2133.48 
+            text = "ya and and that's a thing even I've been talking you know I've been talking to my wife [ah] technically she's the genesis of the initial idea of all these kind of having our own event <malay>dia tak suka</malay> the idea of <malay>kita</malay> (um) how to say [ah] handing over the rains to another person" 
+        intervals [475]:
+            xmin = 2133.48 
+            xmax = 2134.51 
+            text = "<Z>" 
+        intervals [476]:
+            xmin = 2134.51 
+            xmax = 2145 
+            text = "<malay>dia nak kita</malay> hundred percent <malay>seratus peratus ni</malay> event <malay>kita bukan orang lain punya</malay> this is ours have our name over there for and then of this (uh)" 
+        intervals [477]:
+            xmin = 2145 
+            xmax = 2145.73 
+            text = "<Z>" 
+        intervals [478]:
+            xmin = 2145.73 
+            xmax = 2148.89 
+            text = "you know <malay>orang lain tak boleh kacau</malay> [ah] <malay>senang kata orang lain tak boleh kacau</malay>" 
+        intervals [479]:
+            xmin = 2148.89 
+            xmax = 2149.8 
+            text = "<Z>" 
+        intervals [480]:
+            xmin = 2149.8 
+            xmax = 2151.31 
+            text = "everything has to be done by us" 
+        intervals [481]:
+            xmin = 2151.31 
+            xmax = 2170.91 
+            text = "<Z>" 
+        intervals [482]:
+            xmin = 2170.91 
+            xmax = 2172.29 
+            text = "ya exactly" 
+        intervals [483]:
+            xmin = 2172.29 
+            xmax = 2176.53 
+            text = "<Z>" 
+        intervals [484]:
+            xmin = 2176.53 
+            xmax = 2176.88 
+            text = "(mmhmm)" 
+        intervals [485]:
+            xmin = 2176.88 
+            xmax = 2186.25 
+            text = "<Z>" 
+        intervals [486]:
+            xmin = 2186.25 
+            xmax = 2186.66 
+            text = "(mmhmm)" 
+        intervals [487]:
+            xmin = 2186.66 
+            xmax = 2189.79 
+            text = "<Z>" 
+        intervals [488]:
+            xmin = 2189.79 
+            xmax = 2199.44138 
+            text = "ya ya ya ya definitely definitely so so that's the thing that I'm I'm you know I have been thinking of and I've been battling myself about [lah] like" 
+        intervals [489]:
+            xmin = 2199.44138 
+            xmax = 2200.76231 
+            text = "<Z>" 
+        intervals [490]:
+            xmin = 2200.76231 
+            xmax = 2211.08 
+            text = "(err) like (um) even when I I told her the idea look [ah] why not (err) we work together we are loudmouth and see what they can get as well" 
+        intervals [491]:
+            xmin = 2211.08 
+            xmax = 2211.85 
+            text = "<Z>" 
+        intervals [492]:
+            xmin = 2211.85 
+            xmax = 2222.83 
+            text = "and she said you know like no it it it shouldn't be under loudmouths she doesn't want us to work under loudmouths to do all these [tau] she want us to be on our own" 
+        intervals [493]:
+            xmin = 2222.83 
+            xmax = 2223.6 
+            text = "<Z>" 
+        intervals [494]:
+            xmin = 2223.6 
+            xmax = 2231.85 
+            text = "loudmouth partners loudmouth partner <malay>kita</malay> sure but it's not <malay>kita</malay> joined loudmouth and we we work under lock mouth" 
+        intervals [495]:
+            xmin = 2231.85 
+            xmax = 2232.48 
+            text = "<Z>" 
+        intervals [496]:
+            xmin = 2232.48 
+            xmax = 2242.06 
+            text = "we need to have our name because we are promoting us if people were if we were to show you know like potential sponsors hello we did this event [tau]" 
+        intervals [497]:
+            xmin = 2242.06 
+            xmax = 2242.68 
+            text = "<Z>" 
+        intervals [498]:
+            xmin = 2242.68 
+            xmax = 2246.78 
+            text = "then they'll be like <malay>mana nama kau aku nampak nama</malay> SCOGA [jer] <malay>nama kau mana</malay>" 
+        intervals [499]:
+            xmin = 2246.78 
+            xmax = 2247.53 
+            text = "<Z>" 
+        intervals [500]:
+            xmin = 2247.53 
+            xmax = 2250.29 
+            text = "I said [oh] now we work under SCOGA <malay>mana bukti</malay>" 
+        intervals [501]:
+            xmin = 2250.29 
+            xmax = 2251.62 
+            text = "<Z>" 
+        intervals [502]:
+            xmin = 2251.62 
+            xmax = 2261.52 
+            text = "<malay>kita tak tahu</malay> SCOGA <malay>kita tak boleh</malay> you know we cannot we have to take you at your word I don't know about that but if <malay>kalau kita boleh tunjuk</malay> on a poster that has our logo on it" 
+        intervals [503]:
+            xmin = 2261.52 
+            xmax = 2263.13 
+            text = "<Z>" 
+        intervals [504]:
+            xmin = 2263.13 
+            xmax = 2266.31 
+            text = "and then that's definitely you know parleyed didn't african [lah]" 
+        intervals [505]:
+            xmin = 2266.31 
+            xmax = 2266.93 
+            text = "<Z>" 
+        intervals [506]:
+            xmin = 2266.93 
+            xmax = 2277.8 
+            text = "<malay>dia orang tak boleh cakap apa-apa</malay> [ah] they there's proof that says we are the ones that take all this we're not we're not the what [ah] (err) we are not not just mere partners or whatever <malay>kita tak buat apa-apa</malay> but" 
+        intervals [507]:
+            xmin = 2277.8 
+            xmax = 2278.39 
+            text = "<Z>" 
+        intervals [508]:
+            xmin = 2278.39 
+            xmax = 2279.68 
+            text = "<malay>kita yang</malay> run the show" 
+        intervals [509]:
+            xmin = 2279.68 
+            xmax = 2280.63 
+            text = "<Z>" 
+        intervals [510]:
+            xmin = 2280.63 
+            xmax = 2291.98 
+            text = "so that's why it's important to have our entity separate we can work together with SCOGA with [ah] whoever but they have to be partners it's not <malay>kita</malay> join <malay>dia orang</malay> we work under their name" 
+        intervals [511]:
+            xmin = 2291.98 
+            xmax = 2292.64 
+            text = "<Z>" 
+        intervals [512]:
+            xmin = 2292.64 
+            xmax = 2294.39 
+            text = "that's the number one thing [ah]" 
+        intervals [513]:
+            xmin = 2294.39 
+            xmax = 2297.16 
+            text = "<Z>" 
+        intervals [514]:
+            xmin = 2297.16 
+            xmax = 2297.71 
+            text = "yes" 
+        intervals [515]:
+            xmin = 2297.71 
+            xmax = 2305.74 
+            text = "<Z>" 
+        intervals [516]:
+            xmin = 2305.74 
+            xmax = 2306.11 
+            text = "[ah]" 
+        intervals [517]:
+            xmin = 2306.11 
+            xmax = 2309.45 
+            text = "<Z>" 
+        intervals [518]:
+            xmin = 2309.45 
+            xmax = 2309.82 
+            text = "[ah]" 
+        intervals [519]:
+            xmin = 2309.82 
+            xmax = 2323.93 
+            text = "<Z>" 
+        intervals [520]:
+            xmin = 2323.93 
+            xmax = 2324.39 
+            text = "(mm)" 
+        intervals [521]:
+            xmin = 2324.39 
+            xmax = 2325.71 
+            text = "<Z>" 
+        intervals [522]:
+            xmin = 2325.71 
+            xmax = 2329.81 
+            text = "like (ppo) our problem right now is finding our own third party sponsor [lah]" 
+        intervals [523]:
+            xmin = 2329.81 
+            xmax = 2345.95 
+            text = "<Z>" 
+        intervals [524]:
+            xmin = 2345.95 
+            xmax = 2346.34 
+            text = "a" 
+        intervals [525]:
+            xmin = 2346.34 
+            xmax = 2373.26 
+            text = "<Z>" 
+        intervals [526]:
+            xmin = 2373.26 
+            xmax = 2373.61 
+            text = "[ah]" 
+        intervals [527]:
+            xmin = 2373.61 
+            xmax = 2377.14 
+            text = "<Z>" 
+        intervals [528]:
+            xmin = 2377.14 
+            xmax = 2379.36 
+            text = "<malay>satu orang kena</malay> start <malay>dulu</malay> [ah] <malay>senang kata</malay>" 
+        intervals [529]:
+            xmin = 2379.36 
+            xmax = 2380.63 
+            text = "<Z>" 
+        intervals [530]:
+            xmin = 2380.63 
+            xmax = 2382.91 
+            text = "[ah] (ppl)" 
+        intervals [531]:
+            xmin = 2382.91 
+            xmax = 2384.16 
+            text = "<Z>" 
+        intervals [532]:
+            xmin = 2384.16 
+            xmax = 2387.24 
+            text = "<malay>tu tu yang</malay> <UNK> <malay>juga</malay> [eh] that" 
+        intervals [533]:
+            xmin = 2387.24 
+            xmax = 2387.85 
+            text = "<Z>" 
+        intervals [534]:
+            xmin = 2387.85 
+            xmax = 2396.1945 
+            text = "and then why I also <malay>tak nak</malay> like you I know you you said quite a number of times we're not you know I can put you can put your own money inside <malay>semua</malay>" 
+        intervals [535]:
+            xmin = 2396.1945 
+            xmax = 2411.95494 
+            text = "<malay>tapi</malay> there there would seem a little bit of a chip [ah] then when like let's take your scenario you said you know we go to sponsors and then sponsor <malay>kata</malay> okay so <malay>siapa yang</malay> sponsor your previous event (uh) and then you say football academy and all that junior football academy" 
+        intervals [536]:
+            xmin = 2411.95494 
+            xmax = 2414.41 
+            text = "I <malay>tengok</malay> [eh] <malay>ini kau punya</malay> company <malay>apa</malay>" 
+        intervals [537]:
+            xmin = 2414.41 
+            xmax = 2415.33 
+            text = "<Z>" 
+        intervals [538]:
+            xmin = 2415.33 
+            xmax = 2424.299 
+            text = "(ppl) so that's the difficult part also so that that is one reason why as much as possible (um) you know" 
+        intervals [539]:
+            xmin = 2424.299 
+            xmax = 2438.6 
+            text = "the main reason is I don't want if adult person I don't want us to spend money at all [lah] you know ya so that's that's the main thing right ya so and you know another thing also I think it doesn't really help us in this particular" 
+        intervals [540]:
+            xmin = 2438.6 
+            xmax = 2442.57 
+            text = "(err) potential conversation that we're going to have with potential sponsors as well" 
+        intervals [541]:
+            xmin = 2442.57 
+            xmax = 2449.55 
+            text = "<Z>" 
+        intervals [542]:
+            xmin = 2449.55 
+            xmax = 2449.95 
+            text = "(um)" 
+        intervals [543]:
+            xmin = 2449.95 
+            xmax = 2453.66 
+            text = "<Z>" 
+        intervals [544]:
+            xmin = 2453.66 
+            xmax = 2454.74 
+            text = "ya ya correct" 
+        intervals [545]:
+            xmin = 2454.74 
+            xmax = 2459.58 
+            text = "<Z>" 
+        intervals [546]:
+            xmin = 2459.58 
+            xmax = 2460.04 
+            text = "a" 
+        intervals [547]:
+            xmin = 2460.04 
+            xmax = 2466.38 
+            text = "<Z>" 
+        intervals [548]:
+            xmin = 2466.38 
+            xmax = 2468.54 
+            text = "[ah] [ha] [ha] [ha] <malay>tu yang</malay> problem <malay>juga</malay>" 
+        intervals [549]:
+            xmin = 2468.54 
+            xmax = 2478.87 
+            text = "<Z>" 
+        intervals [550]:
+            xmin = 2478.87 
+            xmax = 2479.25 
+            text = "(uh huh)" 
+        intervals [551]:
+            xmin = 2479.25 
+            xmax = 2480.97 
+            text = "<Z>" 
+        intervals [552]:
+            xmin = 2480.97 
+            xmax = 2481.37 
+            text = "a" 
+        intervals [553]:
+            xmin = 2481.37 
+            xmax = 2486.66 
+            text = "<Z>" 
+        intervals [554]:
+            xmin = 2486.66 
+            xmax = 2503.66244 
+            text = "but I think I would okay <malay>nak kata</malay> our community [eh] okay now to think about it objectively the positives that can come if you were the sponsor is that you know like throughout the entire days cast you know like we will have you know like (um)" 
+        intervals [555]:
+            xmin = 2503.66244 
+            xmax = 2508.03063 
+            text = "you will have your own you know shout out [lah] you know the sponsor what they do and stuff like that" 
+        intervals [556]:
+            xmin = 2508.03063 
+            xmax = 2526.13 
+            text = "and there is a a match that because you're doing real life football academy for kids and some of the competitors are dads they also have kids so you have your name up there you know and it will come who knows maybe we get one person to join your academy from there" 
+        intervals [557]:
+            xmin = 2526.13 
+            xmax = 2526.95 
+            text = "<Z>" 
+        intervals [558]:
+            xmin = 2526.95 
+            xmax = 2543.01 
+            text = "or at or even more than that or at least the word of mouth will come in I mean that's the whole point of advertising [ah] a lot of my understanding of people sponsoring events [eh] is that you know it's just to get the name out and most they (err) how to say that the" 
+        intervals [559]:
+            xmin = 2543.01 
+            xmax = 2545.18 
+            text = "<Z>" 
+        intervals [560]:
+            xmin = 2545.18 
+            xmax = 2551.71 
+            text = "I <malay>macam mana nak kata</malay> (uh) <malay>ada orang kata</malay> a lot of times at people sponsor <malay>benda</malay> [kan] they don't actually get anything much out of it" 
+        intervals [561]:
+            xmin = 2551.71 
+            xmax = 2553.42 
+            text = "<Z>" 
+        intervals [562]:
+            xmin = 2553.42 
+            xmax = 2568.24875 
+            text = "ya there's no monetary returns you're just getting your name out there it's just another way of getting your name out there that is not on billboards you don't spend money on paying billboards and stuff but you know you're going directly to the customer [lah] in a way [lah]" 
+        intervals [563]:
+            xmin = 2568.24875 
+            xmax = 2579.28 
+            text = "it's the same as T_V advertisement [ah] so I'm thinking the the one positive is that at least your company is football related and our our event is virtual football" 
+        intervals [564]:
+            xmin = 2579.28 
+            xmax = 2586 
+            text = "<Z>" 
+        intervals [565]:
+            xmin = 2586 
+            xmax = 2589.09 
+            text = "ya ya ya or even worst the only them in there" 
+        intervals [566]:
+            xmin = 2589.09 
+            xmax = 2592.41 
+            text = "<Z>" 
+        intervals [567]:
+            xmin = 2592.41 
+            xmax = 2592.82 
+            text = "a" 
+        intervals [568]:
+            xmin = 2592.82 
+            xmax = 2600.27 
+            text = "<Z>" 
+        intervals [569]:
+            xmin = 2600.27 
+            xmax = 2614.82819 
+            text = "(mm) but I'm okay now I'm okay ya still in my head [eh] I totally agree with what you said I'm just entertaining what if we what if we actually do it and how can we work it into our product" 
+        intervals [570]:
+            xmin = 2614.82819 
+            xmax = 2622.18 
+            text = "we can also say that K look this is the amount of time that we spent talking about junior football academy" 
+        intervals [571]:
+            xmin = 2622.18 
+            xmax = 2622.8 
+            text = "<Z>" 
+        intervals [572]:
+            xmin = 2622.8 
+            xmax = 2630.76 
+            text = "we can tell to potential sponsors look ya okay let's put aside the fact J_F_A is it J_F_A J~ junior football academy" 
+        intervals [573]:
+            xmin = 2630.76 
+            xmax = 2631.55 
+            text = "<Z>" 
+        intervals [574]:
+            xmin = 2631.55 
+            xmax = 2634.08894 
+            text = "J_F_S junior <malay>apa</malay> junior what" 
+        intervals [575]:
+            xmin = 2634.08894 
+            xmax = 2650.67663 
+            text = "football school sorry about that sorry about that so J_F_S okay (err) so J_F_S we go okay we make one weekly event alright then we can go back to the sponsors and say look in that one weekly event right I spent a total of thirty minutes running time just talking about J_F_S you know" 
+        intervals [576]:
+            xmin = 2650.67663 
+            xmax = 2668.59006 
+            text = "let's put aside the fact J_F_S it belongs to us [lah] okay was like that but that is for for whatever money you put in alright thirty minutes of our air time goes to you of the whole eight hour whole eight hour thing thirty minutes of the time we spent talking about you and nothing else when we talk about you your product" 
+        intervals [577]:
+            xmin = 2668.59006 
+            xmax = 2679.3385 
+            text = "and that's that's a lot of airtime for relatively little a mon~ money input from you guys" 
+        intervals [578]:
+            xmin = 2679.3385 
+            xmax = 2696.99544 
+            text = "you know so and that just one week that it's just one day not even one week one day so with our league that's gonna run for two months plus and we don't need you know again we only need that set amount of money from you you know so what is thirty minutes times" 
+        intervals [579]:
+            xmin = 2696.99544 
+            xmax = 2702.58 
+            text = "eight weeks how many hours and hours I was we spend time talking just on your one product" 
+        intervals [580]:
+            xmin = 2702.58 
+            xmax = 2703.32 
+            text = "<Z>" 
+        intervals [581]:
+            xmin = 2703.32 
+            xmax = 2706.84 
+            text = "we can talk a lot of shit man you know for you guys" 
+        intervals [582]:
+            xmin = 2706.84 
+            xmax = 2708.1 
+            text = "<Z>" 
+        intervals [583]:
+            xmin = 2708.1 
+            xmax = 2708.44 
+            text = "ya" 
+        intervals [584]:
+            xmin = 2708.44 
+            xmax = 2712.08 
+            text = "<Z>" 
+        intervals [585]:
+            xmin = 2712.08 
+            xmax = 2712.5 
+            text = "(mm)" 
+        intervals [586]:
+            xmin = 2712.5 
+            xmax = 2713.71 
+            text = "<Z>" 
+        intervals [587]:
+            xmin = 2713.71 
+            xmax = 2715.43 
+            text = "yup (mm) (mm) (mm)" 
+        intervals [588]:
+            xmin = 2715.43 
+            xmax = 2717.44 
+            text = "<Z>" 
+        intervals [589]:
+            xmin = 2717.44 
+            xmax = 2717.78 
+            text = "so" 
+        intervals [590]:
+            xmin = 2717.78 
+            xmax = 2720.06 
+            text = "<Z>" 
+        intervals [591]:
+            xmin = 2720.06 
+            xmax = 2720.95 
+            text = "[ha] [ha]" 
+        intervals [592]:
+            xmin = 2720.95 
+            xmax = 2721.9 
+            text = "<Z>" 
+        intervals [593]:
+            xmin = 2721.9 
+            xmax = 2722.78 
+            text = "[a'ah] [sia]" 
+        intervals [594]:
+            xmin = 2722.78 
+            xmax = 2731.78 
+            text = "<Z>" 
+        intervals [595]:
+            xmin = 2731.78 
+            xmax = 2732.14 
+            text = "!alamak!" 
+        intervals [596]:
+            xmin = 2732.14 
+            xmax = 2732.77 
+            text = "<Z>" 
+        intervals [597]:
+            xmin = 2732.77 
+            xmax = 2733.16 
+            text = "!alamak!" 
+        intervals [598]:
+            xmin = 2733.16 
+            xmax = 2744.54 
+            text = "<Z>" 
+        intervals [599]:
+            xmin = 2744.54 
+            xmax = 2744.9 
+            text = "okay" 
+        intervals [600]:
+            xmin = 2744.9 
+            xmax = 2746.08 
+            text = "<Z>" 
+        intervals [601]:
+            xmin = 2746.08 
+            xmax = 2746.51 
+            text = "okay" 
+        intervals [602]:
+            xmin = 2746.51 
+            xmax = 2750.84 
+            text = "<Z>" 
+        intervals [603]:
+            xmin = 2750.84 
+            xmax = 2754.15 
+            text = "I think ya I think in the end <malay>tu nak buat</malay> sponsor tag [ah] in the end" 
+        intervals [604]:
+            xmin = 2754.15 
+            xmax = 2756.02 
+            text = "<Z>" 
+        intervals [605]:
+            xmin = 2756.02 
+            xmax = 2756.54 
+            text = "ya" 
+        intervals [606]:
+            xmin = 2756.54 
+            xmax = 2757.83 
+            text = "<Z>" 
+        intervals [607]:
+            xmin = 2757.83 
+            xmax = 2764.12 
+            text = "you know <malay>macam mana</malay> [eh] I don't even know how to sponsor that looks like I've never seen one before though so I don't know what to base it on" 
+        intervals [608]:
+            xmin = 2764.12 
+            xmax = 2771.06 
+            text = "<Z>" 
+        intervals [609]:
+            xmin = 2771.06 
+            xmax = 2771.85 
+            text = "okay" 
+        intervals [610]:
+            xmin = 2771.85 
+            xmax = 2781.37 
+            text = "<Z>" 
+        intervals [611]:
+            xmin = 2781.37 
+            xmax = 2792.77788 
+            text = "we can actually do that actually if we were to look at because right now <malay>dekat</malay> facebook [eh] all the videos [kan] it will show how many views <malay>ada ada ada</malay> rather it will show how many views actually" 
+        intervals [612]:
+            xmin = 2792.77788 
+            xmax = 2809.84 
+            text = "[ah] what we we won't see total views we won't see how many concurrent views [lah] <malay>apa</malay> [lah] <malay>itu semua tak ada</malay> (um) ya even okay right now zenway is live right now <malay>sekarang ada berapa orang ni sekarang ada lapan belas orang lagi tengok</malay> some mobile legends <malay>punya benda</malay>" 
+        intervals [613]:
+            xmin = 2809.84 
+            xmax = 2810.46 
+            text = "<Z>" 
+        intervals [614]:
+            xmin = 2810.46 
+            xmax = 2819.75 
+            text = "ya but I don't see any total views <malay>belum lagi belum lagi</malay> total views but let's see if I can load a previous show" 
+        intervals [615]:
+            xmin = 2819.75 
+            xmax = 2820.33 
+            text = "<Z>" 
+        intervals [616]:
+            xmin = 2820.33 
+            xmax = 2823.41 
+            text = "previous show <malay>berapa</malay> [eh] let me see another video" 
+        intervals [617]:
+            xmin = 2823.41 
+            xmax = 2826.7 
+            text = "<Z>" 
+        intervals [618]:
+            xmin = 2826.7 
+            xmax = 2827.67 
+            text = "(um)" 
+        intervals [619]:
+            xmin = 2827.67 
+            xmax = 2832.93 
+            text = "<Z>" 
+        intervals [620]:
+            xmin = 2832.93 
+            xmax = 2837.24 
+            text = "[ah] V_P_G <malay>tapi</malay> the problem my my V_P_G midnight <malay>punya</malay> shows [ah]" 
+        intervals [621]:
+            xmin = 2837.24 
+            xmax = 2838.24 
+            text = "<Z>" 
+        intervals [622]:
+            xmin = 2838.24 
+            xmax = 2838.85 
+            text = "there's another" 
+        intervals [623]:
+            xmin = 2838.85 
+            xmax = 2841.05 
+            text = "<Z>" 
+        intervals [624]:
+            xmin = 2841.05 
+            xmax = 2845.71 
+            text = "[ah] correct correct so but I can I can load I can load V_P_G one and one play E sports [lah]" 
+        intervals [625]:
+            xmin = 2845.71 
+            xmax = 2846.51 
+            text = "<Z>" 
+        intervals [626]:
+            xmin = 2846.51 
+            xmax = 2848.14 
+            text = "one play E sports" 
+        intervals [627]:
+            xmin = 2848.14 
+            xmax = 2850.95 
+            text = "<Z>" 
+        intervals [628]:
+            xmin = 2850.95 
+            xmax = 2859.64 
+            text = "one play sports videos the problem with V_P_G <malay>semua malam-malam betul</malay> [ah] ele~ <malay>paling awal pun pukul sebelas tu yang</malay> #problemnya#" 
+        intervals [629]:
+            xmin = 2859.64 
+            xmax = 2860.21 
+            text = "<Z>" 
+        intervals [630]:
+            xmin = 2860.21 
+            xmax = 2863.88 
+            text = "<malay>ada ada orang</malay> but it's not that much [ah] okay ya I'm looking here" 
+        intervals [631]:
+            xmin = 2863.88 
+            xmax = 2865.1 
+            text = "<Z>" 
+        intervals [632]:
+            xmin = 2865.1 
+            xmax = 2874.44 
+            text = "(mm) V_P_G asia champions league <malay>semalam</malay> nine hundred views (err) asia pro league which was on midnight five hundred views" 
+        intervals [633]:
+            xmin = 2874.44 
+            xmax = 2875.26 
+            text = "<Z>" 
+        intervals [634]:
+            xmin = 2875.26 
+            xmax = 2879.41 
+            text = "pure (err) pure cup malaysia nine hundred ninety views" 
+        intervals [635]:
+            xmin = 2879.41 
+            xmax = 2881.01 
+            text = "<Z>" 
+        intervals [636]:
+            xmin = 2881.01 
+            xmax = 2884.52 
+            text = "per hour for one hour nine hundred ninety views" 
+        intervals [637]:
+            xmin = 2884.52 
+            xmax = 2885.75 
+            text = "<Z>" 
+        intervals [638]:
+            xmin = 2885.75 
+            xmax = 2886.13 
+            text = "you know" 
+        intervals [639]:
+            xmin = 2886.13 
+            xmax = 2887.2 
+            text = "<Z>" 
+        intervals [640]:
+            xmin = 2887.2 
+            xmax = 2887.78 
+            text = "(mm)" 
+        intervals [641]:
+            xmin = 2887.78 
+            xmax = 2892.02 
+            text = "<Z>" 
+        intervals [642]:
+            xmin = 2892.02 
+            xmax = 2897.87 
+            text = "ya the singapore premier league a week ago (err) three point eight K views" 
+        intervals [643]:
+            xmin = 2897.87 
+            xmax = 2900.36 
+            text = "<Z>" 
+        intervals [644]:
+            xmin = 2900.36 
+            xmax = 2902.16 
+            text = "one hour <malay>juga ni semua</malay> one our cast" 
+        intervals [645]:
+            xmin = 2902.16 
+            xmax = 2904.73 
+            text = "<Z>" 
+        intervals [646]:
+            xmin = 2904.73 
+            xmax = 2905.35 
+            text = "(mm)" 
+        intervals [647]:
+            xmin = 2905.35 
+            xmax = 2908.95 
+            text = "<Z>" 
+        intervals [648]:
+            xmin = 2908.95 
+            xmax = 2912.84 
+            text = "but that was the the very first <malay>punya</malay> [lah] I mean like it was the first" 
+        intervals [649]:
+            xmin = 2912.84 
+            xmax = 2913.62 
+            text = "<Z>" 
+        intervals [650]:
+            xmin = 2913.62 
+            xmax = 2914.59 
+            text = "(err) what's that called" 
+        intervals [651]:
+            xmin = 2914.59 
+            xmax = 2917.29 
+            text = "<Z>" 
+        intervals [652]:
+            xmin = 2917.29 
+            xmax = 2931.08 
+            text = "okay E #singa# cup the one that we so called we lost to game gamers semi finals to our song fourteen thousand views fourteen K the finals is six and a half K views" 
+        intervals [653]:
+            xmin = 2931.08 
+            xmax = 2933.18 
+            text = "<Z>" 
+        intervals [654]:
+            xmin = 2933.18 
+            xmax = 2934.67 
+            text = "quarter final seven K" 
+        intervals [655]:
+            xmin = 2934.67 
+            xmax = 2940.29 
+            text = "<Z>" 
+        intervals [656]:
+            xmin = 2940.29 
+            xmax = 2942.18 
+            text = "(err) E #singa# cup" 
+        intervals [657]:
+            xmin = 2942.18 
+            xmax = 2943.77 
+            text = "<Z>" 
+        intervals [658]:
+            xmin = 2943.77 
+            xmax = 2946.12 
+            text = "okay ya well that was for the pro clubs [ah]" 
+        intervals [659]:
+            xmin = 2946.12 
+            xmax = 2947.1 
+            text = "<Z>" 
+        intervals [660]:
+            xmin = 2947.1 
+            xmax = 2947.74 
+            text = "<malay>ramai juga</malay>" 
+        intervals [661]:
+            xmin = 2947.74 
+            xmax = 2948.98 
+            text = "<Z>" 
+        intervals [662]:
+            xmin = 2948.98 
+            xmax = 2951.79 
+            text = "for the one V one E #singa# cup" 
+        intervals [663]:
+            xmin = 2951.79 
+            xmax = 2952.95 
+            text = "<Z>" 
+        intervals [664]:
+            xmin = 2952.95 
+            xmax = 2954.67 
+            text = "one V one E #singa# cup" 
+        intervals [665]:
+            xmin = 2954.67 
+            xmax = 2956.47 
+            text = "<Z>" 
+        intervals [666]:
+            xmin = 2956.47 
+            xmax = 2958.24 
+            text = "[oh] they split it into" 
+        intervals [667]:
+            xmin = 2958.24 
+            xmax = 2959.05 
+            text = "<Z>" 
+        intervals [668]:
+            xmin = 2959.05 
+            xmax = 2960.13 
+            text = "the whole league" 
+        intervals [669]:
+            xmin = 2960.13 
+            xmax = 2960.7 
+            text = "<Z>" 
+        intervals [670]:
+            xmin = 2960.7 
+            xmax = 2967.3 
+            text = "(err) but they split it into different parts [ah] <malay>macam</malay> part one first two hours ten ten K views" 
+        intervals [671]:
+            xmin = 2967.3 
+            xmax = 2967.95 
+            text = "<Z>" 
+        intervals [672]:
+            xmin = 2967.95 
+            xmax = 2974.78 
+            text = "part two another three hours was five point eight K view so it's actually in the thousands [ah] early thousands" 
+        intervals [673]:
+            xmin = 2974.78 
+            xmax = 2975.51 
+            text = "<Z>" 
+        intervals [674]:
+            xmin = 2975.51 
+            xmax = 2977.58 
+            text = "you know so ya" 
+        intervals [675]:
+            xmin = 2977.58 
+            xmax = 2979.06 
+            text = "<Z>" 
+        intervals [676]:
+            xmin = 2979.06 
+            xmax = 2987.22 
+            text = "quite quite a bit this four V_P_G [lah] but then again [eh] V_P_G E sports <malay>ada berapa berapa</malay> followers <malay>ni</malay> V_P_G E sports how many followers" 
+        intervals [677]:
+            xmin = 2987.22 
+            xmax = 2988.29 
+            text = "<Z>" 
+        intervals [678]:
+            xmin = 2988.29 
+            xmax = 2989 
+            text = "[oh] shit" 
+        intervals [679]:
+            xmin = 2989 
+            xmax = 2989.62 
+            text = "<Z>" 
+        intervals [680]:
+            xmin = 2989.62 
+            xmax = 2991.4 
+            text = "one point two people like this" 
+        intervals [681]:
+            xmin = 2991.4 
+            xmax = 2993.17 
+            text = "<Z>" 
+        intervals [682]:
+            xmin = 2993.17 
+            xmax = 2995.35 
+            text = "so on that much one point two K" 
+        intervals [683]:
+            xmin = 2995.35 
+            xmax = 2996.05 
+            text = "<Z>" 
+        intervals [684]:
+            xmin = 2996.05 
+            xmax = 2996.42 
+            text = "[ah]" 
+        intervals [685]:
+            xmin = 2996.42 
+            xmax = 2997.35 
+            text = "<Z>" 
+        intervals [686]:
+            xmin = 2997.35 
+            xmax = 3000.49 
+            text = "two thousand two thousand eight hundred followers" 
+        intervals [687]:
+            xmin = 3000.49 
+            xmax = 3001.23 
+            text = "<Z>" 
+        intervals [688]:
+            xmin = 3001.23 
+            xmax = 3002.81 
+            text = "two point eight K followers" 
+        intervals [689]:
+            xmin = 3002.81 
+            xmax = 3004.58 
+            text = "<Z>" 
+        intervals [690]:
+            xmin = 3004.58 
+            xmax = 3007.44 
+            text = "so okay and what we can do is we can cost" 
+        intervals [691]:
+            xmin = 3007.44 
+            xmax = 3008.08 
+            text = "<Z>" 
+        intervals [692]:
+            xmin = 3008.08 
+            xmax = 3010.76 
+            text = "force you know we can one stream" 
+        intervals [693]:
+            xmin = 3010.76 
+            xmax = 3011.68 
+            text = "<Z>" 
+        intervals [694]:
+            xmin = 3011.68 
+            xmax = 3025.92 
+            text = "we can post it on my at the and my channel will post it your channel will stream it my channel will stream it your channel will stream it our you know our new channel (err) you know like specifically for these events will also stream it" 
+        intervals [695]:
+            xmin = 3025.92 
+            xmax = 3026.86 
+            text = "<Z>" 
+        intervals [696]:
+            xmin = 3026.86 
+            xmax = 3027.39 
+            text = "so that" 
+        intervals [697]:
+            xmin = 3027.39 
+            xmax = 3028.23 
+            text = "<Z>" 
+        intervals [698]:
+            xmin = 3028.23 
+            xmax = 3034.46 
+            text = "i~ #aiman# will help out also and in fact if at all possible I would like to ask <malay>iman pun</malay> can we stream it on your stream" 
+        intervals [699]:
+            xmin = 3034.46 
+            xmax = 3036.13 
+            text = "<Z>" 
+        intervals [700]:
+            xmin = 3036.13 
+            xmax = 3037.72 
+            text = "ya that would that would really help" 
+        intervals [701]:
+            xmin = 3037.72 
+            xmax = 3040.8 
+            text = "<Z>" 
+        intervals [702]:
+            xmin = 3040.8 
+            xmax = 3045.05 
+            text = "because [eh] if it'll be better it will be a lot better" 
+        intervals [703]:
+            xmin = 3045.05 
+            xmax = 3045.77 
+            text = "<Z>" 
+        intervals [704]:
+            xmin = 3045.77 
+            xmax = 3048.64 
+            text = "instead of just (err) #aiman# giving a shout out" 
+        intervals [705]:
+            xmin = 3048.64 
+            xmax = 3049.25 
+            text = "<Z>" 
+        intervals [706]:
+            xmin = 3049.25 
+            xmax = 3057.8 
+            text = "for us people might not follow ya people might not follow but if we are able to cast stream to his thing" 
+        intervals [707]:
+            xmin = 3057.8 
+            xmax = 3058.66 
+            text = "<Z>" 
+        intervals [708]:
+            xmin = 3058.66 
+            xmax = 3059.78 
+            text = "to to his channel" 
+        intervals [709]:
+            xmin = 3059.78 
+            xmax = 3060.76 
+            text = "<Z>" 
+        intervals [710]:
+            xmin = 3060.76 
+            xmax = 3066.36 
+            text = "and then (err) what's that called [ah] ya and then like this [ah] people will be alerted" 
+        intervals [711]:
+            xmin = 3066.36 
+            xmax = 3067.1 
+            text = "<Z>" 
+        intervals [712]:
+            xmin = 3067.1 
+            xmax = 3070.81 
+            text = "or even better if we can get we can rope #aiman# in as a commentator <malay>juga</malay> [lah]" 
+        intervals [713]:
+            xmin = 3070.81 
+            xmax = 3071.45 
+            text = "<Z>" 
+        intervals [714]:
+            xmin = 3071.45 
+            xmax = 3072.07 
+            text = "(ppo)" 
+        intervals [715]:
+            xmin = 3072.07 
+            xmax = 3073.62 
+            text = "<Z>" 
+        intervals [716]:
+            xmin = 3073.62 
+            xmax = 3074.29 
+            text = "ya" 
+        intervals [717]:
+            xmin = 3074.29 
+            xmax = 3079.63 
+            text = "<Z>" 
+        intervals [718]:
+            xmin = 3079.63 
+            xmax = 3080.37 
+            text = "exactly" 
+        intervals [719]:
+            xmin = 3080.37 
+            xmax = 3081.48 
+            text = "<Z>" 
+        intervals [720]:
+            xmin = 3081.48 
+            xmax = 3082.5 
+            text = "[ah] correct correct" 
+        intervals [721]:
+            xmin = 3082.5 
+            xmax = 3084 
+            text = "<Z>" 
+        intervals [722]:
+            xmin = 3084 
+            xmax = 3089.87 
+            text = "so so that's the thing if we can if we are able to pull him ya and then you know we can" 
+        intervals [723]:
+            xmin = 3089.87 
+            xmax = 3090.61 
+            text = "<Z>" 
+        intervals [724]:
+            xmin = 3090.61 
+            xmax = 3102.91 
+            text = "we can actually I I I've been trying to find a way to pull him in but the thing is this is gonna be a strictly singapore thing because [ah] I don't know how to send prize money to malaysians that's one problem" 
+        intervals [725]:
+            xmin = 3102.91 
+            xmax = 3103.53 
+            text = "<Z>" 
+        intervals [726]:
+            xmin = 3103.53 
+            xmax = 3116.07 
+            text = "you know I I can we make but then fees and all that [lah] like how [sia] <malay>macam mana aku nak</malay> you know send prize money it's not that's the only reason why I'm not opening it to outside singaporeans I don't how to send prize money to you" 
+        intervals [727]:
+            xmin = 3116.07 
+            xmax = 3123.78 
+            text = "<Z>" 
+        intervals [728]:
+            xmin = 3123.78 
+            xmax = 3124.26 
+            text = "[ah]" 
+        intervals [729]:
+            xmin = 3124.26 
+            xmax = 3125.21 
+            text = "<Z>" 
+        intervals [730]:
+            xmin = 3125.21 
+            xmax = 3137.33038 
+            text = "<malay>jadi kalau kalau</malay> if there's a way [eh] for us to go meet #aiman# I'm very sure he will love to work with us and I think <malay>kalau kita bilang dia</malay> look <malay>kita ini kita semua</malay> [eh] <malay>kita</malay> will <malay>ini kita punya</malay> event we're not getting paid" 
+        intervals [731]:
+            xmin = 3137.33038 
+            xmax = 3150.24588 
+            text = "maybe we need to pay more stuff (ppl) you know to add on to the prize money [ah] so maybe <malay>kalau dia dengar tu</malay> [eh] the hope is that he might be able to if he's free on that day firstly because now <malay>dia ada banyak banyak</malay> event [kan]" 
+        intervals [732]:
+            xmin = 3150.24588 
+            xmax = 3164.30244 
+            text = "<malay>jadi kalau kalau</malay> [a'ah] [sia] <malay>dia banyak</malay> events [ah] so I don't know what he was bitching to us about [lah] <malay>jadi</malay> (ppl) honestly I was like dude <malay>ini</malay> it like it [ah] I look I know you're disappointed E <malay>piala</malay> malaysia of fucking meeting [ah] (err) bullshit I just said [ah] sorry" 
+        intervals [733]:
+            xmin = 3164.30244 
+            xmax = 3172.63244 
+            text = "(ppl) sorry researchers I didn't mean to say but it is a really huge thing I understand you're feeling gutted you didn't get the huge thing but" 
+        intervals [734]:
+            xmin = 3172.63244 
+            xmax = 3183.72 
+            text = "but you are getting lots and lots of quantity [ah] you're winning quantity wise those two guys [eh] other than E <malay>piala</malay> malaysia <malay>apa lain dengan</malay> other <malay>dia orang takde benda satu benda pun takde benda</malay>" 
+        intervals [735]:
+            xmin = 3183.72 
+            xmax = 3185.91 
+            text = "<Z>" 
+        intervals [736]:
+            xmin = 3185.91 
+            xmax = 3188.52 
+            text = "[ah] <malay>lepas</malay> F_O_T" 
+        intervals [737]:
+            xmin = 3188.52 
+            xmax = 3189.53 
+            text = "<Z>" 
+        intervals [738]:
+            xmin = 3189.53 
+            xmax = 3193.07 
+            text = "<malay>tak tak takde benda</malay> [sia] I can't I [ah]" 
+        intervals [739]:
+            xmin = 3193.07 
+            xmax = 3193.78 
+            text = "<Z>" 
+        intervals [740]:
+            xmin = 3193.78 
+            xmax = 3211.28138 
+            text = "okay I know that (err) see <malay>siapa ni</malay> matthew [eh] has (uh) has (uh) some malaysian cold wrestling thing or whatever there's a totally separate community it's a totally separate thing <malay>dari bola</malay> [tau] so you know [ah] [oh] <malay>kalau nak kata</malay> streaming <malay>bola</malay> [jer]" 
+        intervals [741]:
+            xmin = 3211.28138 
+            xmax = 3219.14644 
+            text = "<malay>dia orang takde benda</malay> [sia] decipher <malay>lagi takde benda</malay> at least matthew involved in that wrestling thing whatever decipher <malay>langsung aku tak dengar apa-apa</malay> [tau]" 
+        intervals [742]:
+            xmin = 3219.14644 
+            xmax = 3237.99 
+            text = "so ya so he said [oh] I lost out to them honestly [ah] it's just connections [ah] you lost [tau] on connections [ah] that you just didn't have anybody that's inside whoever's doing this E <malay>piala</malay> malaysia thing that's the only thing but you're winning in everything else you lost one event so what that's it is just one event" 
+        intervals [743]:
+            xmin = 3237.99 
+            xmax = 3241.05 
+            text = "<Z>" 
+        intervals [744]:
+            xmin = 3241.05 
+            xmax = 3241.68 
+            text = "a" 
+        intervals [745]:
+            xmin = 3241.68 
+            xmax = 3246.8 
+            text = "<Z>" 
+        intervals [746]:
+            xmin = 3246.8 
+            xmax = 3247.19 
+            text = "ya" 
+        intervals [747]:
+            xmin = 3247.19 
+            xmax = 3251.65 
+            text = "<Z>" 
+        intervals [748]:
+            xmin = 3251.65 
+            xmax = 3252.01 
+            text = "(um)" 
+        intervals [749]:
+            xmin = 3252.01 
+            xmax = 3254.02 
+            text = "<Z>" 
+        intervals [750]:
+            xmin = 3254.02 
+            xmax = 3254.53 
+            text = "<Z>" 
+        intervals [751]:
+            xmin = 3254.53 
+            xmax = 3257.53 
+            text = "<Z>" 
+        intervals [752]:
+            xmin = 3257.53 
+            xmax = 3266.42 
+            text = "ya not that bad correct correct so I'm thinking you know maybe we can we can pull him in and get the malaysian viewers also" 
+        intervals [753]:
+            xmin = 3266.42 
+            xmax = 3267.76 
+            text = "<Z>" 
+        intervals [754]:
+            xmin = 3267.76 
+            xmax = 3270.52 
+            text = "because I know he's been doing singapore events <malay>juga</malay>" 
+        intervals [755]:
+            xmin = 3270.52 
+            xmax = 3271.95 
+            text = "<Z>" 
+        intervals [756]:
+            xmin = 3271.95 
+            xmax = 3277.65 
+            text = "you know and all we want [eh] it's just boost the numbers the viewership you know that's all we need" 
+        intervals [757]:
+            xmin = 3277.65 
+            xmax = 3278.23 
+            text = "<Z>" 
+        intervals [758]:
+            xmin = 3278.23 
+            xmax = 3285.99 
+            text = "it's just to tell future potential customers look our our #chapalang# event <malay>tak ada</malay> sponsor <malay>takde apa takde benda</malay>" 
+        intervals [759]:
+            xmin = 3285.99 
+            xmax = 3286.76 
+            text = "<Z>" 
+        intervals [760]:
+            xmin = 3286.76 
+            xmax = 3288.03 
+            text = "us <malay>sepuluh ribu</malay> views [tau]" 
+        intervals [761]:
+            xmin = 3288.03 
+            xmax = 3288.88 
+            text = "<Z>" 
+        intervals [762]:
+            xmin = 3288.88 
+            xmax = 3293.13 
+            text = "or whatever we can (uh) we can get [lah] we can tell them look that's an easy ten thousand views" 
+        intervals [763]:
+            xmin = 3293.13 
+            xmax = 3295.5238 
+            text = "<Z>" 
+        intervals [764]:
+            xmin = 3295.5238 
+            xmax = 3297.13 
+            text = "[ah] ya so" 
+        intervals [765]:
+            xmin = 3297.13 
+            xmax = 3298.75 
+            text = "<Z>" 
+        intervals [766]:
+            xmin = 3298.75 
+            xmax = 3299.22 
+            text = "(mm)" 
+        intervals [767]:
+            xmin = 3299.22 
+            xmax = 3299.83 
+            text = "<Z>" 
+        intervals [768]:
+            xmin = 3299.83 
+            xmax = 3310.84781 
+            text = "so I maybe we can tell them a lot of things it's okay maybe they don't know who #sekaiichi# is [ah] they just look at pure viewership numbers [ah] we can talk about them [eh] we can talk about the concurrent numbers the viewership and stuff like that" 
+        intervals [769]:
+            xmin = 3310.84781 
+            xmax = 3324.48 
+            text = "you know (err) ya I also can tell it you know [ah] definitely when I when I let know of my community (err) this this affinity whatsapp group <malay>semua</malay> that's guaranteed a you know a number of views as well" 
+        intervals [770]:
+            xmin = 3324.48 
+            xmax = 3325.55 
+            text = "<Z>" 
+        intervals [771]:
+            xmin = 3325.55 
+            xmax = 3327.42 
+            text = "that's no issue get a number of views" 
+        intervals [772]:
+            xmin = 3327.42 
+            xmax = 3328.53 
+            text = "<Z>" 
+        intervals [773]:
+            xmin = 3328.53 
+            xmax = 3329.32 
+            text = "ya I can" 
+        intervals [774]:
+            xmin = 3329.32 
+            xmax = 3332.82 
+            text = "<Z>" 
+        intervals [775]:
+            xmin = 3332.82 
+            xmax = 3334.03 
+            text = "ya so" 
+        intervals [776]:
+            xmin = 3334.03 
+            xmax = 3334.72 
+            text = "<Z>" 
+        intervals [777]:
+            xmin = 3334.72 
+            xmax = 3352.79 
+            text = "so now we've got two two routes here we can just make everything on our own without sponsorship then you have to go the long and slow way I got a slog it out it's a outward slug if we do it this way every week one separate event and we try to build up viewership from there" 
+        intervals [778]:
+            xmin = 3352.79 
+            xmax = 3353.47 
+            text = "<Z>" 
+        intervals [779]:
+            xmin = 3353.47 
+            xmax = 3354.21 
+            text = "[ah]" 
+        intervals [780]:
+            xmin = 3354.21 
+            xmax = 3354.93 
+            text = "<Z>" 
+        intervals [781]:
+            xmin = 3354.93 
+            xmax = 3378.76938 
+            text = "the other way is if we go to existing partners like SCOGA zenway or whatever I I I think of the three that I personally know of which is one place zenway and SCOGA I think SCOGA have the best in because (um) and you know really likes to work together with me [lah] basically [lah]" 
+        intervals [782]:
+            xmin = 3378.76938 
+            xmax = 3385.98 
+            text = "ya but I don't know anybody else in SCOGA [lah] so it will we will be highly or solely dependent on them" 
+        intervals [783]:
+            xmin = 3385.98 
+            xmax = 3386.57 
+            text = "<Z>" 
+        intervals [784]:
+            xmin = 3386.57 
+            xmax = 3387.65 
+            text = "if we were to go there [lah]" 
+        intervals [785]:
+            xmin = 3387.65 
+            xmax = 3394.26 
+            text = "<Z>" 
+        intervals [786]:
+            xmin = 3394.26 
+            xmax = 3394.65 
+            text = "(mmhmm)" 
+        intervals [787]:
+            xmin = 3394.65 
+            xmax = 3440.61 
+            text = "<Z>" 
+        intervals [788]:
+            xmin = 3440.61 
+            xmax = 3440.92 
+            text = "(mm)" 
+        intervals [789]:
+            xmin = 3440.92 
+            xmax = 3455.89 
+            text = "<Z>" 
+        intervals [790]:
+            xmin = 3455.89 
+            xmax = 3457.18 
+            text = "(ppl)" 
+        intervals [791]:
+            xmin = 3457.18 
+            xmax = 3458.09 
+            text = "<Z>" 
+        intervals [792]:
+            xmin = 3458.09 
+            xmax = 3470.68 
+            text = "ya let's say they're nah ya this is the one major stumbling block <malay>kita ada</malay> [ah] <malay>aku aku pun tak tak takde</malay> ideas [ah] <malay>apa nak buat</malay> like to find my own third party sponsor <malay>semua takde</malay> idea <malay>langsung</malay> [ah]" 
+        intervals [793]:
+            xmin = 3470.68 
+            xmax = 3471.68 
+            text = "<Z>" 
+        intervals [794]:
+            xmin = 3471.68 
+            xmax = 3485.14 
+            text = "and he's not like any of my friends like have like companies or (err) what [ah] <malay>macam macam kau dan aku yang yang</malay> my friend #hafiz# the one that's you know that always leaves comments regarding commentary and stuff like that [kan]" 
+        intervals [795]:
+            xmin = 3485.14 
+            xmax = 3485.7 
+            text = "<Z>" 
+        intervals [796]:
+            xmin = 3485.7 
+            xmax = 3487.1 
+            text = "<malay>dia kerja</malay> D_H_L" 
+        intervals [797]:
+            xmin = 3487.1 
+            xmax = 3487.89 
+            text = "<Z>" 
+        intervals [798]:
+            xmin = 3487.89 
+            xmax = 3500.41863 
+            text = "I broached either to him by [eh] D_H_L <malay>nak</malay> sponsor <malay>kita tak</malay> you know this sort of event then <malay>kalau kau betul-betul</malay> managed to get them in [eh] <malay>aku bagi kau</malay> you know some some credit or whatever [lah] some kickback [lah] so <malay>dia kata</malay> D_H_L" 
+        intervals [799]:
+            xmin = 3500.41863 
+            xmax = 3516.47 
+            text = "won't see anything unless there's a global outrage <malay>dia orang tak langsung tak</malay> support local which is a lot of ya a lot of companies do that also ya timing also another issue right now a lot of companies are trying to tighten up their purses not spend more" 
+        intervals [800]:
+            xmin = 3516.47 
+            xmax = 3520.86 
+            text = "<Z>" 
+        intervals [801]:
+            xmin = 3520.86 
+            xmax = 3521.21 
+            text = "(mm)" 
+        intervals [802]:
+            xmin = 3521.21 
+            xmax = 3524.61 
+            text = "<Z>" 
+        intervals [803]:
+            xmin = 3524.61 
+            xmax = 3525.61 
+            text = "(mm) [ah]" 
+        intervals [804]:
+            xmin = 3525.61 
+            xmax = 3543.8 
+            text = "<Z>" 
+        intervals [805]:
+            xmin = 3543.8 
+            xmax = 3544.78 
+            text = "okay so" 
+        intervals [806]:
+            xmin = 3544.78 
+            xmax = 3545.56 
+            text = "<Z>" 
+        intervals [807]:
+            xmin = 3545.56 
+            xmax = 3553.63 
+            text = "officially [eh] looking at their website [eh] <malay>dia kata</malay> [ah] they are a youth non profit organisation" 
+        intervals [808]:
+            xmin = 3553.63 
+            xmax = 3554.34 
+            text = "<Z>" 
+        intervals [809]:
+            xmin = 3554.34 
+            xmax = 3556.62 
+            text = "<malay>kalau nak</malay> under official words [ah]" 
+        intervals [810]:
+            xmin = 3556.62 
+            xmax = 3557.31 
+            text = "<Z>" 
+        intervals [811]:
+            xmin = 3557.31 
+            xmax = 3571.01 
+            text = "(um) ya they have (err) few initiatives [lah] all this (err) E sports academy campus game fest campus legend so ya (err) and they let see <malay>apa lagi dia orang ada</malay> [eh] about us" 
+        intervals [812]:
+            xmin = 3571.01 
+            xmax = 3571.73 
+            text = "<Z>" 
+        intervals [813]:
+            xmin = 3571.73 
+            xmax = 3573.29 
+            text = "it's a society" 
+        intervals [814]:
+            xmin = 3573.29 
+            xmax = 3574.45 
+            text = "<Z>" 
+        intervals [815]:
+            xmin = 3574.45 
+            xmax = 3581.52 
+            text = "wants to make a difference in the local gaming scene especially in developing the local E sports in I think ya there will be" 
+        intervals [816]:
+            xmin = 3581.52 
+            xmax = 3582.9 
+            text = "<Z>" 
+        intervals [817]:
+            xmin = 3582.9 
+            xmax = 3586.63 
+            text = "(uh) ya so <malay>apa ni</malay> executive committee" 
+        intervals [818]:
+            xmin = 3586.63 
+            xmax = 3587.44 
+            text = "<Z>" 
+        intervals [819]:
+            xmin = 3587.44 
+            xmax = 3588.45 
+            text = "who do they have" 
+        intervals [820]:
+            xmin = 3588.45 
+            xmax = 3595.25 
+            text = "<Z>" 
+        intervals [821]:
+            xmin = 3595.25 
+            xmax = 3598.56 
+            text = "nicholas aaron #khoo# <malay>macam</malay> familiar [jer] <malay>nama tu</malay>" 
+        intervals [822]:
+            xmin = 3598.56 
+            xmax = 3600 
+            text = "<Z>" 

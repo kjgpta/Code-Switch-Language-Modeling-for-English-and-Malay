@@ -1,0 +1,83 @@
+Text file Analysis: combined_train_lm.txt
+Absolute values:
+names: 9099
+exclamations: 4710
+discourse_particles: 85986
+fillers: 31963
+num_words: 1588402
+num_utterances:162030
+
+Averages per utterance:
+names per utterance: 0.05615626735789669
+exclamations per utterance: 0.02906869098315127
+discourse_particles per utterance: 0.5306795037955934
+fillers per utterance: 0.19726593840646794
+words per utterance: 9.803135221872493
+
+Average ratio per utterance
+names ratio per utterance: 0.007782584703202553
+exclamations ratio per utterance: 0.009989299052331386
+discourse_particles ratio per utterance: 0.08410157782579082
+fillers ratio per utterance: 0.0718769407543443
+
+---------------------------------------------------------------------- 
+
+Text file Analysis: combined_val_lm.txt
+Absolute values:
+names: 1251
+exclamations: 533
+discourse_particles: 10819
+fillers: 3987
+num_words: 199625
+num_utterances:21677
+
+Averages per utterance:
+names per utterance: 0.057710937860405036
+exclamations per utterance: 0.02458827328504867
+discourse_particles per utterance: 0.49910042902615676
+fillers per utterance: 0.18392766526733403
+words per utterance: 9.209069520690132
+
+Average ratio per utterance
+names ratio per utterance: 0.0086548725530887
+exclamations ratio per utterance: 0.00931631854880268
+discourse_particles ratio per utterance: 0.0820155720409911
+fillers ratio per utterance: 0.06682036868963236
+
+---------------------------------------------------------------------- 
+
+Text file Analysis: combined_test_lm.txt
+Absolute values:
+names: 1378
+exclamations: 655
+discourse_particles: 11446
+fillers: 5165
+num_words: 202451
+num_utterances:23232
+
+Averages per utterance:
+names per utterance: 0.05931473829201102
+exclamations per utterance: 0.028193870523415977
+discourse_particles per utterance: 0.49268250688705234
+fillers per utterance: 0.22232265840220386
+words per utterance: 8.714316460055096
+
+Average ratio per utterance
+names ratio per utterance: 0.008290398189558587
+exclamations ratio per utterance: 0.01000743242478313
+discourse_particles ratio per utterance: 0.08749009650094054
+fillers ratio per utterance: 0.09484963101375252
+
+---------------------------------------------------------------------- 
+
+Vocab Analysis
+names:2278
+exclamations: 40
+discourse_particles: 43
+fillers: 22
+num_vocab: 26500
+
+names ratio: 0.0859622641509434
+exclamations ratio: 0.0015094339622641509
+discourse_particles ratio: 0.0016226415094339622
+fillers ratio: 0.000830188679245283
