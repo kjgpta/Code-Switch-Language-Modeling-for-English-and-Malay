@@ -27,3 +27,8 @@ Now, one of the issue with the last method was that sometimes two or more words 
 8. [transformers](https://pypi.org/project/transformers3/)
 9. [NLTK](https://pypi.org/project/nltk/)
 10. [Pandas](https://pypi.org/project/pandas/)
+
+## Contact 
+Author: Kshitij Gupta
+Email: mailguptakshitij@gmail.com
+Date: 25 August 2022
