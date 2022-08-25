@@ -29,6 +29,6 @@ Now, one of the issue with the last method was that sometimes two or more words 
 10. [Pandas](https://pypi.org/project/pandas/)
 
 ## Contact 
-Author: Kshitij Gupta
-Email: mailguptakshitij@gmail.com
-Date: 25 August 2022
+- Author: Kshitij Gupta
+- Email: mailguptakshitij@gmail.com
+- Date: 25 August 2022
