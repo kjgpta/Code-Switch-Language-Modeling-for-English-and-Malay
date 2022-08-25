@@ -16,7 +16,7 @@ We collected all the pairwise POS statistics in the form of POS of left and righ
     Now, one of the issue with the last method was that sometimes two or more words align to same word(in other langauge) and since we were replacing it so, words were repeating, so, to tackle this issue we restricted the addition to only those which have not been previously added and obtain the CS sentence.
 
 ## Packages to be installed 
-1. [h5py]("https://pypi.org/project/h5py/")              :  pip install h5py
+1. [h5py](https://pypi.org/project/h5py/)              :  pip install h5py
 2. typing-extensions :  pip install typing-extensions
 3. wheel             :  pip install wheel
 4. imgaug            :  pip install imgaug==0.2.5
