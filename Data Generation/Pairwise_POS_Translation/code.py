@@ -81,7 +81,7 @@ for i in range(int(df2.index[-1])+1):
 
 
 ''' 
-English POS tags stored are distributed among 12 categories  
+POS tags stored are distributed among 12 categories  
 1. Noun
 2. Pronoun
 3. Verb
