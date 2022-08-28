@@ -79,6 +79,10 @@ mal_eng = dict()
 for i in range(int(df2.index[-1])+1):
     mal_eng[df2.at[i,"POS || POS"]] =  df2.at[i,"Malay to English Conversion Ratio"]
 
+# Alignment results
+results_eng = alignment_en_ms.align(english_text, malay_text, align_layer = 7)
+results_mal = alignment_ms_en.align(malay_text, english_text, align_layer = 7)
+print("Alignment results completed")
 
 ''' 
 POS tags stored are distributed among 12 categories  
@@ -191,7 +195,7 @@ for l in range(n):
     string_mal = malay_text[l]
     sentence_eng = word_tokenize(string_eng)
     resulting_model_eng = nltk.pos_tag(sentence_eng)
-    resulting_alignment_model = alignment_en_ms.align([string_eng], [string_mal], align_layer = 7)
+    resulting_alignment_model = results_eng[l]
     left_splitted = string_eng.split()
     right_splitted = string_mal.split()
     codeswitch_english_sentence = ""
@@ -219,7 +223,7 @@ for l in range(n):
         if rand > threshold:
             left_flag = True
             lst = ""
-            for k in resulting_alignment_model[0]:
+            for k in resulting_alignment_model:
                 if (k[0] == i+1) and not (k[1] in arr):
                     arr.append(k[1])
                     lst += right_splitted[k[1]] + " "
@@ -237,7 +241,7 @@ for l in range(n):
     string_eng = english_text[l]
     string_mal = malay_text[l]
     resulting_model = model.predict(string_mal)
-    resulting_alignment_model = alignment_ms_en.align([string_mal], [string_eng], align_layer = 7)
+    resulting_alignment_model = results_mal[l]
     left_splitted = string_mal.split()
     right_splitted = string_eng.split()
     codeswitch_malay_sentence = ""
@@ -265,7 +269,7 @@ for l in range(n):
         if rand > threshold:
             left_flag = False
             lst = ""
-            for k in resulting_alignment_model[0]:
+            for k in resulting_alignment_model:
                 if (k[0] == i+1) and not (k[1] in arr):
                     arr.append(k[1])
                     lst += right_splitted[k[1]] + " "
