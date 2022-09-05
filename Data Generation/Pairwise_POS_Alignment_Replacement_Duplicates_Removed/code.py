@@ -219,6 +219,7 @@ for l in range(n):
                 threshold = mal_eng[tag]
             else:
                 threshold = 0
+        threshold = 100-threshold
         rand = randint(0, 100)
         if rand > threshold:
             left_flag = True
@@ -265,6 +266,7 @@ for l in range(n):
                 threshold = mal_eng[tag]
             else:
                 threshold = 0
+        threshold = 100-threshold
         rand = randint(0, 100)
         if rand > threshold:
             left_flag = False
