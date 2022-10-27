@@ -11,6 +11,60 @@ with open('English.txt') as f:
     english_text = f.readlines()
 f.close()
 
+def word_analyzer(word, tag):
+    ar = ""
+    tag2= tag
+    if tag == "<malay>":
+        tag2 = "</malay>"
+    if tag == "(":
+        tag2 = ")"
+    if tag == "[":
+        tag2 = "]"
+    if tag == "<":
+        tag2 = ">"
+    if tag == "{":
+        tag2 = "}"
+    n = len(tag)
+    k = len(tag2)
+    if word.startswith(tag) and word.endswith(tag2):
+            ar = word[n:-k]
+    elif word.startswith(tag):
+            ar = word[n:]
+    elif word.endswith(tag2):
+            ar = word[:-k]
+    return ar
+
+def data_cleanser(string):
+    words = string.split()
+    ar = []
+    sent = ""
+    for word in words:
+        if "_" in word:
+            wrd = ""
+            for j in range(len(word)):
+                if word[j] != "_":
+                    wrd += word[j]
+            word = wrd
+        elif word.startswith("<malay>") or word.endswith("</malay>"):
+            word = word_analyzer(word, "<malay>")
+        elif word.startswith("(") or word.endswith(")"):
+            word = word_analyzer(word, "(")
+        elif word.startswith("[") or word.endswith("]"):
+            word = word_analyzer(word, "[")
+        elif word.startswith("<") or word.endswith(">"):
+            word = word_analyzer(word, "<")
+        elif word.startswith("{") or word.endswith("}"):
+            word = word_analyzer(word, "{")
+        elif word.startswith("!") or word.endswith("!"):
+            word = word_analyzer(word, "!")
+        elif word.startswith("#") or word.endswith("#"):
+            word = word_analyzer(word, "#")
+        elif word.endswith("~"):
+            word = word[:-1]
+        ar.append(word)
+    return " ".join(ar)
+        
+
 def text_normalize(string):
     for k in list("!#$%&()*+-.:,;<=>@[]^_`{|}~"):
         string = string.replace(k,"")
@@ -64,7 +118,7 @@ def text_normalize(string):
 
 english_data = ""
 for i in range(len(english_text)):
-    english_data += text_normalize(english_text[i]) + "\n"
+    english_data += text_normalize(data_cleanser(english_text[i])) + "\n"
 
 f1 = open("English_Normalized.txt", "w")
 f1.write(english_data)
