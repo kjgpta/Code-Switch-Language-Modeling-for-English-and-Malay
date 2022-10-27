@@ -1,5 +1,5 @@
 # Normalizing and Translate English Data
-IMDA consists of data with several tags like <v-noise>, <unk>, etc. So, if we directly input this data into a translator, translation produced is incorrect. 
+IMDA consists of data with several tags. So, if we directly input this data into a translator, translation produced is incorrect. 
 ## Problems with English Data
 - Numbers present in sentence in the text form, when using our technique converts one number into malay and not other.
 Ex. 
