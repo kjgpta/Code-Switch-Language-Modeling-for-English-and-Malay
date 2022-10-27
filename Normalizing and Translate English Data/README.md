@@ -12,7 +12,7 @@ This "eight" is a problem because in these kind of context people usually use on
 We need to normalize this data and then translate the english text to malay text for further use.
 
 ## Libraries
-### text2digits
+### text2digits:
     Library for Converting the number in text form to numeral form
 ### contractions:
     Library for expanding the short forms
@@ -20,6 +20,6 @@ We need to normalize this data and then translate the english text to malay text
     Library using Google translate to convert English text to Malay
 
 ## Installations
-pip install text2digits
-pip install contractions
-pip install deep-translator
+- pip install text2digits
+- pip install contractions
+- pip install deep-translator
