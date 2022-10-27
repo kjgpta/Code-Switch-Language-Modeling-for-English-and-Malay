@@ -10,3 +10,16 @@ This "eight" is a problem because in these kind of context people usually use on
 - When using Alignment tool, short forms like don't, you're, etc, these produce incorrect alignments.
 
 We need to normalize this data and then translate the english text to malay text for further use.
+
+## Libraries
+### text2digits
+    Library for Converting the number in text form to numeral form
+### contractions:
+    Library for expanding the short forms
+### deep-translator:
+    Library using Google translate to convert English text to Malay
+
+## Installations
+pip install text2digits
+pip install contractions
+pip install deep-translator
