@@ -1,0 +1,2358 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3600 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "channel1_S1" 
+        xmin = 0 
+        xmax = 3600 
+        intervals: size = 586 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.85 
+            text = "<Z>" 
+        intervals [2]:
+            xmin = 2.85 
+            xmax = 3.59 
+            text = "(ppc)" 
+        intervals [3]:
+            xmin = 3.59 
+            xmax = 4.9 
+            text = "<Z>" 
+        intervals [4]:
+            xmin = 4.9 
+            xmax = 6.29 
+            text = "okay I'm in" 
+        intervals [5]:
+            xmin = 6.29 
+            xmax = 7.37 
+            text = "<Z>" 
+        intervals [6]:
+            xmin = 7.37 
+            xmax = 10.32 
+            text = "next week <malay>kau</malay> start <malay>ni</malay> [kan] <malay>apa</malay> [ah] volunteer [eh]" 
+        intervals [7]:
+            xmin = 10.32 
+            xmax = 10.98 
+            text = "<Z>" 
+        intervals [8]:
+            xmin = 10.98 
+            xmax = 10.99 
+            text = "<Z>" 
+        intervals [9]:
+            xmin = 10.99 
+            xmax = 18.0476 
+            text = "<Z>" 
+        intervals [10]:
+            xmin = 18.0476 
+            xmax = 19.14403 
+            text = "<malay>habis</malay>" 
+        intervals [11]:
+            xmin = 19.14403 
+            xmax = 27.24184 
+            text = "<Z>" 
+        intervals [12]:
+            xmin = 27.24184 
+            xmax = 30.3 
+            text = "<Z>" 
+        intervals [13]:
+            xmin = 30.3 
+            xmax = 30.89 
+            text = "<Z>" 
+        intervals [14]:
+            xmin = 30.89 
+            xmax = 39.09 
+            text = "<Z>" 
+        intervals [15]:
+            xmin = 39.09 
+            xmax = 39.74 
+            text = "<Z>" 
+        intervals [16]:
+            xmin = 39.74 
+            xmax = 48.39 
+            text = "<Z>" 
+        intervals [17]:
+            xmin = 48.39 
+            xmax = 49.59 
+            text = "<Z>" 
+        intervals [18]:
+            xmin = 49.59 
+            xmax = 51.52585 
+            text = "<malay>kat mana ni kau pergi</malay> where is it" 
+        intervals [19]:
+            xmin = 51.52585 
+            xmax = 56.29371 
+            text = "<Z>" 
+        intervals [20]:
+            xmin = 56.29371 
+            xmax = 57.06405 
+            text = "ya" 
+        intervals [21]:
+            xmin = 57.06405 
+            xmax = 57.72236 
+            text = "<Z>" 
+        intervals [22]:
+            xmin = 57.72236 
+            xmax = 71.7851 
+            text = "<Z>" 
+        intervals [23]:
+            xmin = 71.7851 
+            xmax = 73.23661 
+            text = "ya" 
+        intervals [24]:
+            xmin = 73.23661 
+            xmax = 75.84932 
+            text = "<Z>" 
+        intervals [25]:
+            xmin = 75.84932 
+            xmax = 77.18684 
+            text = "ya ya" 
+        intervals [26]:
+            xmin = 77.18684 
+            xmax = 81.05245 
+            text = "<Z>" 
+        intervals [27]:
+            xmin = 81.05245 
+            xmax = 85.32857 
+            text = "orientation online <malay>macam mana</malay> what like what a lot of you meet <malay>macam gitu</malay>" 
+        intervals [28]:
+            xmin = 85.32857 
+            xmax = 87.28106 
+            text = "<Z>" 
+        intervals [29]:
+            xmin = 87.28106 
+            xmax = 88.82051 
+            text = "how many people" 
+        intervals [30]:
+            xmin = 88.82051 
+            xmax = 93.5 
+            text = "<Z>" 
+        intervals [31]:
+            xmin = 93.5 
+            xmax = 95.72304 
+            text = "!wow!" 
+        intervals [32]:
+            xmin = 95.72304 
+            xmax = 127.29 
+            text = "<Z>" 
+        intervals [33]:
+            xmin = 127.29 
+            xmax = 128.18 
+            text = "<Z>" 
+        intervals [34]:
+            xmin = 128.18 
+            xmax = 130.39 
+            text = "<Z>" 
+        intervals [35]:
+            xmin = 130.39 
+            xmax = 133.52477 
+            text = "(mmhmm)" 
+        intervals [36]:
+            xmin = 133.52477 
+            xmax = 143.01 
+            text = "<Z>" 
+        intervals [37]:
+            xmin = 143.01 
+            xmax = 153.21195 
+            text = "<Z>" 
+        intervals [38]:
+            xmin = 153.21195 
+            xmax = 154.41818 
+            text = "ya ya" 
+        intervals [39]:
+            xmin = 154.41818 
+            xmax = 159.69357 
+            text = "<Z>" 
+        intervals [40]:
+            xmin = 159.69357 
+            xmax = 161.23837 
+            text = "ya" 
+        intervals [41]:
+            xmin = 161.23837 
+            xmax = 161.60502 
+            text = "<Z>" 
+        intervals [42]:
+            xmin = 161.60502 
+            xmax = 162.138 
+            text = "(mmhmm)" 
+        intervals [43]:
+            xmin = 162.138 
+            xmax = 171.52334 
+            text = "<Z>" 
+        intervals [44]:
+            xmin = 171.52334 
+            xmax = 173.00097 
+            text = "I think" 
+        intervals [45]:
+            xmin = 173.00097 
+            xmax = 175.0831 
+            text = "<Z>" 
+        intervals [46]:
+            xmin = 175.0831 
+            xmax = 177.16522 
+            text = "they are" 
+        intervals [47]:
+            xmin = 177.16522 
+            xmax = 178.91152 
+            text = "ya" 
+        intervals [48]:
+            xmin = 178.91152 
+            xmax = 181.49 
+            text = "<Z>" 
+        intervals [49]:
+            xmin = 181.49 
+            xmax = 185.33 
+            text = "<Z>" 
+        intervals [50]:
+            xmin = 185.33 
+            xmax = 185.96 
+            text = "<Z>" 
+        intervals [51]:
+            xmin = 185.96 
+            xmax = 186.82648 
+            text = "ya" 
+        intervals [52]:
+            xmin = 186.82648 
+            xmax = 188.33625 
+            text = "<Z>" 
+        intervals [53]:
+            xmin = 188.33625 
+            xmax = 191.51639 
+            text = "ya it's not basically is minuscule" 
+        intervals [54]:
+            xmin = 191.51639 
+            xmax = 192.96191 
+            text = "<Z>" 
+        intervals [55]:
+            xmin = 192.96191 
+            xmax = 194.31106 
+            text = "I don't know" 
+        intervals [56]:
+            xmin = 194.31106 
+            xmax = 195.41948 
+            text = "<Z>" 
+        intervals [57]:
+            xmin = 195.41948 
+            xmax = 202.18 
+            text = "<Z>" 
+        intervals [58]:
+            xmin = 202.18 
+            xmax = 203.19 
+            text = "<Z>" 
+        intervals [59]:
+            xmin = 203.19 
+            xmax = 203.95 
+            text = "that's good man" 
+        intervals [60]:
+            xmin = 203.95 
+            xmax = 206.52 
+            text = "<Z>" 
+        intervals [61]:
+            xmin = 206.52 
+            xmax = 206.97 
+            text = "that's good" 
+        intervals [62]:
+            xmin = 206.97 
+            xmax = 207.66 
+            text = "<Z>" 
+        intervals [63]:
+            xmin = 207.66 
+            xmax = 208.43 
+            text = "<Z>" 
+        intervals [64]:
+            xmin = 208.43 
+            xmax = 209.02 
+            text = "<Z>" 
+        intervals [65]:
+            xmin = 209.02 
+            xmax = 210.14 
+            text = "ya I think so" 
+        intervals [66]:
+            xmin = 210.14 
+            xmax = 211.86 
+            text = "<Z>" 
+        intervals [67]:
+            xmin = 211.86 
+            xmax = 213.11 
+            text = "so what next week starts [ah]" 
+        intervals [68]:
+            xmin = 213.11 
+            xmax = 213.7 
+            text = "<Z>" 
+        intervals [69]:
+            xmin = 213.7 
+            xmax = 214.0474 
+            text = "<Z>" 
+        intervals [70]:
+            xmin = 214.0474 
+            xmax = 214.66454 
+            text = "no" 
+        intervals [71]:
+            xmin = 214.66454 
+            xmax = 218.24955 
+            text = "<Z>" 
+        intervals [72]:
+            xmin = 218.24955 
+            xmax = 219.0205 
+            text = "(mm)" 
+        intervals [73]:
+            xmin = 219.0205 
+            xmax = 227.59725 
+            text = "<Z>" 
+        intervals [74]:
+            xmin = 227.59725 
+            xmax = 229.58886 
+            text = "ya ya ya ya" 
+        intervals [75]:
+            xmin = 229.58886 
+            xmax = 234.99 
+            text = "<Z>" 
+        intervals [76]:
+            xmin = 234.99 
+            xmax = 239.25925 
+            text = "<Z>" 
+        intervals [77]:
+            xmin = 239.25925 
+            xmax = 248.86393 
+            text = "ya [lah] this kind of volunteering <malay>betul betul betul betul betul</malay> I'm sure you can find something that you can do best you know <malay>macam</malay> that will fit you <malay>punya</malay>" 
+        intervals [78]:
+            xmin = 248.86393 
+            xmax = 249.58 
+            text = "<Z>" 
+        intervals [79]:
+            xmin = 249.58 
+            xmax = 253.01756 
+            text = "(uh) your skills your skill set and your experience [kan]" 
+        intervals [80]:
+            xmin = 253.01756 
+            xmax = 256.029 
+            text = "<Z>" 
+        intervals [81]:
+            xmin = 256.029 
+            xmax = 257.32186 
+            text = "ya" 
+        intervals [82]:
+            xmin = 257.32186 
+            xmax = 263.31212 
+            text = "<Z>" 
+        intervals [83]:
+            xmin = 263.31212 
+            xmax = 264.94974 
+            text = "the phase three ya" 
+        intervals [84]:
+            xmin = 264.94974 
+            xmax = 268.53 
+            text = "<Z>" 
+        intervals [85]:
+            xmin = 268.53 
+            xmax = 272.96548 
+            text = "chinese new year I think (uh) end jan <malay>apa</malay>" 
+        intervals [86]:
+            xmin = 272.96548 
+            xmax = 274.89232 
+            text = "<Z>" 
+        intervals [87]:
+            xmin = 274.89232 
+            xmax = 276.48685 
+            text = "should be end jan" 
+        intervals [88]:
+            xmin = 276.48685 
+            xmax = 277.61 
+            text = "<Z>" 
+        intervals [89]:
+            xmin = 277.61 
+            xmax = 280.92099 
+            text = "<malay>selalunya</malay> (ppo) <malay>selalunya</malay> [kan] end jan" 
+        intervals [90]:
+            xmin = 280.92099 
+            xmax = 290.98936 
+            text = "<Z>" 
+        intervals [91]:
+            xmin = 290.98936 
+            xmax = 291.49113 
+            text = "[ah]" 
+        intervals [92]:
+            xmin = 291.49113 
+            xmax = 297.12916 
+            text = "<Z>" 
+        intervals [93]:
+            xmin = 297.12916 
+            xmax = 300.21246 
+            text = "you mean this this christmas coming now" 
+        intervals [94]:
+            xmin = 300.21246 
+            xmax = 302.04638 
+            text = "<Z>" 
+        intervals [95]:
+            xmin = 302.04638 
+            xmax = 303.02602 
+            text = "okay" 
+        intervals [96]:
+            xmin = 303.02602 
+            xmax = 309.76916 
+            text = "<Z>" 
+        intervals [97]:
+            xmin = 309.76916 
+            xmax = 310.96385 
+            text = "ya (uh)" 
+        intervals [98]:
+            xmin = 310.96385 
+            xmax = 312.14 
+            text = "<Z>" 
+        intervals [99]:
+            xmin = 312.14 
+            xmax = 312.97502 
+            text = "<Z>" 
+        intervals [100]:
+            xmin = 312.97502 
+            xmax = 313.69184 
+            text = "okay" 
+        intervals [101]:
+            xmin = 313.69184 
+            xmax = 318.78681 
+            text = "<Z>" 
+        intervals [102]:
+            xmin = 318.78681 
+            xmax = 319.47157 
+            text = "ya" 
+        intervals [103]:
+            xmin = 319.47157 
+            xmax = 319.47552 
+            text = "<Z>" 
+        intervals [104]:
+            xmin = 319.47552 
+            xmax = 333.28417 
+            text = "<Z>" 
+        intervals [105]:
+            xmin = 333.28417 
+            xmax = 334.02599 
+            text = "ya" 
+        intervals [106]:
+            xmin = 334.02599 
+            xmax = 338.15282 
+            text = "<Z>" 
+        intervals [107]:
+            xmin = 338.15282 
+            xmax = 339.86509 
+            text = "ya ya ya" 
+        intervals [108]:
+            xmin = 339.86509 
+            xmax = 347.26818 
+            text = "<Z>" 
+        intervals [109]:
+            xmin = 347.26818 
+            xmax = 348.69633 
+            text = "(mm)" 
+        intervals [110]:
+            xmin = 348.69633 
+            xmax = 354.72513 
+            text = "<Z>" 
+        intervals [111]:
+            xmin = 354.72513 
+            xmax = 355.95761 
+            text = "(mm)" 
+        intervals [112]:
+            xmin = 355.95761 
+            xmax = 359.31 
+            text = "<Z>" 
+        intervals [113]:
+            xmin = 359.31 
+            xmax = 359.91 
+            text = "<Z>" 
+        intervals [114]:
+            xmin = 359.91 
+            xmax = 369.33 
+            text = "<Z>" 
+        intervals [115]:
+            xmin = 369.33 
+            xmax = 370.5 
+            text = "<Z>" 
+        intervals [116]:
+            xmin = 370.5 
+            xmax = 375.82 
+            text = "<Z>" 
+        intervals [117]:
+            xmin = 375.82 
+            xmax = 377.21 
+            text = "<Z>" 
+        intervals [118]:
+            xmin = 377.21 
+            xmax = 389.98 
+            text = "<malay>entah</malay> copywriting ya exactly maybe they should they will definitely make you guys to <malay>macam</malay> go on the ground isn't it <malay>macam</malay> distribute stuff no [ah] <malay>kau tak penat ke</malay> but they might ask you to do that no like be on the ground" 
+        intervals [119]:
+            xmin = 389.98 
+            xmax = 390.59796 
+            text = "<Z>" 
+        intervals [120]:
+            xmin = 390.59796 
+            xmax = 392.00419 
+            text = "would you be able to do that" 
+        intervals [121]:
+            xmin = 392.00419 
+            xmax = 393.16213 
+            text = "<Z>" 
+        intervals [122]:
+            xmin = 393.16213 
+            xmax = 394.24743 
+            text = "<malay>mana aku tahu</malay>" 
+        intervals [123]:
+            xmin = 394.24743 
+            xmax = 394.64275 
+            text = "<Z>" 
+        intervals [124]:
+            xmin = 394.64275 
+            xmax = 397.34712 
+            text = "<malay>penat ke apa engkau ke</malay> you know like you got to" 
+        intervals [125]:
+            xmin = 397.34712 
+            xmax = 397.95808 
+            text = "<Z>" 
+        intervals [126]:
+            xmin = 397.95808 
+            xmax = 405.45844 
+            text = "how the hell would I know <malay>abeh macam</malay> you have to go on the ground like what if they ask you to like okay you go to the homes and distribute stuff" 
+        intervals [127]:
+            xmin = 405.45844 
+            xmax = 413.97526 
+            text = "<Z>" 
+        intervals [128]:
+            xmin = 413.97526 
+            xmax = 416.29961 
+            text = "<malay>kau nak buat macam gitu tak boleh</malay>" 
+        intervals [129]:
+            xmin = 416.29961 
+            xmax = 417.82763 
+            text = "<Z>" 
+        intervals [130]:
+            xmin = 417.82763 
+            xmax = 418.95702 
+            text = "ya" 
+        intervals [131]:
+            xmin = 418.95702 
+            xmax = 424.01242 
+            text = "<Z>" 
+        intervals [132]:
+            xmin = 424.01242 
+            xmax = 425.89475 
+            text = "different things to do [ah]" 
+        intervals [133]:
+            xmin = 425.89475 
+            xmax = 436.06965 
+            text = "<Z>" 
+        intervals [134]:
+            xmin = 436.06965 
+            xmax = 437.84441 
+            text = "ya" 
+        intervals [135]:
+            xmin = 437.84441 
+            xmax = 441.60907 
+            text = "<Z>" 
+        intervals [136]:
+            xmin = 441.60907 
+            xmax = 442.63091 
+            text = "too tired" 
+        intervals [137]:
+            xmin = 442.63091 
+            xmax = 446.93337 
+            text = "<Z>" 
+        intervals [138]:
+            xmin = 446.93337 
+            xmax = 448.33167 
+            text = "<malay>betul betul</malay>" 
+        intervals [139]:
+            xmin = 448.33167 
+            xmax = 457.08923 
+            text = "<Z>" 
+        intervals [140]:
+            xmin = 457.08923 
+            xmax = 458.21862 
+            text = "[eh]" 
+        intervals [141]:
+            xmin = 458.21862 
+            xmax = 459.21212 
+            text = "<Z>" 
+        intervals [142]:
+            xmin = 459.21212 
+            xmax = 460.86638 
+            text = "feed her feed her" 
+        intervals [143]:
+            xmin = 460.86638 
+            xmax = 462.46 
+            text = "<Z>" 
+        intervals [144]:
+            xmin = 462.46 
+            xmax = 463.25 
+            text = "<Z>" 
+        intervals [145]:
+            xmin = 463.25 
+            xmax = 466.54 
+            text = "<Z>" 
+        intervals [146]:
+            xmin = 466.54 
+            xmax = 471.4 
+            text = "<Z>" 
+        intervals [147]:
+            xmin = 471.4 
+            xmax = 472.87566 
+            text = "<Z>" 
+        intervals [148]:
+            xmin = 472.87566 
+            xmax = 473.86118 
+            text = "(mm)" 
+        intervals [149]:
+            xmin = 473.86118 
+            xmax = 480.8 
+            text = "<Z>" 
+        intervals [150]:
+            xmin = 480.8 
+            xmax = 487.61265 
+            text = "<Z>" 
+        intervals [151]:
+            xmin = 487.61265 
+            xmax = 489.05669 
+            text = "(mm)" 
+        intervals [152]:
+            xmin = 489.05669 
+            xmax = 491.84 
+            text = "<Z>" 
+        intervals [153]:
+            xmin = 491.84 
+            xmax = 492.93 
+            text = "<Z>" 
+        intervals [154]:
+            xmin = 492.93 
+            xmax = 493.64 
+            text = "<Z>" 
+        intervals [155]:
+            xmin = 493.64 
+            xmax = 494.71 
+            text = "<Z>" 
+        intervals [156]:
+            xmin = 494.71 
+            xmax = 504.7 
+            text = "that's good ya they would have they would have a lot of drives volunteer drives because I'm I'm sure I'm sure some volunteers don't stay here I mean you know" 
+        intervals [157]:
+            xmin = 504.7 
+            xmax = 505.13 
+            text = "<Z>" 
+        intervals [158]:
+            xmin = 505.13 
+            xmax = 505.29127 
+            text = "<Z>" 
+        intervals [159]:
+            xmin = 505.29127 
+            xmax = 506.10477 
+            text = "[kan]" 
+        intervals [160]:
+            xmin = 506.10477 
+            xmax = 508.67626 
+            text = "<Z>" 
+        intervals [161]:
+            xmin = 508.67626 
+            xmax = 518.63 
+            text = "ya ya ya the S_P_C_A also has lots of volunteer drives because ya one of it is the volunteers they don't stay for too long" 
+        intervals [162]:
+            xmin = 518.63 
+            xmax = 519.51 
+            text = "<Z>" 
+        intervals [163]:
+            xmin = 519.51 
+            xmax = 522.62 
+            text = "so they always of course they always need to have volunteer drives" 
+        intervals [164]:
+            xmin = 522.62 
+            xmax = 524.48 
+            text = "<Z>" 
+        intervals [165]:
+            xmin = 524.48 
+            xmax = 525.47 
+            text = "<Z>" 
+        intervals [166]:
+            xmin = 525.47 
+            xmax = 537.75 
+            text = "S_P_C_A ya they volunteer because I'm I'm one of the (uh) volunteers right so <malay>aku</malay> my my my volunteering with them is really fostering [ah] so I'm a rather than you know (uh)" 
+        intervals [167]:
+            xmin = 537.75 
+            xmax = 538.4 
+            text = "(ppb)" 
+        intervals [168]:
+            xmin = 538.4 
+            xmax = 541.24 
+            text = "I mean anyway they have different volunteers" 
+        intervals [169]:
+            xmin = 541.24 
+            xmax = 541.94 
+            text = "<Z>" 
+        intervals [170]:
+            xmin = 541.94 
+            xmax = 548.72 
+            text = "so you can some of them are dog walkers which is very popular because you get to chill with the dogs" 
+        intervals [171]:
+            xmin = 548.72 
+            xmax = 549.49 
+            text = "<Z>" 
+        intervals [172]:
+            xmin = 549.49 
+            xmax = 551.81 
+            text = "(err) and then" 
+        intervals [173]:
+            xmin = 551.81 
+            xmax = 552.82 
+            text = "<Z>" 
+        intervals [174]:
+            xmin = 552.82 
+            xmax = 582.56 
+            text = "it's a shelter S_P_C_A the dogs are in S_P_C_A [kan] S_P_C_A [kan] is a shelter it's over at west we're actually quite close to S_P_C_A what <malay>tengah</malay> ya <malay>tengah</malay> ya we are very close it's it's just next to #choa chu kang# ya like we're very close to S_P_C_A so they have people they have volunteers at the shelter itself so that means the volunteers must go to the shelter (uh) that involves dog walking" 
+        intervals [175]:
+            xmin = 582.56 
+            xmax = 583.14 
+            text = "<Z>" 
+        intervals [176]:
+            xmin = 583.14 
+            xmax = 617.34 
+            text = "(err) cleaning really literally like cleaning the you know the poo poo ya ya and then (uh) there are volunteers such as ambassadors such as what I mean like <malay>macam</malay> they have events they have events like okay then there is an event here at this (uh) (uh) at this (uh) C_B_D area at one raffles place so they have like a booth or two booths you know and then they need somebody to to to to to man the merchandise table and another one is to <malay>macam</malay> (ppo)" 
+        intervals [177]:
+            xmin = 617.34 
+            xmax = 618.37 
+            text = "<Z>" 
+        intervals [178]:
+            xmin = 618.37 
+            xmax = 647.5 
+            text = "(uh) <malay>macam orang lalu-lalang</malay> [kan] then you <malay>macam</malay> talk about the awareness <malay>gitu</malay> [lah] which I wouldn't mind doing actually (uh) <malay>tapi sekarang</malay> (uh) we don't get enough as a volunteer I don't get the notifications anymore because I think they stopped that [lah] for being like you said [lah] because of the COVID ya so they're not so you know they can't go out in the open anymore for now" 
+        intervals [179]:
+            xmin = 647.5 
+            xmax = 648.07 
+            text = "<Z>" 
+        intervals [180]:
+            xmin = 648.07 
+            xmax = 668.47948 
+            text = "dog walker <malay>boleh</malay> [lah] <malay>cuma</malay> only you and the dogs <malay>tapi macam</malay> public all this awareness sort of stuff (uh) no not so much now I think later they will probably do it I used to get (uh) emails <malay>pasal</malay> unit unit ambassadors and all that <malay>tapi</malay> now no more" 
+        intervals [181]:
+            xmin = 668.47948 
+            xmax = 669.47147 
+            text = "<Z>" 
+        intervals [182]:
+            xmin = 669.47147 
+            xmax = 706.63804 
+            text = "ambassadors <malay>macam</malay> you you you <malay>macam</malay> you at the booth and you wear S_P_C_A <malay>punya</malay> t-shirt (uh) you're next to the merchandise <malay>punya</malay> table sell the merchandise and then of course the donations <malay>punya</malay> (uh) <malay>apa ni</malay> (uh) tin <malay>tu</malay> [kan] and then then you talk to people about okay this is what we do (uh) this is what we do as an S_P_C_A and these are the cases <malay>macam gitu</malay> awareness of (uh) what S_P_C_A does and how they can help [oh] they also have social (uh) pre-corporate social responsibility <malay>punya</malay> programs companies C_S_R <malay>punya tu</malay>" 
+        intervals [183]:
+            xmin = 706.63804 
+            xmax = 717.28213 
+            text = "so then you can do that (uh) they can say [oh] we need we need volunteers for to do the ambassador part and all that ya so of course they have different volunteer <malay>ada</malay> volunteer <malay>macam</malay> photography" 
+        intervals [184]:
+            xmin = 717.28213 
+            xmax = 718.95 
+            text = "<Z>" 
+        intervals [185]:
+            xmin = 718.95 
+            xmax = 719.13311 
+            text = "<Z>" 
+        intervals [186]:
+            xmin = 719.13311 
+            xmax = 743.33 
+            text = "<malay>macam</malay> to be a volunteer photographer to take pictures of their animals for their adoption drive for their website ya you know all the <malay>gambar-gambar</malay> for the calendars so regular they need (uh) you know volunteers photography web design web designer of course fosterers a lot [lah] I'm one of them" 
+        intervals [187]:
+            xmin = 743.33 
+            xmax = 745.90861 
+            text = "<Z>" 
+        intervals [188]:
+            xmin = 745.90861 
+            xmax = 747.3785 
+            text = "<malay>anjing kucing</malay>" 
+        intervals [189]:
+            xmin = 747.3785 
+            xmax = 749.71944 
+            text = "<Z>" 
+        intervals [190]:
+            xmin = 749.71944 
+            xmax = 755.57553 
+            text = "which I'm fostering for <malay>kucing</malay> I volunteer to be a foster for critical care" 
+        intervals [191]:
+            xmin = 755.57553 
+            xmax = 766.89647 
+            text = "critical care means for newborns newborns newborn kittens newborn kittens so they call me but you can always say okay I I volunteer" 
+        intervals [192]:
+            xmin = 766.89647 
+            xmax = 774.44238 
+            text = "fosterer for puppies <malay>macam gitu</malay> so when they have cases then they contact you say okay #wati# we have this then" 
+        intervals [193]:
+            xmin = 774.44238 
+            xmax = 778.2 
+            text = "ya no [lah] fosterer no" 
+        intervals [194]:
+            xmin = 778.2 
+            xmax = 778.56373 
+            text = "<Z>" 
+        intervals [195]:
+            xmin = 778.56373 
+            xmax = 779.18031 
+            text = "what" 
+        intervals [196]:
+            xmin = 779.18031 
+            xmax = 789.24737 
+            text = "<Z>" 
+        intervals [197]:
+            xmin = 789.24737 
+            xmax = 791.94822 
+            text = "ya (uh) yes" 
+        intervals [198]:
+            xmin = 791.94822 
+            xmax = 802.52619 
+            text = "but I can if I volunteer okay for example if I volunteer for the kittens right so I pay for the food and all that medical I can go to their clinic" 
+        intervals [199]:
+            xmin = 802.52619 
+            xmax = 804.39736 
+            text = "<Z>" 
+        intervals [200]:
+            xmin = 804.39736 
+            xmax = 817.21 
+            text = "S_P_C_A has a clinic ya they have a one of the very few I think if I'm not mistaken they might be the only animal shelter with a clinic [ah] they their clinic is relatively new some more" 
+        intervals [201]:
+            xmin = 817.21 
+            xmax = 834.50049 
+            text = "so I it's should because I'm fostering for them so let's just say [oh] the kitten is sick so I call the clinic and say [eh] your kitten I fostering for you you know it has flu then they say okay come by so I make an appointment and I go to the clinic and then they treat and then they I don't pay [lor]" 
+        intervals [202]:
+            xmin = 834.50049 
+            xmax = 849.18659 
+            text = "because it's their fosterer it's their foster kitten I'm just taking care so I don't pay for the (uh) but I must go to their clinic okay so if I decide to go to my own clinic outside which I have done before then I cannot waive cannot claim or anything like that" 
+        intervals [203]:
+            xmin = 849.18659 
+            xmax = 853.52106 
+            text = "<Z>" 
+        intervals [204]:
+            xmin = 853.52106 
+            xmax = 855.70091 
+            text = "S_P_C_A is run by" 
+        intervals [205]:
+            xmin = 855.70091 
+            xmax = 857.82555 
+            text = "<Z>" 
+        intervals [206]:
+            xmin = 857.82555 
+            xmax = 862.64906 
+            text = "donations they are run they run on donations" 
+        intervals [207]:
+            xmin = 862.64906 
+            xmax = 863.37788 
+            text = "<Z>" 
+        intervals [208]:
+            xmin = 863.37788 
+            xmax = 865.76092 
+            text = "ya yes" 
+        intervals [209]:
+            xmin = 865.76092 
+            xmax = 866.67968 
+            text = "<Z>" 
+        intervals [210]:
+            xmin = 866.67968 
+            xmax = 868.63205 
+            text = "exactly <malay>kesian</malay> [kan]" 
+        intervals [211]:
+            xmin = 868.63205 
+            xmax = 868.99 
+            text = "<Z>" 
+        intervals [212]:
+            xmin = 868.99 
+            xmax = 878.23159 
+            text = "<Z>" 
+        intervals [213]:
+            xmin = 878.23159 
+            xmax = 879.57807 
+            text = "(ppb)" 
+        intervals [214]:
+            xmin = 879.57807 
+            xmax = 879.76817 
+            text = "<Z>" 
+        intervals [215]:
+            xmin = 879.76817 
+            xmax = 894.17 
+            text = "you know [lah] S_P_C_A [kan] international [kan] S_P_C_A [kan] <malay>nama</malay> international <malay>punya</malay> brand [kan] so <malay>orang pun ada</malay> [lah] you know <malay>macam kasih</malay> donation <malay>gitu ada</malay> [lah] I think I guess they do have you know (uh)" 
+        intervals [216]:
+            xmin = 894.17 
+            xmax = 904.78579 
+            text = "people who recognise them and and and and donate sizable you know maybe companies or so I guess I don't know how well funded they are but they probably aren't so bad you know" 
+        intervals [217]:
+            xmin = 904.78579 
+            xmax = 916.67527 
+            text = "(uh) but at the end of the day they still run on donations only which is quite sad (uh) <malay>kita punya</malay> G O V <malay>takde kasih apa-apa</malay>" 
+        intervals [218]:
+            xmin = 916.67527 
+            xmax = 918.34492 
+            text = "government" 
+        intervals [219]:
+            xmin = 918.34492 
+            xmax = 920.47066 
+            text = "[ah] G O V" 
+        intervals [220]:
+            xmin = 920.47066 
+            xmax = 927.07162 
+            text = "<Z>" 
+        intervals [221]:
+            xmin = 927.07162 
+            xmax = 934.35417 
+            text = "<malay>dia orang</malay> [eh] <malay>ini binatang-binatang kita orang</malay> [tau] <malay>daripada negeri ini mesti</malay> [lah] <malay>jaga sikit</malay>" 
+        intervals [222]:
+            xmin = 934.35417 
+            xmax = 938.89719 
+            text = "[ah] that is the <malay>masalahnya tu</malay>" 
+        intervals [223]:
+            xmin = 938.89719 
+            xmax = 944.95 
+            text = "<Z>" 
+        intervals [224]:
+            xmin = 944.95 
+            xmax = 947.50352 
+            text = "but that is the problem" 
+        intervals [225]:
+            xmin = 947.50352 
+            xmax = 957.04533 
+            text = "<Z>" 
+        intervals [226]:
+            xmin = 957.04533 
+            xmax = 960.61762 
+            text = "no that's rubbish [lah] cannot be" 
+        intervals [227]:
+            xmin = 960.61762 
+            xmax = 982.25185 
+            text = "[oh] I think must there has to be some (uh) <malay>apa ni</malay> (uh) <malay>macam</malay> caretaking of all in~ res~ or all inhabitants but of course we're certainly the portion is not [lah] <malay>macam</malay> of course the priority is to be citizens in a way as in proportionate you know but" 
+        intervals [228]:
+            xmin = 982.25185 
+            xmax = 989.91 
+            text = "these dogs are still inhabitants of this country otherwise where are they going to go they have to be taken care of" 
+        intervals [229]:
+            xmin = 989.91 
+            xmax = 998.22592 
+            text = "(ppb) in a humane way [lah] you know [ah] in fact I was just talking about it to (uh) to my grab driver over here" 
+        intervals [230]:
+            xmin = 998.22592 
+            xmax = 1001.93407 
+            text = "you know like all these developments that we are doing [kan]" 
+        intervals [231]:
+            xmin = 1001.93407 
+            xmax = 1014.66478 
+            text = "development you know all the new new condos new property development sorry the H_D_B is building up and they are raising and they are just flattening all the lands and the jungles" 
+        intervals [232]:
+            xmin = 1014.66478 
+            xmax = 1096.36116 
+            text = "areas not all these wooded areas you know these these areas #bukit batok# [lah] <malay>banyak banyak macam</malay> jungle jungle <malay>apa</malay> they are clearing all the forests and the stray dogs are coming out you don't know #bukit batok# has a lot of stray dogs ya and they are the stray dogs are coming out from the jungle areas and where are they going to go they are being pushed out right from other developments where are they going to go then they are going into the (uh) H_D_B estates like now so then of course who is going to get panicky residents residents are going to complain (uh) authorities come in take the dogs and cull them which is very inhumane so ideally what you should happen is if you are going to develop the land which I know you probably should have to but then there has to be contingency plan where you going to drive the animals out <malay></malay> you know is like I feel it is not thought through out you know okay we're going to develop the land we're going to end up pushing the animals that are in there they are going to end up going to hello resident areas so why don't we do something about that two pronged approach" 
+        intervals [233]:
+            xmin = 1096.36116 
+            xmax = 1147.63089 
+            text = "so S_P_C_A and some other animal welfare groups are the ones having to pick up the pieces of these the dogs getting chased out the dogs have no place to go they cannot go back into the jungles they cannot go into a residence into into H_D_B you know heartlands and all that so but who is pushing them out we know who is pushing them out who but who is picking up the pieces animal welfare groups who are running on completely on donations which is like come on you know what I mean [kan] it's like ya I feel that it's it's it's it's it's just rubbish [lah] what is happen there is no collaboration I feel there is no collaboration" 
+        intervals [234]:
+            xmin = 1147.63089 
+            xmax = 1153.01768 
+            text = "<Z>" 
+        intervals [235]:
+            xmin = 1153.01768 
+            xmax = 1156.24569 
+            text = "first kills the dogs" 
+        intervals [236]:
+            xmin = 1156.24569 
+            xmax = 1162.13205 
+            text = "<Z>" 
+        intervals [237]:
+            xmin = 1162.13205 
+            xmax = 1169.15771 
+            text = "<malay>tengah</malay> (mm) (mm) (mm)" 
+        intervals [238]:
+            xmin = 1169.15771 
+            xmax = 1194.03234 
+            text = "<Z>" 
+        intervals [239]:
+            xmin = 1194.03234 
+            xmax = 1204.59302 
+            text = "no they don't both okay" 
+        intervals [240]:
+            xmin = 1204.59302 
+            xmax = 1305.34714 
+            text = "of course they know they know they see it we they see it all the time and dogs are coming out #punggol# #pasir ris# #choa chu kang# but there also but also yes the wild boar of course is in the news and everything how can they not know but are they doing anything no they are not the second part is the second part is they are not this is why we are frustrated we go like why don't you do something help we are not telling you to do it one hundred percent because we are completely we understand that they are completely incompetent but <malay>takde</malay> collaboration <malay>kau faham tak takde</malay> supportive effort at all <malay>macam</malay> okay <malay>kau</malay> okay <malay>kita sekarang kita punya</malay> A_W_G and animal welfare groups okay why don't we support you into doing this you know what I mean <malay>kita nak buat macam gitu macam</malay> okay <malay>kita dia orang</malay> because <malay>dia orang</malay> (uh) A_W_G <malay>yang boleh ambil</malay> I mean they are the ones with the expertise the heart the passion all that but they cannot be run they they cannot do all because they have no space and <malay>duit takde duit</malay> [kan] so <malay>siapa yang ada duit ni yang itu</malay> [kan] government [kan] so at least <malay>macam</malay> okay <malay>kita tolong</malay> collaborate [lah] you know (uh) okay (uh) <malay>kita buat ni</malay> then you all can (uh) <malay>kita boleh kasih kau orang</malay> support <malay>sikit-sikit untuk</malay> blah blah blah you know this is exactly what should happen but it's not happening so <malay>apa yang buat sekarang</malay> is <malay>bila binatang ni keluar yang</malay> #gahmen# #gahmen# <malay>ni semua angkat tangkap bunuh</malay> it's like (ppo) it's an inhumane approach you know what I mean ya <malay>itu yang kita</malay> boring" 
+        intervals [241]:
+            xmin = 1305.34714 
+            xmax = 1313.25538 
+            text = "<Z>" 
+        intervals [242]:
+            xmin = 1313.25538 
+            xmax = 1317.65776 
+            text = "I mean this this this look at" 
+        intervals [243]:
+            xmin = 1317.65776 
+            xmax = 1324.01674 
+            text = "<Z>" 
+        intervals [244]:
+            xmin = 1324.01674 
+            xmax = 1441.28 
+            text = "ya [lah] <malay>tapi</malay> not to this extent not to this extent look at #tengah# now #tengah# <malay>baru</malay> #tengah# is now being developed which means they are they are accelerating and intensifying the de~ development so now the animals are getting pushed out last time the animals are not getting pushed out so much because #tengah# is still around correct #lim chu kang# <malay>sekarang semua nak</malay> development #punggol# <malay>mana ada</malay> #punggol# <malay>dulu dulu mana ada</malay> waterway #punggol# <malay>sekarang dah ada</malay> #punggol# <malay>apa</malay> all the dogs from #punggol# are coming out you can you can literally walk on #punggol# street with the traffic light and there's like a pack of stray dogs <malay>dulu mana ada</malay> because #punggol# was not developed that's why the the problem is highlighting is being highlighted now because !wah! dogs are coming out what how come people people are like how come there are so many dogs because they have been around but just that they have been developing they are getting pushed out they have the dogs have been around in there in the jungles people I know people who go around and feed the dogs at the edges of the forest because the dogs are coming out you know you they know why these people go to feed them at the edges is because they are trying to prevent the dogs from coming into H_D_B estates because it will be that will spell danger for the dogs you know the dogs people are going to complain people are going to complain the the dogs are going to be in danger so but the dogs are hungry so people now the feeders go to the edges to feed them and the dogs are you know they are wild dogs they're feral dogs but they are very smart and they very and they really harmless because all they want is food they're not interested to go down to the to your heartlands and do what whatever you know they just want food so the people the feeders there go to the edges feed them then they go back inside the the jungles they are very sweet you know but" 
+        intervals [245]:
+            xmin = 1441.28 
+            xmax = 1444.74 
+            text = "<Z>" 
+        intervals [246]:
+            xmin = 1444.74 
+            xmax = 1478.12098 
+            text = "right now there are but the numbers declining is is really this that means eventually the dogs are going to go ex~ they're going to be completely out and what we want is you know can you guys collaborate a bit more no not bit more there's no collaboration can you guys collaborate with A_W_G given if you're going to build and develop these places do something right but they're not" 
+        intervals [247]:
+            xmin = 1478.12098 
+            xmax = 1481.82845 
+            text = "the wild boar <malay>pun sama</malay>" 
+        intervals [248]:
+            xmin = 1481.82845 
+            xmax = 1485.41557 
+            text = "<Z>" 
+        intervals [249]:
+            xmin = 1485.41557 
+            xmax = 1542.44 
+            text = "babe wild dogs wild boars and pythons where are they going why why why the pythons are coming out they are all in the drains what why are they coming out you tell me why are they coming out now why are there wild boars coming out now like in #pasir ris# why because #pasir ris# you know all the animal welfare groups the shelters were all there before right they were all there before no #pasir ris# farm way they were all there before the government took the land and they moved them to #tengah# now they are all in #tengah# now the animal welfare groups so they are developing #pasir ris# that's why the wild boars are there now you see them walking around wild boars why because there is a very clear example of this is what happens when you push them out they are going to end up out being visible (uh) to all residents who are going to panic" 
+        intervals [250]:
+            xmin = 1542.44 
+            xmax = 1546.32 
+            text = "<Z>" 
+        intervals [251]:
+            xmin = 1546.32 
+            xmax = 1558.12387 
+            text = "<malay>betul</malay> exactly <malay>aku nak salahkan</malay> wild boar <malay>tu macam mana kesian pula</malay> so this is exactly what we are <malay>ini macam</malay> frustration [lah] [kan]" 
+        intervals [252]:
+            xmin = 1558.12387 
+            xmax = 1560.36063 
+            text = "<malay>gatal</malay>" 
+        intervals [253]:
+            xmin = 1560.36063 
+            xmax = 1561.47635 
+            text = "<Z>" 
+        intervals [254]:
+            xmin = 1561.47635 
+            xmax = 1561.6047 
+            text = "<Z>" 
+        intervals [255]:
+            xmin = 1561.6047 
+            xmax = 1565.42446 
+            text = "no <malay>gatal kau tengok aku punya ni</malay> rashes <malay>tapi aku memang</malay> sensitive skin" 
+        intervals [256]:
+            xmin = 1565.42446 
+            xmax = 1567.1693 
+            text = "<Z>" 
+        intervals [257]:
+            xmin = 1567.1693 
+            xmax = 1570.02 
+            text = "<malay>kau</malay> (ppo) <malay>kulit kulit buaya</malay>" 
+        intervals [258]:
+            xmin = 1570.02 
+            xmax = 1571.99174 
+            text = "<Z>" 
+        intervals [259]:
+            xmin = 1571.99174 
+            xmax = 1575.8466 
+            text = "<malay>kau takde macam ni</malay> cover <malay>ni</malay> [kan] <malay>ni</malay> [kan]" 
+        intervals [260]:
+            xmin = 1575.8466 
+            xmax = 1580.68953 
+            text = "<Z>" 
+        intervals [261]:
+            xmin = 1580.68953 
+            xmax = 1581.14559 
+            text = "[ah]" 
+        intervals [262]:
+            xmin = 1581.14559 
+            xmax = 1594.82317 
+            text = "<Z>" 
+        intervals [263]:
+            xmin = 1594.82317 
+            xmax = 1596.30781 
+            text = "pythons also" 
+        intervals [264]:
+            xmin = 1596.30781 
+            xmax = 1600.49163 
+            text = "<Z>" 
+        intervals [265]:
+            xmin = 1600.49163 
+            xmax = 1601.67997 
+            text = "ACRES" 
+        intervals [266]:
+            xmin = 1601.67997 
+            xmax = 1602.62074 
+            text = "<Z>" 
+        intervals [267]:
+            xmin = 1602.62074 
+            xmax = 1611.46625 
+            text = "and also and also the wild boars ACRES ACRES why do have why do you have picture of the snails on your" 
+        intervals [268]:
+            xmin = 1611.46625 
+            xmax = 1613.49878 
+            text = "<Z>" 
+        intervals [269]:
+            xmin = 1613.49878 
+            xmax = 1614.81884 
+            text = "<malay>abeh ada tulis</malay> arab [ah]" 
+        intervals [270]:
+            xmin = 1614.81884 
+            xmax = 1616.69932 
+            text = "<Z>" 
+        intervals [271]:
+            xmin = 1616.69932 
+            xmax = 1618.16082 
+            text = "[oh] !wow!" 
+        intervals [272]:
+            xmin = 1618.16082 
+            xmax = 1634.24477 
+            text = "<Z>" 
+        intervals [273]:
+            xmin = 1634.24477 
+            xmax = 1635.04531 
+            text = "[ah]" 
+        intervals [274]:
+            xmin = 1635.04531 
+            xmax = 1638.55417 
+            text = "<Z>" 
+        intervals [275]:
+            xmin = 1638.55417 
+            xmax = 1640.26532 
+            text = "<malay>ni tak tak sangat</malay>" 
+        intervals [276]:
+            xmin = 1640.26532 
+            xmax = 1641.02254 
+            text = "<Z>" 
+        intervals [277]:
+            xmin = 1641.02254 
+            xmax = 1643.00034 
+            text = "[oh] they are all the same" 
+        intervals [278]:
+            xmin = 1643.00034 
+            xmax = 1667.07847 
+            text = "<Z>" 
+        intervals [279]:
+            xmin = 1667.07847 
+            xmax = 1727.16424 
+            text = "so what happens is (ppo) what happen is you call ACRES ACRES will take ACRES ACRES A C R E S they are the animal the wildlife the wildlife group in singapore like monkeys ACRES the wildlife they are in charge so they can come up and take the snake I mean as in they trap the snake and what they would do they would microchip and they would release back into the jungle ya so that the snake is (um) is tagged ya they do that they're tagged then they will release back into the jungle so it still goes back into the jungle exactly where are they going to go right so they go back into the jungle then eventually they have to come out of the jungle again (uh) so so it solves nothing it solves nothing you know" 
+        intervals [280]:
+            xmin = 1727.16424 
+            xmax = 1738.78 
+            text = "ya they they microchip them they have to tag it so that they know that this is the one we have done before we've helped before something like that cute [kan]" 
+        intervals [281]:
+            xmin = 1738.78 
+            xmax = 1757.08521 
+            text = "<Z>" 
+        intervals [282]:
+            xmin = 1757.08521 
+            xmax = 1758.65606 
+            text = "quite a few" 
+        intervals [283]:
+            xmin = 1758.65606 
+            xmax = 1771.06533 
+            text = "<Z>" 
+        intervals [284]:
+            xmin = 1771.06533 
+            xmax = 1773.80443 
+            text = "I don't like lizard" 
+        intervals [285]:
+            xmin = 1773.80443 
+            xmax = 1783.72748 
+            text = "<Z>" 
+        intervals [286]:
+            xmin = 1783.72748 
+            xmax = 1787.44218 
+            text = "ya !aww!" 
+        intervals [287]:
+            xmin = 1787.44218 
+            xmax = 1791.2807 
+            text = "<Z>" 
+        intervals [288]:
+            xmin = 1791.2807 
+            xmax = 1793.45738 
+            text = "is it [oh] so sweet" 
+        intervals [289]:
+            xmin = 1793.45738 
+            xmax = 1800.28408 
+            text = "<Z>" 
+        intervals [290]:
+            xmin = 1800.28408 
+            xmax = 1801.01045 
+            text = "ya" 
+        intervals [291]:
+            xmin = 1801.01045 
+            xmax = 1819.38159 
+            text = "<Z>" 
+        intervals [292]:
+            xmin = 1819.38159 
+            xmax = 1823.35166 
+            text = "!aww! bless her !aww! ya" 
+        intervals [293]:
+            xmin = 1823.35166 
+            xmax = 1829.80713 
+            text = "<Z>" 
+        intervals [294]:
+            xmin = 1829.80713 
+            xmax = 1832.08924 
+            text = "<malay>kena saman</malay> there's no such thing" 
+        intervals [295]:
+            xmin = 1832.08924 
+            xmax = 1835.80057 
+            text = "<Z>" 
+        intervals [296]:
+            xmin = 1835.80057 
+            xmax = 1839.81003 
+            text = "I don't know about the <malay>saman</malay> part I know you that you <malay>kena saman</malay> if you litter" 
+        intervals [297]:
+            xmin = 1839.81003 
+            xmax = 1840.48632 
+            text = "<Z>" 
+        intervals [298]:
+            xmin = 1840.48632 
+            xmax = 1848.58 
+            text = "that means you leave the food there and you walk away that one have but feeding I don't think so it's not illegal" 
+        intervals [299]:
+            xmin = 1848.58 
+            xmax = 1850.21111 
+            text = "<Z>" 
+        intervals [300]:
+            xmin = 1850.21111 
+            xmax = 1851.15689 
+            text = "right" 
+        intervals [301]:
+            xmin = 1851.15689 
+            xmax = 1862.96561 
+            text = "<Z>" 
+        intervals [302]:
+            xmin = 1862.96561 
+            xmax = 1864.36176 
+            text = "ya" 
+        intervals [303]:
+            xmin = 1864.36176 
+            xmax = 1865.36418 
+            text = "<Z>" 
+        intervals [304]:
+            xmin = 1865.36418 
+            xmax = 1869.82246 
+            text = "ya that one we tell people not to do" 
+        intervals [305]:
+            xmin = 1869.82246 
+            xmax = 1870.38365 
+            text = "<Z>" 
+        intervals [306]:
+            xmin = 1870.38365 
+            xmax = 1879.08197 
+            text = "we tell people don't put up food water because the dengue and then N_E_A particularly doesn't like that because N_E_A dengue <malay>apa</malay>" 
+        intervals [307]:
+            xmin = 1879.08197 
+            xmax = 1880.76024 
+            text = "<Z>" 
+        intervals [308]:
+            xmin = 1880.76024 
+            xmax = 1889.02209 
+            text = "national environmental agency N_E_A they are the ones in charge of dengue dengue mosquito breeding all of that and the environment [lah]" 
+        intervals [309]:
+            xmin = 1889.02209 
+            xmax = 1902.77153 
+            text = "so water ya it's it's very tough water food you are supposed to feed the cat stay there I mean and then clear you're supposed to clear your feeding you have two hours to clear" 
+        intervals [310]:
+            xmin = 1902.77153 
+            xmax = 1906.16188 
+            text = "<Z>" 
+        intervals [311]:
+            xmin = 1906.16188 
+            xmax = 1906.19 
+            text = "<Z>" 
+        intervals [312]:
+            xmin = 1906.19 
+            xmax = 1910.77605 
+            text = "you can get ya if someone catches you you can get fined" 
+        intervals [313]:
+            xmin = 1910.77605 
+            xmax = 1910.83657 
+            text = "<Z>" 
+        intervals [314]:
+            xmin = 1910.83657 
+            xmax = 1915.5461 
+            text = "everybody if somebody reports you can end the N_E_A ya you can you can get" 
+        intervals [315]:
+            xmin = 1915.5461 
+            xmax = 1926.30331 
+            text = "for example if you feed right and then just in case N_E_A happens to walk past then you #kena# fine [lah] or somebody reports you or what ya you can ya" 
+        intervals [316]:
+            xmin = 1926.30331 
+            xmax = 1930.08647 
+            text = "<Z>" 
+        intervals [317]:
+            xmin = 1930.08647 
+            xmax = 1933.36003 
+            text = "no littering" 
+        intervals [318]:
+            xmin = 1933.36003 
+            xmax = 1937.55499 
+            text = "you have to clear the food within two hours" 
+        intervals [319]:
+            xmin = 1937.55499 
+            xmax = 1941.11249 
+            text = "<Z>" 
+        intervals [320]:
+            xmin = 1941.11249 
+            xmax = 1944.23017 
+            text = "you have to you have to okay you can feed" 
+        intervals [321]:
+            xmin = 1944.23017 
+            xmax = 1947.36559 
+            text = "<Z>" 
+        intervals [322]:
+            xmin = 1947.36559 
+            xmax = 1956.2198 
+            text = "(uh) okay for example I feed I feed the cat the cat is here I'll feed the cat I put the food down all right I cannot go home" 
+        intervals [323]:
+            xmin = 1956.2198 
+            xmax = 1959.21277 
+            text = "okay I cannot go home [kan]" 
+        intervals [324]:
+            xmin = 1959.21277 
+            xmax = 1960.5222 
+            text = "<Z>" 
+        intervals [325]:
+            xmin = 1960.5222 
+            xmax = 1963.1727 
+            text = "you don't have to necessarily sit there and watch" 
+        intervals [326]:
+            xmin = 1963.1727 
+            xmax = 1970.68631 
+            text = "but you have to you go you can go and feed more cats then you come back and within two hours you clear this is what we mean by within two hours" 
+        intervals [327]:
+            xmin = 1970.68631 
+            xmax = 1979.94342 
+            text = "so at the end of the day within the two hours you come back and you clear [lah] some people of course they choose to just sit there okay and then go" 
+        intervals [328]:
+            xmin = 1979.94342 
+            xmax = 1990.93227 
+            text = "you know they because they have they have a certain route right okay block this block I feed three cats eat eat eat feed feed feed feed <malay>makan makan makan</malay> [ah] <malay>dah habis</malay> okay bye bye clear" 
+        intervals [329]:
+            xmin = 1990.93227 
+            xmax = 2006.29 
+            text = "and then I go to the next block some people do that or some feeders they will just from one block X they walk to they leave the food then they go to block Y Z then they <malay>balik</malay> then <malay>patah balik dia orang patah balik</malay> then clear [lah]" 
+        intervals [330]:
+            xmin = 2006.29 
+            xmax = 2009.42394 
+            text = "that's what we mean by two hours" 
+        intervals [331]:
+            xmin = 2009.42394 
+            xmax = 2012.32098 
+            text = "<Z>" 
+        intervals [332]:
+            xmin = 2012.32098 
+            xmax = 2012.34 
+            text = "<Z>" 
+        intervals [333]:
+            xmin = 2012.34 
+            xmax = 2014.72159 
+            text = "must clear the cat food yes" 
+        intervals [334]:
+            xmin = 2014.72159 
+            xmax = 2017.56 
+            text = "<malay>kalau tidak</malay> it is considered littering" 
+        intervals [335]:
+            xmin = 2017.56 
+            xmax = 2018.89928 
+            text = "<Z>" 
+        intervals [336]:
+            xmin = 2018.89928 
+            xmax = 2020.27106 
+            text = "yes" 
+        intervals [337]:
+            xmin = 2020.27106 
+            xmax = 2029.56486 
+            text = "all the cockroaches rats and all that ya so they don't want that so it's not illegal to feed but is you cannot litter" 
+        intervals [338]:
+            xmin = 2029.56486 
+            xmax = 2038.49053 
+            text = "which is to me is fair enough [lah] you know like we let you feed then you know because then the cats are hungry then they will go to hawker centres and bother people" 
+        intervals [339]:
+            xmin = 2038.49053 
+            xmax = 2044.74051 
+            text = "you know and then of course it's also a nice thing to be humane right the cats are going to be there they are going to be hungry anyways you might as well feed them" 
+        intervals [340]:
+            xmin = 2044.74051 
+            xmax = 2047.86706 
+            text = "<Z>" 
+        intervals [341]:
+            xmin = 2047.86706 
+            xmax = 2053.97384 
+            text = "at the end it's littering [lah] I don't know on the spot is a forty fifty I don't know" 
+        intervals [342]:
+            xmin = 2053.97384 
+            xmax = 2059.45644 
+            text = "<malay>entah</malay> littering [lah] whatever the charge is whatever the sum is hundred dollars I don't know" 
+        intervals [343]:
+            xmin = 2059.45644 
+            xmax = 2064.11014 
+            text = "whatever that is whatever the market rate is (ppl)" 
+        intervals [344]:
+            xmin = 2064.11014 
+            xmax = 2069.25 
+            text = "ya but that one is littering [lah]" 
+        intervals [345]:
+            xmin = 2069.25 
+            xmax = 2077.95362 
+            text = "ya so feeding is not illegal littering is so what we call it we call it (uh) we we tell people to be responsible feeders" 
+        intervals [346]:
+            xmin = 2077.95362 
+            xmax = 2081.93316 
+            text = "re~ they they responsible feeding is what they want" 
+        intervals [347]:
+            xmin = 2081.93316 
+            xmax = 2092.58752 
+            text = "and you can see signs posters you know at the lift no [lah] maybe not here [lah] but maybe other places you can see signs about responsible feeding" 
+        intervals [348]:
+            xmin = 2092.58752 
+            xmax = 2108.34 
+            text = "town councils town councils (um) cat welfare society ya ya usually cat welfare society collaborate with town council and they put a sign [lah] <malay>dekat kat</malay> lift landing you know (uh) please keep clear within two hours <malay>macam gitu macam</malay> posters" 
+        intervals [349]:
+            xmin = 2108.34 
+            xmax = 2115.07005 
+            text = "which is good [lah] to remind people you know kind of like that [kan]" 
+        intervals [350]:
+            xmin = 2115.07005 
+            xmax = 2122.55871 
+            text = "<Z>" 
+        intervals [351]:
+            xmin = 2122.55871 
+            xmax = 2123.85 
+            text = "<malay>bagus</malay> [lah]" 
+        intervals [352]:
+            xmin = 2123.85 
+            xmax = 2131.74507 
+            text = "<Z>" 
+        intervals [353]:
+            xmin = 2131.74507 
+            xmax = 2135.48629 
+            text = "block <malay>mana</malay> this block this block" 
+        intervals [354]:
+            xmin = 2135.48629 
+            xmax = 2157.56382 
+            text = "<Z>" 
+        intervals [355]:
+            xmin = 2157.56382 
+            xmax = 2159.77171 
+            text = "[ah]" 
+        intervals [356]:
+            xmin = 2159.77171 
+            xmax = 2161.57816 
+            text = "<Z>" 
+        intervals [357]:
+            xmin = 2161.57816 
+            xmax = 2163.91986 
+            text = "<malay>kasih makan</malay>" 
+        intervals [358]:
+            xmin = 2163.91986 
+            xmax = 2168.25172 
+            text = "(ppl)" 
+        intervals [359]:
+            xmin = 2168.25172 
+            xmax = 2182.6714 
+            text = "<Z>" 
+        intervals [360]:
+            xmin = 2182.6714 
+            xmax = 2184.33241 
+            text = "[oh] my goodness" 
+        intervals [361]:
+            xmin = 2184.33241 
+            xmax = 2192.03743 
+            text = "<Z>" 
+        intervals [362]:
+            xmin = 2192.03743 
+            xmax = 2193.28802 
+            text = "they are copy cats" 
+        intervals [363]:
+            xmin = 2193.28802 
+            xmax = 2196.94715 
+            text = "<Z>" 
+        intervals [364]:
+            xmin = 2196.94715 
+            xmax = 2203.82075 
+            text = "ya [lah] that's called district cats [lah] they're called community cats we call them (ppl)" 
+        intervals [365]:
+            xmin = 2203.82075 
+            xmax = 2208.06454 
+            text = "<Z>" 
+        intervals [366]:
+            xmin = 2208.06454 
+            xmax = 2209.32038 
+            text = "a pet cat" 
+        intervals [367]:
+            xmin = 2209.32038 
+            xmax = 2209.70679 
+            text = "<Z>" 
+        intervals [368]:
+            xmin = 2209.70679 
+            xmax = 2213.61922 
+            text = "a pet cat some pet cats probably don't get" 
+        intervals [369]:
+            xmin = 2213.61922 
+            xmax = 2218.40525 
+            text = "<Z>" 
+        intervals [370]:
+            xmin = 2218.40525 
+            xmax = 2219.29666 
+            text = "ya" 
+        intervals [371]:
+            xmin = 2219.29666 
+            xmax = 2221.89337 
+            text = "<Z>" 
+        intervals [372]:
+            xmin = 2221.89337 
+            xmax = 2224.25755 
+            text = "ya it's their it's their joint" 
+        intervals [373]:
+            xmin = 2224.25755 
+            xmax = 2225.21275 
+            text = "<Z>" 
+        intervals [374]:
+            xmin = 2225.21275 
+            xmax = 2226.18168 
+            text = "it's their joy" 
+        intervals [375]:
+            xmin = 2226.18168 
+            xmax = 2228.09179 
+            text = "<Z>" 
+        intervals [376]:
+            xmin = 2228.09179 
+            xmax = 2229.2545 
+            text = "I know" 
+        intervals [377]:
+            xmin = 2229.2545 
+            xmax = 2237.22113 
+            text = "<Z>" 
+        intervals [378]:
+            xmin = 2237.22113 
+            xmax = 2238.61639 
+            text = "(mm)" 
+        intervals [379]:
+            xmin = 2238.61639 
+            xmax = 2239.66282 
+            text = "<Z>" 
+        intervals [380]:
+            xmin = 2239.66282 
+            xmax = 2240.20542 
+            text = "ya" 
+        intervals [381]:
+            xmin = 2240.20542 
+            xmax = 2242.06605 
+            text = "<Z>" 
+        intervals [382]:
+            xmin = 2242.06605 
+            xmax = 2242.6474 
+            text = "[ah]" 
+        intervals [383]:
+            xmin = 2242.6474 
+            xmax = 2246.38267 
+            text = "<Z>" 
+        intervals [384]:
+            xmin = 2246.38267 
+            xmax = 2248.39803 
+            text = "[ah] ya" 
+        intervals [385]:
+            xmin = 2248.39803 
+            xmax = 2251.65362 
+            text = "<Z>" 
+        intervals [386]:
+            xmin = 2251.65362 
+            xmax = 2252.6613 
+            text = "[eh]" 
+        intervals [387]:
+            xmin = 2252.6613 
+            xmax = 2257.04083 
+            text = "<Z>" 
+        intervals [388]:
+            xmin = 2257.04083 
+            xmax = 2258.04851 
+            text = "(mm)" 
+        intervals [389]:
+            xmin = 2258.04851 
+            xmax = 2259.30186 
+            text = "<Z>" 
+        intervals [390]:
+            xmin = 2259.30186 
+            xmax = 2260.06388 
+            text = "<Z>" 
+        intervals [391]:
+            xmin = 2260.06388 
+            xmax = 2263.4727 
+            text = "because so much traffic [eh]" 
+        intervals [392]:
+            xmin = 2263.4727 
+            xmax = 2279.64096 
+            text = "<Z>" 
+        intervals [393]:
+            xmin = 2279.64096 
+            xmax = 2280.7449 
+            text = "<malay>kesian</malay> [kan]" 
+        intervals [394]:
+            xmin = 2280.7449 
+            xmax = 2286.95489 
+            text = "<Z>" 
+        intervals [395]:
+            xmin = 2286.95489 
+            xmax = 2291.51602 
+            text = "<malay>macam</malay> back to <malay>macam</malay> back to nature [eh]" 
+        intervals [396]:
+            xmin = 2291.51602 
+            xmax = 2299.22891 
+            text = "<Z>" 
+        intervals [397]:
+            xmin = 2299.22891 
+            xmax = 2300.35165 
+            text = "(mm)" 
+        intervals [398]:
+            xmin = 2300.35165 
+            xmax = 2304.8426 
+            text = "<Z>" 
+        intervals [399]:
+            xmin = 2304.8426 
+            xmax = 2305.54432 
+            text = "ya" 
+        intervals [400]:
+            xmin = 2305.54432 
+            xmax = 2310.07892 
+            text = "<Z>" 
+        intervals [401]:
+            xmin = 2310.07892 
+            xmax = 2310.78789 
+            text = "(mm)" 
+        intervals [402]:
+            xmin = 2310.78789 
+            xmax = 2324.69604 
+            text = "<Z>" 
+        intervals [403]:
+            xmin = 2324.69604 
+            xmax = 2325.63752 
+            text = "(mm)" 
+        intervals [404]:
+            xmin = 2325.63752 
+            xmax = 2329.23758 
+            text = "<Z>" 
+        intervals [405]:
+            xmin = 2329.23758 
+            xmax = 2333.05303 
+            text = "scout does I thought <malay>dia bawa kawan dia</malay>" 
+        intervals [406]:
+            xmin = 2333.05303 
+            xmax = 2335.33239 
+            text = "<Z>" 
+        intervals [407]:
+            xmin = 2335.33239 
+            xmax = 2338.70187 
+            text = "(mm) ya" 
+        intervals [408]:
+            xmin = 2338.70187 
+            xmax = 2340.18841 
+            text = "<Z>" 
+        intervals [409]:
+            xmin = 2340.18841 
+            xmax = 2346.53097 
+            text = "<malay>ni depan ni</malay> [eh]" 
+        intervals [410]:
+            xmin = 2346.53097 
+            xmax = 2350.50815 
+            text = "but it's quite safe [what] this this tree" 
+        intervals [411]:
+            xmin = 2350.50815 
+            xmax = 2357.05799 
+            text = "<Z>" 
+        intervals [412]:
+            xmin = 2357.05799 
+            xmax = 2358.01317 
+            text = "traffic" 
+        intervals [413]:
+            xmin = 2358.01317 
+            xmax = 2366.32878 
+            text = "<Z>" 
+        intervals [414]:
+            xmin = 2366.32878 
+            xmax = 2368.84438 
+            text = "(uh) ya" 
+        intervals [415]:
+            xmin = 2368.84438 
+            xmax = 2370.16 
+            text = "[ah]" 
+        intervals [416]:
+            xmin = 2370.16 
+            xmax = 2373.59156 
+            text = "<Z>" 
+        intervals [417]:
+            xmin = 2373.59156 
+            xmax = 2374.11903 
+            text = "okay" 
+        intervals [418]:
+            xmin = 2374.11903 
+            xmax = 2378.50104 
+            text = "<Z>" 
+        intervals [419]:
+            xmin = 2378.50104 
+            xmax = 2379.39367 
+            text = "ya" 
+        intervals [420]:
+            xmin = 2379.39367 
+            xmax = 2382.26787 
+            text = "<Z>" 
+        intervals [421]:
+            xmin = 2382.26787 
+            xmax = 2382.71419 
+            text = "[ah]" 
+        intervals [422]:
+            xmin = 2382.71419 
+            xmax = 2387.00736 
+            text = "<Z>" 
+        intervals [423]:
+            xmin = 2387.00736 
+            xmax = 2388.73536 
+            text = "ya" 
+        intervals [424]:
+            xmin = 2388.73536 
+            xmax = 2404.46196 
+            text = "<Z>" 
+        intervals [425]:
+            xmin = 2404.46196 
+            xmax = 2415.52934 
+            text = "<Z>" 
+        intervals [426]:
+            xmin = 2415.52934 
+            xmax = 2416.8457 
+            text = "<malay>kesian</malay> [eh]" 
+        intervals [427]:
+            xmin = 2416.8457 
+            xmax = 2421.3 
+            text = "<Z>" 
+        intervals [428]:
+            xmin = 2421.3 
+            xmax = 2428.11847 
+            text = "<Z>" 
+        intervals [429]:
+            xmin = 2428.11847 
+            xmax = 2429.82962 
+            text = "back to their refuge [lah]" 
+        intervals [430]:
+            xmin = 2429.82962 
+            xmax = 2430.05403 
+            text = "<Z>" 
+        intervals [431]:
+            xmin = 2430.05403 
+            xmax = 2430.38215 
+            text = "<Z>" 
+        intervals [432]:
+            xmin = 2430.38215 
+            xmax = 2433.46321 
+            text = "away from all the <malay>orang-orang</malay>" 
+        intervals [433]:
+            xmin = 2433.46321 
+            xmax = 2441.51967 
+            text = "<Z>" 
+        intervals [434]:
+            xmin = 2441.51967 
+            xmax = 2443.55386 
+            text = "ya [eh] <malay>masa</malay>" 
+        intervals [435]:
+            xmin = 2443.55386 
+            xmax = 2455.13 
+            text = "<malay>macam</malay> what <malay>bila aku dekat</malay> (uh) botanic gardens <malay>aku kerja kat situ</malay> [oh] my god the otters came all the time and they were huge my god they are like" 
+        intervals [436]:
+            xmin = 2455.13 
+            xmax = 2460.32293 
+            text = "<Z>" 
+        intervals [437]:
+            xmin = 2460.32293 
+            xmax = 2477.66836 
+            text = "[oh] they have a certain route all my colleagues will go off first at ten o'clock they will be here and then after that you can find them <malay>dia orang macam ada</malay> very designated they like know where to go first first then second twelve o'clock you will see them there is like" 
+        intervals [438]:
+            xmin = 2477.66836 
+            xmax = 2490.43223 
+            text = "people who work there know where these fellas go (uh) their time table their schedule like ya at ten o'clock they will be here but later they will go that way that way [oh] then by twelve o'clock they will be at that pond" 
+        intervals [439]:
+            xmin = 2490.43223 
+            xmax = 2501.36549 
+            text = "(uh) so funny and it's true right they would go almost every (uh) almost everyday" 
+        intervals [440]:
+            xmin = 2501.36549 
+            xmax = 2516.60953 
+            text = "(uh) I guess because botanic gardens [kan] <malay>ada</malay> lakes [kan] <malay>ada</malay> lakes <malay>ada</malay> eco lake swan lake and all the <malay>macam</malay> the stream stream stream and you know botanic gardens" 
+        intervals [441]:
+            xmin = 2516.60953 
+            xmax = 2549.37176 
+            text = "I guess is connected to the I I don't I don't know where I mean I don't botanic gardens then connected to where [ah] the drains [ah] does it go to I don't know (uh) so anyways they were at the botanic gardens almost a lot I see them twice still the same ya but no when I was there there were also people but (uh) it's just you know the thing about botanic gardens is that although it is busy it's a refuge because" 
+        intervals [442]:
+            xmin = 2549.37176 
+            xmax = 2575.43176 
+            text = "the the the park rangers make sure that the animals don't get disturbed you know so (uh) when there are otters we tell people me when I was located you know like me when I was located no please please stay aside you know make sure ya we basically monitored people's behaviours so (uh) the the we were policing the people for the otters the otters I guess felt safe <malay>macam ada</malay> bodyguard" 
+        intervals [443]:
+            xmin = 2575.43176 
+            xmax = 2580.92796 
+            text = "(uh) so I guess I guess in the botanic gardens the otters would feel safe despite" 
+        intervals [444]:
+            xmin = 2580.92796 
+            xmax = 2604.55647 
+            text = "the number of people and visitors ya because it's a you know there are very strict laws right in the botanic gardens you cannot pluck the flowers you cannot pluck anything you cannot touch the animals so because of the set of rules (uh) I guess you know the the otter felt safe [lah]" 
+        intervals [445]:
+            xmin = 2604.55647 
+            xmax = 2623.49051 
+            text = "ya <malay>dah macam</malay> they were protected ya which is a nice thing you know and but it's so nice to see them they were so cute huge though [oh] my god the biggest one I swear I swear it was like that I was like (ppo) when I saw I was like my god it's huge ya they're very big" 
+        intervals [446]:
+            xmin = 2623.49051 
+            xmax = 2626.31435 
+            text = "<Z>" 
+        intervals [447]:
+            xmin = 2626.31435 
+            xmax = 2628.15197 
+            text = "<malay>mana ada longkang</malay>" 
+        intervals [448]:
+            xmin = 2628.15197 
+            xmax = 2629.32994 
+            text = "<Z>" 
+        intervals [449]:
+            xmin = 2629.32994 
+            xmax = 2629.94248 
+            text = "[oh]" 
+        intervals [450]:
+            xmin = 2629.94248 
+            xmax = 2630.46078 
+            text = "<Z>" 
+        intervals [451]:
+            xmin = 2630.46078 
+            xmax = 2633.90044 
+            text = "you know there are a few families [ah] apparently" 
+        intervals [452]:
+            xmin = 2633.90044 
+            xmax = 2642.6645 
+            text = "because singapore there are a few a few families of otters they're not no they're few families <malay>dia macam</malay> different clans" 
+        intervals [453]:
+            xmin = 2642.6645 
+            xmax = 2643.06025 
+            text = "<Z>" 
+        intervals [454]:
+            xmin = 2643.06025 
+            xmax = 2644.44452 
+            text = "otter cla~" 
+        intervals [455]:
+            xmin = 2644.44452 
+            xmax = 2647.74788 
+            text = "<Z>" 
+        intervals [456]:
+            xmin = 2647.74788 
+            xmax = 2661.19034 
+            text = "are you cray cray are you kidding me they are different ya there are different families <malay>macam</malay> different hello <malay>macam macam</malay> tigers [kan] lions [kan] <malay>ada</malay> different pride" 
+        intervals [457]:
+            xmin = 2661.19034 
+            xmax = 2677.46097 
+            text = "<malay>sini ada</malay> so they have the #kallang# clan the #kallang# one which is like the the family that lives ya !alah! <malay>kau baca</malay> [lah] <malay>dalam surat khabar</malay> you know the otter city the otter the otters are being watched by their fan club" 
+        intervals [458]:
+            xmin = 2677.46097 
+            xmax = 2679.00353 
+            text = "<Z>" 
+        intervals [459]:
+            xmin = 2679.00353 
+            xmax = 2681.30568 
+            text = "there is a fan club [ah]" 
+        intervals [460]:
+            xmin = 2681.30568 
+            xmax = 2687.29347 
+            text = "<Z>" 
+        intervals [461]:
+            xmin = 2687.29347 
+            xmax = 2692.85809 
+            text = "okay when I say fan club means the people who are watching they love the otters they are the" 
+        intervals [462]:
+            xmin = 2692.85809 
+            xmax = 2695.19317 
+            text = "they they monitor the otter activity" 
+        intervals [463]:
+            xmin = 2695.19317 
+            xmax = 2697.32908 
+            text = "<Z>" 
+        intervals [464]:
+            xmin = 2697.32908 
+            xmax = 2700.31173 
+            text = "ya they are <malay>macam</malay> [a'ah] they <malay>macam</malay> the hobbies <malay>gitu</malay>" 
+        intervals [465]:
+            xmin = 2700.31173 
+            xmax = 2703.25512 
+            text = "<Z>" 
+        intervals [466]:
+            xmin = 2703.25512 
+            xmax = 2707.32816 
+            text = "[ah] yes they are watching the birds the ornitho~ [ah] okay yes <malay>macam gitu</malay>" 
+        intervals [467]:
+            xmin = 2707.32816 
+            xmax = 2710.42212 
+            text = "so they have the okay only the otter fan club [lah]" 
+        intervals [468]:
+            xmin = 2710.42212 
+            xmax = 2715.0008 
+            text = "so and they they are actually very knowledgeable they know [oh] this is the #kallang# clan" 
+        intervals [469]:
+            xmin = 2715.0008 
+            xmax = 2717.84732 
+            text = "so they have identified at least two families" 
+        intervals [470]:
+            xmin = 2717.84732 
+            xmax = 2719.72053 
+            text = "two families which is" 
+        intervals [471]:
+            xmin = 2719.72053 
+            xmax = 2720.73639 
+            text = "<Z>" 
+        intervals [472]:
+            xmin = 2720.73639 
+            xmax = 2729.99182 
+            text = "<malay>mana</malay> ya !alah! of course [lah] they look the same <malay>mana</malay> [lah] <malay>aku tahu macam mana rupa dia orang</malay> but they are these these people are the experts right they they like okay that belongs to the #kallang# clan" 
+        intervals [473]:
+            xmin = 2729.99182 
+            xmax = 2735.61961 
+            text = "(uh) so the #kallang# clan otters are the ones that hang out in the #kallang# area <malay>dia macam</malay> territorial [lah]" 
+        intervals [474]:
+            xmin = 2735.61961 
+            xmax = 2739.12222 
+            text = "this is their territory [oh] then there's another clan which is" 
+        intervals [475]:
+            xmin = 2739.12222 
+            xmax = 2744.79448 
+            text = "somewhere else not #kallang# so that is the one so they have different families [lah] all clans" 
+        intervals [476]:
+            xmin = 2744.79448 
+            xmax = 2745.78962 
+            text = "<Z>" 
+        intervals [477]:
+            xmin = 2745.78962 
+            xmax = 2747.91134 
+            text = "maybe another clan !huh!" 
+        intervals [478]:
+            xmin = 2747.91134 
+            xmax = 2750.28264 
+            text = "<Z>" 
+        intervals [479]:
+            xmin = 2750.28264 
+            xmax = 2756.02167 
+            text = "maybe they are another clan but then again you know <malay>yang dekat yang dekat</malay> #kallang# <malay>tu</malay> !wah! I tell you" 
+        intervals [480]:
+            xmin = 2756.02167 
+            xmax = 2760.7951 
+            text = "(uh) or the ones <malay>yang pergi</malay> C_B_D <malay>kau tak baca dia masuk kat</malay> C_B_D" 
+        intervals [481]:
+            xmin = 2760.7951 
+            xmax = 2766.78122 
+            text = "<Z>" 
+        intervals [482]:
+            xmin = 2766.78122 
+            xmax = 2770.48069 
+            text = "[ah] <malay>gitu dengan</malay> C_B_D <malay>tu</malay> that one is one clan know" 
+        intervals [483]:
+            xmin = 2770.48069 
+            xmax = 2778.04 
+            text = "[ah] [ah] so they are very well fed they are you know they are very clever lots of fish" 
+        intervals [484]:
+            xmin = 2778.04 
+            xmax = 2781.39801 
+            text = "ya [eh] <malay>dekat</malay> #bishan# park #bishan# park <malay>pun ada</malay> [tau]" 
+        intervals [485]:
+            xmin = 2781.39801 
+            xmax = 2798.60575 
+            text = "<Z>" 
+        intervals [486]:
+            xmin = 2798.60575 
+            xmax = 2801.82719 
+            text = "<Z>" 
+        intervals [487]:
+            xmin = 2801.82719 
+            xmax = 2805.75671 
+            text = "I don't think they look for other clans" 
+        intervals [488]:
+            xmin = 2805.75671 
+            xmax = 2815.49621 
+            text = "(um) when they I I I don't think I think is like when I say #kallang# clan is like is like this is their territory" 
+        intervals [489]:
+            xmin = 2815.49621 
+            xmax = 2823.72031 
+            text = "you know <malay>macam</malay> they have a certain it's just like cats and dogs and lions and all that this is their roaming this is their range" 
+        intervals [490]:
+            xmin = 2823.72031 
+            xmax = 2828.30579 
+            text = "their roaming range is this is their range you know cats are like that" 
+        intervals [491]:
+            xmin = 2828.30579 
+            xmax = 2838.62865 
+            text = "so for example if your cat is in this block he's he can range from this block to a few blocks [ah] this is their range so I'm sure they have the same" 
+        intervals [492]:
+            xmin = 2838.62865 
+            xmax = 2842.07744 
+            text = "(uh) this is their territory <malay>kau masuk dalam</malay> territory <malay>dia orang boleh bergaduh</malay>" 
+        intervals [493]:
+            xmin = 2842.07744 
+            xmax = 2844.1457 
+            text = "<Z>" 
+        intervals [494]:
+            xmin = 2844.1457 
+            xmax = 2851.13424 
+            text = "I guess among themselves [lah] I guess but they're very they're very they're very family oriented" 
+        intervals [495]:
+            xmin = 2851.13424 
+            xmax = 2860.63801 
+            text = "<malay>dia orang bukan macam</malay> (um) some canines some felines <malay>yang</malay> after a while they have to separate you know so I don't think so that's why you call it a family great technique family" 
+        intervals [496]:
+            xmin = 2860.63801 
+            xmax = 2865.96561 
+            text = "so they can see the babies and all that and if fact a few died actually because one got caught" 
+        intervals [497]:
+            xmin = 2865.96561 
+            xmax = 2874.00164 
+            text = "the angler hook !aiyo! so sad [ah] I think that was one was near (uh)" 
+        intervals [498]:
+            xmin = 2874.00164 
+            xmax = 2877.4656 
+            text = "(uh) one of the (um)" 
+        intervals [499]:
+            xmin = 2877.4656 
+            xmax = 2883.05076 
+            text = "I think (uh) <malay>tempat</malay> fishing <malay>punya</malay> people who are not allowed to fish but they still fish there" 
+        intervals [500]:
+            xmin = 2883.05076 
+            xmax = 2891.60439 
+            text = "I think #kallang# I think one of the anglers one of them the babies got stuck the hook <malay>mati</malay> [tau] so sad" 
+        intervals [501]:
+            xmin = 2891.60439 
+            xmax = 2893.59764 
+            text = "<Z>" 
+        intervals [502]:
+            xmin = 2893.59764 
+            xmax = 2899.84 
+            text = "so they have a few I'm not kidding about the clan I may have okay I call it clans I don't think it's called clan but you know what I mean" 
+        intervals [503]:
+            xmin = 2899.84 
+            xmax = 2899.8634 
+            text = "<Z>" 
+        intervals [504]:
+            xmin = 2899.8634 
+            xmax = 2903.67608 
+            text = "the fami~ the family ya" 
+        intervals [505]:
+            xmin = 2903.67608 
+            xmax = 2911.35708 
+            text = "ya they do there there are a few at least two or three what I I remember in the news [lah] okay so what I remember in the news" 
+        intervals [506]:
+            xmin = 2911.35708 
+            xmax = 2915.09586 
+            text = "<Z>" 
+        intervals [507]:
+            xmin = 2915.09586 
+            xmax = 2928.75161 
+            text = "they <malay>macam</malay> they go to their <malay>mana aku tahu dia orang pergi mana</malay> but they have their own spare trait [lah] <malay>kalau kau macam pergi dekat</malay> #kallang# river side I'm sure there is you can see them I told you botanic gardens they do botanic gardens" 
+        intervals [508]:
+            xmin = 2928.75161 
+            xmax = 2932.49692 
+            text = "<Z>" 
+        intervals [509]:
+            xmin = 2932.49692 
+            xmax = 2933.19372 
+            text = "(um)" 
+        intervals [510]:
+            xmin = 2933.19372 
+            xmax = 2934.20988 
+            text = "<Z>" 
+        intervals [511]:
+            xmin = 2934.20988 
+            xmax = 2935.57445 
+            text = "I don't know if they live there" 
+        intervals [512]:
+            xmin = 2935.57445 
+            xmax = 2940.91659 
+            text = "<Z>" 
+        intervals [513]:
+            xmin = 2940.91659 
+            xmax = 2944.18 
+            text = "<Z>" 
+        intervals [514]:
+            xmin = 2944.18 
+            xmax = 2963.75131 
+            text = "<Z>" 
+        intervals [515]:
+            xmin = 2963.75131 
+            xmax = 2971.29796 
+            text = "<Z>" 
+        intervals [516]:
+            xmin = 2971.29796 
+            xmax = 2973.62063 
+            text = "they don't they don't they roam" 
+        intervals [517]:
+            xmin = 2973.62063 
+            xmax = 2978.67243 
+            text = "they roam they'll rove they rove (um) they" 
+        intervals [518]:
+            xmin = 2978.67243 
+            xmax = 2981.98 
+            text = "<Z>" 
+        intervals [519]:
+            xmin = 2981.98 
+            xmax = 2986.69456 
+            text = "<Z>" 
+        intervals [520]:
+            xmin = 2986.69456 
+            xmax = 2992.96577 
+            text = "<Z>" 
+        intervals [521]:
+            xmin = 2992.96577 
+            xmax = 3009.46229 
+            text = "they might not they might not be the same clan because it's a bit far (um) the botanic gardens might be the same one as the maybe ya I don't know you know I don't know they don't just when they when they they don't just live in the botanic gardens it's one of their hangouts [lah]" 
+        intervals [522]:
+            xmin = 3009.46229 
+            xmax = 3011.73336 
+            text = "one of their hangouts you know [ah]" 
+        intervals [523]:
+            xmin = 3011.73336 
+            xmax = 3025.04 
+            text = "<Z>" 
+        intervals [524]:
+            xmin = 3025.04 
+            xmax = 3036.77068 
+            text = "<Z>" 
+        intervals [525]:
+            xmin = 3036.77068 
+            xmax = 3038.22452 
+            text = "ya ya ya" 
+        intervals [526]:
+            xmin = 3038.22452 
+            xmax = 3040.49615 
+            text = "<Z>" 
+        intervals [527]:
+            xmin = 3040.49615 
+            xmax = 3042.81321 
+            text = "!wah! the otters right" 
+        intervals [528]:
+            xmin = 3042.81321 
+            xmax = 3046.19415 
+            text = "<Z>" 
+        intervals [529]:
+            xmin = 3046.19415 
+            xmax = 3052.61891 
+            text = "<Z>" 
+        intervals [530]:
+            xmin = 3052.61891 
+            xmax = 3054.00531 
+            text = "cute right" 
+        intervals [531]:
+            xmin = 3054.00531 
+            xmax = 3064.52999 
+            text = "<Z>" 
+        intervals [532]:
+            xmin = 3064.52999 
+            xmax = 3068.18842 
+            text = "<Z>" 
+        intervals [533]:
+            xmin = 3068.18842 
+            xmax = 3069.43662 
+            text = "ya (uh)" 
+        intervals [534]:
+            xmin = 3069.43662 
+            xmax = 3074.16349 
+            text = "<Z>" 
+        intervals [535]:
+            xmin = 3074.16349 
+            xmax = 3076.78094 
+            text = "[eh] cute" 
+        intervals [536]:
+            xmin = 3076.78094 
+            xmax = 3085.61 
+            text = "<Z>" 
+        intervals [537]:
+            xmin = 3085.61 
+            xmax = 3094.02617 
+            text = "to be honest <malay>aku tak ingat sejak bila</malay> when is the first time they came out but otters <malay>ni tapi</malay> (uh)" 
+        intervals [538]:
+            xmin = 3094.02617 
+            xmax = 3099.86141 
+            text = "<Z>" 
+        intervals [539]:
+            xmin = 3099.86141 
+            xmax = 3119.30403 
+            text = "(uh) both <malay>apa ni</malay> (uh) I don't know I don't know I don't remember when exac~ <malay>aku nak kencing</malay> I don't remember exactly when I don't remember exactly <malay>apa apasal aku</malay> toilet what do you mean I come back [lah]" 
+        intervals [540]:
+            xmin = 3119.30403 
+            xmax = 3126.14831 
+            text = "ya <malay>cakap</malay> [jer] but I don't remember exactly when the otters (um)" 
+        intervals [541]:
+            xmin = 3126.14831 
+            xmax = 3134.2 
+            text = "<Z>" 
+        intervals [542]:
+            xmin = 3134.2 
+            xmax = 3146.63782 
+            text = "(uh) I don't remember exactly when the otters you know <malay>keluar</malay> but definitely at least (uh) you know five years I think" 
+        intervals [543]:
+            xmin = 3146.63782 
+            xmax = 3150.39959 
+            text = "<Z>" 
+        intervals [544]:
+            xmin = 3150.39959 
+            xmax = 3151.32522 
+            text = "<Z>" 
+        intervals [545]:
+            xmin = 3151.32522 
+            xmax = 3163.96703 
+            text = "<malay>bila bila aku</malay> start <malay>perasan ni</malay> [lah] when I first started you know noticed the news [ah] not noticed the orchards okay noticed the news" 
+        intervals [546]:
+            xmin = 3163.96703 
+            xmax = 3174.81623 
+            text = "<Z>" 
+        intervals [547]:
+            xmin = 3174.81623 
+            xmax = 3185.64043 
+            text = "ya but don't forget people are now becoming more aware of wildlife and all that no now" 
+        intervals [548]:
+            xmin = 3185.64043 
+            xmax = 3198.44 
+            text = "<Z>" 
+        intervals [549]:
+            xmin = 3198.44 
+            xmax = 3209.14671 
+            text = "<malay>masa kampung</malay> babe <malay>masa kampung-kampung dulu</malay> [kan] <malay>ada sungai-sungai</malay> otters <malay>nak pergi</malay> C_B_D <malay>nak buat apa sekarang</malay> they're all where are they going to go" 
+        intervals [550]:
+            xmin = 3209.14671 
+            xmax = 3214.28224 
+            text = "<Z>" 
+        intervals [551]:
+            xmin = 3214.28224 
+            xmax = 3215.65545 
+            text = "ya" 
+        intervals [552]:
+            xmin = 3215.65545 
+            xmax = 3218.48267 
+            text = "<Z>" 
+        intervals [553]:
+            xmin = 3218.48267 
+            xmax = 3221.87533 
+            text = "<malay>sama</malay> [lah] <malay>sama</malay> [lah]" 
+        intervals [554]:
+            xmin = 3221.87533 
+            xmax = 3226.56043 
+            text = "<Z>" 
+        intervals [555]:
+            xmin = 3226.56043 
+            xmax = 3247.72416 
+            text = "these people these okay these animals are native so when they started ya ya they are native they are you know also they're from we have mangrove <malay>apa dekat</malay> #sungei buloh# <malay>tu</malay> [kan] so I guess they decided to <malay>jalan keluar jauh sikit</malay> [lor]" 
+        intervals [556]:
+            xmin = 3247.72416 
+            xmax = 3248.20258 
+            text = "<Z>" 
+        intervals [557]:
+            xmin = 3248.20258 
+            xmax = 3249.5758 
+            text = "you know ya" 
+        intervals [558]:
+            xmin = 3249.5758 
+            xmax = 3255.12176 
+            text = "<Z>" 
+        intervals [559]:
+            xmin = 3255.12176 
+            xmax = 3296.04732 
+            text = "I think it's so refreshing n~ I don't think so no (uh) unless they are caught by ACRES but so far no they are not caught by ACRES they don't need to be caught by acres because I told you the fan the fan club they are very active and they know they go like (uh) in fact when you sometimes the news right they can they can say [oh] this the the the #kallang# clan they have had two new babies they actually can know and recognise like there are seven adults and two new babies the mother is pregnant we go like !wow! bloody hell how do they know I guess they know [lah] they're like super fans which is really nice" 
+        intervals [560]:
+            xmin = 3296.04732 
+            xmax = 3310.33921 
+            text = "nice to know right that you know there's this group of people who are just so so in tuned and they are like the the they are the they they walk they care for them it's really nice" 
+        intervals [561]:
+            xmin = 3310.33921 
+            xmax = 3314.75237 
+            text = "<Z>" 
+        intervals [562]:
+            xmin = 3314.75237 
+            xmax = 3333.79865 
+            text = "not care taking not care taking no no ya ya ya ya ya ya they are not it's not care taking but they care for them in the sense that they care for their welfare they will do (uh) they will do (um) <malay>macam</malay> awareness <malay>macam</malay> don't feed the otters do not go near them don't" 
+        intervals [563]:
+            xmin = 3333.79865 
+            xmax = 3355.76 
+            text = "you know if you see them stay away don't don't provoke don't <malay>apa apa</malay> you know so they do that sort of message they carry that sort of message but of course depending on the context [lah] these are otters so you know so when they say we say they care for them means they will like they know [oh] they come out at this time so they know their habits they know how many of them" 
+        intervals [564]:
+            xmin = 3355.76 
+            xmax = 3379.08 
+            text = "you know they might even have names I don't know ya so there's this group (uh) this you know quite a sizable number of their fan club that actually know them that knows them well well enough to know that this one belongs to this and there are like seven adults and two babies [meh] ya you know from a distance I guess they record which is <malay>kau tahu macam</malay>" 
+        intervals [565]:
+            xmin = 3379.08 
+            xmax = 3391.4166 
+            text = "<malay>macam</malay> orni~ <malay>macam</malay> the ornithologist <malay>yang tengok-tengok</malay> observe the birds and they will also all these these clans but they don't necessarily take care of them right in that sense" 
+        intervals [566]:
+            xmin = 3391.4166 
+            xmax = 3401.30568 
+            text = "you know not the caretaking type [lah] but ya they they the the otter watch group the otter watch group ya" 
+        intervals [567]:
+            xmin = 3401.30568 
+            xmax = 3410.08142 
+            text = "no no no" 
+        intervals [568]:
+            xmin = 3410.08142 
+            xmax = 3416.28395 
+            text = "I think the #ulars# maybe are not as I don't know maybe not as vulnerable and" 
+        intervals [569]:
+            xmin = 3416.28395 
+            xmax = 3423.75212 
+            text = "and well okay [lah] let's put it this way [lah] shallow as it as it may sound but not as cutesy you know" 
+        intervals [570]:
+            xmin = 3423.75212 
+            xmax = 3430.25124 
+            text = "as otters otters is becoming like a tourist tourist the attraction [tau]" 
+        intervals [571]:
+            xmin = 3430.25124 
+            xmax = 3449.01805 
+            text = "you know the otters in the city !wow! can you imagine you are at bloody C_B_D then otters that's like !wow! what a nice sight of course of course ya ya ya but you know ya because they are like <malay>macam</malay> unlikely sight" 
+        intervals [572]:
+            xmin = 3449.01805 
+            xmax = 3456.51803 
+            text = "but snakes and you know otters and snakes you know the the the whole perception of snakes being dangerous and all that" 
+        intervals [573]:
+            xmin = 3456.51803 
+            xmax = 3469.94888 
+            text = "so no [lah] they don't snakes no but snakes if they are caught if you sight a snake at the drain you call ACRES and then ACRES will come and trap and tag them and release them back into the forest" 
+        intervals [574]:
+            xmin = 3469.94888 
+            xmax = 3476.39391 
+            text = "they don't kill or anything like that that's why we call ACRES ACRES is good they are the wildlife" 
+        intervals [575]:
+            xmin = 3476.39391 
+            xmax = 3484.55177 
+            text = "<Z>" 
+        intervals [576]:
+            xmin = 3484.55177 
+            xmax = 3495.06033 
+            text = "[ah] then forget it then forget it the cases that ACRES have have caught were the snakes are still there" 
+        intervals [577]:
+            xmin = 3495.06033 
+            xmax = 3500.82992 
+            text = "<Z>" 
+        intervals [578]:
+            xmin = 3500.82992 
+            xmax = 3520.38061 
+            text = "ya <malay>mana</malay> ya pythons ya pythons and then they ate the cats and all that ya there's one there's one recently (uh) couple of two months ago maybe one snake over at <malay>entah</malay> #bukit merah# or what the snake ate the cat the com cat" 
+        intervals [579]:
+            xmin = 3520.38061 
+            xmax = 3531.43957 
+            text = "so we have had we have had cases where ACRES came in and then the snake and then the bulge it's a com cat it's a community cat" 
+        intervals [580]:
+            xmin = 3531.43957 
+            xmax = 3549.95309 
+            text = "ya all these com cats <malay>kat bawah</malay> it's the natural predator <malay>apa</malay> natural hello this is a cats snake hungry ya so they ate been a few cases where the cats ate the snakes is it com cat" 
+        intervals [581]:
+            xmin = 3549.95309 
+            xmax = 3555.42 
+            text = "<Z>" 
+        intervals [582]:
+            xmin = 3555.42 
+            xmax = 3566.37438 
+            text = "nothing just tag and take them nothing just don't kill the snake it's a it's just tag it and then just release [lah]" 
+        intervals [583]:
+            xmin = 3566.37438 
+            xmax = 3569.45433 
+            text = "<Z>" 
+        intervals [584]:
+            xmin = 3569.45433 
+            xmax = 3579.31018 
+            text = "go back to the forest I told you they release it back into the forest but this is where we when we back to our initial conversation where" 
+        intervals [585]:
+            xmin = 3579.31018 
+            xmax = 3586.85065 
+            text = "back they go back into the forest but eventually they will come out again" 
+        intervals [586]:
+            xmin = 3586.85065 
+            xmax = 3600 
+            text = "less and less what forest yes yes exactly so we are driving them out so the snakes are eating the com cats already quite a few com cats already <malay>mati</malay> because of these the snake <malay>pernah ada satu ga~ ada satu gambar ada satu gambar yang</malay> snake <malay>tu yang</malay> snake <malay>tu tengah</malay> com cat <malay>dekat depan dekat mak</malay> news [ah] snake com cat [ah]" 
