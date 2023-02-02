@@ -1,5 +1,5 @@
 # Normalizing and Translate English Data
-IMDA consists of data with several tags. So, if we directly input this data into a translator, translation produced is incorrect. 
+NSC consists of data with several tags. So, if we directly input this data into a translator, translation produced is incorrect. 
 ## Problems with English Data
 - Numbers present in sentence in the text form, when using our technique converts one number into malay and not other.
 Ex. 
@@ -12,12 +12,12 @@ This "eight" is a problem because in these kind of context people usually use on
 We need to normalize this data and then translate the english text to malay text for further use.
 
 ## Libraries
-### text2digits:
+### [text2digits](https://pypi.org/project/text2digits/):
     Library for Converting the number in text form to numeral form
 ### contractions:
     Library for expanding the short forms
 ### deep-translator:
-    Library using Google translate to convert English text to Malay
+    Library using Google translate API to translate between English and Malay
 
 ## Installations
 - pip install text2digits
