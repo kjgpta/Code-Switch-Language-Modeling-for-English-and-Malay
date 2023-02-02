@@ -3,8 +3,8 @@ NSC consists of data with several tags. So, if we directly input this data into 
 ## Problems with English Data
 - Numbers present in sentence in the text form, when using our technique converts one number into malay and not other.
 Example: 
-- English: My number is nine eight two three.
-- CS:      My number is sembilan eight dua tiga.
+-> English: My number is nine eight two three.
+-> CS:      My number is sembilan eight dua tiga.
 This "eight" is a problem because in these kind of context people usually use one language
 
 - When using Alignment tool, short forms like don't, you're, etc, these produce incorrect alignments.
