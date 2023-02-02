@@ -66,7 +66,7 @@ def data_cleanser(string):
         ar.append(word)
     return " ".join(ar)
         
-# Function to normalize the text file using the above functions
+# Function to normalize the text file using the above user defined functions
 def text_normalize(string):
     for k in list("!#$%&()*+-.:,;<=>@[]^_`{|}~"):
         string = string.replace(k,"")
