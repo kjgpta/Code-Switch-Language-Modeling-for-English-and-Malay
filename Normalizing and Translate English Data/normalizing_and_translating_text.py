@@ -1,16 +1,17 @@
-# Normalizing English Data
-
+# Importing the required libraries
 import contractions
 from text2digits import text2digits
 from deep_translator import GoogleTranslator
 
 t2d = text2digits.Text2Digits()
 
+# Reading the original english text file
 english_text = []
 with open('English.txt') as f:
     english_text = f.readlines()
 f.close()
 
+# Function to deal with the tags information
 def word_analyzer(word, tag):
     ar = ""
     tag2= tag
@@ -34,6 +35,7 @@ def word_analyzer(word, tag):
             ar = word[:-k]
     return ar
 
+# Function to clean the text file 
 def data_cleanser(string):
     words = string.split()
     ar = []
@@ -64,7 +66,7 @@ def data_cleanser(string):
         ar.append(word)
     return " ".join(ar)
         
-
+# Function to normalize the text file using the above functions
 def text_normalize(string):
     for k in list("!#$%&()*+-.:,;<=>@[]^_`{|}~"):
         string = string.replace(k,"")
@@ -116,6 +118,7 @@ def text_normalize(string):
 
     return t2d.convert(line)
 
+# Normalize the English text
 english_data = ""
 for i in range(len(english_text)):
     english_data += text_normalize(data_cleanser(english_text[i])) + "\n"
@@ -125,8 +128,7 @@ f1.write(english_data)
 f1.close()
 
 
-# Translating English Data
-
+# Translating Normalized English Data to Malay
 english_text = []
 with open('English_Normalized.txt') as f:
     english_text = f.readlines()
