@@ -1,11 +1,11 @@
 # Normalizing and Translate English Data
 NSC consists of data with several tags. So, if we directly input this data into a translator, translation produced is incorrect. 
 ## Problems with English Data
-- Numbers present in sentence in the text form, when using our technique converts one number into malay and not other.
-Example: 
--> English: My number is nine eight two three.
--> CS:      My number is sembilan eight dua tiga.
-This "eight" is a problem because in these kind of context people usually use one language
+- Numbers present in sentence in the text form, when using our technique converts one number into malay and not other.<br />
+Example: <br />
+-> English: My number is nine eight two three.<br />
+-> CS:      My number is sembilan eight dua tiga.<br />
+This "eight" is a problem because in these kind of context people usually use one language<br />
 
 - When using Alignment tool, short forms like don't, you're, etc, these produce incorrect alignments.
 
