@@ -14,7 +14,7 @@ To use the code and scripts in this repository, please follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kjgpta/NSC-Code-Switch-Analysis.git
+   git clone https://github.com/kjgpta/Code-Switch-Language-Modeling-for-English-and-Malay.git
    ```
 
 2. Install the required dependencies. You can use `pip`:
