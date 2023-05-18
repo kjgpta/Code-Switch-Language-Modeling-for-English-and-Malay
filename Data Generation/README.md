@@ -28,6 +28,9 @@ We collected results from our previous work on [NSC Code-Switching Analysis](htt
 ### Phrasewise Translation: 
 We loop through every word of a sentence and detect its POS and POS of its next word and also the language of the current word. Now, based on the language and POS of left and right word we gather the threshold and then we check if it is greater than our score and we extract all the phrases which we would and wouldn't translate and then translate it using [deep-translator](https://pypi.org/project/deep-translator/) and then combine them in the correct order.
 
+## Data
+
+The NSC dataset used in this project is not public and thus is not included in this repository. However, you can request IMDA Singapore to get the same. Once you have obtained the dataset, make sure to follow the preprocessing steps described in the repository to prepare the data for analysis.
 
 ## Usage
 This section describes how to use the code and scripts provided in this repository.
@@ -47,5 +50,7 @@ This section describes how to use the code and scripts provided in this reposito
 4. Denormalization of the Data:
 
    The `Denormalization.ipynb` contains python code for denormalizing the data. This includes converting the words back to numbers and expanding the contractions.
+
+
 
 **Those generated CS data can be found in *English_CS.txt* and *Malay_CS.txt*** 
