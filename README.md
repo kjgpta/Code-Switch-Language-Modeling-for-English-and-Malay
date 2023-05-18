@@ -43,6 +43,10 @@ Please refer to the individual directories for detailed instructions on how to r
 
 The NSC dataset used in this project is not public and thus is not included in this repository. However, you can request IMDA Singapore to get the same. Once you have obtained the dataset, make sure to follow the preprocessing steps described in the repository to prepare the data for analysis.
 
+## Acknowledgement
+This research is supported by the Ministry of Education, Singapore, under its Academic Research Fund Tier 2(MOE2019-T2-1-084). Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not reflect the views of Ministry of Education, Singapore.
+
+
 ## License
 
 This project is licensed under the [CC0-1.0 License](LICENSE).
