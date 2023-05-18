@@ -20,3 +20,6 @@ We loop through every word of a sentence and detect its POS and POS of its next 
 9. [NLTK](https://pypi.org/project/nltk/)
 10. [Pandas](https://pypi.org/project/pandas/)
 
+
+
+
