@@ -1,7 +1,7 @@
 # Code Switch Language Modeling for English and Malay
 Code-switching refers to the practice of alternating between two or more languages or dialects within a conversation or communication context. It is a common linguistic phenomenon observed in multilingual societies or among bilingual individuals. Code-switching can occur for various reasons, such as cultural identity, social group membership, or convenience.
 
-This repository contains code and resources for code-switched data generation and language modeling for the generated Code-Switched data. 
+This repository contains code and resources for code-switched data generation and language modeling for the generated Code-Switched data. This work has been published in the [Asian Conference on Intelligent Information and Database Systems 2023](https://aciids.pwr.edu.pl/2023/) which can be found [here](https://link.springer.com/chapter/10.1007/978-981-99-5837-5_26).
 
 ## Introduction
 
